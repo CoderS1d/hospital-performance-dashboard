@@ -1,0 +1,2237 @@
+Facility ID,Measure Name,Score,Compared to National
+000001,Surgical site infections (SSI) - Colon surgery,0.715,No Different
+000001,Clostridium difficile (C.diff) infections,0.601,Better
+000001,Surgical site infections (SSI) - Abdominal hysterectomy,0.878,No Different
+000001,Catheter-associated urinary tract infections (CAUTI),0.514,No Different
+000001,Methicillin-resistant Staphylococcus aureus (MRSA),0.1,No Different
+000001,Central line-associated bloodstream infections (CLABSI),0.293,No Different
+000002,Surgical site infections (SSI) - Colon surgery,0.846,Worse
+000002,Catheter-associated urinary tract infections (CAUTI),0.667,No Different
+000002,Central line-associated bloodstream infections (CLABSI),0.944,No Different
+000002,Clostridium difficile (C.diff) infections,0.713,Better
+000002,Surgical site infections (SSI) - Abdominal hysterectomy,0.769,Worse
+000002,Methicillin-resistant Staphylococcus aureus (MRSA),1.59,No Different
+000003,Central line-associated bloodstream infections (CLABSI),1.056,No Different
+000003,Surgical site infections (SSI) - Abdominal hysterectomy,1.344,Better
+000003,Catheter-associated urinary tract infections (CAUTI),1.008,No Different
+000004,Surgical site infections (SSI) - Abdominal hysterectomy,1.32,No Different
+000004,Central line-associated bloodstream infections (CLABSI),1.253,No Different
+000004,Clostridium difficile (C.diff) infections,1.135,Better
+000004,Catheter-associated urinary tract infections (CAUTI),1.037,No Different
+000004,Surgical site infections (SSI) - Colon surgery,1.117,Better
+000005,Clostridium difficile (C.diff) infections,0.707,No Different
+000005,Methicillin-resistant Staphylococcus aureus (MRSA),0.826,No Different
+000005,Surgical site infections (SSI) - Colon surgery,0.536,Better
+000005,Catheter-associated urinary tract infections (CAUTI),0.35,No Different
+000005,Surgical site infections (SSI) - Abdominal hysterectomy,0.373,No Different
+000006,Surgical site infections (SSI) - Abdominal hysterectomy,1.097,No Different
+000006,Clostridium difficile (C.diff) infections,0.869,No Different
+000006,Surgical site infections (SSI) - Colon surgery,1.004,No Different
+000006,Catheter-associated urinary tract infections (CAUTI),0.916,No Different
+000007,Surgical site infections (SSI) - Colon surgery,0.856,Worse
+000007,Clostridium difficile (C.diff) infections,0.869,No Different
+000007,Methicillin-resistant Staphylococcus aureus (MRSA),0.296,No Different
+000008,Clostridium difficile (C.diff) infections,1.484,Worse
+000008,Surgical site infections (SSI) - Abdominal hysterectomy,1.203,No Different
+000008,Surgical site infections (SSI) - Colon surgery,1.042,No Different
+000008,Methicillin-resistant Staphylococcus aureus (MRSA),1.356,Worse
+000008,Catheter-associated urinary tract infections (CAUTI),0.938,No Different
+000009,Clostridium difficile (C.diff) infections,0.379,Better
+000009,Surgical site infections (SSI) - Abdominal hysterectomy,0.405,No Different
+000009,Surgical site infections (SSI) - Colon surgery,0.58,No Different
+000009,Methicillin-resistant Staphylococcus aureus (MRSA),0.453,No Different
+000009,Catheter-associated urinary tract infections (CAUTI),0.695,No Different
+000009,Central line-associated bloodstream infections (CLABSI),0.575,Better
+000010,Surgical site infections (SSI) - Abdominal hysterectomy,0.943,No Different
+000010,Central line-associated bloodstream infections (CLABSI),1.209,No Different
+000010,Methicillin-resistant Staphylococcus aureus (MRSA),0.904,No Different
+000010,Clostridium difficile (C.diff) infections,0.889,Worse
+000011,Clostridium difficile (C.diff) infections,0.729,Better
+000011,Methicillin-resistant Staphylococcus aureus (MRSA),1.1,No Different
+000011,Catheter-associated urinary tract infections (CAUTI),1.108,No Different
+000011,Surgical site infections (SSI) - Colon surgery,0.523,Better
+000011,Surgical site infections (SSI) - Abdominal hysterectomy,0.512,No Different
+000012,Catheter-associated urinary tract infections (CAUTI),1.357,No Different
+000012,Methicillin-resistant Staphylococcus aureus (MRSA),1.173,Better
+000012,Central line-associated bloodstream infections (CLABSI),0.985,Better
+000013,Clostridium difficile (C.diff) infections,0.907,Worse
+000013,Surgical site infections (SSI) - Abdominal hysterectomy,0.881,No Different
+000013,Methicillin-resistant Staphylococcus aureus (MRSA),0.774,Better
+000013,Catheter-associated urinary tract infections (CAUTI),0.838,No Different
+000014,Central line-associated bloodstream infections (CLABSI),0.434,No Different
+000014,Catheter-associated urinary tract infections (CAUTI),1.009,No Different
+000014,Methicillin-resistant Staphylococcus aureus (MRSA),1.18,Better
+000014,Clostridium difficile (C.diff) infections,0.937,No Different
+000015,Catheter-associated urinary tract infections (CAUTI),1.301,Better
+000015,Clostridium difficile (C.diff) infections,1.697,Better
+000015,Methicillin-resistant Staphylococcus aureus (MRSA),1.469,No Different
+000015,Surgical site infections (SSI) - Abdominal hysterectomy,1.354,No Different
+000015,Central line-associated bloodstream infections (CLABSI),1.151,No Different
+000016,Clostridium difficile (C.diff) infections,0.761,No Different
+000016,Catheter-associated urinary tract infections (CAUTI),0.877,No Different
+000016,Central line-associated bloodstream infections (CLABSI),1.041,No Different
+000017,Surgical site infections (SSI) - Abdominal hysterectomy,0.918,No Different
+000017,Clostridium difficile (C.diff) infections,0.843,Worse
+000017,Central line-associated bloodstream infections (CLABSI),0.752,No Different
+000017,Catheter-associated urinary tract infections (CAUTI),0.513,Better
+000017,Methicillin-resistant Staphylococcus aureus (MRSA),0.789,Worse
+000018,Surgical site infections (SSI) - Colon surgery,1.102,Better
+000018,Clostridium difficile (C.diff) infections,0.729,No Different
+000018,Methicillin-resistant Staphylococcus aureus (MRSA),1.118,Worse
+000018,Catheter-associated urinary tract infections (CAUTI),0.649,Better
+000018,Surgical site infections (SSI) - Abdominal hysterectomy,0.929,Better
+000018,Central line-associated bloodstream infections (CLABSI),1.027,Better
+000019,Catheter-associated urinary tract infections (CAUTI),1.119,No Different
+000019,Clostridium difficile (C.diff) infections,1.003,No Different
+000019,Methicillin-resistant Staphylococcus aureus (MRSA),0.716,No Different
+000019,Surgical site infections (SSI) - Colon surgery,0.65,Worse
+000020,Surgical site infections (SSI) - Colon surgery,1.243,Better
+000020,Catheter-associated urinary tract infections (CAUTI),1.383,No Different
+000020,Clostridium difficile (C.diff) infections,0.993,No Different
+000020,Methicillin-resistant Staphylococcus aureus (MRSA),1.04,No Different
+000020,Surgical site infections (SSI) - Abdominal hysterectomy,1.383,No Different
+000020,Central line-associated bloodstream infections (CLABSI),1.461,No Different
+000021,Catheter-associated urinary tract infections (CAUTI),1.541,Better
+000021,Methicillin-resistant Staphylococcus aureus (MRSA),1.131,No Different
+000021,Central line-associated bloodstream infections (CLABSI),1.127,No Different
+000021,Surgical site infections (SSI) - Colon surgery,1.145,No Different
+000022,Clostridium difficile (C.diff) infections,0.493,No Different
+000022,Surgical site infections (SSI) - Abdominal hysterectomy,0.666,No Different
+000022,Catheter-associated urinary tract infections (CAUTI),1.022,No Different
+000023,Clostridium difficile (C.diff) infections,1.035,No Different
+000023,Central line-associated bloodstream infections (CLABSI),1.179,No Different
+000023,Catheter-associated urinary tract infections (CAUTI),1.211,No Different
+000024,Central line-associated bloodstream infections (CLABSI),0.971,No Different
+000024,Catheter-associated urinary tract infections (CAUTI),0.707,No Different
+000024,Surgical site infections (SSI) - Colon surgery,1.18,No Different
+000024,Methicillin-resistant Staphylococcus aureus (MRSA),0.951,No Different
+000024,Surgical site infections (SSI) - Abdominal hysterectomy,1.068,No Different
+000024,Clostridium difficile (C.diff) infections,1.137,No Different
+000025,Surgical site infections (SSI) - Abdominal hysterectomy,1.348,No Different
+000025,Methicillin-resistant Staphylococcus aureus (MRSA),0.996,Better
+000025,Clostridium difficile (C.diff) infections,0.952,No Different
+000025,Central line-associated bloodstream infections (CLABSI),0.863,No Different
+000025,Catheter-associated urinary tract infections (CAUTI),0.929,Worse
+000026,Surgical site infections (SSI) - Abdominal hysterectomy,0.549,No Different
+000026,Clostridium difficile (C.diff) infections,0.575,No Different
+000026,Central line-associated bloodstream infections (CLABSI),0.738,No Different
+000026,Catheter-associated urinary tract infections (CAUTI),0.832,Better
+000027,Surgical site infections (SSI) - Abdominal hysterectomy,0.659,No Different
+000027,Surgical site infections (SSI) - Colon surgery,0.567,No Different
+000027,Clostridium difficile (C.diff) infections,0.783,No Different
+000027,Methicillin-resistant Staphylococcus aureus (MRSA),0.824,No Different
+000027,Catheter-associated urinary tract infections (CAUTI),0.463,No Different
+000028,Surgical site infections (SSI) - Colon surgery,0.633,Better
+000028,Central line-associated bloodstream infections (CLABSI),0.836,Better
+000028,Clostridium difficile (C.diff) infections,0.319,No Different
+000028,Surgical site infections (SSI) - Abdominal hysterectomy,0.563,Better
+000028,Methicillin-resistant Staphylococcus aureus (MRSA),0.868,No Different
+000028,Catheter-associated urinary tract infections (CAUTI),0.598,No Different
+000029,Methicillin-resistant Staphylococcus aureus (MRSA),0.848,Better
+000029,Clostridium difficile (C.diff) infections,0.883,No Different
+000029,Central line-associated bloodstream infections (CLABSI),0.743,No Different
+000029,Surgical site infections (SSI) - Abdominal hysterectomy,0.808,No Different
+000029,Surgical site infections (SSI) - Colon surgery,0.803,No Different
+000029,Catheter-associated urinary tract infections (CAUTI),0.894,No Different
+000030,Central line-associated bloodstream infections (CLABSI),1.819,No Different
+000030,Catheter-associated urinary tract infections (CAUTI),1.667,No Different
+000030,Surgical site infections (SSI) - Colon surgery,1.442,No Different
+000031,Surgical site infections (SSI) - Abdominal hysterectomy,1.289,Worse
+000031,Central line-associated bloodstream infections (CLABSI),1.571,No Different
+000031,Catheter-associated urinary tract infections (CAUTI),1.286,No Different
+000032,Methicillin-resistant Staphylococcus aureus (MRSA),1.296,No Different
+000032,Clostridium difficile (C.diff) infections,1.524,Better
+000032,Surgical site infections (SSI) - Abdominal hysterectomy,1.636,Worse
+000032,Surgical site infections (SSI) - Colon surgery,1.28,Better
+000032,Central line-associated bloodstream infections (CLABSI),1.375,Worse
+000033,Catheter-associated urinary tract infections (CAUTI),0.958,No Different
+000033,Surgical site infections (SSI) - Abdominal hysterectomy,0.674,No Different
+000033,Clostridium difficile (C.diff) infections,1.249,No Different
+000033,Methicillin-resistant Staphylococcus aureus (MRSA),1.135,No Different
+000034,Central line-associated bloodstream infections (CLABSI),0.691,Worse
+000034,Methicillin-resistant Staphylococcus aureus (MRSA),0.636,No Different
+000034,Clostridium difficile (C.diff) infections,0.757,No Different
+000034,Catheter-associated urinary tract infections (CAUTI),0.983,Better
+000035,Catheter-associated urinary tract infections (CAUTI),1.214,Better
+000035,Clostridium difficile (C.diff) infections,1.364,No Different
+000035,Methicillin-resistant Staphylococcus aureus (MRSA),1.385,No Different
+000035,Surgical site infections (SSI) - Abdominal hysterectomy,1.216,No Different
+000035,Central line-associated bloodstream infections (CLABSI),0.956,No Different
+000035,Surgical site infections (SSI) - Colon surgery,0.974,No Different
+000036,Methicillin-resistant Staphylococcus aureus (MRSA),1.372,Worse
+000036,Central line-associated bloodstream infections (CLABSI),1.421,No Different
+000036,Clostridium difficile (C.diff) infections,1.736,Worse
+000037,Surgical site infections (SSI) - Abdominal hysterectomy,0.481,No Different
+000037,Surgical site infections (SSI) - Colon surgery,0.264,No Different
+000037,Central line-associated bloodstream infections (CLABSI),0.1,Better
+000037,Clostridium difficile (C.diff) infections,0.402,No Different
+000037,Methicillin-resistant Staphylococcus aureus (MRSA),0.214,No Different
+000038,Surgical site infections (SSI) - Colon surgery,0.683,No Different
+000038,Methicillin-resistant Staphylococcus aureus (MRSA),0.689,No Different
+000038,Clostridium difficile (C.diff) infections,0.724,Worse
+000038,Catheter-associated urinary tract infections (CAUTI),0.599,No Different
+000038,Central line-associated bloodstream infections (CLABSI),0.96,Worse
+000038,Surgical site infections (SSI) - Abdominal hysterectomy,0.84,No Different
+000039,Surgical site infections (SSI) - Abdominal hysterectomy,1.141,No Different
+000039,Central line-associated bloodstream infections (CLABSI),0.734,No Different
+000039,Surgical site infections (SSI) - Colon surgery,1.058,No Different
+000039,Catheter-associated urinary tract infections (CAUTI),1.299,No Different
+000040,Catheter-associated urinary tract infections (CAUTI),0.533,No Different
+000040,Central line-associated bloodstream infections (CLABSI),0.549,No Different
+000040,Methicillin-resistant Staphylococcus aureus (MRSA),0.994,No Different
+000041,Surgical site infections (SSI) - Abdominal hysterectomy,0.662,No Different
+000041,Methicillin-resistant Staphylococcus aureus (MRSA),0.725,No Different
+000041,Central line-associated bloodstream infections (CLABSI),0.635,No Different
+000041,Surgical site infections (SSI) - Colon surgery,1.091,No Different
+000042,Clostridium difficile (C.diff) infections,1.2,No Different
+000042,Central line-associated bloodstream infections (CLABSI),0.855,No Different
+000042,Methicillin-resistant Staphylococcus aureus (MRSA),1.107,Better
+000043,Central line-associated bloodstream infections (CLABSI),1.204,No Different
+000043,Surgical site infections (SSI) - Abdominal hysterectomy,1.164,Better
+000043,Methicillin-resistant Staphylococcus aureus (MRSA),1.224,No Different
+000043,Catheter-associated urinary tract infections (CAUTI),0.966,No Different
+000043,Surgical site infections (SSI) - Colon surgery,0.968,No Different
+000044,Surgical site infections (SSI) - Abdominal hysterectomy,0.976,No Different
+000044,Methicillin-resistant Staphylococcus aureus (MRSA),1.04,Better
+000044,Catheter-associated urinary tract infections (CAUTI),1.188,No Different
+000044,Clostridium difficile (C.diff) infections,0.953,No Different
+000044,Surgical site infections (SSI) - Colon surgery,1.174,No Different
+000045,Central line-associated bloodstream infections (CLABSI),1.657,No Different
+000045,Clostridium difficile (C.diff) infections,1.512,No Different
+000045,Methicillin-resistant Staphylococcus aureus (MRSA),1.25,No Different
+000046,Surgical site infections (SSI) - Abdominal hysterectomy,0.61,Worse
+000046,Surgical site infections (SSI) - Colon surgery,0.589,No Different
+000046,Methicillin-resistant Staphylococcus aureus (MRSA),1.052,Better
+000046,Catheter-associated urinary tract infections (CAUTI),0.402,Better
+000046,Central line-associated bloodstream infections (CLABSI),0.691,No Different
+000046,Clostridium difficile (C.diff) infections,0.417,Better
+000047,Clostridium difficile (C.diff) infections,0.895,No Different
+000047,Surgical site infections (SSI) - Colon surgery,0.954,Worse
+000047,Methicillin-resistant Staphylococcus aureus (MRSA),0.877,No Different
+000047,Surgical site infections (SSI) - Abdominal hysterectomy,0.794,Better
+000047,Central line-associated bloodstream infections (CLABSI),1.146,No Different
+000047,Catheter-associated urinary tract infections (CAUTI),1.195,Worse
+000048,Surgical site infections (SSI) - Colon surgery,0.908,Better
+000048,Catheter-associated urinary tract infections (CAUTI),0.808,Better
+000048,Methicillin-resistant Staphylococcus aureus (MRSA),0.733,No Different
+000048,Surgical site infections (SSI) - Abdominal hysterectomy,0.664,No Different
+000048,Central line-associated bloodstream infections (CLABSI),0.708,No Different
+000048,Clostridium difficile (C.diff) infections,0.865,No Different
+000049,Catheter-associated urinary tract infections (CAUTI),1.352,No Different
+000049,Surgical site infections (SSI) - Abdominal hysterectomy,1.275,No Different
+000049,Central line-associated bloodstream infections (CLABSI),1.064,No Different
+000049,Surgical site infections (SSI) - Colon surgery,1.145,No Different
+000049,Clostridium difficile (C.diff) infections,1.334,No Different
+000050,Methicillin-resistant Staphylococcus aureus (MRSA),1.874,No Different
+000050,Central line-associated bloodstream infections (CLABSI),1.358,Better
+000050,Surgical site infections (SSI) - Abdominal hysterectomy,1.642,No Different
+000050,Surgical site infections (SSI) - Colon surgery,1.683,No Different
+000050,Catheter-associated urinary tract infections (CAUTI),1.564,No Different
+000051,Methicillin-resistant Staphylococcus aureus (MRSA),1.411,No Different
+000051,Surgical site infections (SSI) - Abdominal hysterectomy,1.199,No Different
+000051,Clostridium difficile (C.diff) infections,1.392,Better
+000051,Catheter-associated urinary tract infections (CAUTI),1.832,No Different
+000051,Surgical site infections (SSI) - Colon surgery,1.681,No Different
+000052,Methicillin-resistant Staphylococcus aureus (MRSA),1.188,Worse
+000052,Central line-associated bloodstream infections (CLABSI),1.531,Better
+000052,Catheter-associated urinary tract infections (CAUTI),1.107,Better
+000053,Methicillin-resistant Staphylococcus aureus (MRSA),0.88,Worse
+000053,Clostridium difficile (C.diff) infections,1.053,No Different
+000053,Surgical site infections (SSI) - Abdominal hysterectomy,0.977,No Different
+000054,Methicillin-resistant Staphylococcus aureus (MRSA),1.694,No Different
+000054,Catheter-associated urinary tract infections (CAUTI),1.774,No Different
+000054,Surgical site infections (SSI) - Colon surgery,1.227,No Different
+000054,Central line-associated bloodstream infections (CLABSI),1.545,No Different
+000055,Surgical site infections (SSI) - Abdominal hysterectomy,0.808,Worse
+000055,Central line-associated bloodstream infections (CLABSI),1.214,Better
+000055,Surgical site infections (SSI) - Colon surgery,1.237,Worse
+000055,Clostridium difficile (C.diff) infections,0.932,No Different
+000056,Surgical site infections (SSI) - Colon surgery,0.732,No Different
+000056,Catheter-associated urinary tract infections (CAUTI),0.363,Better
+000056,Surgical site infections (SSI) - Abdominal hysterectomy,0.578,Better
+000056,Methicillin-resistant Staphylococcus aureus (MRSA),0.856,No Different
+000057,Catheter-associated urinary tract infections (CAUTI),1.392,No Different
+000057,Central line-associated bloodstream infections (CLABSI),1.48,No Different
+000057,Surgical site infections (SSI) - Abdominal hysterectomy,1.329,No Different
+000057,Surgical site infections (SSI) - Colon surgery,1.366,No Different
+000057,Clostridium difficile (C.diff) infections,1.652,Better
+000057,Methicillin-resistant Staphylococcus aureus (MRSA),1.574,No Different
+000058,Surgical site infections (SSI) - Abdominal hysterectomy,0.707,Worse
+000058,Surgical site infections (SSI) - Colon surgery,0.939,No Different
+000058,Methicillin-resistant Staphylococcus aureus (MRSA),0.927,Better
+000058,Clostridium difficile (C.diff) infections,1.246,No Different
+000058,Catheter-associated urinary tract infections (CAUTI),0.87,Worse
+000059,Methicillin-resistant Staphylococcus aureus (MRSA),0.846,Worse
+000059,Clostridium difficile (C.diff) infections,0.898,No Different
+000059,Catheter-associated urinary tract infections (CAUTI),0.596,Better
+000059,Surgical site infections (SSI) - Colon surgery,0.802,No Different
+000059,Surgical site infections (SSI) - Abdominal hysterectomy,1.483,No Different
+000059,Central line-associated bloodstream infections (CLABSI),0.838,Better
+000060,Surgical site infections (SSI) - Abdominal hysterectomy,0.429,Worse
+000060,Central line-associated bloodstream infections (CLABSI),0.672,No Different
+000060,Methicillin-resistant Staphylococcus aureus (MRSA),1.133,No Different
+000060,Catheter-associated urinary tract infections (CAUTI),0.911,No Different
+000060,Clostridium difficile (C.diff) infections,0.713,No Different
+000060,Surgical site infections (SSI) - Colon surgery,0.8,Worse
+000061,Methicillin-resistant Staphylococcus aureus (MRSA),1.43,Better
+000061,Central line-associated bloodstream infections (CLABSI),1.151,No Different
+000061,Clostridium difficile (C.diff) infections,1.035,No Different
+000062,Clostridium difficile (C.diff) infections,1.579,No Different
+000062,Surgical site infections (SSI) - Abdominal hysterectomy,1.992,No Different
+000062,Surgical site infections (SSI) - Colon surgery,1.286,No Different
+000062,Methicillin-resistant Staphylococcus aureus (MRSA),1.655,No Different
+000062,Catheter-associated urinary tract infections (CAUTI),1.741,Worse
+000062,Central line-associated bloodstream infections (CLABSI),1.863,Worse
+000063,Surgical site infections (SSI) - Colon surgery,1.421,No Different
+000063,Methicillin-resistant Staphylococcus aureus (MRSA),1.229,No Different
+000063,Clostridium difficile (C.diff) infections,1.24,No Different
+000063,Central line-associated bloodstream infections (CLABSI),1.53,No Different
+000064,Methicillin-resistant Staphylococcus aureus (MRSA),1.719,Better
+000064,Surgical site infections (SSI) - Abdominal hysterectomy,1.296,No Different
+000064,Clostridium difficile (C.diff) infections,1.697,Worse
+000065,Central line-associated bloodstream infections (CLABSI),1.666,Worse
+000065,Surgical site infections (SSI) - Abdominal hysterectomy,1.642,No Different
+000065,Clostridium difficile (C.diff) infections,1.568,No Different
+000065,Methicillin-resistant Staphylococcus aureus (MRSA),1.193,No Different
+000066,Catheter-associated urinary tract infections (CAUTI),1.385,No Different
+000066,Surgical site infections (SSI) - Abdominal hysterectomy,1.38,No Different
+000066,Central line-associated bloodstream infections (CLABSI),0.969,No Different
+000066,Surgical site infections (SSI) - Colon surgery,1.162,No Different
+000066,Clostridium difficile (C.diff) infections,1.141,No Different
+000066,Methicillin-resistant Staphylococcus aureus (MRSA),1.21,Worse
+000067,Clostridium difficile (C.diff) infections,1.341,Better
+000067,Central line-associated bloodstream infections (CLABSI),1.344,Worse
+000067,Surgical site infections (SSI) - Colon surgery,1.453,No Different
+000068,Surgical site infections (SSI) - Abdominal hysterectomy,1.043,Better
+000068,Methicillin-resistant Staphylococcus aureus (MRSA),0.915,Better
+000068,Catheter-associated urinary tract infections (CAUTI),1.208,No Different
+000069,Surgical site infections (SSI) - Abdominal hysterectomy,0.509,No Different
+000069,Catheter-associated urinary tract infections (CAUTI),0.716,No Different
+000069,Central line-associated bloodstream infections (CLABSI),0.694,No Different
+000069,Surgical site infections (SSI) - Colon surgery,0.701,No Different
+000069,Clostridium difficile (C.diff) infections,0.652,Better
+000070,Central line-associated bloodstream infections (CLABSI),1.065,Worse
+000070,Surgical site infections (SSI) - Colon surgery,0.604,No Different
+000070,Methicillin-resistant Staphylococcus aureus (MRSA),1.16,Better
+000070,Clostridium difficile (C.diff) infections,0.803,No Different
+000070,Catheter-associated urinary tract infections (CAUTI),0.745,No Different
+000071,Catheter-associated urinary tract infections (CAUTI),1.009,No Different
+000071,Methicillin-resistant Staphylococcus aureus (MRSA),0.996,No Different
+000071,Surgical site infections (SSI) - Abdominal hysterectomy,0.822,No Different
+000071,Clostridium difficile (C.diff) infections,0.824,No Different
+000072,Clostridium difficile (C.diff) infections,1.441,No Different
+000072,Surgical site infections (SSI) - Colon surgery,1.204,Better
+000072,Catheter-associated urinary tract infections (CAUTI),1.279,No Different
+000072,Methicillin-resistant Staphylococcus aureus (MRSA),1.049,No Different
+000072,Surgical site infections (SSI) - Abdominal hysterectomy,1.15,Worse
+000072,Central line-associated bloodstream infections (CLABSI),0.846,Better
+000073,Catheter-associated urinary tract infections (CAUTI),0.418,No Different
+000073,Surgical site infections (SSI) - Abdominal hysterectomy,0.439,No Different
+000073,Methicillin-resistant Staphylococcus aureus (MRSA),0.543,Better
+000073,Central line-associated bloodstream infections (CLABSI),0.571,Worse
+000073,Clostridium difficile (C.diff) infections,0.186,No Different
+000073,Surgical site infections (SSI) - Colon surgery,0.853,No Different
+000074,Central line-associated bloodstream infections (CLABSI),0.847,No Different
+000074,Methicillin-resistant Staphylococcus aureus (MRSA),0.791,No Different
+000074,Surgical site infections (SSI) - Abdominal hysterectomy,0.715,No Different
+000074,Catheter-associated urinary tract infections (CAUTI),0.755,No Different
+000075,Surgical site infections (SSI) - Abdominal hysterectomy,0.734,No Different
+000075,Catheter-associated urinary tract infections (CAUTI),0.757,No Different
+000075,Clostridium difficile (C.diff) infections,0.436,No Different
+000075,Methicillin-resistant Staphylococcus aureus (MRSA),0.699,No Different
+000075,Surgical site infections (SSI) - Colon surgery,0.844,No Different
+000075,Central line-associated bloodstream infections (CLABSI),0.512,No Different
+000076,Clostridium difficile (C.diff) infections,0.954,No Different
+000076,Surgical site infections (SSI) - Abdominal hysterectomy,1.106,No Different
+000076,Surgical site infections (SSI) - Colon surgery,1.236,No Different
+000077,Clostridium difficile (C.diff) infections,0.873,No Different
+000077,Surgical site infections (SSI) - Colon surgery,0.416,No Different
+000077,Methicillin-resistant Staphylococcus aureus (MRSA),0.818,No Different
+000077,Catheter-associated urinary tract infections (CAUTI),0.507,No Different
+000077,Central line-associated bloodstream infections (CLABSI),0.939,No Different
+000077,Surgical site infections (SSI) - Abdominal hysterectomy,0.662,No Different
+000078,Catheter-associated urinary tract infections (CAUTI),1.442,No Different
+000078,Clostridium difficile (C.diff) infections,1.477,No Different
+000078,Methicillin-resistant Staphylococcus aureus (MRSA),1.092,Worse
+000078,Central line-associated bloodstream infections (CLABSI),1.482,No Different
+000078,Surgical site infections (SSI) - Abdominal hysterectomy,1.323,No Different
+000078,Surgical site infections (SSI) - Colon surgery,1.39,No Different
+000079,Surgical site infections (SSI) - Colon surgery,0.655,Worse
+000079,Clostridium difficile (C.diff) infections,1.012,No Different
+000079,Surgical site infections (SSI) - Abdominal hysterectomy,0.456,No Different
+000079,Methicillin-resistant Staphylococcus aureus (MRSA),0.752,No Different
+000080,Surgical site infections (SSI) - Abdominal hysterectomy,0.522,No Different
+000080,Catheter-associated urinary tract infections (CAUTI),0.323,Better
+000080,Central line-associated bloodstream infections (CLABSI),0.596,No Different
+000080,Surgical site infections (SSI) - Colon surgery,0.609,Better
+000080,Clostridium difficile (C.diff) infections,0.1,Better
+000080,Methicillin-resistant Staphylococcus aureus (MRSA),0.502,No Different
+000081,Catheter-associated urinary tract infections (CAUTI),1.194,No Different
+000081,Methicillin-resistant Staphylococcus aureus (MRSA),0.628,No Different
+000081,Central line-associated bloodstream infections (CLABSI),1.118,No Different
+000081,Surgical site infections (SSI) - Abdominal hysterectomy,1.009,No Different
+000081,Clostridium difficile (C.diff) infections,0.895,No Different
+000081,Surgical site infections (SSI) - Colon surgery,1.053,Better
+000082,Methicillin-resistant Staphylococcus aureus (MRSA),0.459,Worse
+000082,Catheter-associated urinary tract infections (CAUTI),0.925,No Different
+000082,Central line-associated bloodstream infections (CLABSI),0.924,No Different
+000082,Surgical site infections (SSI) - Abdominal hysterectomy,0.653,Worse
+000082,Clostridium difficile (C.diff) infections,1.199,No Different
+000083,Catheter-associated urinary tract infections (CAUTI),0.929,Better
+000083,Central line-associated bloodstream infections (CLABSI),0.927,No Different
+000083,Surgical site infections (SSI) - Colon surgery,0.823,No Different
+000083,Clostridium difficile (C.diff) infections,1.049,No Different
+000083,Methicillin-resistant Staphylococcus aureus (MRSA),0.977,No Different
+000084,Surgical site infections (SSI) - Abdominal hysterectomy,1.016,Better
+000084,Surgical site infections (SSI) - Colon surgery,0.96,Better
+000084,Methicillin-resistant Staphylococcus aureus (MRSA),0.712,No Different
+000084,Catheter-associated urinary tract infections (CAUTI),0.952,Better
+000085,Surgical site infections (SSI) - Colon surgery,0.571,Better
+000085,Catheter-associated urinary tract infections (CAUTI),0.628,No Different
+000085,Methicillin-resistant Staphylococcus aureus (MRSA),0.874,No Different
+000085,Central line-associated bloodstream infections (CLABSI),0.834,No Different
+000085,Clostridium difficile (C.diff) infections,1.192,Worse
+000085,Surgical site infections (SSI) - Abdominal hysterectomy,1.237,No Different
+000086,Central line-associated bloodstream infections (CLABSI),0.482,No Different
+000086,Methicillin-resistant Staphylococcus aureus (MRSA),0.672,Better
+000086,Surgical site infections (SSI) - Abdominal hysterectomy,0.516,No Different
+000087,Surgical site infections (SSI) - Abdominal hysterectomy,0.788,No Different
+000087,Methicillin-resistant Staphylococcus aureus (MRSA),1.086,Worse
+000087,Surgical site infections (SSI) - Colon surgery,0.487,Worse
+000088,Catheter-associated urinary tract infections (CAUTI),0.721,No Different
+000088,Surgical site infections (SSI) - Abdominal hysterectomy,0.215,No Different
+000088,Surgical site infections (SSI) - Colon surgery,0.967,No Different
+000088,Methicillin-resistant Staphylococcus aureus (MRSA),0.927,Worse
+000088,Central line-associated bloodstream infections (CLABSI),1.267,No Different
+000088,Clostridium difficile (C.diff) infections,0.651,No Different
+000089,Clostridium difficile (C.diff) infections,0.919,No Different
+000089,Surgical site infections (SSI) - Colon surgery,0.672,No Different
+000089,Catheter-associated urinary tract infections (CAUTI),0.497,Better
+000089,Central line-associated bloodstream infections (CLABSI),0.744,Worse
+000090,Catheter-associated urinary tract infections (CAUTI),1.396,No Different
+000090,Surgical site infections (SSI) - Colon surgery,1.326,No Different
+000090,Methicillin-resistant Staphylococcus aureus (MRSA),1.485,No Different
+000090,Surgical site infections (SSI) - Abdominal hysterectomy,1.261,No Different
+000090,Central line-associated bloodstream infections (CLABSI),1.107,Worse
+000090,Clostridium difficile (C.diff) infections,1.533,No Different
+000091,Catheter-associated urinary tract infections (CAUTI),1.328,Worse
+000091,Methicillin-resistant Staphylococcus aureus (MRSA),0.822,No Different
+000091,Surgical site infections (SSI) - Colon surgery,1.455,Worse
+000092,Surgical site infections (SSI) - Colon surgery,1.131,Worse
+000092,Surgical site infections (SSI) - Abdominal hysterectomy,0.762,No Different
+000092,Central line-associated bloodstream infections (CLABSI),0.817,No Different
+000093,Surgical site infections (SSI) - Colon surgery,0.603,Better
+000093,Clostridium difficile (C.diff) infections,0.544,No Different
+000093,Surgical site infections (SSI) - Abdominal hysterectomy,0.38,Better
+000093,Catheter-associated urinary tract infections (CAUTI),0.151,No Different
+000093,Methicillin-resistant Staphylococcus aureus (MRSA),0.615,Better
+000094,Surgical site infections (SSI) - Colon surgery,0.1,No Different
+000094,Methicillin-resistant Staphylococcus aureus (MRSA),0.54,No Different
+000094,Central line-associated bloodstream infections (CLABSI),0.529,No Different
+000094,Catheter-associated urinary tract infections (CAUTI),0.56,No Different
+000094,Clostridium difficile (C.diff) infections,0.363,No Different
+000095,Methicillin-resistant Staphylococcus aureus (MRSA),0.601,Better
+000095,Surgical site infections (SSI) - Colon surgery,0.655,Worse
+000095,Catheter-associated urinary tract infections (CAUTI),0.627,No Different
+000095,Surgical site infections (SSI) - Abdominal hysterectomy,0.945,No Different
+000095,Central line-associated bloodstream infections (CLABSI),0.549,No Different
+000096,Surgical site infections (SSI) - Abdominal hysterectomy,1.257,Better
+000096,Methicillin-resistant Staphylococcus aureus (MRSA),1.021,No Different
+000096,Clostridium difficile (C.diff) infections,0.968,No Different
+000096,Surgical site infections (SSI) - Colon surgery,0.904,No Different
+000097,Surgical site infections (SSI) - Abdominal hysterectomy,0.699,No Different
+000097,Central line-associated bloodstream infections (CLABSI),1.202,No Different
+000097,Methicillin-resistant Staphylococcus aureus (MRSA),0.961,No Different
+000098,Central line-associated bloodstream infections (CLABSI),1.037,No Different
+000098,Methicillin-resistant Staphylococcus aureus (MRSA),1.011,No Different
+000098,Surgical site infections (SSI) - Abdominal hysterectomy,0.783,No Different
+000098,Clostridium difficile (C.diff) infections,0.967,No Different
+000098,Catheter-associated urinary tract infections (CAUTI),1.032,No Different
+000099,Methicillin-resistant Staphylococcus aureus (MRSA),1.083,No Different
+000099,Surgical site infections (SSI) - Colon surgery,1.089,Better
+000099,Surgical site infections (SSI) - Abdominal hysterectomy,0.446,No Different
+000100,Catheter-associated urinary tract infections (CAUTI),1.037,No Different
+000100,Surgical site infections (SSI) - Colon surgery,0.874,No Different
+000100,Central line-associated bloodstream infections (CLABSI),1.357,No Different
+000100,Surgical site infections (SSI) - Abdominal hysterectomy,1.096,No Different
+000100,Methicillin-resistant Staphylococcus aureus (MRSA),0.866,Better
+000101,Surgical site infections (SSI) - Colon surgery,1.078,No Different
+000101,Methicillin-resistant Staphylococcus aureus (MRSA),0.938,No Different
+000101,Clostridium difficile (C.diff) infections,0.776,No Different
+000101,Central line-associated bloodstream infections (CLABSI),0.879,No Different
+000101,Surgical site infections (SSI) - Abdominal hysterectomy,0.997,No Different
+000102,Surgical site infections (SSI) - Colon surgery,0.598,Better
+000102,Surgical site infections (SSI) - Abdominal hysterectomy,1.233,No Different
+000102,Central line-associated bloodstream infections (CLABSI),0.769,Worse
+000102,Methicillin-resistant Staphylococcus aureus (MRSA),0.403,No Different
+000102,Clostridium difficile (C.diff) infections,0.95,No Different
+000103,Catheter-associated urinary tract infections (CAUTI),0.959,No Different
+000103,Surgical site infections (SSI) - Abdominal hysterectomy,1.117,No Different
+000103,Surgical site infections (SSI) - Colon surgery,0.913,Better
+000103,Central line-associated bloodstream infections (CLABSI),1.344,No Different
+000103,Methicillin-resistant Staphylococcus aureus (MRSA),1.137,No Different
+000103,Clostridium difficile (C.diff) infections,1.356,Better
+000104,Surgical site infections (SSI) - Colon surgery,1.042,Worse
+000104,Central line-associated bloodstream infections (CLABSI),0.765,No Different
+000104,Clostridium difficile (C.diff) infections,1.022,Better
+000104,Surgical site infections (SSI) - Abdominal hysterectomy,0.652,Better
+000104,Catheter-associated urinary tract infections (CAUTI),0.891,No Different
+000104,Methicillin-resistant Staphylococcus aureus (MRSA),1.012,Better
+000105,Catheter-associated urinary tract infections (CAUTI),1.282,No Different
+000105,Methicillin-resistant Staphylococcus aureus (MRSA),0.902,No Different
+000105,Surgical site infections (SSI) - Colon surgery,1.17,No Different
+000106,Central line-associated bloodstream infections (CLABSI),1.744,No Different
+000106,Surgical site infections (SSI) - Abdominal hysterectomy,1.489,No Different
+000106,Surgical site infections (SSI) - Colon surgery,1.408,No Different
+000106,Catheter-associated urinary tract infections (CAUTI),1.41,No Different
+000106,Methicillin-resistant Staphylococcus aureus (MRSA),1.371,No Different
+000106,Clostridium difficile (C.diff) infections,1.518,No Different
+000107,Surgical site infections (SSI) - Colon surgery,0.54,No Different
+000107,Surgical site infections (SSI) - Abdominal hysterectomy,0.399,Worse
+000107,Clostridium difficile (C.diff) infections,0.203,Worse
+000107,Methicillin-resistant Staphylococcus aureus (MRSA),0.347,Worse
+000108,Methicillin-resistant Staphylococcus aureus (MRSA),0.658,No Different
+000108,Catheter-associated urinary tract infections (CAUTI),0.341,No Different
+000108,Surgical site infections (SSI) - Abdominal hysterectomy,0.725,No Different
+000108,Surgical site infections (SSI) - Colon surgery,0.652,No Different
+000109,Clostridium difficile (C.diff) infections,0.751,Worse
+000109,Surgical site infections (SSI) - Colon surgery,0.168,No Different
+000109,Methicillin-resistant Staphylococcus aureus (MRSA),0.478,No Different
+000109,Central line-associated bloodstream infections (CLABSI),0.553,No Different
+000110,Surgical site infections (SSI) - Abdominal hysterectomy,1.466,No Different
+000110,Methicillin-resistant Staphylococcus aureus (MRSA),1.149,No Different
+000110,Central line-associated bloodstream infections (CLABSI),0.961,No Different
+000111,Central line-associated bloodstream infections (CLABSI),1.348,No Different
+000111,Surgical site infections (SSI) - Abdominal hysterectomy,1.264,No Different
+000111,Surgical site infections (SSI) - Colon surgery,1.25,Better
+000111,Clostridium difficile (C.diff) infections,1.184,No Different
+000111,Catheter-associated urinary tract infections (CAUTI),1.181,No Different
+000111,Methicillin-resistant Staphylococcus aureus (MRSA),1.355,No Different
+000112,Clostridium difficile (C.diff) infections,0.303,No Different
+000112,Methicillin-resistant Staphylococcus aureus (MRSA),0.647,No Different
+000112,Central line-associated bloodstream infections (CLABSI),0.615,Better
+000112,Catheter-associated urinary tract infections (CAUTI),0.583,No Different
+000113,Surgical site infections (SSI) - Colon surgery,0.519,No Different
+000113,Catheter-associated urinary tract infections (CAUTI),0.96,No Different
+000113,Methicillin-resistant Staphylococcus aureus (MRSA),0.621,No Different
+000114,Methicillin-resistant Staphylococcus aureus (MRSA),1.045,Worse
+000114,Surgical site infections (SSI) - Colon surgery,0.652,No Different
+000114,Catheter-associated urinary tract infections (CAUTI),0.441,Better
+000114,Clostridium difficile (C.diff) infections,0.753,No Different
+000114,Surgical site infections (SSI) - Abdominal hysterectomy,0.507,No Different
+000114,Central line-associated bloodstream infections (CLABSI),0.707,No Different
+000115,Central line-associated bloodstream infections (CLABSI),0.999,Better
+000115,Surgical site infections (SSI) - Abdominal hysterectomy,1.152,No Different
+000115,Catheter-associated urinary tract infections (CAUTI),1.247,No Different
+000115,Methicillin-resistant Staphylococcus aureus (MRSA),1.37,No Different
+000116,Catheter-associated urinary tract infections (CAUTI),1.701,No Different
+000116,Central line-associated bloodstream infections (CLABSI),1.667,No Different
+000116,Surgical site infections (SSI) - Colon surgery,1.762,Worse
+000117,Surgical site infections (SSI) - Abdominal hysterectomy,1.438,No Different
+000117,Surgical site infections (SSI) - Colon surgery,1.727,No Different
+000117,Central line-associated bloodstream infections (CLABSI),1.212,No Different
+000117,Catheter-associated urinary tract infections (CAUTI),0.913,No Different
+000117,Methicillin-resistant Staphylococcus aureus (MRSA),1.272,No Different
+000118,Clostridium difficile (C.diff) infections,1.056,No Different
+000118,Central line-associated bloodstream infections (CLABSI),1.28,No Different
+000118,Methicillin-resistant Staphylococcus aureus (MRSA),1.004,Worse
+000118,Catheter-associated urinary tract infections (CAUTI),1.061,Worse
+000118,Surgical site infections (SSI) - Colon surgery,1.042,No Different
+000118,Surgical site infections (SSI) - Abdominal hysterectomy,0.796,No Different
+000119,Clostridium difficile (C.diff) infections,0.743,No Different
+000119,Catheter-associated urinary tract infections (CAUTI),1.31,No Different
+000119,Methicillin-resistant Staphylococcus aureus (MRSA),0.482,No Different
+000119,Central line-associated bloodstream infections (CLABSI),0.796,No Different
+000119,Surgical site infections (SSI) - Colon surgery,0.827,No Different
+000120,Methicillin-resistant Staphylococcus aureus (MRSA),1.023,No Different
+000120,Clostridium difficile (C.diff) infections,1.106,No Different
+000120,Surgical site infections (SSI) - Colon surgery,1.114,Better
+000120,Surgical site infections (SSI) - Abdominal hysterectomy,1.035,Better
+000121,Methicillin-resistant Staphylococcus aureus (MRSA),1.891,Better
+000121,Surgical site infections (SSI) - Abdominal hysterectomy,1.295,No Different
+000121,Central line-associated bloodstream infections (CLABSI),1.456,No Different
+000121,Clostridium difficile (C.diff) infections,1.727,Better
+000122,Methicillin-resistant Staphylococcus aureus (MRSA),1.523,Worse
+000122,Central line-associated bloodstream infections (CLABSI),1.159,Better
+000122,Surgical site infections (SSI) - Colon surgery,1.261,No Different
+000122,Clostridium difficile (C.diff) infections,1.492,No Different
+000122,Catheter-associated urinary tract infections (CAUTI),1.344,Better
+000122,Surgical site infections (SSI) - Abdominal hysterectomy,1.478,Worse
+000123,Clostridium difficile (C.diff) infections,1.254,No Different
+000123,Central line-associated bloodstream infections (CLABSI),1.061,No Different
+000123,Surgical site infections (SSI) - Colon surgery,1.177,No Different
+000123,Catheter-associated urinary tract infections (CAUTI),1.4,No Different
+000123,Methicillin-resistant Staphylococcus aureus (MRSA),1.429,Worse
+000124,Surgical site infections (SSI) - Abdominal hysterectomy,1.315,Better
+000124,Central line-associated bloodstream infections (CLABSI),1.43,No Different
+000124,Methicillin-resistant Staphylococcus aureus (MRSA),1.406,No Different
+000125,Clostridium difficile (C.diff) infections,0.747,Worse
+000125,Catheter-associated urinary tract infections (CAUTI),0.528,No Different
+000125,Central line-associated bloodstream infections (CLABSI),0.487,No Different
+000126,Surgical site infections (SSI) - Abdominal hysterectomy,0.751,No Different
+000126,Central line-associated bloodstream infections (CLABSI),0.823,No Different
+000126,Catheter-associated urinary tract infections (CAUTI),1.344,No Different
+000126,Clostridium difficile (C.diff) infections,1.023,No Different
+000126,Surgical site infections (SSI) - Colon surgery,1.133,Better
+000127,Central line-associated bloodstream infections (CLABSI),0.925,Better
+000127,Surgical site infections (SSI) - Colon surgery,0.516,No Different
+000127,Clostridium difficile (C.diff) infections,0.945,Worse
+000127,Methicillin-resistant Staphylococcus aureus (MRSA),0.695,Better
+000128,Clostridium difficile (C.diff) infections,0.812,No Different
+000128,Surgical site infections (SSI) - Colon surgery,0.607,Better
+000128,Central line-associated bloodstream infections (CLABSI),0.244,No Different
+000128,Methicillin-resistant Staphylococcus aureus (MRSA),0.385,No Different
+000129,Surgical site infections (SSI) - Abdominal hysterectomy,0.608,No Different
+000129,Catheter-associated urinary tract infections (CAUTI),1.116,No Different
+000129,Methicillin-resistant Staphylococcus aureus (MRSA),1.005,No Different
+000129,Clostridium difficile (C.diff) infections,1.174,Better
+000130,Methicillin-resistant Staphylococcus aureus (MRSA),1.726,No Different
+000130,Central line-associated bloodstream infections (CLABSI),1.303,No Different
+000130,Surgical site infections (SSI) - Colon surgery,1.295,No Different
+000131,Surgical site infections (SSI) - Abdominal hysterectomy,1.21,Better
+000131,Clostridium difficile (C.diff) infections,1.086,Better
+000131,Surgical site infections (SSI) - Colon surgery,0.836,Better
+000131,Methicillin-resistant Staphylococcus aureus (MRSA),1.151,No Different
+000131,Catheter-associated urinary tract infections (CAUTI),1.248,No Different
+000132,Catheter-associated urinary tract infections (CAUTI),0.879,No Different
+000132,Methicillin-resistant Staphylococcus aureus (MRSA),1.101,Worse
+000132,Clostridium difficile (C.diff) infections,1.365,No Different
+000132,Surgical site infections (SSI) - Colon surgery,0.662,No Different
+000132,Surgical site infections (SSI) - Abdominal hysterectomy,1.057,No Different
+000132,Central line-associated bloodstream infections (CLABSI),0.66,No Different
+000133,Catheter-associated urinary tract infections (CAUTI),0.829,Better
+000133,Clostridium difficile (C.diff) infections,0.618,Worse
+000133,Methicillin-resistant Staphylococcus aureus (MRSA),1.118,No Different
+000133,Surgical site infections (SSI) - Abdominal hysterectomy,1.181,Better
+000133,Central line-associated bloodstream infections (CLABSI),0.764,No Different
+000134,Surgical site infections (SSI) - Abdominal hysterectomy,1.485,No Different
+000134,Methicillin-resistant Staphylococcus aureus (MRSA),0.821,Worse
+000134,Clostridium difficile (C.diff) infections,1.341,Better
+000134,Central line-associated bloodstream infections (CLABSI),1.408,No Different
+000134,Catheter-associated urinary tract infections (CAUTI),1.236,Better
+000134,Surgical site infections (SSI) - Colon surgery,1.253,Better
+000135,Surgical site infections (SSI) - Abdominal hysterectomy,0.876,No Different
+000135,Clostridium difficile (C.diff) infections,1.125,No Different
+000135,Surgical site infections (SSI) - Colon surgery,0.627,No Different
+000135,Central line-associated bloodstream infections (CLABSI),0.84,Better
+000135,Methicillin-resistant Staphylococcus aureus (MRSA),0.698,No Different
+000135,Catheter-associated urinary tract infections (CAUTI),0.915,No Different
+000136,Catheter-associated urinary tract infections (CAUTI),0.971,No Different
+000136,Central line-associated bloodstream infections (CLABSI),0.787,No Different
+000136,Surgical site infections (SSI) - Colon surgery,0.946,No Different
+000136,Surgical site infections (SSI) - Abdominal hysterectomy,0.847,No Different
+000136,Clostridium difficile (C.diff) infections,1.114,No Different
+000137,Methicillin-resistant Staphylococcus aureus (MRSA),0.962,No Different
+000137,Surgical site infections (SSI) - Colon surgery,0.923,No Different
+000137,Central line-associated bloodstream infections (CLABSI),1.317,No Different
+000138,Central line-associated bloodstream infections (CLABSI),0.755,Better
+000138,Catheter-associated urinary tract infections (CAUTI),0.387,Better
+000138,Clostridium difficile (C.diff) infections,0.591,No Different
+000138,Surgical site infections (SSI) - Colon surgery,0.654,No Different
+000139,Clostridium difficile (C.diff) infections,0.821,Better
+000139,Surgical site infections (SSI) - Colon surgery,0.499,No Different
+000139,Catheter-associated urinary tract infections (CAUTI),0.764,No Different
+000139,Methicillin-resistant Staphylococcus aureus (MRSA),0.424,No Different
+000139,Central line-associated bloodstream infections (CLABSI),0.638,No Different
+000139,Surgical site infections (SSI) - Abdominal hysterectomy,0.59,No Different
+000140,Surgical site infections (SSI) - Abdominal hysterectomy,0.801,No Different
+000140,Catheter-associated urinary tract infections (CAUTI),0.994,No Different
+000140,Central line-associated bloodstream infections (CLABSI),0.319,No Different
+000141,Catheter-associated urinary tract infections (CAUTI),0.804,No Different
+000141,Clostridium difficile (C.diff) infections,0.856,Worse
+000141,Surgical site infections (SSI) - Abdominal hysterectomy,0.926,Better
+000141,Central line-associated bloodstream infections (CLABSI),1.115,No Different
+000141,Methicillin-resistant Staphylococcus aureus (MRSA),1.085,Better
+000141,Surgical site infections (SSI) - Colon surgery,1.145,Better
+000142,Catheter-associated urinary tract infections (CAUTI),0.934,No Different
+000142,Methicillin-resistant Staphylococcus aureus (MRSA),0.473,No Different
+000142,Surgical site infections (SSI) - Abdominal hysterectomy,0.628,Worse
+000142,Central line-associated bloodstream infections (CLABSI),0.987,No Different
+000142,Clostridium difficile (C.diff) infections,0.735,Worse
+000142,Surgical site infections (SSI) - Colon surgery,1.121,No Different
+000143,Central line-associated bloodstream infections (CLABSI),1.633,Better
+000143,Catheter-associated urinary tract infections (CAUTI),1.054,No Different
+000143,Surgical site infections (SSI) - Colon surgery,0.912,No Different
+000144,Clostridium difficile (C.diff) infections,0.639,No Different
+000144,Central line-associated bloodstream infections (CLABSI),0.653,No Different
+000144,Surgical site infections (SSI) - Abdominal hysterectomy,1.328,No Different
+000144,Methicillin-resistant Staphylococcus aureus (MRSA),1.051,No Different
+000144,Surgical site infections (SSI) - Colon surgery,0.408,Worse
+000145,Methicillin-resistant Staphylococcus aureus (MRSA),1.194,No Different
+000145,Surgical site infections (SSI) - Colon surgery,0.868,No Different
+000145,Catheter-associated urinary tract infections (CAUTI),0.99,No Different
+000146,Clostridium difficile (C.diff) infections,0.229,No Different
+000146,Methicillin-resistant Staphylococcus aureus (MRSA),0.181,No Different
+000146,Central line-associated bloodstream infections (CLABSI),0.272,No Different
+000146,Surgical site infections (SSI) - Colon surgery,0.218,Better
+000146,Surgical site infections (SSI) - Abdominal hysterectomy,0.451,Better
+000146,Catheter-associated urinary tract infections (CAUTI),0.437,No Different
+000147,Surgical site infections (SSI) - Abdominal hysterectomy,0.284,No Different
+000147,Catheter-associated urinary tract infections (CAUTI),0.143,No Different
+000147,Surgical site infections (SSI) - Colon surgery,0.547,No Different
+000148,Methicillin-resistant Staphylococcus aureus (MRSA),1.024,Better
+000148,Surgical site infections (SSI) - Abdominal hysterectomy,1.173,No Different
+000148,Catheter-associated urinary tract infections (CAUTI),1.319,Better
+000148,Clostridium difficile (C.diff) infections,0.964,No Different
+000149,Surgical site infections (SSI) - Colon surgery,0.992,No Different
+000149,Central line-associated bloodstream infections (CLABSI),0.51,Better
+000149,Catheter-associated urinary tract infections (CAUTI),0.97,No Different
+000150,Methicillin-resistant Staphylococcus aureus (MRSA),0.796,No Different
+000150,Central line-associated bloodstream infections (CLABSI),0.59,No Different
+000150,Clostridium difficile (C.diff) infections,0.848,No Different
+000150,Catheter-associated urinary tract infections (CAUTI),0.724,No Different
+000150,Surgical site infections (SSI) - Colon surgery,0.902,No Different
+000150,Surgical site infections (SSI) - Abdominal hysterectomy,0.794,No Different
+000151,Catheter-associated urinary tract infections (CAUTI),0.509,Better
+000151,Methicillin-resistant Staphylococcus aureus (MRSA),0.316,No Different
+000151,Central line-associated bloodstream infections (CLABSI),0.582,Better
+000151,Surgical site infections (SSI) - Abdominal hysterectomy,0.658,No Different
+000151,Clostridium difficile (C.diff) infections,0.559,No Different
+000152,Surgical site infections (SSI) - Abdominal hysterectomy,0.236,Better
+000152,Clostridium difficile (C.diff) infections,0.367,Better
+000152,Central line-associated bloodstream infections (CLABSI),0.346,No Different
+000152,Methicillin-resistant Staphylococcus aureus (MRSA),0.924,No Different
+000152,Catheter-associated urinary tract infections (CAUTI),0.308,Better
+000152,Surgical site infections (SSI) - Colon surgery,0.1,No Different
+000153,Catheter-associated urinary tract infections (CAUTI),0.948,Better
+000153,Surgical site infections (SSI) - Colon surgery,1.353,No Different
+000153,Methicillin-resistant Staphylococcus aureus (MRSA),1.272,No Different
+000153,Central line-associated bloodstream infections (CLABSI),0.982,Better
+000154,Clostridium difficile (C.diff) infections,0.585,Better
+000154,Surgical site infections (SSI) - Colon surgery,0.681,No Different
+000154,Catheter-associated urinary tract infections (CAUTI),0.775,Worse
+000155,Clostridium difficile (C.diff) infections,0.966,Better
+000155,Surgical site infections (SSI) - Colon surgery,0.796,No Different
+000155,Methicillin-resistant Staphylococcus aureus (MRSA),1.174,No Different
+000156,Methicillin-resistant Staphylococcus aureus (MRSA),1.765,No Different
+000156,Clostridium difficile (C.diff) infections,1.37,No Different
+000156,Catheter-associated urinary tract infections (CAUTI),0.927,No Different
+000157,Surgical site infections (SSI) - Colon surgery,1.539,No Different
+000157,Surgical site infections (SSI) - Abdominal hysterectomy,1.394,No Different
+000157,Catheter-associated urinary tract infections (CAUTI),1.604,Worse
+000157,Central line-associated bloodstream infections (CLABSI),1.502,No Different
+000157,Methicillin-resistant Staphylococcus aureus (MRSA),1.213,No Different
+000158,Catheter-associated urinary tract infections (CAUTI),0.923,Better
+000158,Methicillin-resistant Staphylococcus aureus (MRSA),1.109,No Different
+000158,Clostridium difficile (C.diff) infections,0.955,No Different
+000158,Central line-associated bloodstream infections (CLABSI),0.757,No Different
+000159,Methicillin-resistant Staphylococcus aureus (MRSA),0.989,No Different
+000159,Clostridium difficile (C.diff) infections,1.488,Better
+000159,Surgical site infections (SSI) - Abdominal hysterectomy,1.192,No Different
+000160,Central line-associated bloodstream infections (CLABSI),0.886,No Different
+000160,Catheter-associated urinary tract infections (CAUTI),1.606,No Different
+000160,Surgical site infections (SSI) - Colon surgery,1.197,Better
+000160,Clostridium difficile (C.diff) infections,1.24,No Different
+000160,Methicillin-resistant Staphylococcus aureus (MRSA),1.038,No Different
+000161,Central line-associated bloodstream infections (CLABSI),0.91,No Different
+000161,Catheter-associated urinary tract infections (CAUTI),0.76,No Different
+000161,Clostridium difficile (C.diff) infections,0.956,Worse
+000161,Surgical site infections (SSI) - Abdominal hysterectomy,0.657,Worse
+000161,Surgical site infections (SSI) - Colon surgery,0.6,No Different
+000162,Clostridium difficile (C.diff) infections,1.272,No Different
+000162,Catheter-associated urinary tract infections (CAUTI),1.493,No Different
+000162,Central line-associated bloodstream infections (CLABSI),1.599,Better
+000162,Surgical site infections (SSI) - Colon surgery,0.982,No Different
+000162,Methicillin-resistant Staphylococcus aureus (MRSA),1.103,No Different
+000163,Surgical site infections (SSI) - Colon surgery,1.251,Better
+000163,Clostridium difficile (C.diff) infections,0.951,No Different
+000163,Methicillin-resistant Staphylococcus aureus (MRSA),1.136,Worse
+000163,Surgical site infections (SSI) - Abdominal hysterectomy,1.357,No Different
+000164,Surgical site infections (SSI) - Abdominal hysterectomy,1.675,No Different
+000164,Clostridium difficile (C.diff) infections,0.953,No Different
+000164,Catheter-associated urinary tract infections (CAUTI),1.637,No Different
+000164,Central line-associated bloodstream infections (CLABSI),1.237,Worse
+000165,Surgical site infections (SSI) - Colon surgery,1.201,No Different
+000165,Clostridium difficile (C.diff) infections,1.226,No Different
+000165,Catheter-associated urinary tract infections (CAUTI),1.048,No Different
+000165,Surgical site infections (SSI) - Abdominal hysterectomy,1.312,No Different
+000166,Methicillin-resistant Staphylococcus aureus (MRSA),0.595,No Different
+000166,Clostridium difficile (C.diff) infections,1.108,No Different
+000166,Surgical site infections (SSI) - Abdominal hysterectomy,0.686,No Different
+000167,Catheter-associated urinary tract infections (CAUTI),0.731,No Different
+000167,Methicillin-resistant Staphylococcus aureus (MRSA),0.794,Better
+000167,Surgical site infections (SSI) - Abdominal hysterectomy,0.906,No Different
+000167,Clostridium difficile (C.diff) infections,0.925,No Different
+000168,Methicillin-resistant Staphylococcus aureus (MRSA),0.922,No Different
+000168,Surgical site infections (SSI) - Colon surgery,1.041,No Different
+000168,Surgical site infections (SSI) - Abdominal hysterectomy,0.919,No Different
+000168,Clostridium difficile (C.diff) infections,0.942,No Different
+000169,Central line-associated bloodstream infections (CLABSI),0.697,No Different
+000169,Surgical site infections (SSI) - Colon surgery,1.138,Better
+000169,Surgical site infections (SSI) - Abdominal hysterectomy,0.564,Better
+000170,Catheter-associated urinary tract infections (CAUTI),0.75,No Different
+000170,Surgical site infections (SSI) - Colon surgery,0.909,Worse
+000170,Surgical site infections (SSI) - Abdominal hysterectomy,0.997,Better
+000170,Central line-associated bloodstream infections (CLABSI),0.979,No Different
+000170,Methicillin-resistant Staphylococcus aureus (MRSA),0.702,Better
+000170,Clostridium difficile (C.diff) infections,0.557,Worse
+000171,Clostridium difficile (C.diff) infections,1.004,No Different
+000171,Central line-associated bloodstream infections (CLABSI),1.382,Worse
+000171,Catheter-associated urinary tract infections (CAUTI),1.371,Better
+000172,Clostridium difficile (C.diff) infections,1.661,No Different
+000172,Central line-associated bloodstream infections (CLABSI),1.794,No Different
+000172,Surgical site infections (SSI) - Colon surgery,1.116,No Different
+000173,Clostridium difficile (C.diff) infections,1.339,No Different
+000173,Surgical site infections (SSI) - Abdominal hysterectomy,1.163,Worse
+000173,Catheter-associated urinary tract infections (CAUTI),1.086,Worse
+000173,Central line-associated bloodstream infections (CLABSI),1.132,No Different
+000173,Methicillin-resistant Staphylococcus aureus (MRSA),1.03,No Different
+000174,Surgical site infections (SSI) - Abdominal hysterectomy,0.687,No Different
+000174,Clostridium difficile (C.diff) infections,0.93,Better
+000174,Catheter-associated urinary tract infections (CAUTI),0.882,No Different
+000174,Central line-associated bloodstream infections (CLABSI),0.911,Worse
+000174,Methicillin-resistant Staphylococcus aureus (MRSA),0.584,Better
+000175,Surgical site infections (SSI) - Abdominal hysterectomy,1.297,No Different
+000175,Clostridium difficile (C.diff) infections,1.158,No Different
+000175,Methicillin-resistant Staphylococcus aureus (MRSA),1.17,Better
+000176,Surgical site infections (SSI) - Colon surgery,0.866,No Different
+000176,Central line-associated bloodstream infections (CLABSI),0.801,No Different
+000176,Surgical site infections (SSI) - Abdominal hysterectomy,0.416,No Different
+000176,Catheter-associated urinary tract infections (CAUTI),0.909,No Different
+000176,Methicillin-resistant Staphylococcus aureus (MRSA),1.008,Worse
+000176,Clostridium difficile (C.diff) infections,0.712,Worse
+000177,Catheter-associated urinary tract infections (CAUTI),1.03,Better
+000177,Surgical site infections (SSI) - Abdominal hysterectomy,0.669,Better
+000177,Surgical site infections (SSI) - Colon surgery,0.96,No Different
+000177,Methicillin-resistant Staphylococcus aureus (MRSA),0.709,No Different
+000177,Clostridium difficile (C.diff) infections,0.976,No Different
+000178,Surgical site infections (SSI) - Abdominal hysterectomy,1.106,No Different
+000178,Methicillin-resistant Staphylococcus aureus (MRSA),1.177,No Different
+000178,Surgical site infections (SSI) - Colon surgery,0.997,No Different
+000179,Surgical site infections (SSI) - Abdominal hysterectomy,0.794,No Different
+000179,Surgical site infections (SSI) - Colon surgery,1.313,No Different
+000179,Clostridium difficile (C.diff) infections,0.993,No Different
+000179,Central line-associated bloodstream infections (CLABSI),0.892,Better
+000179,Methicillin-resistant Staphylococcus aureus (MRSA),1.017,No Different
+000180,Methicillin-resistant Staphylococcus aureus (MRSA),1.363,Worse
+000180,Surgical site infections (SSI) - Colon surgery,1.578,No Different
+000180,Central line-associated bloodstream infections (CLABSI),1.514,Better
+000181,Clostridium difficile (C.diff) infections,1.835,No Different
+000181,Methicillin-resistant Staphylococcus aureus (MRSA),1.75,Better
+000181,Central line-associated bloodstream infections (CLABSI),1.674,Better
+000181,Catheter-associated urinary tract infections (CAUTI),1.536,No Different
+000181,Surgical site infections (SSI) - Abdominal hysterectomy,1.771,Worse
+000181,Surgical site infections (SSI) - Colon surgery,1.803,No Different
+000182,Central line-associated bloodstream infections (CLABSI),0.932,No Different
+000182,Clostridium difficile (C.diff) infections,0.93,No Different
+000182,Catheter-associated urinary tract infections (CAUTI),1.02,No Different
+000182,Surgical site infections (SSI) - Colon surgery,0.884,No Different
+000182,Methicillin-resistant Staphylococcus aureus (MRSA),1.261,No Different
+000183,Catheter-associated urinary tract infections (CAUTI),1.388,No Different
+000183,Surgical site infections (SSI) - Abdominal hysterectomy,1.03,No Different
+000183,Clostridium difficile (C.diff) infections,1.539,No Different
+000184,Clostridium difficile (C.diff) infections,0.969,Better
+000184,Surgical site infections (SSI) - Abdominal hysterectomy,1.09,No Different
+000184,Catheter-associated urinary tract infections (CAUTI),1.075,No Different
+000184,Surgical site infections (SSI) - Colon surgery,0.863,No Different
+000184,Central line-associated bloodstream infections (CLABSI),1.14,No Different
+000185,Clostridium difficile (C.diff) infections,0.891,No Different
+000185,Central line-associated bloodstream infections (CLABSI),1.258,Worse
+000185,Catheter-associated urinary tract infections (CAUTI),0.801,No Different
+000185,Methicillin-resistant Staphylococcus aureus (MRSA),1.017,No Different
+000185,Surgical site infections (SSI) - Abdominal hysterectomy,0.908,Better
+000186,Surgical site infections (SSI) - Abdominal hysterectomy,1.084,No Different
+000186,Methicillin-resistant Staphylococcus aureus (MRSA),1.288,Better
+000186,Surgical site infections (SSI) - Colon surgery,1.143,No Different
+000187,Methicillin-resistant Staphylococcus aureus (MRSA),0.397,No Different
+000187,Central line-associated bloodstream infections (CLABSI),0.737,No Different
+000187,Catheter-associated urinary tract infections (CAUTI),0.484,No Different
+000187,Clostridium difficile (C.diff) infections,0.919,No Different
+000187,Surgical site infections (SSI) - Colon surgery,0.743,Better
+000187,Surgical site infections (SSI) - Abdominal hysterectomy,0.879,No Different
+000188,Surgical site infections (SSI) - Colon surgery,0.477,No Different
+000188,Central line-associated bloodstream infections (CLABSI),0.894,Better
+000188,Methicillin-resistant Staphylococcus aureus (MRSA),0.974,No Different
+000189,Surgical site infections (SSI) - Colon surgery,1.565,No Different
+000189,Methicillin-resistant Staphylococcus aureus (MRSA),1.626,No Different
+000189,Catheter-associated urinary tract infections (CAUTI),1.617,Better
+000189,Clostridium difficile (C.diff) infections,2.015,Worse
+000190,Central line-associated bloodstream infections (CLABSI),1.377,Better
+000190,Surgical site infections (SSI) - Abdominal hysterectomy,0.63,No Different
+000190,Methicillin-resistant Staphylococcus aureus (MRSA),0.943,No Different
+000190,Clostridium difficile (C.diff) infections,0.98,No Different
+000191,Surgical site infections (SSI) - Colon surgery,1.099,No Different
+000191,Central line-associated bloodstream infections (CLABSI),0.855,Better
+000191,Methicillin-resistant Staphylococcus aureus (MRSA),1.047,No Different
+000192,Clostridium difficile (C.diff) infections,1.241,No Different
+000192,Central line-associated bloodstream infections (CLABSI),0.76,No Different
+000192,Surgical site infections (SSI) - Colon surgery,1.218,No Different
+000193,Surgical site infections (SSI) - Colon surgery,1.122,No Different
+000193,Clostridium difficile (C.diff) infections,0.701,No Different
+000193,Methicillin-resistant Staphylococcus aureus (MRSA),0.931,No Different
+000193,Central line-associated bloodstream infections (CLABSI),0.968,No Different
+000194,Clostridium difficile (C.diff) infections,1.055,No Different
+000194,Catheter-associated urinary tract infections (CAUTI),0.893,Better
+000194,Surgical site infections (SSI) - Abdominal hysterectomy,1.22,No Different
+000194,Surgical site infections (SSI) - Colon surgery,1.288,Better
+000194,Methicillin-resistant Staphylococcus aureus (MRSA),1.438,No Different
+000195,Methicillin-resistant Staphylococcus aureus (MRSA),1.06,No Different
+000195,Catheter-associated urinary tract infections (CAUTI),1.361,No Different
+000195,Clostridium difficile (C.diff) infections,1.31,Better
+000195,Central line-associated bloodstream infections (CLABSI),1.249,No Different
+000195,Surgical site infections (SSI) - Abdominal hysterectomy,1.318,No Different
+000195,Surgical site infections (SSI) - Colon surgery,0.914,Better
+000196,Methicillin-resistant Staphylococcus aureus (MRSA),1.202,No Different
+000196,Central line-associated bloodstream infections (CLABSI),1.369,No Different
+000196,Clostridium difficile (C.diff) infections,1.217,Better
+000196,Catheter-associated urinary tract infections (CAUTI),1.098,No Different
+000196,Surgical site infections (SSI) - Abdominal hysterectomy,1.385,No Different
+000197,Surgical site infections (SSI) - Colon surgery,0.774,Better
+000197,Methicillin-resistant Staphylococcus aureus (MRSA),1.18,No Different
+000197,Catheter-associated urinary tract infections (CAUTI),1.266,No Different
+000198,Clostridium difficile (C.diff) infections,0.727,No Different
+000198,Surgical site infections (SSI) - Abdominal hysterectomy,0.892,No Different
+000198,Catheter-associated urinary tract infections (CAUTI),1.24,Better
+000198,Surgical site infections (SSI) - Colon surgery,1.132,No Different
+000198,Central line-associated bloodstream infections (CLABSI),0.819,No Different
+000198,Methicillin-resistant Staphylococcus aureus (MRSA),0.963,No Different
+000199,Central line-associated bloodstream infections (CLABSI),1.103,No Different
+000199,Surgical site infections (SSI) - Abdominal hysterectomy,1.474,No Different
+000199,Surgical site infections (SSI) - Colon surgery,1.11,No Different
+000199,Clostridium difficile (C.diff) infections,0.871,No Different
+000199,Catheter-associated urinary tract infections (CAUTI),1.144,No Different
+000199,Methicillin-resistant Staphylococcus aureus (MRSA),0.818,No Different
+000200,Catheter-associated urinary tract infections (CAUTI),1.142,No Different
+000200,Surgical site infections (SSI) - Abdominal hysterectomy,0.526,No Different
+000200,Clostridium difficile (C.diff) infections,0.661,No Different
+000201,Methicillin-resistant Staphylococcus aureus (MRSA),0.422,No Different
+000201,Surgical site infections (SSI) - Abdominal hysterectomy,0.283,No Different
+000201,Central line-associated bloodstream infections (CLABSI),0.765,No Different
+000201,Surgical site infections (SSI) - Colon surgery,0.1,No Different
+000201,Catheter-associated urinary tract infections (CAUTI),0.755,No Different
+000201,Clostridium difficile (C.diff) infections,0.278,No Different
+000202,Catheter-associated urinary tract infections (CAUTI),0.822,No Different
+000202,Methicillin-resistant Staphylococcus aureus (MRSA),0.913,No Different
+000202,Central line-associated bloodstream infections (CLABSI),0.321,No Different
+000203,Catheter-associated urinary tract infections (CAUTI),1.19,Worse
+000203,Surgical site infections (SSI) - Colon surgery,1.272,No Different
+000203,Surgical site infections (SSI) - Abdominal hysterectomy,1.139,No Different
+000203,Central line-associated bloodstream infections (CLABSI),1.073,No Different
+000203,Clostridium difficile (C.diff) infections,1.117,No Different
+000204,Surgical site infections (SSI) - Colon surgery,1.23,Better
+000204,Central line-associated bloodstream infections (CLABSI),1.285,No Different
+000204,Surgical site infections (SSI) - Abdominal hysterectomy,1.081,Better
+000204,Catheter-associated urinary tract infections (CAUTI),0.985,No Different
+000204,Methicillin-resistant Staphylococcus aureus (MRSA),0.861,No Different
+000204,Clostridium difficile (C.diff) infections,1.139,Worse
+000205,Surgical site infections (SSI) - Colon surgery,0.335,No Different
+000205,Central line-associated bloodstream infections (CLABSI),0.22,No Different
+000205,Surgical site infections (SSI) - Abdominal hysterectomy,0.219,No Different
+000205,Clostridium difficile (C.diff) infections,0.478,Better
+000206,Central line-associated bloodstream infections (CLABSI),0.688,Better
+000206,Surgical site infections (SSI) - Abdominal hysterectomy,0.727,No Different
+000206,Clostridium difficile (C.diff) infections,0.321,No Different
+000206,Methicillin-resistant Staphylococcus aureus (MRSA),0.601,No Different
+000206,Catheter-associated urinary tract infections (CAUTI),0.78,Worse
+000207,Central line-associated bloodstream infections (CLABSI),0.676,No Different
+000207,Methicillin-resistant Staphylococcus aureus (MRSA),0.382,No Different
+000207,Clostridium difficile (C.diff) infections,0.264,Better
+000207,Surgical site infections (SSI) - Colon surgery,0.567,Worse
+000207,Catheter-associated urinary tract infections (CAUTI),0.537,Better
+000207,Surgical site infections (SSI) - Abdominal hysterectomy,0.481,No Different
+000208,Surgical site infections (SSI) - Colon surgery,0.813,No Different
+000208,Surgical site infections (SSI) - Abdominal hysterectomy,0.997,No Different
+000208,Clostridium difficile (C.diff) infections,0.98,No Different
+000208,Catheter-associated urinary tract infections (CAUTI),1.049,No Different
+000209,Surgical site infections (SSI) - Colon surgery,1.264,No Different
+000209,Surgical site infections (SSI) - Abdominal hysterectomy,0.882,No Different
+000209,Central line-associated bloodstream infections (CLABSI),1.501,Better
+000209,Catheter-associated urinary tract infections (CAUTI),1.628,No Different
+000209,Methicillin-resistant Staphylococcus aureus (MRSA),0.76,No Different
+000209,Clostridium difficile (C.diff) infections,1.798,Worse
+000210,Catheter-associated urinary tract infections (CAUTI),1.279,No Different
+000210,Surgical site infections (SSI) - Colon surgery,1.581,No Different
+000210,Surgical site infections (SSI) - Abdominal hysterectomy,1.214,Better
+000210,Clostridium difficile (C.diff) infections,1.322,No Different
+000210,Methicillin-resistant Staphylococcus aureus (MRSA),1.39,No Different
+000211,Surgical site infections (SSI) - Colon surgery,0.35,No Different
+000211,Clostridium difficile (C.diff) infections,0.892,No Different
+000211,Catheter-associated urinary tract infections (CAUTI),0.403,No Different
+000211,Surgical site infections (SSI) - Abdominal hysterectomy,0.823,No Different
+000211,Central line-associated bloodstream infections (CLABSI),0.626,No Different
+000212,Central line-associated bloodstream infections (CLABSI),1.894,No Different
+000212,Methicillin-resistant Staphylococcus aureus (MRSA),1.672,No Different
+000212,Surgical site infections (SSI) - Abdominal hysterectomy,1.39,No Different
+000212,Catheter-associated urinary tract infections (CAUTI),1.57,No Different
+000213,Surgical site infections (SSI) - Abdominal hysterectomy,1.2,Better
+000213,Clostridium difficile (C.diff) infections,1.386,No Different
+000213,Methicillin-resistant Staphylococcus aureus (MRSA),1.201,Worse
+000213,Central line-associated bloodstream infections (CLABSI),1.107,No Different
+000213,Surgical site infections (SSI) - Colon surgery,1.094,Better
+000213,Catheter-associated urinary tract infections (CAUTI),1.19,Better
+000214,Surgical site infections (SSI) - Abdominal hysterectomy,0.622,No Different
+000214,Catheter-associated urinary tract infections (CAUTI),0.257,Better
+000214,Central line-associated bloodstream infections (CLABSI),0.761,Worse
+000214,Methicillin-resistant Staphylococcus aureus (MRSA),0.139,No Different
+000214,Clostridium difficile (C.diff) infections,0.376,No Different
+000215,Methicillin-resistant Staphylococcus aureus (MRSA),0.97,No Different
+000215,Surgical site infections (SSI) - Colon surgery,0.489,No Different
+000215,Clostridium difficile (C.diff) infections,0.39,Better
+000215,Central line-associated bloodstream infections (CLABSI),0.374,No Different
+000215,Surgical site infections (SSI) - Abdominal hysterectomy,0.514,Worse
+000216,Surgical site infections (SSI) - Colon surgery,0.483,No Different
+000216,Catheter-associated urinary tract infections (CAUTI),0.314,No Different
+000216,Methicillin-resistant Staphylococcus aureus (MRSA),0.328,Worse
+000216,Surgical site infections (SSI) - Abdominal hysterectomy,0.751,No Different
+000216,Central line-associated bloodstream infections (CLABSI),0.557,No Different
+000217,Catheter-associated urinary tract infections (CAUTI),1.05,No Different
+000217,Surgical site infections (SSI) - Colon surgery,0.678,No Different
+000217,Surgical site infections (SSI) - Abdominal hysterectomy,1.1,Better
+000217,Methicillin-resistant Staphylococcus aureus (MRSA),1.079,No Different
+000217,Clostridium difficile (C.diff) infections,0.819,No Different
+000217,Central line-associated bloodstream infections (CLABSI),0.585,No Different
+000218,Surgical site infections (SSI) - Colon surgery,1.447,No Different
+000218,Catheter-associated urinary tract infections (CAUTI),0.7,No Different
+000218,Central line-associated bloodstream infections (CLABSI),1.092,No Different
+000218,Surgical site infections (SSI) - Abdominal hysterectomy,1.01,No Different
+000219,Surgical site infections (SSI) - Colon surgery,1.192,Better
+000219,Catheter-associated urinary tract infections (CAUTI),1.121,No Different
+000219,Clostridium difficile (C.diff) infections,1.209,Worse
+000219,Surgical site infections (SSI) - Abdominal hysterectomy,1.456,Worse
+000219,Central line-associated bloodstream infections (CLABSI),1.181,No Different
+000220,Central line-associated bloodstream infections (CLABSI),1.492,No Different
+000220,Surgical site infections (SSI) - Abdominal hysterectomy,1.763,Better
+000220,Methicillin-resistant Staphylococcus aureus (MRSA),1.679,No Different
+000220,Catheter-associated urinary tract infections (CAUTI),1.57,No Different
+000221,Clostridium difficile (C.diff) infections,1.606,No Different
+000221,Methicillin-resistant Staphylococcus aureus (MRSA),1.244,Better
+000221,Surgical site infections (SSI) - Abdominal hysterectomy,0.917,No Different
+000222,Surgical site infections (SSI) - Abdominal hysterectomy,1.043,No Different
+000222,Central line-associated bloodstream infections (CLABSI),0.713,Worse
+000222,Catheter-associated urinary tract infections (CAUTI),1.194,No Different
+000222,Clostridium difficile (C.diff) infections,0.788,No Different
+000223,Methicillin-resistant Staphylococcus aureus (MRSA),1.06,No Different
+000223,Clostridium difficile (C.diff) infections,1.428,No Different
+000223,Surgical site infections (SSI) - Abdominal hysterectomy,1.298,No Different
+000223,Catheter-associated urinary tract infections (CAUTI),1.481,Worse
+000223,Central line-associated bloodstream infections (CLABSI),1.556,No Different
+000223,Surgical site infections (SSI) - Colon surgery,1.286,Better
+000224,Methicillin-resistant Staphylococcus aureus (MRSA),1.416,No Different
+000224,Surgical site infections (SSI) - Abdominal hysterectomy,1.278,No Different
+000224,Central line-associated bloodstream infections (CLABSI),1.353,No Different
+000224,Clostridium difficile (C.diff) infections,1.087,No Different
+000224,Surgical site infections (SSI) - Colon surgery,1.785,Better
+000224,Catheter-associated urinary tract infections (CAUTI),1.426,Better
+000225,Surgical site infections (SSI) - Colon surgery,1.198,No Different
+000225,Surgical site infections (SSI) - Abdominal hysterectomy,1.596,Worse
+000225,Clostridium difficile (C.diff) infections,0.954,No Different
+000225,Central line-associated bloodstream infections (CLABSI),1.248,No Different
+000225,Catheter-associated urinary tract infections (CAUTI),1.487,No Different
+000226,Methicillin-resistant Staphylococcus aureus (MRSA),0.97,No Different
+000226,Central line-associated bloodstream infections (CLABSI),1.278,No Different
+000226,Catheter-associated urinary tract infections (CAUTI),1.276,No Different
+000227,Central line-associated bloodstream infections (CLABSI),0.51,No Different
+000227,Surgical site infections (SSI) - Colon surgery,0.969,No Different
+000227,Methicillin-resistant Staphylococcus aureus (MRSA),0.699,No Different
+000227,Surgical site infections (SSI) - Abdominal hysterectomy,0.548,No Different
+000228,Clostridium difficile (C.diff) infections,0.867,Worse
+000228,Methicillin-resistant Staphylococcus aureus (MRSA),0.73,No Different
+000228,Central line-associated bloodstream infections (CLABSI),0.763,No Different
+000228,Surgical site infections (SSI) - Colon surgery,0.592,No Different
+000228,Surgical site infections (SSI) - Abdominal hysterectomy,0.836,Better
+000228,Catheter-associated urinary tract infections (CAUTI),1.031,No Different
+000229,Methicillin-resistant Staphylococcus aureus (MRSA),0.891,No Different
+000229,Surgical site infections (SSI) - Abdominal hysterectomy,0.765,No Different
+000229,Clostridium difficile (C.diff) infections,1.082,No Different
+000229,Central line-associated bloodstream infections (CLABSI),0.899,Better
+000229,Surgical site infections (SSI) - Colon surgery,1.062,No Different
+000230,Surgical site infections (SSI) - Abdominal hysterectomy,1.599,No Different
+000230,Surgical site infections (SSI) - Colon surgery,0.879,Better
+000230,Catheter-associated urinary tract infections (CAUTI),1.063,No Different
+000230,Central line-associated bloodstream infections (CLABSI),1.227,No Different
+000231,Surgical site infections (SSI) - Abdominal hysterectomy,0.662,No Different
+000231,Surgical site infections (SSI) - Colon surgery,0.361,No Different
+000231,Clostridium difficile (C.diff) infections,0.648,Better
+000232,Surgical site infections (SSI) - Colon surgery,1.361,Better
+000232,Central line-associated bloodstream infections (CLABSI),1.081,No Different
+000232,Catheter-associated urinary tract infections (CAUTI),1.213,Worse
+000232,Surgical site infections (SSI) - Abdominal hysterectomy,0.992,No Different
+000233,Methicillin-resistant Staphylococcus aureus (MRSA),0.473,Better
+000233,Central line-associated bloodstream infections (CLABSI),0.673,No Different
+000233,Surgical site infections (SSI) - Abdominal hysterectomy,0.902,Worse
+000233,Catheter-associated urinary tract infections (CAUTI),0.852,No Different
+000233,Surgical site infections (SSI) - Colon surgery,0.977,No Different
+000233,Clostridium difficile (C.diff) infections,0.588,Better
+000234,Methicillin-resistant Staphylococcus aureus (MRSA),1.355,Better
+000234,Clostridium difficile (C.diff) infections,1.43,No Different
+000234,Central line-associated bloodstream infections (CLABSI),1.195,Worse
+000234,Surgical site infections (SSI) - Colon surgery,1.207,No Different
+000234,Surgical site infections (SSI) - Abdominal hysterectomy,1.611,No Different
+000235,Central line-associated bloodstream infections (CLABSI),0.951,No Different
+000235,Clostridium difficile (C.diff) infections,0.875,Worse
+000235,Methicillin-resistant Staphylococcus aureus (MRSA),0.762,Worse
+000235,Surgical site infections (SSI) - Colon surgery,1.279,Better
+000235,Catheter-associated urinary tract infections (CAUTI),0.895,No Different
+000236,Surgical site infections (SSI) - Abdominal hysterectomy,1.672,No Different
+000236,Central line-associated bloodstream infections (CLABSI),1.657,No Different
+000236,Catheter-associated urinary tract infections (CAUTI),1.5,No Different
+000237,Catheter-associated urinary tract infections (CAUTI),0.371,No Different
+000237,Surgical site infections (SSI) - Abdominal hysterectomy,0.589,No Different
+000237,Surgical site infections (SSI) - Colon surgery,0.483,Worse
+000237,Methicillin-resistant Staphylococcus aureus (MRSA),0.487,Better
+000238,Surgical site infections (SSI) - Colon surgery,1.267,No Different
+000238,Clostridium difficile (C.diff) infections,1.53,Better
+000238,Catheter-associated urinary tract infections (CAUTI),1.251,No Different
+000238,Methicillin-resistant Staphylococcus aureus (MRSA),0.773,No Different
+000238,Central line-associated bloodstream infections (CLABSI),0.662,No Different
+000238,Surgical site infections (SSI) - Abdominal hysterectomy,1.302,Worse
+000239,Surgical site infections (SSI) - Colon surgery,1.222,Better
+000239,Central line-associated bloodstream infections (CLABSI),1.2,No Different
+000239,Clostridium difficile (C.diff) infections,0.597,No Different
+000239,Surgical site infections (SSI) - Abdominal hysterectomy,0.851,Better
+000239,Catheter-associated urinary tract infections (CAUTI),0.877,Better
+000240,Methicillin-resistant Staphylococcus aureus (MRSA),1.244,No Different
+000240,Central line-associated bloodstream infections (CLABSI),1.354,No Different
+000240,Surgical site infections (SSI) - Colon surgery,0.631,Better
+000240,Clostridium difficile (C.diff) infections,1.336,No Different
+000240,Surgical site infections (SSI) - Abdominal hysterectomy,0.955,No Different
+000241,Clostridium difficile (C.diff) infections,1.771,No Different
+000241,Surgical site infections (SSI) - Colon surgery,1.626,No Different
+000241,Catheter-associated urinary tract infections (CAUTI),1.761,Worse
+000241,Methicillin-resistant Staphylococcus aureus (MRSA),1.264,No Different
+000241,Surgical site infections (SSI) - Abdominal hysterectomy,1.534,No Different
+000241,Central line-associated bloodstream infections (CLABSI),1.58,No Different
+000242,Methicillin-resistant Staphylococcus aureus (MRSA),0.677,Better
+000242,Surgical site infections (SSI) - Abdominal hysterectomy,1.021,Worse
+000242,Surgical site infections (SSI) - Colon surgery,1.281,No Different
+000242,Central line-associated bloodstream infections (CLABSI),1.035,No Different
+000242,Clostridium difficile (C.diff) infections,0.931,No Different
+000243,Catheter-associated urinary tract infections (CAUTI),0.512,No Different
+000243,Methicillin-resistant Staphylococcus aureus (MRSA),0.686,Better
+000243,Surgical site infections (SSI) - Abdominal hysterectomy,0.725,No Different
+000243,Surgical site infections (SSI) - Colon surgery,0.586,No Different
+000244,Clostridium difficile (C.diff) infections,1.025,No Different
+000244,Surgical site infections (SSI) - Abdominal hysterectomy,1.234,Better
+000244,Methicillin-resistant Staphylococcus aureus (MRSA),0.934,Worse
+000244,Central line-associated bloodstream infections (CLABSI),0.366,Worse
+000244,Catheter-associated urinary tract infections (CAUTI),1.131,No Different
+000245,Surgical site infections (SSI) - Colon surgery,1.553,No Different
+000245,Clostridium difficile (C.diff) infections,1.632,No Different
+000245,Central line-associated bloodstream infections (CLABSI),1.768,No Different
+000245,Surgical site infections (SSI) - Abdominal hysterectomy,1.479,No Different
+000245,Catheter-associated urinary tract infections (CAUTI),2.062,No Different
+000246,Clostridium difficile (C.diff) infections,0.659,No Different
+000246,Surgical site infections (SSI) - Colon surgery,0.158,No Different
+000246,Methicillin-resistant Staphylococcus aureus (MRSA),0.509,Better
+000246,Surgical site infections (SSI) - Abdominal hysterectomy,0.754,Worse
+000246,Central line-associated bloodstream infections (CLABSI),0.745,No Different
+000246,Catheter-associated urinary tract infections (CAUTI),0.506,No Different
+000247,Central line-associated bloodstream infections (CLABSI),0.854,No Different
+000247,Catheter-associated urinary tract infections (CAUTI),0.695,No Different
+000247,Surgical site infections (SSI) - Abdominal hysterectomy,0.676,No Different
+000247,Clostridium difficile (C.diff) infections,1.063,No Different
+000247,Methicillin-resistant Staphylococcus aureus (MRSA),0.672,No Different
+000248,Methicillin-resistant Staphylococcus aureus (MRSA),1.262,No Different
+000248,Surgical site infections (SSI) - Colon surgery,0.708,No Different
+000248,Catheter-associated urinary tract infections (CAUTI),1.018,No Different
+000248,Surgical site infections (SSI) - Abdominal hysterectomy,1.204,No Different
+000248,Clostridium difficile (C.diff) infections,1.061,Worse
+000249,Surgical site infections (SSI) - Abdominal hysterectomy,0.896,No Different
+000249,Surgical site infections (SSI) - Colon surgery,0.737,No Different
+000249,Methicillin-resistant Staphylococcus aureus (MRSA),0.774,Better
+000250,Central line-associated bloodstream infections (CLABSI),1.019,Better
+000250,Methicillin-resistant Staphylococcus aureus (MRSA),0.817,No Different
+000250,Surgical site infections (SSI) - Abdominal hysterectomy,1.385,Better
+000250,Surgical site infections (SSI) - Colon surgery,0.744,No Different
+000250,Clostridium difficile (C.diff) infections,1.127,Better
+000251,Methicillin-resistant Staphylococcus aureus (MRSA),0.782,No Different
+000251,Central line-associated bloodstream infections (CLABSI),0.374,No Different
+000251,Surgical site infections (SSI) - Abdominal hysterectomy,0.383,Better
+000251,Surgical site infections (SSI) - Colon surgery,0.51,Worse
+000251,Clostridium difficile (C.diff) infections,1.026,No Different
+000252,Clostridium difficile (C.diff) infections,0.552,No Different
+000252,Surgical site infections (SSI) - Abdominal hysterectomy,0.783,No Different
+000252,Methicillin-resistant Staphylococcus aureus (MRSA),0.838,Better
+000253,Surgical site infections (SSI) - Abdominal hysterectomy,0.829,Better
+000253,Central line-associated bloodstream infections (CLABSI),0.945,No Different
+000253,Catheter-associated urinary tract infections (CAUTI),0.843,No Different
+000253,Surgical site infections (SSI) - Colon surgery,0.858,Better
+000253,Methicillin-resistant Staphylococcus aureus (MRSA),0.754,Better
+000254,Methicillin-resistant Staphylococcus aureus (MRSA),1.209,Worse
+000254,Surgical site infections (SSI) - Colon surgery,0.325,No Different
+000254,Clostridium difficile (C.diff) infections,0.615,No Different
+000254,Surgical site infections (SSI) - Abdominal hysterectomy,0.632,No Different
+000254,Central line-associated bloodstream infections (CLABSI),0.369,Better
+000255,Methicillin-resistant Staphylococcus aureus (MRSA),0.81,No Different
+000255,Surgical site infections (SSI) - Abdominal hysterectomy,1.063,Worse
+000255,Surgical site infections (SSI) - Colon surgery,1.032,No Different
+000256,Methicillin-resistant Staphylococcus aureus (MRSA),1.075,No Different
+000256,Catheter-associated urinary tract infections (CAUTI),0.967,No Different
+000256,Surgical site infections (SSI) - Abdominal hysterectomy,1.572,No Different
+000256,Surgical site infections (SSI) - Colon surgery,1.021,Better
+000256,Clostridium difficile (C.diff) infections,1.36,No Different
+000257,Catheter-associated urinary tract infections (CAUTI),1.842,Better
+000257,Surgical site infections (SSI) - Abdominal hysterectomy,1.727,No Different
+000257,Methicillin-resistant Staphylococcus aureus (MRSA),1.657,Worse
+000257,Surgical site infections (SSI) - Colon surgery,1.186,No Different
+000258,Clostridium difficile (C.diff) infections,1.257,No Different
+000258,Central line-associated bloodstream infections (CLABSI),0.727,Better
+000258,Surgical site infections (SSI) - Colon surgery,0.963,No Different
+000258,Methicillin-resistant Staphylococcus aureus (MRSA),1.056,No Different
+000259,Central line-associated bloodstream infections (CLABSI),1.115,No Different
+000259,Clostridium difficile (C.diff) infections,0.856,Better
+000259,Surgical site infections (SSI) - Colon surgery,0.736,Worse
+000259,Surgical site infections (SSI) - Abdominal hysterectomy,1.162,No Different
+000260,Methicillin-resistant Staphylococcus aureus (MRSA),1.673,No Different
+000260,Surgical site infections (SSI) - Colon surgery,1.607,No Different
+000260,Catheter-associated urinary tract infections (CAUTI),1.484,No Different
+000261,Methicillin-resistant Staphylococcus aureus (MRSA),1.316,No Different
+000261,Surgical site infections (SSI) - Colon surgery,1.026,No Different
+000261,Central line-associated bloodstream infections (CLABSI),1.396,No Different
+000262,Surgical site infections (SSI) - Abdominal hysterectomy,1.033,No Different
+000262,Surgical site infections (SSI) - Colon surgery,0.871,No Different
+000262,Clostridium difficile (C.diff) infections,1.204,No Different
+000262,Catheter-associated urinary tract infections (CAUTI),0.996,Better
+000262,Central line-associated bloodstream infections (CLABSI),1.306,No Different
+000262,Methicillin-resistant Staphylococcus aureus (MRSA),0.882,No Different
+000263,Catheter-associated urinary tract infections (CAUTI),1.775,No Different
+000263,Surgical site infections (SSI) - Abdominal hysterectomy,1.414,No Different
+000263,Central line-associated bloodstream infections (CLABSI),1.271,Better
+000263,Surgical site infections (SSI) - Colon surgery,1.552,No Different
+000263,Clostridium difficile (C.diff) infections,1.942,Better
+000263,Methicillin-resistant Staphylococcus aureus (MRSA),1.615,No Different
+000264,Methicillin-resistant Staphylococcus aureus (MRSA),1.336,No Different
+000264,Surgical site infections (SSI) - Colon surgery,0.883,No Different
+000264,Clostridium difficile (C.diff) infections,1.189,No Different
+000264,Central line-associated bloodstream infections (CLABSI),1.273,Worse
+000264,Surgical site infections (SSI) - Abdominal hysterectomy,0.896,No Different
+000265,Methicillin-resistant Staphylococcus aureus (MRSA),1.304,No Different
+000265,Central line-associated bloodstream infections (CLABSI),1.387,Worse
+000265,Catheter-associated urinary tract infections (CAUTI),1.156,Better
+000265,Surgical site infections (SSI) - Abdominal hysterectomy,1.337,No Different
+000265,Clostridium difficile (C.diff) infections,1.82,No Different
+000265,Surgical site infections (SSI) - Colon surgery,1.565,No Different
+000266,Methicillin-resistant Staphylococcus aureus (MRSA),0.924,Better
+000266,Clostridium difficile (C.diff) infections,1.17,No Different
+000266,Catheter-associated urinary tract infections (CAUTI),1.244,No Different
+000267,Surgical site infections (SSI) - Abdominal hysterectomy,0.957,Better
+000267,Methicillin-resistant Staphylococcus aureus (MRSA),1.151,Better
+000267,Central line-associated bloodstream infections (CLABSI),0.918,Worse
+000267,Surgical site infections (SSI) - Colon surgery,1.229,No Different
+000268,Clostridium difficile (C.diff) infections,1.137,No Different
+000268,Methicillin-resistant Staphylococcus aureus (MRSA),1.586,No Different
+000268,Surgical site infections (SSI) - Colon surgery,1.072,Better
+000268,Surgical site infections (SSI) - Abdominal hysterectomy,0.984,No Different
+000268,Catheter-associated urinary tract infections (CAUTI),0.907,No Different
+000268,Central line-associated bloodstream infections (CLABSI),1.22,No Different
+000269,Surgical site infections (SSI) - Abdominal hysterectomy,0.872,No Different
+000269,Catheter-associated urinary tract infections (CAUTI),1.135,No Different
+000269,Clostridium difficile (C.diff) infections,0.831,Better
+000270,Catheter-associated urinary tract infections (CAUTI),1.096,No Different
+000270,Clostridium difficile (C.diff) infections,1.129,No Different
+000270,Surgical site infections (SSI) - Abdominal hysterectomy,1.514,No Different
+000271,Methicillin-resistant Staphylococcus aureus (MRSA),1.133,No Different
+000271,Central line-associated bloodstream infections (CLABSI),1.009,Worse
+000271,Catheter-associated urinary tract infections (CAUTI),1.163,No Different
+000271,Surgical site infections (SSI) - Colon surgery,1.054,No Different
+000272,Methicillin-resistant Staphylococcus aureus (MRSA),0.653,Better
+000272,Catheter-associated urinary tract infections (CAUTI),0.802,Worse
+000272,Surgical site infections (SSI) - Colon surgery,0.398,No Different
+000272,Surgical site infections (SSI) - Abdominal hysterectomy,0.369,No Different
+000272,Central line-associated bloodstream infections (CLABSI),0.68,No Different
+000273,Central line-associated bloodstream infections (CLABSI),0.22,No Different
+000273,Catheter-associated urinary tract infections (CAUTI),0.663,No Different
+000273,Methicillin-resistant Staphylococcus aureus (MRSA),0.519,Better
+000274,Methicillin-resistant Staphylococcus aureus (MRSA),1.131,No Different
+000274,Surgical site infections (SSI) - Colon surgery,0.796,No Different
+000274,Central line-associated bloodstream infections (CLABSI),1.151,No Different
+000274,Clostridium difficile (C.diff) infections,0.922,No Different
+000275,Surgical site infections (SSI) - Abdominal hysterectomy,0.74,Better
+000275,Clostridium difficile (C.diff) infections,1.463,No Different
+000275,Methicillin-resistant Staphylococcus aureus (MRSA),1.122,Better
+000276,Methicillin-resistant Staphylococcus aureus (MRSA),0.601,No Different
+000276,Central line-associated bloodstream infections (CLABSI),0.832,No Different
+000276,Clostridium difficile (C.diff) infections,0.513,No Different
+000276,Surgical site infections (SSI) - Colon surgery,0.907,No Different
+000276,Catheter-associated urinary tract infections (CAUTI),1.047,No Different
+000277,Clostridium difficile (C.diff) infections,1.318,Better
+000277,Surgical site infections (SSI) - Colon surgery,1.612,Worse
+000277,Methicillin-resistant Staphylococcus aureus (MRSA),1.575,No Different
+000277,Surgical site infections (SSI) - Abdominal hysterectomy,1.154,Better
+000277,Catheter-associated urinary tract infections (CAUTI),1.274,No Different
+000278,Surgical site infections (SSI) - Abdominal hysterectomy,1.567,No Different
+000278,Surgical site infections (SSI) - Colon surgery,0.832,No Different
+000278,Central line-associated bloodstream infections (CLABSI),1.132,No Different
+000278,Clostridium difficile (C.diff) infections,1.043,Better
+000278,Catheter-associated urinary tract infections (CAUTI),1.124,No Different
+000278,Methicillin-resistant Staphylococcus aureus (MRSA),1.048,No Different
+000279,Clostridium difficile (C.diff) infections,1.188,No Different
+000279,Surgical site infections (SSI) - Abdominal hysterectomy,1.739,Worse
+000279,Central line-associated bloodstream infections (CLABSI),1.277,Better
+000280,Surgical site infections (SSI) - Abdominal hysterectomy,1.309,Better
+000280,Methicillin-resistant Staphylococcus aureus (MRSA),1.421,No Different
+000280,Surgical site infections (SSI) - Colon surgery,1.201,No Different
+000280,Catheter-associated urinary tract infections (CAUTI),1.506,Better
+000281,Surgical site infections (SSI) - Abdominal hysterectomy,0.816,Better
+000281,Catheter-associated urinary tract infections (CAUTI),0.743,No Different
+000281,Surgical site infections (SSI) - Colon surgery,0.827,No Different
+000281,Clostridium difficile (C.diff) infections,0.549,Better
+000281,Central line-associated bloodstream infections (CLABSI),0.581,No Different
+000282,Catheter-associated urinary tract infections (CAUTI),1.19,No Different
+000282,Methicillin-resistant Staphylococcus aureus (MRSA),0.669,No Different
+000282,Clostridium difficile (C.diff) infections,0.9,Worse
+000282,Central line-associated bloodstream infections (CLABSI),0.87,No Different
+000283,Central line-associated bloodstream infections (CLABSI),0.925,Worse
+000283,Surgical site infections (SSI) - Abdominal hysterectomy,1.222,Better
+000283,Methicillin-resistant Staphylococcus aureus (MRSA),0.838,No Different
+000283,Surgical site infections (SSI) - Colon surgery,1.183,No Different
+000283,Catheter-associated urinary tract infections (CAUTI),1.007,No Different
+000284,Catheter-associated urinary tract infections (CAUTI),1.268,No Different
+000284,Methicillin-resistant Staphylococcus aureus (MRSA),1.214,No Different
+000284,Surgical site infections (SSI) - Abdominal hysterectomy,1.104,No Different
+000285,Catheter-associated urinary tract infections (CAUTI),0.666,Worse
+000285,Clostridium difficile (C.diff) infections,0.986,No Different
+000285,Surgical site infections (SSI) - Colon surgery,0.857,Better
+000285,Central line-associated bloodstream infections (CLABSI),0.439,No Different
+000285,Methicillin-resistant Staphylococcus aureus (MRSA),0.512,No Different
+000286,Catheter-associated urinary tract infections (CAUTI),1.396,No Different
+000286,Surgical site infections (SSI) - Abdominal hysterectomy,1.513,No Different
+000286,Surgical site infections (SSI) - Colon surgery,1.686,No Different
+000287,Surgical site infections (SSI) - Abdominal hysterectomy,0.75,No Different
+000287,Catheter-associated urinary tract infections (CAUTI),1.282,No Different
+000287,Surgical site infections (SSI) - Colon surgery,1.046,No Different
+000288,Methicillin-resistant Staphylococcus aureus (MRSA),0.922,No Different
+000288,Surgical site infections (SSI) - Abdominal hysterectomy,1.333,No Different
+000288,Central line-associated bloodstream infections (CLABSI),1.358,No Different
+000288,Surgical site infections (SSI) - Colon surgery,1.15,No Different
+000288,Clostridium difficile (C.diff) infections,0.85,No Different
+000288,Catheter-associated urinary tract infections (CAUTI),0.829,No Different
+000289,Central line-associated bloodstream infections (CLABSI),0.929,Better
+000289,Clostridium difficile (C.diff) infections,0.879,No Different
+000289,Catheter-associated urinary tract infections (CAUTI),1.227,No Different
+000289,Surgical site infections (SSI) - Abdominal hysterectomy,0.723,No Different
+000290,Clostridium difficile (C.diff) infections,1.2,No Different
+000290,Methicillin-resistant Staphylococcus aureus (MRSA),1.038,No Different
+000290,Surgical site infections (SSI) - Abdominal hysterectomy,0.879,No Different
+000291,Catheter-associated urinary tract infections (CAUTI),0.526,No Different
+000291,Surgical site infections (SSI) - Colon surgery,0.635,No Different
+000291,Central line-associated bloodstream infections (CLABSI),0.28,No Different
+000292,Surgical site infections (SSI) - Colon surgery,0.852,No Different
+000292,Catheter-associated urinary tract infections (CAUTI),0.104,No Different
+000292,Central line-associated bloodstream infections (CLABSI),0.429,Worse
+000292,Clostridium difficile (C.diff) infections,0.134,No Different
+000292,Methicillin-resistant Staphylococcus aureus (MRSA),0.782,No Different
+000293,Methicillin-resistant Staphylococcus aureus (MRSA),0.659,Better
+000293,Surgical site infections (SSI) - Abdominal hysterectomy,0.584,Worse
+000293,Central line-associated bloodstream infections (CLABSI),0.847,No Different
+000293,Clostridium difficile (C.diff) infections,0.74,No Different
+000294,Methicillin-resistant Staphylococcus aureus (MRSA),0.72,No Different
+000294,Surgical site infections (SSI) - Colon surgery,0.762,No Different
+000294,Clostridium difficile (C.diff) infections,1.278,No Different
+000294,Surgical site infections (SSI) - Abdominal hysterectomy,0.838,No Different
+000294,Catheter-associated urinary tract infections (CAUTI),1.03,No Different
+000295,Methicillin-resistant Staphylococcus aureus (MRSA),1.228,No Different
+000295,Clostridium difficile (C.diff) infections,1.004,No Different
+000295,Catheter-associated urinary tract infections (CAUTI),0.839,No Different
+000296,Methicillin-resistant Staphylococcus aureus (MRSA),1.268,No Different
+000296,Central line-associated bloodstream infections (CLABSI),1.191,Better
+000296,Surgical site infections (SSI) - Abdominal hysterectomy,1.081,No Different
+000296,Catheter-associated urinary tract infections (CAUTI),0.877,No Different
+000296,Clostridium difficile (C.diff) infections,0.686,No Different
+000296,Surgical site infections (SSI) - Colon surgery,0.964,No Different
+000297,Surgical site infections (SSI) - Colon surgery,1.597,No Different
+000297,Methicillin-resistant Staphylococcus aureus (MRSA),1.35,No Different
+000297,Catheter-associated urinary tract infections (CAUTI),1.368,No Different
+000297,Central line-associated bloodstream infections (CLABSI),1.285,No Different
+000298,Central line-associated bloodstream infections (CLABSI),0.379,Better
+000298,Surgical site infections (SSI) - Colon surgery,0.1,Better
+000298,Methicillin-resistant Staphylococcus aureus (MRSA),0.1,Worse
+000298,Catheter-associated urinary tract infections (CAUTI),0.146,Better
+000299,Catheter-associated urinary tract infections (CAUTI),0.871,No Different
+000299,Central line-associated bloodstream infections (CLABSI),0.86,Better
+000299,Surgical site infections (SSI) - Colon surgery,1.233,No Different
+000299,Methicillin-resistant Staphylococcus aureus (MRSA),1.147,No Different
+000299,Surgical site infections (SSI) - Abdominal hysterectomy,0.614,No Different
+000300,Catheter-associated urinary tract infections (CAUTI),0.726,No Different
+000300,Central line-associated bloodstream infections (CLABSI),0.67,Worse
+000300,Surgical site infections (SSI) - Abdominal hysterectomy,0.918,No Different
+000301,Methicillin-resistant Staphylococcus aureus (MRSA),1.594,No Different
+000301,Central line-associated bloodstream infections (CLABSI),1.489,No Different
+000301,Surgical site infections (SSI) - Colon surgery,1.673,No Different
+000301,Surgical site infections (SSI) - Abdominal hysterectomy,1.184,No Different
+000302,Surgical site infections (SSI) - Colon surgery,0.309,No Different
+000302,Methicillin-resistant Staphylococcus aureus (MRSA),0.648,No Different
+000302,Surgical site infections (SSI) - Abdominal hysterectomy,0.82,No Different
+000302,Clostridium difficile (C.diff) infections,0.44,No Different
+000302,Central line-associated bloodstream infections (CLABSI),0.703,No Different
+000303,Catheter-associated urinary tract infections (CAUTI),1.296,No Different
+000303,Surgical site infections (SSI) - Abdominal hysterectomy,0.992,No Different
+000303,Surgical site infections (SSI) - Colon surgery,1.179,No Different
+000304,Methicillin-resistant Staphylococcus aureus (MRSA),0.965,No Different
+000304,Surgical site infections (SSI) - Colon surgery,1.101,Better
+000304,Catheter-associated urinary tract infections (CAUTI),1.335,No Different
+000305,Catheter-associated urinary tract infections (CAUTI),1.5,No Different
+000305,Central line-associated bloodstream infections (CLABSI),1.466,Worse
+000305,Methicillin-resistant Staphylococcus aureus (MRSA),1.476,No Different
+000306,Clostridium difficile (C.diff) infections,0.791,No Different
+000306,Methicillin-resistant Staphylococcus aureus (MRSA),0.809,Better
+000306,Catheter-associated urinary tract infections (CAUTI),1.145,No Different
+000306,Surgical site infections (SSI) - Colon surgery,0.744,No Different
+000307,Surgical site infections (SSI) - Colon surgery,0.816,No Different
+000307,Surgical site infections (SSI) - Abdominal hysterectomy,1.08,Worse
+000307,Central line-associated bloodstream infections (CLABSI),0.933,No Different
+000308,Surgical site infections (SSI) - Colon surgery,1.302,No Different
+000308,Clostridium difficile (C.diff) infections,1.621,Better
+000308,Surgical site infections (SSI) - Abdominal hysterectomy,0.92,No Different
+000308,Central line-associated bloodstream infections (CLABSI),1.135,No Different
+000309,Surgical site infections (SSI) - Abdominal hysterectomy,1.217,No Different
+000309,Clostridium difficile (C.diff) infections,1.232,No Different
+000309,Methicillin-resistant Staphylococcus aureus (MRSA),1.402,No Different
+000310,Methicillin-resistant Staphylococcus aureus (MRSA),1.118,No Different
+000310,Clostridium difficile (C.diff) infections,0.943,Better
+000310,Surgical site infections (SSI) - Colon surgery,0.892,No Different
+000310,Surgical site infections (SSI) - Abdominal hysterectomy,1.531,No Different
+000311,Surgical site infections (SSI) - Abdominal hysterectomy,0.826,No Different
+000311,Central line-associated bloodstream infections (CLABSI),0.71,Better
+000311,Surgical site infections (SSI) - Colon surgery,0.878,No Different
+000312,Surgical site infections (SSI) - Colon surgery,1.008,No Different
+000312,Central line-associated bloodstream infections (CLABSI),1.149,No Different
+000312,Clostridium difficile (C.diff) infections,1.107,No Different
+000312,Surgical site infections (SSI) - Abdominal hysterectomy,1.078,No Different
+000312,Methicillin-resistant Staphylococcus aureus (MRSA),1.024,Better
+000313,Catheter-associated urinary tract infections (CAUTI),1.185,No Different
+000313,Surgical site infections (SSI) - Abdominal hysterectomy,0.966,No Different
+000313,Surgical site infections (SSI) - Colon surgery,1.392,No Different
+000313,Clostridium difficile (C.diff) infections,1.088,Better
+000313,Central line-associated bloodstream infections (CLABSI),1.139,No Different
+000314,Surgical site infections (SSI) - Abdominal hysterectomy,1.528,No Different
+000314,Surgical site infections (SSI) - Colon surgery,1.534,No Different
+000314,Central line-associated bloodstream infections (CLABSI),1.578,No Different
+000314,Methicillin-resistant Staphylococcus aureus (MRSA),1.581,No Different
+000315,Surgical site infections (SSI) - Colon surgery,1.057,Better
+000315,Central line-associated bloodstream infections (CLABSI),1.139,No Different
+000315,Surgical site infections (SSI) - Abdominal hysterectomy,0.963,No Different
+000316,Clostridium difficile (C.diff) infections,1.098,No Different
+000316,Central line-associated bloodstream infections (CLABSI),0.871,Worse
+000316,Catheter-associated urinary tract infections (CAUTI),0.707,No Different
+000316,Surgical site infections (SSI) - Colon surgery,1.082,No Different
+000317,Surgical site infections (SSI) - Colon surgery,0.92,Better
+000317,Central line-associated bloodstream infections (CLABSI),1.093,No Different
+000317,Catheter-associated urinary tract infections (CAUTI),1.003,Better
+000318,Methicillin-resistant Staphylococcus aureus (MRSA),1.485,No Different
+000318,Surgical site infections (SSI) - Abdominal hysterectomy,1.141,Better
+000318,Catheter-associated urinary tract infections (CAUTI),0.952,No Different
+000318,Surgical site infections (SSI) - Colon surgery,1.376,No Different
+000318,Central line-associated bloodstream infections (CLABSI),1.048,No Different
+000319,Clostridium difficile (C.diff) infections,1.256,No Different
+000319,Central line-associated bloodstream infections (CLABSI),1.206,Better
+000319,Surgical site infections (SSI) - Colon surgery,0.898,No Different
+000319,Catheter-associated urinary tract infections (CAUTI),0.97,Better
+000319,Surgical site infections (SSI) - Abdominal hysterectomy,1.24,No Different
+000319,Methicillin-resistant Staphylococcus aureus (MRSA),0.985,No Different
+000320,Catheter-associated urinary tract infections (CAUTI),1.153,No Different
+000320,Methicillin-resistant Staphylococcus aureus (MRSA),1.33,No Different
+000320,Clostridium difficile (C.diff) infections,1.055,No Different
+000320,Surgical site infections (SSI) - Abdominal hysterectomy,1.077,No Different
+000320,Surgical site infections (SSI) - Colon surgery,1.611,Better
+000321,Catheter-associated urinary tract infections (CAUTI),0.536,No Different
+000321,Surgical site infections (SSI) - Abdominal hysterectomy,0.586,No Different
+000321,Surgical site infections (SSI) - Colon surgery,0.292,No Different
+000321,Methicillin-resistant Staphylococcus aureus (MRSA),0.501,No Different
+000321,Central line-associated bloodstream infections (CLABSI),0.417,Better
+000322,Catheter-associated urinary tract infections (CAUTI),0.578,No Different
+000322,Methicillin-resistant Staphylococcus aureus (MRSA),0.748,No Different
+000322,Clostridium difficile (C.diff) infections,0.584,No Different
+000322,Central line-associated bloodstream infections (CLABSI),0.621,Better
+000322,Surgical site infections (SSI) - Colon surgery,0.905,No Different
+000322,Surgical site infections (SSI) - Abdominal hysterectomy,0.913,Better
+000323,Surgical site infections (SSI) - Abdominal hysterectomy,0.834,No Different
+000323,Catheter-associated urinary tract infections (CAUTI),0.562,No Different
+000323,Central line-associated bloodstream infections (CLABSI),0.615,Better
+000323,Surgical site infections (SSI) - Colon surgery,0.803,No Different
+000323,Methicillin-resistant Staphylococcus aureus (MRSA),1.024,No Different
+000323,Clostridium difficile (C.diff) infections,0.461,No Different
+000324,Central line-associated bloodstream infections (CLABSI),0.832,No Different
+000324,Clostridium difficile (C.diff) infections,0.793,No Different
+000324,Catheter-associated urinary tract infections (CAUTI),1.048,No Different
+000324,Methicillin-resistant Staphylococcus aureus (MRSA),1.063,No Different
+000324,Surgical site infections (SSI) - Abdominal hysterectomy,1.113,No Different
+000324,Surgical site infections (SSI) - Colon surgery,1.127,Better
+000325,Clostridium difficile (C.diff) infections,1.503,No Different
+000325,Central line-associated bloodstream infections (CLABSI),1.045,No Different
+000325,Methicillin-resistant Staphylococcus aureus (MRSA),1.14,No Different
+000325,Catheter-associated urinary tract infections (CAUTI),1.574,Better
+000325,Surgical site infections (SSI) - Colon surgery,1.219,No Different
+000325,Surgical site infections (SSI) - Abdominal hysterectomy,1.22,No Different
+000326,Catheter-associated urinary tract infections (CAUTI),0.443,Better
+000326,Clostridium difficile (C.diff) infections,1.047,No Different
+000326,Methicillin-resistant Staphylococcus aureus (MRSA),0.957,Better
+000326,Surgical site infections (SSI) - Colon surgery,0.587,Better
+000327,Central line-associated bloodstream infections (CLABSI),1.187,No Different
+000327,Catheter-associated urinary tract infections (CAUTI),1.172,No Different
+000327,Clostridium difficile (C.diff) infections,1.486,Better
+000328,Central line-associated bloodstream infections (CLABSI),1.126,No Different
+000328,Surgical site infections (SSI) - Colon surgery,0.761,No Different
+000328,Surgical site infections (SSI) - Abdominal hysterectomy,0.769,Worse
+000329,Methicillin-resistant Staphylococcus aureus (MRSA),0.995,No Different
+000329,Surgical site infections (SSI) - Colon surgery,1.087,Better
+000329,Central line-associated bloodstream infections (CLABSI),0.958,Better
+000329,Surgical site infections (SSI) - Abdominal hysterectomy,0.891,Better
+000329,Clostridium difficile (C.diff) infections,1.149,No Different
+000329,Catheter-associated urinary tract infections (CAUTI),1.061,Worse
+000330,Surgical site infections (SSI) - Abdominal hysterectomy,0.722,No Different
+000330,Methicillin-resistant Staphylococcus aureus (MRSA),0.171,No Different
+000330,Clostridium difficile (C.diff) infections,0.466,No Different
+000331,Surgical site infections (SSI) - Colon surgery,1.321,No Different
+000331,Clostridium difficile (C.diff) infections,0.687,Worse
+000331,Surgical site infections (SSI) - Abdominal hysterectomy,0.998,No Different
+000331,Central line-associated bloodstream infections (CLABSI),0.802,Worse
+000331,Catheter-associated urinary tract infections (CAUTI),1.138,No Different
+000332,Clostridium difficile (C.diff) infections,1.107,Worse
+000332,Central line-associated bloodstream infections (CLABSI),1.123,No Different
+000332,Surgical site infections (SSI) - Abdominal hysterectomy,0.736,No Different
+000332,Methicillin-resistant Staphylococcus aureus (MRSA),1.263,No Different
+000332,Surgical site infections (SSI) - Colon surgery,0.766,Worse
+000333,Methicillin-resistant Staphylococcus aureus (MRSA),1.76,No Different
+000333,Clostridium difficile (C.diff) infections,1.144,No Different
+000333,Surgical site infections (SSI) - Abdominal hysterectomy,1.549,No Different
+000333,Surgical site infections (SSI) - Colon surgery,1.545,Worse
+000334,Central line-associated bloodstream infections (CLABSI),0.92,No Different
+000334,Catheter-associated urinary tract infections (CAUTI),1.254,No Different
+000334,Clostridium difficile (C.diff) infections,1.078,Worse
+000334,Surgical site infections (SSI) - Abdominal hysterectomy,1.21,No Different
+000335,Clostridium difficile (C.diff) infections,0.683,No Different
+000335,Catheter-associated urinary tract infections (CAUTI),0.369,No Different
+000335,Methicillin-resistant Staphylococcus aureus (MRSA),0.647,Better
+000335,Central line-associated bloodstream infections (CLABSI),0.347,No Different
+000335,Surgical site infections (SSI) - Colon surgery,0.533,Better
+000336,Surgical site infections (SSI) - Colon surgery,1.308,No Different
+000336,Surgical site infections (SSI) - Abdominal hysterectomy,1.238,Better
+000336,Clostridium difficile (C.diff) infections,1.284,No Different
+000337,Central line-associated bloodstream infections (CLABSI),0.906,No Different
+000337,Catheter-associated urinary tract infections (CAUTI),1.155,Worse
+000337,Clostridium difficile (C.diff) infections,0.937,No Different
+000337,Surgical site infections (SSI) - Abdominal hysterectomy,1.064,No Different
+000337,Methicillin-resistant Staphylococcus aureus (MRSA),1.04,Better
+000337,Surgical site infections (SSI) - Colon surgery,1.372,No Different
+000338,Surgical site infections (SSI) - Colon surgery,1.574,No Different
+000338,Clostridium difficile (C.diff) infections,1.805,No Different
+000338,Central line-associated bloodstream infections (CLABSI),1.815,Better
+000338,Catheter-associated urinary tract infections (CAUTI),1.647,Better
+000339,Catheter-associated urinary tract infections (CAUTI),0.878,Better
+000339,Central line-associated bloodstream infections (CLABSI),0.833,No Different
+000339,Methicillin-resistant Staphylococcus aureus (MRSA),0.632,Better
+000340,Surgical site infections (SSI) - Colon surgery,0.791,Better
+000340,Central line-associated bloodstream infections (CLABSI),0.528,No Different
+000340,Catheter-associated urinary tract infections (CAUTI),0.383,Better
+000341,Surgical site infections (SSI) - Abdominal hysterectomy,0.65,No Different
+000341,Clostridium difficile (C.diff) infections,1.042,Better
+000341,Surgical site infections (SSI) - Colon surgery,0.803,No Different
+000341,Central line-associated bloodstream infections (CLABSI),0.888,No Different
+000341,Methicillin-resistant Staphylococcus aureus (MRSA),0.877,No Different
+000341,Catheter-associated urinary tract infections (CAUTI),1.001,No Different
+000342,Surgical site infections (SSI) - Abdominal hysterectomy,1.113,No Different
+000342,Methicillin-resistant Staphylococcus aureus (MRSA),1.012,No Different
+000342,Central line-associated bloodstream infections (CLABSI),1.057,No Different
+000342,Clostridium difficile (C.diff) infections,1.058,Better
+000342,Surgical site infections (SSI) - Colon surgery,1.211,No Different
+000342,Catheter-associated urinary tract infections (CAUTI),1.163,No Different
+000343,Clostridium difficile (C.diff) infections,1.006,Worse
+000343,Central line-associated bloodstream infections (CLABSI),1.252,No Different
+000343,Methicillin-resistant Staphylococcus aureus (MRSA),1.217,Better
+000344,Methicillin-resistant Staphylococcus aureus (MRSA),1.289,No Different
+000344,Surgical site infections (SSI) - Abdominal hysterectomy,1.041,Better
+000344,Central line-associated bloodstream infections (CLABSI),0.992,No Different
+000344,Catheter-associated urinary tract infections (CAUTI),1.488,No Different
+000344,Surgical site infections (SSI) - Colon surgery,0.886,No Different
+000345,Central line-associated bloodstream infections (CLABSI),0.82,No Different
+000345,Surgical site infections (SSI) - Colon surgery,0.838,Better
+000345,Catheter-associated urinary tract infections (CAUTI),1.151,Worse
+000345,Methicillin-resistant Staphylococcus aureus (MRSA),1.084,No Different
+000345,Surgical site infections (SSI) - Abdominal hysterectomy,1.134,No Different
+000346,Surgical site infections (SSI) - Abdominal hysterectomy,1.323,No Different
+000346,Methicillin-resistant Staphylococcus aureus (MRSA),1.45,No Different
+000346,Catheter-associated urinary tract infections (CAUTI),0.93,Worse
+000346,Central line-associated bloodstream infections (CLABSI),1.241,No Different
+000346,Surgical site infections (SSI) - Colon surgery,1.314,No Different
+000346,Clostridium difficile (C.diff) infections,0.876,No Different
+000347,Central line-associated bloodstream infections (CLABSI),1.122,No Different
+000347,Surgical site infections (SSI) - Colon surgery,0.796,No Different
+000347,Methicillin-resistant Staphylococcus aureus (MRSA),1.096,No Different
+000348,Clostridium difficile (C.diff) infections,0.1,Better
+000348,Catheter-associated urinary tract infections (CAUTI),0.741,No Different
+000348,Surgical site infections (SSI) - Abdominal hysterectomy,0.457,Worse
+000348,Central line-associated bloodstream infections (CLABSI),0.193,No Different
+000349,Methicillin-resistant Staphylococcus aureus (MRSA),1.43,Better
+000349,Surgical site infections (SSI) - Abdominal hysterectomy,1.136,No Different
+000349,Central line-associated bloodstream infections (CLABSI),1.305,Better
+000349,Surgical site infections (SSI) - Colon surgery,1.134,Better
+000350,Surgical site infections (SSI) - Colon surgery,0.633,Better
+000350,Clostridium difficile (C.diff) infections,0.897,Better
+000350,Methicillin-resistant Staphylococcus aureus (MRSA),0.564,No Different
+000350,Surgical site infections (SSI) - Abdominal hysterectomy,0.41,No Different
+000350,Catheter-associated urinary tract infections (CAUTI),0.513,Better
+000350,Central line-associated bloodstream infections (CLABSI),0.766,No Different
+000351,Surgical site infections (SSI) - Colon surgery,1.336,No Different
+000351,Clostridium difficile (C.diff) infections,1.307,Better
+000351,Methicillin-resistant Staphylococcus aureus (MRSA),1.359,No Different
+000351,Central line-associated bloodstream infections (CLABSI),1.884,No Different
+000351,Surgical site infections (SSI) - Abdominal hysterectomy,1.592,No Different
+000351,Catheter-associated urinary tract infections (CAUTI),1.203,No Different
+000352,Clostridium difficile (C.diff) infections,1.242,Worse
+000352,Surgical site infections (SSI) - Abdominal hysterectomy,0.952,No Different
+000352,Surgical site infections (SSI) - Colon surgery,1.005,No Different
+000353,Surgical site infections (SSI) - Colon surgery,0.802,No Different
+000353,Central line-associated bloodstream infections (CLABSI),0.548,Better
+000353,Methicillin-resistant Staphylococcus aureus (MRSA),0.56,No Different
+000353,Catheter-associated urinary tract infections (CAUTI),0.819,No Different
+000353,Surgical site infections (SSI) - Abdominal hysterectomy,0.57,Worse
+000353,Clostridium difficile (C.diff) infections,0.849,No Different
+000354,Surgical site infections (SSI) - Colon surgery,1.198,No Different
+000354,Catheter-associated urinary tract infections (CAUTI),1.128,No Different
+000354,Surgical site infections (SSI) - Abdominal hysterectomy,1.383,Better
+000354,Methicillin-resistant Staphylococcus aureus (MRSA),1.725,No Different
+000355,Catheter-associated urinary tract infections (CAUTI),0.951,No Different
+000355,Central line-associated bloodstream infections (CLABSI),1.069,No Different
+000355,Surgical site infections (SSI) - Colon surgery,0.669,No Different
+000355,Surgical site infections (SSI) - Abdominal hysterectomy,1.105,No Different
+000356,Clostridium difficile (C.diff) infections,1.029,Better
+000356,Catheter-associated urinary tract infections (CAUTI),0.918,No Different
+000356,Methicillin-resistant Staphylococcus aureus (MRSA),1.027,No Different
+000356,Surgical site infections (SSI) - Abdominal hysterectomy,1.266,Better
+000356,Central line-associated bloodstream infections (CLABSI),1.464,No Different
+000357,Central line-associated bloodstream infections (CLABSI),1.067,No Different
+000357,Surgical site infections (SSI) - Abdominal hysterectomy,1.367,No Different
+000357,Surgical site infections (SSI) - Colon surgery,0.915,Worse
+000357,Methicillin-resistant Staphylococcus aureus (MRSA),1.014,Worse
+000357,Clostridium difficile (C.diff) infections,1.319,No Different
+000357,Catheter-associated urinary tract infections (CAUTI),1.17,Worse
+000358,Surgical site infections (SSI) - Abdominal hysterectomy,0.729,No Different
+000358,Central line-associated bloodstream infections (CLABSI),0.555,No Different
+000358,Catheter-associated urinary tract infections (CAUTI),0.545,Better
+000358,Methicillin-resistant Staphylococcus aureus (MRSA),0.53,No Different
+000358,Surgical site infections (SSI) - Colon surgery,0.516,Better
+000359,Methicillin-resistant Staphylococcus aureus (MRSA),0.682,No Different
+000359,Surgical site infections (SSI) - Colon surgery,0.957,Better
+000359,Central line-associated bloodstream infections (CLABSI),1.155,Worse
+000360,Central line-associated bloodstream infections (CLABSI),0.546,No Different
+000360,Catheter-associated urinary tract infections (CAUTI),0.715,Worse
+000360,Methicillin-resistant Staphylococcus aureus (MRSA),1.017,No Different
+000360,Clostridium difficile (C.diff) infections,0.683,Worse
+000361,Surgical site infections (SSI) - Colon surgery,0.834,No Different
+000361,Clostridium difficile (C.diff) infections,0.875,Better
+000361,Methicillin-resistant Staphylococcus aureus (MRSA),0.605,No Different
+000361,Central line-associated bloodstream infections (CLABSI),0.868,No Different
+000361,Catheter-associated urinary tract infections (CAUTI),0.534,No Different
+000362,Surgical site infections (SSI) - Colon surgery,0.692,No Different
+000362,Catheter-associated urinary tract infections (CAUTI),0.755,No Different
+000362,Methicillin-resistant Staphylococcus aureus (MRSA),0.91,No Different
+000363,Methicillin-resistant Staphylococcus aureus (MRSA),0.516,No Different
+000363,Catheter-associated urinary tract infections (CAUTI),0.468,No Different
+000363,Surgical site infections (SSI) - Colon surgery,0.954,No Different
+000363,Central line-associated bloodstream infections (CLABSI),0.901,Better
+000364,Surgical site infections (SSI) - Abdominal hysterectomy,0.561,Worse
+000364,Clostridium difficile (C.diff) infections,1.091,No Different
+000364,Catheter-associated urinary tract infections (CAUTI),0.682,Better
+000364,Central line-associated bloodstream infections (CLABSI),0.45,No Different
+000365,Methicillin-resistant Staphylococcus aureus (MRSA),1.13,No Different
+000365,Clostridium difficile (C.diff) infections,0.96,No Different
+000365,Surgical site infections (SSI) - Abdominal hysterectomy,1.261,No Different
+000365,Central line-associated bloodstream infections (CLABSI),0.873,No Different
+000365,Catheter-associated urinary tract infections (CAUTI),0.895,Better
+000366,Catheter-associated urinary tract infections (CAUTI),1.222,Better
+000366,Central line-associated bloodstream infections (CLABSI),1.552,Better
+000366,Clostridium difficile (C.diff) infections,1.339,No Different
+000366,Methicillin-resistant Staphylococcus aureus (MRSA),1.327,No Different
+000366,Surgical site infections (SSI) - Colon surgery,1.305,No Different
+000366,Surgical site infections (SSI) - Abdominal hysterectomy,1.424,Better
+000367,Clostridium difficile (C.diff) infections,0.984,No Different
+000367,Surgical site infections (SSI) - Abdominal hysterectomy,1.153,Worse
+000367,Catheter-associated urinary tract infections (CAUTI),0.688,No Different
+000367,Methicillin-resistant Staphylococcus aureus (MRSA),0.844,Better
+000367,Surgical site infections (SSI) - Colon surgery,0.974,Better
+000367,Central line-associated bloodstream infections (CLABSI),0.997,Better
+000368,Surgical site infections (SSI) - Abdominal hysterectomy,0.597,No Different
+000368,Methicillin-resistant Staphylococcus aureus (MRSA),0.692,No Different
+000368,Central line-associated bloodstream infections (CLABSI),0.724,No Different
+000369,Catheter-associated urinary tract infections (CAUTI),0.693,No Different
+000369,Clostridium difficile (C.diff) infections,0.698,Better
+000369,Surgical site infections (SSI) - Colon surgery,1.012,Worse
+000369,Methicillin-resistant Staphylococcus aureus (MRSA),0.652,Better
+000369,Central line-associated bloodstream infections (CLABSI),0.807,No Different
+000369,Surgical site infections (SSI) - Abdominal hysterectomy,0.676,No Different
+000370,Surgical site infections (SSI) - Abdominal hysterectomy,0.1,Worse
+000370,Clostridium difficile (C.diff) infections,0.1,No Different
+000370,Central line-associated bloodstream infections (CLABSI),0.1,Better
+000370,Surgical site infections (SSI) - Colon surgery,0.1,No Different
+000370,Methicillin-resistant Staphylococcus aureus (MRSA),0.1,Worse
+000370,Catheter-associated urinary tract infections (CAUTI),0.1,No Different
+000371,Central line-associated bloodstream infections (CLABSI),0.48,Worse
+000371,Methicillin-resistant Staphylococcus aureus (MRSA),0.756,Better
+000371,Surgical site infections (SSI) - Abdominal hysterectomy,1.209,Better
+000371,Clostridium difficile (C.diff) infections,0.895,No Different
+000371,Surgical site infections (SSI) - Colon surgery,0.734,Better
+000371,Catheter-associated urinary tract infections (CAUTI),0.91,No Different
+000372,Surgical site infections (SSI) - Colon surgery,0.601,Worse
+000372,Clostridium difficile (C.diff) infections,0.766,No Different
+000372,Central line-associated bloodstream infections (CLABSI),0.672,Better
+000372,Surgical site infections (SSI) - Abdominal hysterectomy,0.569,No Different
+000372,Catheter-associated urinary tract infections (CAUTI),0.938,No Different
+000373,Methicillin-resistant Staphylococcus aureus (MRSA),1.068,No Different
+000373,Catheter-associated urinary tract infections (CAUTI),0.835,No Different
+000373,Clostridium difficile (C.diff) infections,0.918,No Different
+000373,Surgical site infections (SSI) - Colon surgery,1.01,Better
+000373,Surgical site infections (SSI) - Abdominal hysterectomy,0.794,Better
+000374,Clostridium difficile (C.diff) infections,0.902,Better
+000374,Methicillin-resistant Staphylococcus aureus (MRSA),0.37,No Different
+000374,Surgical site infections (SSI) - Abdominal hysterectomy,0.505,No Different
+000374,Catheter-associated urinary tract infections (CAUTI),1.029,No Different
+000374,Central line-associated bloodstream infections (CLABSI),0.683,Better
+000374,Surgical site infections (SSI) - Colon surgery,0.875,No Different
+000375,Methicillin-resistant Staphylococcus aureus (MRSA),0.905,Better
+000375,Central line-associated bloodstream infections (CLABSI),0.601,No Different
+000375,Surgical site infections (SSI) - Colon surgery,0.566,No Different
+000375,Clostridium difficile (C.diff) infections,1.205,Worse
+000375,Catheter-associated urinary tract infections (CAUTI),0.814,No Different
+000375,Surgical site infections (SSI) - Abdominal hysterectomy,1.057,No Different
+000376,Catheter-associated urinary tract infections (CAUTI),1.162,No Different
+000376,Surgical site infections (SSI) - Colon surgery,1.165,No Different
+000376,Clostridium difficile (C.diff) infections,0.801,No Different
+000376,Surgical site infections (SSI) - Abdominal hysterectomy,1.311,No Different
+000376,Methicillin-resistant Staphylococcus aureus (MRSA),1.12,Better
+000377,Clostridium difficile (C.diff) infections,0.606,No Different
+000377,Surgical site infections (SSI) - Colon surgery,0.591,No Different
+000377,Methicillin-resistant Staphylococcus aureus (MRSA),0.599,Worse
+000377,Central line-associated bloodstream infections (CLABSI),0.867,Better
+000377,Catheter-associated urinary tract infections (CAUTI),1.138,No Different
+000378,Surgical site infections (SSI) - Abdominal hysterectomy,0.596,Worse
+000378,Clostridium difficile (C.diff) infections,0.738,No Different
+000378,Surgical site infections (SSI) - Colon surgery,0.639,No Different
+000378,Catheter-associated urinary tract infections (CAUTI),0.474,No Different
+000378,Central line-associated bloodstream infections (CLABSI),1.018,No Different
+000378,Methicillin-resistant Staphylococcus aureus (MRSA),0.693,No Different
+000379,Methicillin-resistant Staphylococcus aureus (MRSA),0.967,No Different
+000379,Central line-associated bloodstream infections (CLABSI),0.917,No Different
+000379,Surgical site infections (SSI) - Abdominal hysterectomy,1.419,No Different
+000380,Clostridium difficile (C.diff) infections,1.478,No Different
+000380,Central line-associated bloodstream infections (CLABSI),1.286,No Different
+000380,Surgical site infections (SSI) - Abdominal hysterectomy,1.152,Better
+000381,Surgical site infections (SSI) - Abdominal hysterectomy,0.969,No Different
+000381,Catheter-associated urinary tract infections (CAUTI),0.835,No Different
+000381,Central line-associated bloodstream infections (CLABSI),0.848,Worse
+000381,Methicillin-resistant Staphylococcus aureus (MRSA),0.97,Better
+000381,Clostridium difficile (C.diff) infections,0.97,No Different
+000381,Surgical site infections (SSI) - Colon surgery,1.229,Better
+000382,Central line-associated bloodstream infections (CLABSI),1.198,No Different
+000382,Clostridium difficile (C.diff) infections,1.238,No Different
+000382,Methicillin-resistant Staphylococcus aureus (MRSA),1.151,No Different
+000382,Catheter-associated urinary tract infections (CAUTI),1.271,Better
+000382,Surgical site infections (SSI) - Abdominal hysterectomy,1.133,Better
+000383,Catheter-associated urinary tract infections (CAUTI),0.986,No Different
+000383,Surgical site infections (SSI) - Abdominal hysterectomy,0.797,Better
+000383,Central line-associated bloodstream infections (CLABSI),0.827,Better
+000384,Clostridium difficile (C.diff) infections,0.748,Better
+000384,Surgical site infections (SSI) - Colon surgery,0.859,Better
+000384,Catheter-associated urinary tract infections (CAUTI),0.921,Better
+000385,Catheter-associated urinary tract infections (CAUTI),0.617,No Different
+000385,Central line-associated bloodstream infections (CLABSI),0.623,No Different
+000385,Clostridium difficile (C.diff) infections,0.534,No Different
+000385,Surgical site infections (SSI) - Abdominal hysterectomy,0.534,No Different
+000385,Surgical site infections (SSI) - Colon surgery,0.528,Better
+000385,Methicillin-resistant Staphylococcus aureus (MRSA),0.695,No Different
+000386,Surgical site infections (SSI) - Abdominal hysterectomy,0.468,No Different
+000386,Surgical site infections (SSI) - Colon surgery,0.1,No Different
+000386,Central line-associated bloodstream infections (CLABSI),0.453,No Different
+000386,Catheter-associated urinary tract infections (CAUTI),0.1,No Different
+000386,Clostridium difficile (C.diff) infections,0.664,No Different
+000386,Methicillin-resistant Staphylococcus aureus (MRSA),0.87,No Different
+000387,Methicillin-resistant Staphylococcus aureus (MRSA),0.802,No Different
+000387,Catheter-associated urinary tract infections (CAUTI),0.825,No Different
+000387,Central line-associated bloodstream infections (CLABSI),1.07,No Different
+000388,Clostridium difficile (C.diff) infections,0.817,Worse
+000388,Central line-associated bloodstream infections (CLABSI),1.079,No Different
+000388,Methicillin-resistant Staphylococcus aureus (MRSA),1.038,Better
+000388,Surgical site infections (SSI) - Colon surgery,1.253,No Different
+000388,Surgical site infections (SSI) - Abdominal hysterectomy,1.245,No Different
+000389,Catheter-associated urinary tract infections (CAUTI),0.496,Better
+000389,Surgical site infections (SSI) - Colon surgery,0.1,Worse
+000389,Clostridium difficile (C.diff) infections,0.1,No Different
+000390,Surgical site infections (SSI) - Abdominal hysterectomy,1.224,No Different
+000390,Surgical site infections (SSI) - Colon surgery,1.462,Better
+000390,Methicillin-resistant Staphylococcus aureus (MRSA),1.558,No Different
+000390,Clostridium difficile (C.diff) infections,1.436,No Different
+000391,Clostridium difficile (C.diff) infections,1.074,No Different
+000391,Surgical site infections (SSI) - Colon surgery,0.997,No Different
+000391,Catheter-associated urinary tract infections (CAUTI),0.957,No Different
+000391,Central line-associated bloodstream infections (CLABSI),0.669,No Different
+000391,Surgical site infections (SSI) - Abdominal hysterectomy,0.771,Better
+000392,Surgical site infections (SSI) - Colon surgery,1.243,Worse
+000392,Surgical site infections (SSI) - Abdominal hysterectomy,1.228,Worse
+000392,Catheter-associated urinary tract infections (CAUTI),0.922,No Different
+000392,Clostridium difficile (C.diff) infections,0.688,No Different
+000393,Central line-associated bloodstream infections (CLABSI),1.298,No Different
+000393,Methicillin-resistant Staphylococcus aureus (MRSA),1.448,No Different
+000393,Surgical site infections (SSI) - Colon surgery,1.326,No Different
+000393,Clostridium difficile (C.diff) infections,1.201,No Different
+000393,Catheter-associated urinary tract infections (CAUTI),1.582,No Different
+000394,Clostridium difficile (C.diff) infections,1.674,No Different
+000394,Central line-associated bloodstream infections (CLABSI),1.365,No Different
+000394,Surgical site infections (SSI) - Abdominal hysterectomy,1.242,No Different
+000394,Catheter-associated urinary tract infections (CAUTI),1.476,Better
+000394,Methicillin-resistant Staphylococcus aureus (MRSA),1.756,No Different
+000395,Surgical site infections (SSI) - Abdominal hysterectomy,0.964,No Different
+000395,Clostridium difficile (C.diff) infections,0.41,No Different
+000395,Central line-associated bloodstream infections (CLABSI),0.848,No Different
+000395,Methicillin-resistant Staphylococcus aureus (MRSA),0.935,No Different
+000395,Surgical site infections (SSI) - Colon surgery,1.313,Worse
+000396,Methicillin-resistant Staphylococcus aureus (MRSA),1.072,Better
+000396,Catheter-associated urinary tract infections (CAUTI),0.736,No Different
+000396,Clostridium difficile (C.diff) infections,1.448,No Different
+000396,Surgical site infections (SSI) - Abdominal hysterectomy,0.932,Worse
+000397,Clostridium difficile (C.diff) infections,0.394,No Different
+000397,Surgical site infections (SSI) - Abdominal hysterectomy,0.688,No Different
+000397,Catheter-associated urinary tract infections (CAUTI),0.554,No Different
+000397,Central line-associated bloodstream infections (CLABSI),0.333,No Different
+000397,Methicillin-resistant Staphylococcus aureus (MRSA),0.902,Worse
+000398,Clostridium difficile (C.diff) infections,0.374,Better
+000398,Surgical site infections (SSI) - Abdominal hysterectomy,0.629,No Different
+000398,Surgical site infections (SSI) - Colon surgery,0.775,Better
+000398,Methicillin-resistant Staphylococcus aureus (MRSA),0.827,No Different
+000398,Catheter-associated urinary tract infections (CAUTI),0.71,No Different
+000399,Catheter-associated urinary tract infections (CAUTI),0.59,No Different
+000399,Surgical site infections (SSI) - Abdominal hysterectomy,0.91,Worse
+000399,Methicillin-resistant Staphylococcus aureus (MRSA),0.776,No Different
+000399,Clostridium difficile (C.diff) infections,0.696,Better
+000399,Central line-associated bloodstream infections (CLABSI),1.065,Worse
+000400,Surgical site infections (SSI) - Abdominal hysterectomy,1.227,Better
+000400,Methicillin-resistant Staphylococcus aureus (MRSA),1.247,No Different
+000400,Catheter-associated urinary tract infections (CAUTI),1.034,No Different
+000400,Surgical site infections (SSI) - Colon surgery,1.083,No Different
+000400,Central line-associated bloodstream infections (CLABSI),1.423,No Different
+000401,Surgical site infections (SSI) - Abdominal hysterectomy,1.388,No Different
+000401,Surgical site infections (SSI) - Colon surgery,1.195,No Different
+000401,Methicillin-resistant Staphylococcus aureus (MRSA),1.254,No Different
+000401,Clostridium difficile (C.diff) infections,1.347,Better
+000402,Surgical site infections (SSI) - Abdominal hysterectomy,1.199,No Different
+000402,Central line-associated bloodstream infections (CLABSI),0.735,Worse
+000402,Methicillin-resistant Staphylococcus aureus (MRSA),1.035,No Different
+000402,Surgical site infections (SSI) - Colon surgery,0.682,Better
+000402,Clostridium difficile (C.diff) infections,1.058,No Different
+000402,Catheter-associated urinary tract infections (CAUTI),1.267,Worse
+000403,Surgical site infections (SSI) - Colon surgery,1.226,No Different
+000403,Surgical site infections (SSI) - Abdominal hysterectomy,1.154,Worse
+000403,Methicillin-resistant Staphylococcus aureus (MRSA),1.12,Better
+000403,Catheter-associated urinary tract infections (CAUTI),1.479,No Different
+000403,Central line-associated bloodstream infections (CLABSI),1.123,No Different
+000403,Clostridium difficile (C.diff) infections,1.202,Better
+000404,Methicillin-resistant Staphylococcus aureus (MRSA),0.322,No Different
+000404,Central line-associated bloodstream infections (CLABSI),0.552,No Different
+000404,Catheter-associated urinary tract infections (CAUTI),0.485,Worse
+000404,Clostridium difficile (C.diff) infections,0.1,No Different
+000404,Surgical site infections (SSI) - Abdominal hysterectomy,0.743,No Different
+000405,Surgical site infections (SSI) - Colon surgery,1.033,No Different
+000405,Methicillin-resistant Staphylococcus aureus (MRSA),0.72,Better
+000405,Central line-associated bloodstream infections (CLABSI),0.959,Better
+000406,Surgical site infections (SSI) - Abdominal hysterectomy,1.18,No Different
+000406,Methicillin-resistant Staphylococcus aureus (MRSA),1.07,Better
+000406,Surgical site infections (SSI) - Colon surgery,1.192,Better
+000406,Central line-associated bloodstream infections (CLABSI),0.876,Better
+000406,Catheter-associated urinary tract infections (CAUTI),0.725,Better
+000406,Clostridium difficile (C.diff) infections,0.911,No Different
+000407,Central line-associated bloodstream infections (CLABSI),1.424,No Different
+000407,Catheter-associated urinary tract infections (CAUTI),1.327,Worse
+000407,Surgical site infections (SSI) - Abdominal hysterectomy,1.737,Worse
+000407,Surgical site infections (SSI) - Colon surgery,1.613,Worse
+000407,Clostridium difficile (C.diff) infections,1.564,No Different
+000407,Methicillin-resistant Staphylococcus aureus (MRSA),1.461,No Different
+000408,Methicillin-resistant Staphylococcus aureus (MRSA),1.685,Worse
+000408,Surgical site infections (SSI) - Abdominal hysterectomy,1.355,No Different
+000408,Central line-associated bloodstream infections (CLABSI),1.068,Better
+000408,Clostridium difficile (C.diff) infections,1.217,No Different
+000409,Clostridium difficile (C.diff) infections,1.599,No Different
+000409,Catheter-associated urinary tract infections (CAUTI),0.946,No Different
+000409,Central line-associated bloodstream infections (CLABSI),1.476,Worse
+000409,Methicillin-resistant Staphylococcus aureus (MRSA),1.393,No Different
+000410,Surgical site infections (SSI) - Colon surgery,0.578,No Different
+000410,Catheter-associated urinary tract infections (CAUTI),0.493,No Different
+000410,Methicillin-resistant Staphylococcus aureus (MRSA),1.076,No Different
+000410,Central line-associated bloodstream infections (CLABSI),0.433,No Different
+000410,Clostridium difficile (C.diff) infections,0.47,No Different
+000411,Surgical site infections (SSI) - Colon surgery,0.596,No Different
+000411,Surgical site infections (SSI) - Abdominal hysterectomy,0.718,No Different
+000411,Catheter-associated urinary tract infections (CAUTI),0.503,No Different
+000411,Clostridium difficile (C.diff) infections,0.455,No Different
+000411,Methicillin-resistant Staphylococcus aureus (MRSA),0.331,No Different
+000411,Central line-associated bloodstream infections (CLABSI),0.524,Better
+000412,Methicillin-resistant Staphylococcus aureus (MRSA),1.044,No Different
+000412,Central line-associated bloodstream infections (CLABSI),0.796,No Different
+000412,Surgical site infections (SSI) - Colon surgery,0.48,No Different
+000413,Clostridium difficile (C.diff) infections,1.195,Worse
+000413,Surgical site infections (SSI) - Abdominal hysterectomy,0.963,No Different
+000413,Catheter-associated urinary tract infections (CAUTI),1.247,No Different
+000413,Methicillin-resistant Staphylococcus aureus (MRSA),1.365,No Different
+000413,Surgical site infections (SSI) - Colon surgery,0.838,Better
+000413,Central line-associated bloodstream infections (CLABSI),1.399,Worse
+000414,Clostridium difficile (C.diff) infections,1.134,No Different
+000414,Central line-associated bloodstream infections (CLABSI),0.729,Worse
+000414,Methicillin-resistant Staphylococcus aureus (MRSA),0.836,Worse
+000415,Methicillin-resistant Staphylococcus aureus (MRSA),1.438,No Different
+000415,Surgical site infections (SSI) - Abdominal hysterectomy,0.922,Better
+000415,Surgical site infections (SSI) - Colon surgery,1.264,No Different
+000416,Surgical site infections (SSI) - Abdominal hysterectomy,0.192,Better
+000416,Clostridium difficile (C.diff) infections,0.745,No Different
+000416,Central line-associated bloodstream infections (CLABSI),0.423,No Different
+000416,Catheter-associated urinary tract infections (CAUTI),0.719,Better
+000416,Surgical site infections (SSI) - Colon surgery,0.565,Worse
+000416,Methicillin-resistant Staphylococcus aureus (MRSA),0.198,No Different
+000417,Catheter-associated urinary tract infections (CAUTI),1.056,No Different
+000417,Surgical site infections (SSI) - Colon surgery,0.963,No Different
+000417,Clostridium difficile (C.diff) infections,1.092,No Different
+000417,Methicillin-resistant Staphylococcus aureus (MRSA),1.254,No Different
+000418,Surgical site infections (SSI) - Abdominal hysterectomy,0.451,No Different
+000418,Surgical site infections (SSI) - Colon surgery,0.471,No Different
+000418,Methicillin-resistant Staphylococcus aureus (MRSA),0.55,No Different
+000418,Clostridium difficile (C.diff) infections,0.868,No Different
+000418,Central line-associated bloodstream infections (CLABSI),0.742,Worse
+000419,Surgical site infections (SSI) - Colon surgery,1.171,No Different
+000419,Central line-associated bloodstream infections (CLABSI),1.008,Better
+000419,Surgical site infections (SSI) - Abdominal hysterectomy,0.915,No Different
+000419,Methicillin-resistant Staphylococcus aureus (MRSA),1.11,No Different
+000419,Catheter-associated urinary tract infections (CAUTI),1.403,No Different
+000420,Methicillin-resistant Staphylococcus aureus (MRSA),1.004,Better
+000420,Catheter-associated urinary tract infections (CAUTI),0.679,No Different
+000420,Surgical site infections (SSI) - Colon surgery,0.778,No Different
+000420,Clostridium difficile (C.diff) infections,0.699,No Different
+000420,Central line-associated bloodstream infections (CLABSI),0.956,No Different
+000420,Surgical site infections (SSI) - Abdominal hysterectomy,0.954,Worse
+000421,Clostridium difficile (C.diff) infections,1.203,Worse
+000421,Central line-associated bloodstream infections (CLABSI),1.112,No Different
+000421,Surgical site infections (SSI) - Colon surgery,1.217,No Different
+000421,Catheter-associated urinary tract infections (CAUTI),1.009,Worse
+000421,Surgical site infections (SSI) - Abdominal hysterectomy,1.201,No Different
+000422,Clostridium difficile (C.diff) infections,0.756,No Different
+000422,Catheter-associated urinary tract infections (CAUTI),0.893,No Different
+000422,Surgical site infections (SSI) - Colon surgery,0.853,No Different
+000422,Central line-associated bloodstream infections (CLABSI),0.716,No Different
+000422,Surgical site infections (SSI) - Abdominal hysterectomy,0.858,No Different
+000422,Methicillin-resistant Staphylococcus aureus (MRSA),0.407,No Different
+000423,Surgical site infections (SSI) - Abdominal hysterectomy,1.145,No Different
+000423,Clostridium difficile (C.diff) infections,0.977,Worse
+000423,Central line-associated bloodstream infections (CLABSI),1.47,Better
+000424,Central line-associated bloodstream infections (CLABSI),0.719,No Different
+000424,Clostridium difficile (C.diff) infections,0.678,No Different
+000424,Methicillin-resistant Staphylococcus aureus (MRSA),0.812,No Different
+000424,Surgical site infections (SSI) - Colon surgery,0.941,No Different
+000424,Surgical site infections (SSI) - Abdominal hysterectomy,0.925,Better
+000424,Catheter-associated urinary tract infections (CAUTI),0.709,Better
+000425,Surgical site infections (SSI) - Colon surgery,1.385,No Different
+000425,Clostridium difficile (C.diff) infections,1.298,No Different
+000425,Catheter-associated urinary tract infections (CAUTI),1.432,No Different
+000426,Catheter-associated urinary tract infections (CAUTI),1.278,Better
+000426,Surgical site infections (SSI) - Abdominal hysterectomy,1.438,No Different
+000426,Surgical site infections (SSI) - Colon surgery,1.54,Better
+000427,Surgical site infections (SSI) - Abdominal hysterectomy,0.679,No Different
+000427,Central line-associated bloodstream infections (CLABSI),1.272,No Different
+000427,Catheter-associated urinary tract infections (CAUTI),0.557,No Different
+000427,Surgical site infections (SSI) - Colon surgery,0.669,Better
+000427,Clostridium difficile (C.diff) infections,0.862,No Different
+000427,Methicillin-resistant Staphylococcus aureus (MRSA),0.657,No Different
+000428,Surgical site infections (SSI) - Colon surgery,1.007,No Different
+000428,Catheter-associated urinary tract infections (CAUTI),0.541,No Different
+000428,Methicillin-resistant Staphylococcus aureus (MRSA),0.869,Better
+000429,Surgical site infections (SSI) - Colon surgery,0.721,No Different
+000429,Methicillin-resistant Staphylococcus aureus (MRSA),0.652,No Different
+000429,Central line-associated bloodstream infections (CLABSI),1.118,Better
+000430,Central line-associated bloodstream infections (CLABSI),0.405,No Different
+000430,Clostridium difficile (C.diff) infections,0.678,No Different
+000430,Surgical site infections (SSI) - Abdominal hysterectomy,0.759,Better
+000430,Methicillin-resistant Staphylococcus aureus (MRSA),0.233,Worse
+000431,Methicillin-resistant Staphylococcus aureus (MRSA),1.281,Better
+000431,Catheter-associated urinary tract infections (CAUTI),1.309,No Different
+000431,Central line-associated bloodstream infections (CLABSI),1.186,Worse
+000431,Clostridium difficile (C.diff) infections,0.749,No Different
+000431,Surgical site infections (SSI) - Abdominal hysterectomy,0.698,No Different
+000431,Surgical site infections (SSI) - Colon surgery,0.916,No Different
+000432,Surgical site infections (SSI) - Colon surgery,0.976,Better
+000432,Catheter-associated urinary tract infections (CAUTI),1.044,No Different
+000432,Surgical site infections (SSI) - Abdominal hysterectomy,1.336,No Different
+000433,Surgical site infections (SSI) - Colon surgery,0.663,No Different
+000433,Central line-associated bloodstream infections (CLABSI),0.874,No Different
+000433,Methicillin-resistant Staphylococcus aureus (MRSA),0.784,Worse
+000433,Clostridium difficile (C.diff) infections,0.482,Worse
+000433,Catheter-associated urinary tract infections (CAUTI),0.381,No Different
+000433,Surgical site infections (SSI) - Abdominal hysterectomy,0.692,No Different
+000434,Methicillin-resistant Staphylococcus aureus (MRSA),0.575,Better
+000434,Central line-associated bloodstream infections (CLABSI),1.267,Better
+000434,Surgical site infections (SSI) - Colon surgery,1.29,No Different
+000435,Central line-associated bloodstream infections (CLABSI),0.632,Worse
+000435,Methicillin-resistant Staphylococcus aureus (MRSA),0.529,No Different
+000435,Surgical site infections (SSI) - Colon surgery,0.753,No Different
+000435,Catheter-associated urinary tract infections (CAUTI),0.87,No Different
+000435,Surgical site infections (SSI) - Abdominal hysterectomy,0.588,Better
+000436,Surgical site infections (SSI) - Colon surgery,1.723,No Different
+000436,Catheter-associated urinary tract infections (CAUTI),1.351,No Different
+000436,Clostridium difficile (C.diff) infections,1.854,No Different
+000436,Surgical site infections (SSI) - Abdominal hysterectomy,1.289,No Different
+000436,Central line-associated bloodstream infections (CLABSI),1.499,Better
+000436,Methicillin-resistant Staphylococcus aureus (MRSA),1.838,No Different
+000437,Surgical site infections (SSI) - Abdominal hysterectomy,0.583,No Different
+000437,Methicillin-resistant Staphylococcus aureus (MRSA),0.959,No Different
+000437,Central line-associated bloodstream infections (CLABSI),1.153,Worse
+000437,Surgical site infections (SSI) - Colon surgery,0.828,No Different
+000438,Clostridium difficile (C.diff) infections,1.045,No Different
+000438,Surgical site infections (SSI) - Abdominal hysterectomy,0.667,No Different
+000438,Central line-associated bloodstream infections (CLABSI),0.915,Better
+000439,Surgical site infections (SSI) - Abdominal hysterectomy,0.618,No Different
+000439,Catheter-associated urinary tract infections (CAUTI),0.803,No Different
+000439,Central line-associated bloodstream infections (CLABSI),0.859,Better
+000440,Methicillin-resistant Staphylococcus aureus (MRSA),1.349,No Different
+000440,Catheter-associated urinary tract infections (CAUTI),1.231,No Different
+000440,Surgical site infections (SSI) - Abdominal hysterectomy,1.261,No Different
+000440,Surgical site infections (SSI) - Colon surgery,1.088,Better
+000440,Clostridium difficile (C.diff) infections,1.414,Better
+000440,Central line-associated bloodstream infections (CLABSI),1.372,No Different
+000441,Clostridium difficile (C.diff) infections,1.553,Better
+000441,Surgical site infections (SSI) - Abdominal hysterectomy,1.602,No Different
+000441,Surgical site infections (SSI) - Colon surgery,1.257,Worse
+000441,Catheter-associated urinary tract infections (CAUTI),1.267,Better
+000441,Central line-associated bloodstream infections (CLABSI),1.494,No Different
+000442,Surgical site infections (SSI) - Colon surgery,0.739,No Different
+000442,Catheter-associated urinary tract infections (CAUTI),0.983,No Different
+000442,Central line-associated bloodstream infections (CLABSI),0.822,No Different
+000442,Surgical site infections (SSI) - Abdominal hysterectomy,1.145,No Different
+000442,Clostridium difficile (C.diff) infections,0.805,No Different
+000442,Methicillin-resistant Staphylococcus aureus (MRSA),0.873,No Different
+000443,Central line-associated bloodstream infections (CLABSI),1.251,No Different
+000443,Methicillin-resistant Staphylococcus aureus (MRSA),1.154,Worse
+000443,Surgical site infections (SSI) - Colon surgery,0.867,No Different
+000443,Surgical site infections (SSI) - Abdominal hysterectomy,1.008,Better
+000444,Catheter-associated urinary tract infections (CAUTI),0.817,No Different
+000444,Clostridium difficile (C.diff) infections,0.884,No Different
+000444,Surgical site infections (SSI) - Abdominal hysterectomy,0.996,Better
+000445,Surgical site infections (SSI) - Abdominal hysterectomy,0.921,No Different
+000445,Catheter-associated urinary tract infections (CAUTI),0.841,Worse
+000445,Central line-associated bloodstream infections (CLABSI),0.974,No Different
+000445,Clostridium difficile (C.diff) infections,0.986,No Different
+000446,Methicillin-resistant Staphylococcus aureus (MRSA),1.677,No Different
+000446,Central line-associated bloodstream infections (CLABSI),1.713,No Different
+000446,Surgical site infections (SSI) - Colon surgery,1.244,No Different
+000446,Catheter-associated urinary tract infections (CAUTI),1.217,No Different
+000446,Surgical site infections (SSI) - Abdominal hysterectomy,1.664,Better
+000447,Catheter-associated urinary tract infections (CAUTI),1.112,No Different
+000447,Central line-associated bloodstream infections (CLABSI),1.335,No Different
+000447,Surgical site infections (SSI) - Colon surgery,1.156,No Different
+000447,Surgical site infections (SSI) - Abdominal hysterectomy,1.643,Better
+000447,Clostridium difficile (C.diff) infections,1.45,Worse
+000448,Catheter-associated urinary tract infections (CAUTI),1.324,Worse
+000448,Surgical site infections (SSI) - Colon surgery,1.431,No Different
+000448,Surgical site infections (SSI) - Abdominal hysterectomy,1.627,No Different
+000448,Clostridium difficile (C.diff) infections,1.539,No Different
+000449,Surgical site infections (SSI) - Colon surgery,1.155,No Different
+000449,Methicillin-resistant Staphylococcus aureus (MRSA),0.913,No Different
+000449,Catheter-associated urinary tract infections (CAUTI),1.13,No Different
+000449,Surgical site infections (SSI) - Abdominal hysterectomy,1.354,No Different
+000450,Catheter-associated urinary tract infections (CAUTI),1.539,No Different
+000450,Central line-associated bloodstream infections (CLABSI),1.661,No Different
+000450,Clostridium difficile (C.diff) infections,1.499,No Different
+000450,Methicillin-resistant Staphylococcus aureus (MRSA),1.439,No Different
+000451,Methicillin-resistant Staphylococcus aureus (MRSA),1.161,No Different
+000451,Central line-associated bloodstream infections (CLABSI),1.248,No Different
+000451,Surgical site infections (SSI) - Colon surgery,0.84,No Different
+000451,Catheter-associated urinary tract infections (CAUTI),1.043,No Different
+000451,Surgical site infections (SSI) - Abdominal hysterectomy,1.251,Better
+000451,Clostridium difficile (C.diff) infections,1.28,No Different
+000452,Clostridium difficile (C.diff) infections,1.173,No Different
+000452,Surgical site infections (SSI) - Colon surgery,1.107,No Different
+000452,Methicillin-resistant Staphylococcus aureus (MRSA),1.114,No Different
+000452,Surgical site infections (SSI) - Abdominal hysterectomy,0.811,Better
+000453,Central line-associated bloodstream infections (CLABSI),1.759,No Different
+000453,Catheter-associated urinary tract infections (CAUTI),1.159,No Different
+000453,Clostridium difficile (C.diff) infections,1.276,No Different
+000453,Methicillin-resistant Staphylococcus aureus (MRSA),1.13,Better
+000454,Catheter-associated urinary tract infections (CAUTI),0.872,No Different
+000454,Surgical site infections (SSI) - Colon surgery,0.661,Worse
+000454,Clostridium difficile (C.diff) infections,0.503,No Different
+000454,Surgical site infections (SSI) - Abdominal hysterectomy,0.738,No Different
+000454,Methicillin-resistant Staphylococcus aureus (MRSA),0.947,No Different
+000455,Clostridium difficile (C.diff) infections,0.932,No Different
+000455,Catheter-associated urinary tract infections (CAUTI),1.307,No Different
+000455,Surgical site infections (SSI) - Colon surgery,1.514,No Different
+000455,Surgical site infections (SSI) - Abdominal hysterectomy,1.462,No Different
+000455,Central line-associated bloodstream infections (CLABSI),1.295,Better
+000456,Surgical site infections (SSI) - Colon surgery,0.795,No Different
+000456,Surgical site infections (SSI) - Abdominal hysterectomy,1.005,No Different
+000456,Catheter-associated urinary tract infections (CAUTI),0.549,No Different
+000456,Clostridium difficile (C.diff) infections,0.934,Worse
+000456,Central line-associated bloodstream infections (CLABSI),0.845,Better
+000457,Clostridium difficile (C.diff) infections,0.679,Better
+000457,Methicillin-resistant Staphylococcus aureus (MRSA),0.476,No Different
+000457,Catheter-associated urinary tract infections (CAUTI),0.792,No Different
+000458,Surgical site infections (SSI) - Colon surgery,0.858,No Different
+000458,Catheter-associated urinary tract infections (CAUTI),0.616,No Different
+000458,Methicillin-resistant Staphylococcus aureus (MRSA),0.796,Worse
+000459,Methicillin-resistant Staphylococcus aureus (MRSA),1.484,No Different
+000459,Surgical site infections (SSI) - Abdominal hysterectomy,1.541,No Different
+000459,Clostridium difficile (C.diff) infections,1.73,Worse
+000459,Surgical site infections (SSI) - Colon surgery,1.621,No Different
+000459,Central line-associated bloodstream infections (CLABSI),1.422,No Different
+000460,Methicillin-resistant Staphylococcus aureus (MRSA),0.697,No Different
+000460,Surgical site infections (SSI) - Colon surgery,0.533,No Different
+000460,Clostridium difficile (C.diff) infections,0.792,Worse
+000460,Central line-associated bloodstream infections (CLABSI),0.989,No Different
+000461,Catheter-associated urinary tract infections (CAUTI),0.869,Better
+000461,Surgical site infections (SSI) - Colon surgery,1.048,Worse
+000461,Surgical site infections (SSI) - Abdominal hysterectomy,0.944,Worse
+000461,Central line-associated bloodstream infections (CLABSI),0.945,No Different
+000461,Methicillin-resistant Staphylococcus aureus (MRSA),0.912,Better
+000462,Surgical site infections (SSI) - Colon surgery,0.574,Better
+000462,Methicillin-resistant Staphylococcus aureus (MRSA),0.798,No Different
+000462,Central line-associated bloodstream infections (CLABSI),0.513,No Different
+000462,Clostridium difficile (C.diff) infections,0.809,Worse
+000463,Surgical site infections (SSI) - Abdominal hysterectomy,0.658,No Different
+000463,Surgical site infections (SSI) - Colon surgery,0.594,No Different
+000463,Catheter-associated urinary tract infections (CAUTI),0.906,No Different
+000463,Clostridium difficile (C.diff) infections,0.512,No Different
+000463,Methicillin-resistant Staphylococcus aureus (MRSA),0.833,No Different
+000464,Methicillin-resistant Staphylococcus aureus (MRSA),1.123,Better
+000464,Surgical site infections (SSI) - Colon surgery,0.803,No Different
+000464,Clostridium difficile (C.diff) infections,0.531,No Different
+000464,Central line-associated bloodstream infections (CLABSI),0.85,No Different
+000465,Surgical site infections (SSI) - Abdominal hysterectomy,1.321,No Different
+000465,Catheter-associated urinary tract infections (CAUTI),1.129,No Different
+000465,Methicillin-resistant Staphylococcus aureus (MRSA),1.312,Better
+000465,Central line-associated bloodstream infections (CLABSI),0.811,No Different
+000465,Clostridium difficile (C.diff) infections,1.306,No Different
+000466,Clostridium difficile (C.diff) infections,0.586,No Different
+000466,Methicillin-resistant Staphylococcus aureus (MRSA),1.134,No Different
+000466,Surgical site infections (SSI) - Abdominal hysterectomy,0.646,No Different
+000467,Surgical site infections (SSI) - Colon surgery,1.056,Better
+000467,Catheter-associated urinary tract infections (CAUTI),0.801,No Different
+000467,Central line-associated bloodstream infections (CLABSI),0.508,No Different
+000468,Methicillin-resistant Staphylococcus aureus (MRSA),0.964,No Different
+000468,Surgical site infections (SSI) - Abdominal hysterectomy,0.751,No Different
+000468,Clostridium difficile (C.diff) infections,1.272,No Different
+000469,Surgical site infections (SSI) - Abdominal hysterectomy,0.445,Better
+000469,Methicillin-resistant Staphylococcus aureus (MRSA),0.376,Worse
+000469,Surgical site infections (SSI) - Colon surgery,0.566,No Different
+000470,Clostridium difficile (C.diff) infections,0.749,No Different
+000470,Surgical site infections (SSI) - Colon surgery,0.675,No Different
+000470,Surgical site infections (SSI) - Abdominal hysterectomy,0.55,No Different
+000470,Methicillin-resistant Staphylococcus aureus (MRSA),0.733,No Different
+000470,Central line-associated bloodstream infections (CLABSI),0.815,No Different
+000471,Catheter-associated urinary tract infections (CAUTI),1.025,No Different
+000471,Methicillin-resistant Staphylococcus aureus (MRSA),1.157,Better
+000471,Central line-associated bloodstream infections (CLABSI),1.122,No Different
+000472,Methicillin-resistant Staphylococcus aureus (MRSA),1.316,No Different
+000472,Surgical site infections (SSI) - Colon surgery,1.255,Worse
+000472,Surgical site infections (SSI) - Abdominal hysterectomy,0.933,Worse
+000472,Catheter-associated urinary tract infections (CAUTI),0.946,Better
+000472,Clostridium difficile (C.diff) infections,1.139,No Different
+000472,Central line-associated bloodstream infections (CLABSI),1.165,No Different
+000473,Central line-associated bloodstream infections (CLABSI),0.957,No Different
+000473,Clostridium difficile (C.diff) infections,0.962,Worse
+000473,Catheter-associated urinary tract infections (CAUTI),0.367,Better
+000474,Methicillin-resistant Staphylococcus aureus (MRSA),0.92,Worse
+000474,Surgical site infections (SSI) - Abdominal hysterectomy,1.152,No Different
+000474,Central line-associated bloodstream infections (CLABSI),0.693,Better
+000474,Catheter-associated urinary tract infections (CAUTI),1.255,No Different
+000474,Surgical site infections (SSI) - Colon surgery,1.322,Better
+000475,Central line-associated bloodstream infections (CLABSI),0.353,No Different
+000475,Clostridium difficile (C.diff) infections,0.688,No Different
+000475,Surgical site infections (SSI) - Abdominal hysterectomy,0.702,No Different
+000475,Methicillin-resistant Staphylococcus aureus (MRSA),0.691,No Different
+000476,Methicillin-resistant Staphylococcus aureus (MRSA),0.679,No Different
+000476,Surgical site infections (SSI) - Abdominal hysterectomy,0.687,No Different
+000476,Clostridium difficile (C.diff) infections,0.443,Worse
+000477,Surgical site infections (SSI) - Colon surgery,0.293,Better
+000477,Surgical site infections (SSI) - Abdominal hysterectomy,0.736,Better
+000477,Catheter-associated urinary tract infections (CAUTI),0.818,No Different
+000478,Central line-associated bloodstream infections (CLABSI),0.788,No Different
+000478,Catheter-associated urinary tract infections (CAUTI),0.967,No Different
+000478,Surgical site infections (SSI) - Abdominal hysterectomy,1.141,Better
+000478,Clostridium difficile (C.diff) infections,0.902,Better
+000479,Clostridium difficile (C.diff) infections,1.186,No Different
+000479,Surgical site infections (SSI) - Colon surgery,1.224,No Different
+000479,Catheter-associated urinary tract infections (CAUTI),1.035,No Different
+000480,Surgical site infections (SSI) - Colon surgery,1.18,Better
+000480,Methicillin-resistant Staphylococcus aureus (MRSA),1.091,Worse
+000480,Central line-associated bloodstream infections (CLABSI),1.609,No Different
+000480,Catheter-associated urinary tract infections (CAUTI),1.102,No Different
+000480,Clostridium difficile (C.diff) infections,1.558,No Different
+000480,Surgical site infections (SSI) - Abdominal hysterectomy,1.549,No Different
+000481,Catheter-associated urinary tract infections (CAUTI),1.705,No Different
+000481,Surgical site infections (SSI) - Colon surgery,1.426,No Different
+000481,Central line-associated bloodstream infections (CLABSI),1.1,Worse
+000481,Clostridium difficile (C.diff) infections,1.705,Better
+000481,Surgical site infections (SSI) - Abdominal hysterectomy,1.269,No Different
+000482,Surgical site infections (SSI) - Colon surgery,0.651,No Different
+000482,Central line-associated bloodstream infections (CLABSI),1.105,No Different
+000482,Methicillin-resistant Staphylococcus aureus (MRSA),0.441,No Different
+000482,Surgical site infections (SSI) - Abdominal hysterectomy,0.829,No Different
+000483,Methicillin-resistant Staphylococcus aureus (MRSA),0.408,No Different
+000483,Surgical site infections (SSI) - Colon surgery,0.91,No Different
+000483,Central line-associated bloodstream infections (CLABSI),0.697,No Different
+000483,Surgical site infections (SSI) - Abdominal hysterectomy,0.787,No Different
+000483,Clostridium difficile (C.diff) infections,0.784,Worse
+000484,Central line-associated bloodstream infections (CLABSI),1.472,No Different
+000484,Clostridium difficile (C.diff) infections,0.904,No Different
+000484,Surgical site infections (SSI) - Colon surgery,0.802,No Different
+000484,Catheter-associated urinary tract infections (CAUTI),0.988,No Different
+000485,Central line-associated bloodstream infections (CLABSI),1.097,No Different
+000485,Surgical site infections (SSI) - Abdominal hysterectomy,0.824,No Different
+000485,Catheter-associated urinary tract infections (CAUTI),0.938,Better
+000485,Clostridium difficile (C.diff) infections,0.684,Worse
+000485,Methicillin-resistant Staphylococcus aureus (MRSA),1.016,No Different
+000485,Surgical site infections (SSI) - Colon surgery,0.788,Better
+000486,Clostridium difficile (C.diff) infections,0.498,No Different
+000486,Central line-associated bloodstream infections (CLABSI),0.624,Better
+000486,Catheter-associated urinary tract infections (CAUTI),0.625,No Different
+000486,Surgical site infections (SSI) - Colon surgery,0.149,Better
+000486,Surgical site infections (SSI) - Abdominal hysterectomy,0.281,Worse
+000487,Surgical site infections (SSI) - Abdominal hysterectomy,1.592,Better
+000487,Catheter-associated urinary tract infections (CAUTI),1.453,Better
+000487,Central line-associated bloodstream infections (CLABSI),1.74,No Different
+000487,Surgical site infections (SSI) - Colon surgery,1.806,No Different
+000487,Clostridium difficile (C.diff) infections,1.525,No Different
+000488,Clostridium difficile (C.diff) infections,0.594,Better
+000488,Surgical site infections (SSI) - Colon surgery,1.126,No Different
+000488,Surgical site infections (SSI) - Abdominal hysterectomy,1.061,Worse
+000488,Central line-associated bloodstream infections (CLABSI),1.115,Better
+000488,Methicillin-resistant Staphylococcus aureus (MRSA),0.598,No Different
+000489,Central line-associated bloodstream infections (CLABSI),1.685,No Different
+000489,Surgical site infections (SSI) - Abdominal hysterectomy,1.521,No Different
+000489,Clostridium difficile (C.diff) infections,1.613,Better
+000489,Catheter-associated urinary tract infections (CAUTI),1.816,No Different
+000489,Surgical site infections (SSI) - Colon surgery,1.691,Worse
+000489,Methicillin-resistant Staphylococcus aureus (MRSA),1.757,No Different
+000490,Methicillin-resistant Staphylococcus aureus (MRSA),1.219,No Different
+000490,Surgical site infections (SSI) - Colon surgery,1.048,Better
+000490,Catheter-associated urinary tract infections (CAUTI),1.197,No Different
+000491,Clostridium difficile (C.diff) infections,1.404,No Different
+000491,Catheter-associated urinary tract infections (CAUTI),0.868,No Different
+000491,Methicillin-resistant Staphylococcus aureus (MRSA),1.282,Better
+000491,Surgical site infections (SSI) - Colon surgery,1.559,No Different
+000491,Central line-associated bloodstream infections (CLABSI),1.382,No Different
+000492,Surgical site infections (SSI) - Colon surgery,0.944,No Different
+000492,Surgical site infections (SSI) - Abdominal hysterectomy,1.692,No Different
+000492,Clostridium difficile (C.diff) infections,1.154,No Different
+000493,Methicillin-resistant Staphylococcus aureus (MRSA),0.838,No Different
+000493,Central line-associated bloodstream infections (CLABSI),1.082,Better
+000493,Clostridium difficile (C.diff) infections,0.849,No Different
+000494,Clostridium difficile (C.diff) infections,1.089,No Different
+000494,Surgical site infections (SSI) - Colon surgery,1.431,No Different
+000494,Methicillin-resistant Staphylococcus aureus (MRSA),1.492,Better
+000495,Catheter-associated urinary tract infections (CAUTI),0.816,No Different
+000495,Surgical site infections (SSI) - Abdominal hysterectomy,0.749,No Different
+000495,Clostridium difficile (C.diff) infections,0.952,No Different
+000495,Methicillin-resistant Staphylococcus aureus (MRSA),1.047,No Different
+000496,Surgical site infections (SSI) - Colon surgery,1.275,No Different
+000496,Surgical site infections (SSI) - Abdominal hysterectomy,1.042,No Different
+000496,Catheter-associated urinary tract infections (CAUTI),1.472,No Different
+000497,Methicillin-resistant Staphylococcus aureus (MRSA),0.952,No Different
+000497,Catheter-associated urinary tract infections (CAUTI),0.743,Worse
+000497,Surgical site infections (SSI) - Colon surgery,0.767,No Different
+000497,Central line-associated bloodstream infections (CLABSI),1.057,No Different
+000497,Clostridium difficile (C.diff) infections,0.721,Better
+000498,Clostridium difficile (C.diff) infections,0.67,Worse
+000498,Methicillin-resistant Staphylococcus aureus (MRSA),0.732,No Different
+000498,Surgical site infections (SSI) - Abdominal hysterectomy,0.986,Better
+000498,Surgical site infections (SSI) - Colon surgery,1.141,No Different
+000498,Central line-associated bloodstream infections (CLABSI),1.202,No Different
+000499,Central line-associated bloodstream infections (CLABSI),1.238,No Different
+000499,Surgical site infections (SSI) - Abdominal hysterectomy,1.269,Better
+000499,Methicillin-resistant Staphylococcus aureus (MRSA),1.321,No Different
+000500,Surgical site infections (SSI) - Colon surgery,0.941,No Different
+000500,Clostridium difficile (C.diff) infections,1.12,Better
+000500,Surgical site infections (SSI) - Abdominal hysterectomy,0.893,No Different
+000500,Catheter-associated urinary tract infections (CAUTI),1.302,No Different

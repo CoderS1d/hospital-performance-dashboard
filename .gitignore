@@ -1,0 +1,48 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# ShinyApps.io deployment credentials (NEVER COMMIT THESE!)
+rsconnect/
+
+# Environment files with secrets
+.Renviron
+.env
+
+# Output files (optional - uncomment if you want to track outputs)
+# outputs/plots/*.png
+# outputs/plots/*.html
+# outputs/*.csv
+
+# Data files (if using sensitive/large data)
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Package development
+*.tar.gz
+*.zip
+
+# Documentation builds
+docs/_build/
+vignettes/*.html
+vignettes/*.pdf

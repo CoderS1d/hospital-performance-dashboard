@@ -1,0 +1,2244 @@
+Facility ID,Measure Name,Score,Compared to National
+000001,Death rate for pneumonia patients,15.87,No Different
+000001,Death rate for COPD patients,16.13,No Different
+000001,Death rate for coronary artery bypass graft (CABG) patients,14.39,No Different
+000001,Death rate for stroke patients,19.2,No Different
+000001,Death rate for heart attack patients,12.99,Worse
+000002,Death rate for pneumonia patients,10.1,No Different
+000002,Death rate for COPD patients,13.49,Worse
+000002,Death rate for stroke patients,12.99,No Different
+000002,Death rate for heart attack patients,14.59,Better
+000003,Death rate for heart failure patients,8.73,No Different
+000003,Death rate for pneumonia patients,3,Worse
+000003,Death rate for coronary artery bypass graft (CABG) patients,10.03,No Different
+000003,Death rate for heart attack patients,12.13,No Different
+000003,Death rate for stroke patients,8.92,Worse
+000003,Death rate for COPD patients,7.79,No Different
+000004,Death rate for stroke patients,14.83,No Different
+000004,Death rate for heart failure patients,21.23,Better
+000004,Death rate for COPD patients,18.56,Better
+000004,Death rate for pneumonia patients,15.25,Better
+000005,Death rate for heart failure patients,19.87,Worse
+000005,Death rate for pneumonia patients,21.84,Better
+000005,Death rate for heart attack patients,22.99,No Different
+000006,Death rate for heart failure patients,11.66,No Different
+000006,Death rate for pneumonia patients,8.92,No Different
+000006,Death rate for stroke patients,10.79,No Different
+000006,Death rate for coronary artery bypass graft (CABG) patients,10.82,No Different
+000007,Death rate for coronary artery bypass graft (CABG) patients,21.91,Better
+000007,Death rate for COPD patients,22.35,No Different
+000007,Death rate for stroke patients,19.09,No Different
+000007,Death rate for pneumonia patients,23.69,No Different
+000008,Death rate for COPD patients,16.29,No Different
+000008,Death rate for stroke patients,18.14,No Different
+000008,Death rate for heart failure patients,13.26,No Different
+000008,Death rate for heart attack patients,18.57,Better
+000009,Death rate for COPD patients,12.64,No Different
+000009,Death rate for heart attack patients,12.25,Better
+000009,Death rate for stroke patients,10.79,No Different
+000009,Death rate for heart failure patients,13.1,No Different
+000010,Death rate for coronary artery bypass graft (CABG) patients,21.85,Better
+000010,Death rate for heart attack patients,17.76,No Different
+000010,Death rate for pneumonia patients,18.63,No Different
+000010,Death rate for heart failure patients,16.4,Better
+000010,Death rate for stroke patients,19.32,Better
+000010,Death rate for COPD patients,18.73,No Different
+000011,Death rate for heart failure patients,15.73,Better
+000011,Death rate for coronary artery bypass graft (CABG) patients,13.64,No Different
+000011,Death rate for COPD patients,14.48,No Different
+000011,Death rate for heart attack patients,15.85,No Different
+000012,Death rate for coronary artery bypass graft (CABG) patients,18.61,No Different
+000012,Death rate for heart attack patients,15.85,Better
+000012,Death rate for heart failure patients,19.68,Better
+000013,Death rate for stroke patients,13.59,No Different
+000013,Death rate for COPD patients,16.69,No Different
+000013,Death rate for pneumonia patients,17.72,No Different
+000013,Death rate for heart attack patients,11.71,Better
+000013,Death rate for coronary artery bypass graft (CABG) patients,17.58,No Different
+000013,Death rate for heart failure patients,16.29,No Different
+000014,Death rate for pneumonia patients,12.87,Better
+000014,Death rate for heart attack patients,13.89,Better
+000014,Death rate for coronary artery bypass graft (CABG) patients,10.16,No Different
+000014,Death rate for stroke patients,10.85,Worse
+000014,Death rate for heart failure patients,8.6,No Different
+000015,Death rate for heart failure patients,13.26,No Different
+000015,Death rate for COPD patients,12.03,Better
+000015,Death rate for coronary artery bypass graft (CABG) patients,12.78,No Different
+000015,Death rate for pneumonia patients,9.71,No Different
+000015,Death rate for heart attack patients,8.48,No Different
+000015,Death rate for stroke patients,12.35,Worse
+000016,Death rate for stroke patients,14.59,No Different
+000016,Death rate for COPD patients,13.64,No Different
+000016,Death rate for coronary artery bypass graft (CABG) patients,15.93,Worse
+000016,Death rate for heart attack patients,16.6,Better
+000016,Death rate for heart failure patients,16.8,No Different
+000017,Death rate for coronary artery bypass graft (CABG) patients,8.95,Better
+000017,Death rate for stroke patients,13.77,No Different
+000017,Death rate for heart failure patients,10.88,Worse
+000018,Death rate for stroke patients,10.87,No Different
+000018,Death rate for heart failure patients,12.63,Better
+000018,Death rate for pneumonia patients,12.5,Better
+000018,Death rate for heart attack patients,13.46,No Different
+000018,Death rate for COPD patients,11.11,No Different
+000018,Death rate for coronary artery bypass graft (CABG) patients,7.35,Better
+000019,Death rate for heart attack patients,11.81,No Different
+000019,Death rate for heart failure patients,8.13,No Different
+000019,Death rate for pneumonia patients,8.32,Better
+000020,Death rate for stroke patients,18.23,No Different
+000020,Death rate for coronary artery bypass graft (CABG) patients,17.28,No Different
+000020,Death rate for pneumonia patients,15.13,No Different
+000020,Death rate for COPD patients,16.81,No Different
+000020,Death rate for heart failure patients,17.29,No Different
+000020,Death rate for heart attack patients,17.65,Better
+000021,Death rate for COPD patients,12.65,No Different
+000021,Death rate for heart attack patients,11.85,No Different
+000021,Death rate for pneumonia patients,13.61,No Different
+000021,Death rate for coronary artery bypass graft (CABG) patients,13.27,No Different
+000022,Death rate for heart failure patients,20.26,Better
+000022,Death rate for COPD patients,18.31,No Different
+000022,Death rate for pneumonia patients,18.66,No Different
+000022,Death rate for heart attack patients,18.88,Better
+000022,Death rate for stroke patients,18.48,Better
+000022,Death rate for coronary artery bypass graft (CABG) patients,18.13,No Different
+000023,Death rate for pneumonia patients,11.17,Better
+000023,Death rate for heart attack patients,15.29,No Different
+000023,Death rate for COPD patients,10.51,No Different
+000023,Death rate for coronary artery bypass graft (CABG) patients,10.22,Worse
+000023,Death rate for heart failure patients,20.36,No Different
+000024,Death rate for COPD patients,9.95,No Different
+000024,Death rate for coronary artery bypass graft (CABG) patients,9.34,No Different
+000024,Death rate for pneumonia patients,10.52,No Different
+000025,Death rate for heart attack patients,10.52,No Different
+000025,Death rate for heart failure patients,18.84,No Different
+000025,Death rate for pneumonia patients,15.83,No Different
+000025,Death rate for coronary artery bypass graft (CABG) patients,13.03,No Different
+000025,Death rate for COPD patients,16.07,No Different
+000026,Death rate for heart attack patients,13.35,No Different
+000026,Death rate for coronary artery bypass graft (CABG) patients,15.93,No Different
+000026,Death rate for COPD patients,15.25,Better
+000026,Death rate for heart failure patients,12.89,No Different
+000027,Death rate for heart failure patients,14.2,Better
+000027,Death rate for heart attack patients,18.41,No Different
+000027,Death rate for COPD patients,20.26,Better
+000027,Death rate for stroke patients,16.36,Better
+000028,Death rate for heart failure patients,12.95,Better
+000028,Death rate for heart attack patients,11.11,No Different
+000028,Death rate for coronary artery bypass graft (CABG) patients,9.48,Better
+000028,Death rate for stroke patients,11.19,No Different
+000029,Death rate for heart attack patients,19.17,No Different
+000029,Death rate for stroke patients,19.81,No Different
+000029,Death rate for coronary artery bypass graft (CABG) patients,17.63,No Different
+000029,Death rate for heart failure patients,22.64,No Different
+000029,Death rate for COPD patients,19.22,No Different
+000029,Death rate for pneumonia patients,22.2,No Different
+000030,Death rate for heart failure patients,15.3,No Different
+000030,Death rate for coronary artery bypass graft (CABG) patients,14.02,No Different
+000030,Death rate for heart attack patients,15.43,No Different
+000030,Death rate for stroke patients,15.73,No Different
+000030,Death rate for pneumonia patients,10.83,Better
+000031,Death rate for COPD patients,17.43,No Different
+000031,Death rate for heart failure patients,15.34,No Different
+000031,Death rate for stroke patients,16.64,Worse
+000031,Death rate for pneumonia patients,16.77,No Different
+000031,Death rate for heart attack patients,15.47,No Different
+000032,Death rate for pneumonia patients,13.66,No Different
+000032,Death rate for stroke patients,15.91,No Different
+000032,Death rate for COPD patients,13.13,No Different
+000032,Death rate for heart attack patients,12.63,No Different
+000032,Death rate for coronary artery bypass graft (CABG) patients,14.47,No Different
+000033,Death rate for coronary artery bypass graft (CABG) patients,13.37,No Different
+000033,Death rate for heart failure patients,14.75,Better
+000033,Death rate for pneumonia patients,15.74,No Different
+000033,Death rate for COPD patients,16.95,No Different
+000033,Death rate for stroke patients,13.2,No Different
+000034,Death rate for heart attack patients,12.65,No Different
+000034,Death rate for heart failure patients,10.88,No Different
+000034,Death rate for COPD patients,12.43,No Different
+000034,Death rate for coronary artery bypass graft (CABG) patients,17.37,Better
+000034,Death rate for pneumonia patients,12.43,No Different
+000035,Death rate for pneumonia patients,11.76,Worse
+000035,Death rate for heart failure patients,14.2,No Different
+000035,Death rate for heart attack patients,13.3,No Different
+000035,Death rate for coronary artery bypass graft (CABG) patients,17.03,No Different
+000035,Death rate for stroke patients,18.15,No Different
+000035,Death rate for COPD patients,14.59,No Different
+000036,Death rate for pneumonia patients,9.16,No Different
+000036,Death rate for stroke patients,10.49,Worse
+000036,Death rate for coronary artery bypass graft (CABG) patients,15.87,Better
+000036,Death rate for heart failure patients,11.53,No Different
+000036,Death rate for heart attack patients,14.16,No Different
+000037,Death rate for heart failure patients,17.15,No Different
+000037,Death rate for heart attack patients,12.79,No Different
+000037,Death rate for stroke patients,16.96,No Different
+000038,Death rate for heart failure patients,14.07,No Different
+000038,Death rate for coronary artery bypass graft (CABG) patients,13.46,No Different
+000038,Death rate for stroke patients,12.52,No Different
+000038,Death rate for pneumonia patients,12.43,No Different
+000038,Death rate for COPD patients,11.92,No Different
+000039,Death rate for stroke patients,12.86,Better
+000039,Death rate for heart attack patients,15.48,Better
+000039,Death rate for coronary artery bypass graft (CABG) patients,17.18,No Different
+000039,Death rate for COPD patients,13.1,No Different
+000039,Death rate for pneumonia patients,12.45,No Different
+000039,Death rate for heart failure patients,11.06,No Different
+000040,Death rate for COPD patients,10.71,Better
+000040,Death rate for heart failure patients,14.22,No Different
+000040,Death rate for stroke patients,15.75,No Different
+000040,Death rate for coronary artery bypass graft (CABG) patients,11.14,No Different
+000040,Death rate for heart attack patients,12.35,No Different
+000040,Death rate for pneumonia patients,12.63,Better
+000041,Death rate for heart failure patients,20.35,No Different
+000041,Death rate for coronary artery bypass graft (CABG) patients,12.66,No Different
+000041,Death rate for COPD patients,17.17,Worse
+000041,Death rate for stroke patients,20.14,Better
+000042,Death rate for coronary artery bypass graft (CABG) patients,11.39,No Different
+000042,Death rate for heart failure patients,14.18,No Different
+000042,Death rate for pneumonia patients,10.83,No Different
+000043,Death rate for pneumonia patients,17.4,No Different
+000043,Death rate for COPD patients,12.57,Worse
+000043,Death rate for heart failure patients,18.69,No Different
+000043,Death rate for heart attack patients,13.43,No Different
+000043,Death rate for coronary artery bypass graft (CABG) patients,19.03,No Different
+000043,Death rate for stroke patients,15.13,No Different
+000044,Death rate for COPD patients,15.14,Better
+000044,Death rate for heart attack patients,12.19,No Different
+000044,Death rate for pneumonia patients,12.85,Better
+000044,Death rate for heart failure patients,14.83,No Different
+000044,Death rate for coronary artery bypass graft (CABG) patients,11.9,No Different
+000044,Death rate for stroke patients,15.31,No Different
+000045,Death rate for stroke patients,12.16,No Different
+000045,Death rate for COPD patients,12.92,No Different
+000045,Death rate for coronary artery bypass graft (CABG) patients,12.44,No Different
+000045,Death rate for pneumonia patients,13.72,No Different
+000045,Death rate for heart attack patients,13.93,Better
+000046,Death rate for stroke patients,17.29,Better
+000046,Death rate for heart failure patients,21.68,No Different
+000046,Death rate for coronary artery bypass graft (CABG) patients,17.32,No Different
+000046,Death rate for COPD patients,13.65,Better
+000046,Death rate for pneumonia patients,18.41,Better
+000047,Death rate for COPD patients,14.15,No Different
+000047,Death rate for heart attack patients,14.11,No Different
+000047,Death rate for stroke patients,13.96,No Different
+000047,Death rate for coronary artery bypass graft (CABG) patients,13.47,No Different
+000048,Death rate for coronary artery bypass graft (CABG) patients,8.13,No Different
+000048,Death rate for stroke patients,9.58,No Different
+000048,Death rate for pneumonia patients,9.93,No Different
+000049,Death rate for pneumonia patients,13.97,Better
+000049,Death rate for coronary artery bypass graft (CABG) patients,15.22,No Different
+000049,Death rate for heart attack patients,8.04,Worse
+000049,Death rate for COPD patients,8.72,No Different
+000050,Death rate for pneumonia patients,22.75,No Different
+000050,Death rate for stroke patients,20.42,No Different
+000050,Death rate for heart failure patients,18.67,Better
+000050,Death rate for heart attack patients,20.67,No Different
+000050,Death rate for COPD patients,21.4,No Different
+000051,Death rate for stroke patients,21.9,No Different
+000051,Death rate for pneumonia patients,16.69,Worse
+000051,Death rate for heart attack patients,15.16,No Different
+000051,Death rate for heart failure patients,18.69,No Different
+000051,Death rate for COPD patients,18.44,No Different
+000052,Death rate for COPD patients,11.96,No Different
+000052,Death rate for heart attack patients,11.5,No Different
+000052,Death rate for coronary artery bypass graft (CABG) patients,10.13,No Different
+000052,Death rate for heart failure patients,13.38,Worse
+000052,Death rate for pneumonia patients,12.42,Better
+000053,Death rate for coronary artery bypass graft (CABG) patients,17.29,Worse
+000053,Death rate for heart attack patients,12.84,Better
+000053,Death rate for stroke patients,13.13,No Different
+000054,Death rate for heart attack patients,12.6,No Different
+000054,Death rate for pneumonia patients,18.34,No Different
+000054,Death rate for COPD patients,12.56,No Different
+000054,Death rate for stroke patients,14.55,No Different
+000054,Death rate for heart failure patients,16.04,No Different
+000055,Death rate for COPD patients,15.76,No Different
+000055,Death rate for pneumonia patients,14.37,No Different
+000055,Death rate for heart failure patients,12.89,Better
+000056,Death rate for COPD patients,15.34,No Different
+000056,Death rate for coronary artery bypass graft (CABG) patients,13.49,Better
+000056,Death rate for heart attack patients,14.49,No Different
+000057,Death rate for heart attack patients,12.58,No Different
+000057,Death rate for coronary artery bypass graft (CABG) patients,14.08,No Different
+000057,Death rate for pneumonia patients,8.05,No Different
+000057,Death rate for heart failure patients,12.48,Worse
+000058,Death rate for coronary artery bypass graft (CABG) patients,11.89,No Different
+000058,Death rate for pneumonia patients,9.85,No Different
+000058,Death rate for stroke patients,9.91,Better
+000058,Death rate for heart failure patients,11.7,No Different
+000059,Death rate for coronary artery bypass graft (CABG) patients,10.97,No Different
+000059,Death rate for COPD patients,9.91,Worse
+000059,Death rate for heart attack patients,13.57,No Different
+000060,Death rate for coronary artery bypass graft (CABG) patients,13.72,Better
+000060,Death rate for COPD patients,16.46,No Different
+000060,Death rate for heart failure patients,13.11,No Different
+000061,Death rate for stroke patients,16.37,Better
+000061,Death rate for COPD patients,13.78,No Different
+000061,Death rate for heart attack patients,16.13,Worse
+000061,Death rate for heart failure patients,14.13,No Different
+000061,Death rate for coronary artery bypass graft (CABG) patients,15.74,No Different
+000062,Death rate for heart attack patients,11.44,No Different
+000062,Death rate for coronary artery bypass graft (CABG) patients,14.43,No Different
+000062,Death rate for stroke patients,13.44,No Different
+000063,Death rate for coronary artery bypass graft (CABG) patients,16.32,Better
+000063,Death rate for heart failure patients,20.57,No Different
+000063,Death rate for pneumonia patients,17.33,No Different
+000063,Death rate for stroke patients,22.45,No Different
+000063,Death rate for heart attack patients,17.25,No Different
+000063,Death rate for COPD patients,17.28,No Different
+000064,Death rate for pneumonia patients,16.74,No Different
+000064,Death rate for COPD patients,16.66,No Different
+000064,Death rate for heart attack patients,16.9,No Different
+000064,Death rate for heart failure patients,18.76,No Different
+000065,Death rate for COPD patients,12.03,No Different
+000065,Death rate for pneumonia patients,11.34,No Different
+000065,Death rate for heart attack patients,10.24,Better
+000065,Death rate for heart failure patients,12.63,Better
+000065,Death rate for stroke patients,12.41,Better
+000065,Death rate for coronary artery bypass graft (CABG) patients,13.7,Worse
+000066,Death rate for stroke patients,9.88,Better
+000066,Death rate for coronary artery bypass graft (CABG) patients,7.86,Better
+000066,Death rate for pneumonia patients,9.91,Better
+000066,Death rate for heart attack patients,15.87,No Different
+000066,Death rate for heart failure patients,7.28,No Different
+000066,Death rate for COPD patients,8.36,No Different
+000067,Death rate for COPD patients,12.64,Better
+000067,Death rate for coronary artery bypass graft (CABG) patients,13.6,No Different
+000067,Death rate for heart failure patients,11.82,No Different
+000067,Death rate for stroke patients,12.46,No Different
+000068,Death rate for coronary artery bypass graft (CABG) patients,11.48,No Different
+000068,Death rate for COPD patients,11.77,No Different
+000068,Death rate for heart attack patients,10.88,Worse
+000068,Death rate for pneumonia patients,15.33,Better
+000068,Death rate for stroke patients,10.28,No Different
+000068,Death rate for heart failure patients,7.91,No Different
+000069,Death rate for pneumonia patients,17.21,Better
+000069,Death rate for COPD patients,16.94,No Different
+000069,Death rate for heart failure patients,18.52,No Different
+000070,Death rate for pneumonia patients,14.33,No Different
+000070,Death rate for COPD patients,16.4,No Different
+000070,Death rate for coronary artery bypass graft (CABG) patients,15.07,No Different
+000070,Death rate for heart attack patients,17.58,Better
+000070,Death rate for stroke patients,17.49,No Different
+000071,Death rate for heart attack patients,16.4,No Different
+000071,Death rate for pneumonia patients,15.41,Better
+000071,Death rate for stroke patients,17.5,Better
+000071,Death rate for heart failure patients,12.73,Worse
+000072,Death rate for heart attack patients,11.82,Better
+000072,Death rate for coronary artery bypass graft (CABG) patients,13.28,No Different
+000072,Death rate for COPD patients,16.55,Worse
+000073,Death rate for heart failure patients,16.03,No Different
+000073,Death rate for coronary artery bypass graft (CABG) patients,12.85,Better
+000073,Death rate for COPD patients,12.97,Better
+000073,Death rate for heart attack patients,15.19,Better
+000073,Death rate for pneumonia patients,15.08,No Different
+000074,Death rate for pneumonia patients,14.51,No Different
+000074,Death rate for COPD patients,10.83,Better
+000074,Death rate for coronary artery bypass graft (CABG) patients,11.99,No Different
+000075,Death rate for COPD patients,8.55,No Different
+000075,Death rate for pneumonia patients,5.98,No Different
+000075,Death rate for coronary artery bypass graft (CABG) patients,8.85,Worse
+000075,Death rate for stroke patients,7.86,No Different
+000076,Death rate for heart failure patients,18.32,Better
+000076,Death rate for stroke patients,16.69,No Different
+000076,Death rate for coronary artery bypass graft (CABG) patients,19.01,No Different
+000077,Death rate for heart attack patients,16.96,Worse
+000077,Death rate for heart failure patients,20.01,No Different
+000077,Death rate for COPD patients,19.19,No Different
+000078,Death rate for pneumonia patients,11.76,No Different
+000078,Death rate for heart failure patients,11.25,No Different
+000078,Death rate for coronary artery bypass graft (CABG) patients,12.99,No Different
+000078,Death rate for heart attack patients,10.06,No Different
+000079,Death rate for heart failure patients,10.28,No Different
+000079,Death rate for stroke patients,10.98,No Different
+000079,Death rate for heart attack patients,12.63,Better
+000079,Death rate for coronary artery bypass graft (CABG) patients,13.31,Better
+000079,Death rate for COPD patients,11.99,No Different
+000080,Death rate for COPD patients,17.44,No Different
+000080,Death rate for heart failure patients,14.63,No Different
+000080,Death rate for pneumonia patients,16.72,No Different
+000080,Death rate for heart attack patients,18.88,No Different
+000080,Death rate for coronary artery bypass graft (CABG) patients,20.59,No Different
+000080,Death rate for stroke patients,18.96,No Different
+000081,Death rate for heart attack patients,14.19,Better
+000081,Death rate for heart failure patients,11.02,Better
+000081,Death rate for stroke patients,12.66,Worse
+000081,Death rate for COPD patients,14.73,No Different
+000081,Death rate for pneumonia patients,12.61,Better
+000081,Death rate for coronary artery bypass graft (CABG) patients,14.12,No Different
+000082,Death rate for heart attack patients,13.36,Worse
+000082,Death rate for coronary artery bypass graft (CABG) patients,14.28,No Different
+000082,Death rate for pneumonia patients,12.6,No Different
+000082,Death rate for heart failure patients,14.4,No Different
+000082,Death rate for COPD patients,11.17,No Different
+000082,Death rate for stroke patients,15.36,No Different
+000083,Death rate for COPD patients,13.6,Better
+000083,Death rate for stroke patients,15.4,Better
+000083,Death rate for pneumonia patients,15.62,No Different
+000084,Death rate for heart failure patients,10.67,Better
+000084,Death rate for pneumonia patients,15.82,No Different
+000084,Death rate for stroke patients,14.12,No Different
+000084,Death rate for COPD patients,14.91,No Different
+000084,Death rate for heart attack patients,15.56,No Different
+000084,Death rate for coronary artery bypass graft (CABG) patients,13.39,Better
+000085,Death rate for pneumonia patients,14.67,No Different
+000085,Death rate for COPD patients,14.07,No Different
+000085,Death rate for coronary artery bypass graft (CABG) patients,18.49,No Different
+000085,Death rate for stroke patients,16.37,Better
+000085,Death rate for heart attack patients,14.96,No Different
+000086,Death rate for heart failure patients,15.63,No Different
+000086,Death rate for heart attack patients,15.32,No Different
+000086,Death rate for coronary artery bypass graft (CABG) patients,16.23,Better
+000086,Death rate for pneumonia patients,15.92,No Different
+000087,Death rate for heart failure patients,12.59,No Different
+000087,Death rate for heart attack patients,11.04,Better
+000087,Death rate for pneumonia patients,16.13,No Different
+000088,Death rate for pneumonia patients,15.67,No Different
+000088,Death rate for heart attack patients,14.11,No Different
+000088,Death rate for heart failure patients,11.63,No Different
+000088,Death rate for COPD patients,12.86,No Different
+000088,Death rate for stroke patients,10.1,No Different
+000088,Death rate for coronary artery bypass graft (CABG) patients,12.74,No Different
+000089,Death rate for heart failure patients,14.07,No Different
+000089,Death rate for coronary artery bypass graft (CABG) patients,12.25,Worse
+000089,Death rate for stroke patients,17.21,No Different
+000089,Death rate for heart attack patients,12.55,No Different
+000089,Death rate for COPD patients,19.57,No Different
+000090,Death rate for coronary artery bypass graft (CABG) patients,20.65,No Different
+000090,Death rate for stroke patients,16.08,No Different
+000090,Death rate for COPD patients,14.45,No Different
+000090,Death rate for heart attack patients,17.72,Better
+000090,Death rate for heart failure patients,12.17,No Different
+000091,Death rate for coronary artery bypass graft (CABG) patients,7.64,No Different
+000091,Death rate for stroke patients,9.26,No Different
+000091,Death rate for heart attack patients,8.34,Worse
+000092,Death rate for coronary artery bypass graft (CABG) patients,13.04,No Different
+000092,Death rate for pneumonia patients,12.78,No Different
+000092,Death rate for heart failure patients,9.94,No Different
+000092,Death rate for heart attack patients,12.31,Better
+000092,Death rate for stroke patients,9.39,No Different
+000092,Death rate for COPD patients,10.94,No Different
+000093,Death rate for coronary artery bypass graft (CABG) patients,16.71,No Different
+000093,Death rate for heart failure patients,15.64,No Different
+000093,Death rate for heart attack patients,20.58,No Different
+000093,Death rate for COPD patients,19.16,No Different
+000093,Death rate for stroke patients,17.58,No Different
+000094,Death rate for stroke patients,18.59,No Different
+000094,Death rate for heart attack patients,15.75,No Different
+000094,Death rate for heart failure patients,14.07,No Different
+000095,Death rate for pneumonia patients,14.15,No Different
+000095,Death rate for heart failure patients,13.67,No Different
+000095,Death rate for stroke patients,13.35,Better
+000095,Death rate for coronary artery bypass graft (CABG) patients,14.12,Worse
+000096,Death rate for coronary artery bypass graft (CABG) patients,10.66,Better
+000096,Death rate for COPD patients,13.47,No Different
+000096,Death rate for heart failure patients,11.02,Better
+000097,Death rate for heart attack patients,19.27,Better
+000097,Death rate for pneumonia patients,16.91,No Different
+000097,Death rate for stroke patients,13.73,No Different
+000097,Death rate for COPD patients,18.84,Better
+000098,Death rate for heart failure patients,17.18,Better
+000098,Death rate for heart attack patients,17.32,Worse
+000098,Death rate for coronary artery bypass graft (CABG) patients,12.21,No Different
+000098,Death rate for stroke patients,12.82,No Different
+000098,Death rate for pneumonia patients,18.36,Worse
+000098,Death rate for COPD patients,17.81,No Different
+000099,Death rate for pneumonia patients,12.99,No Different
+000099,Death rate for heart failure patients,15.92,No Different
+000099,Death rate for coronary artery bypass graft (CABG) patients,16.04,No Different
+000100,Death rate for heart attack patients,15.39,Better
+000100,Death rate for pneumonia patients,16.48,Better
+000100,Death rate for coronary artery bypass graft (CABG) patients,17.46,No Different
+000100,Death rate for COPD patients,16.06,No Different
+000100,Death rate for heart failure patients,13.77,Better
+000101,Death rate for COPD patients,12.99,No Different
+000101,Death rate for coronary artery bypass graft (CABG) patients,13.25,No Different
+000101,Death rate for stroke patients,13.26,Better
+000101,Death rate for heart attack patients,16.95,No Different
+000101,Death rate for heart failure patients,12.54,No Different
+000101,Death rate for pneumonia patients,12.06,No Different
+000102,Death rate for coronary artery bypass graft (CABG) patients,11.19,No Different
+000102,Death rate for COPD patients,12.17,No Different
+000102,Death rate for heart failure patients,16.67,No Different
+000102,Death rate for stroke patients,12.87,No Different
+000102,Death rate for pneumonia patients,12.29,No Different
+000103,Death rate for COPD patients,10.06,Worse
+000103,Death rate for stroke patients,17.36,Better
+000103,Death rate for coronary artery bypass graft (CABG) patients,13.89,No Different
+000103,Death rate for heart failure patients,16.11,No Different
+000104,Death rate for pneumonia patients,19.09,No Different
+000104,Death rate for stroke patients,12.59,Better
+000104,Death rate for heart attack patients,10.79,No Different
+000104,Death rate for COPD patients,10.69,Worse
+000105,Death rate for heart failure patients,12.8,No Different
+000105,Death rate for coronary artery bypass graft (CABG) patients,13.67,No Different
+000105,Death rate for COPD patients,10.71,No Different
+000106,Death rate for coronary artery bypass graft (CABG) patients,16.75,No Different
+000106,Death rate for stroke patients,14.38,Better
+000106,Death rate for pneumonia patients,12,No Different
+000106,Death rate for heart failure patients,12.54,No Different
+000107,Death rate for heart attack patients,18.05,No Different
+000107,Death rate for pneumonia patients,19.11,Better
+000107,Death rate for coronary artery bypass graft (CABG) patients,20.34,No Different
+000107,Death rate for COPD patients,14.11,No Different
+000107,Death rate for heart failure patients,17.47,No Different
+000108,Death rate for coronary artery bypass graft (CABG) patients,12.2,No Different
+000108,Death rate for stroke patients,17.28,Worse
+000108,Death rate for COPD patients,14.57,Better
+000108,Death rate for pneumonia patients,12.01,No Different
+000108,Death rate for heart attack patients,16.37,No Different
+000108,Death rate for heart failure patients,15.17,Worse
+000109,Death rate for stroke patients,14.32,No Different
+000109,Death rate for heart failure patients,13.12,Worse
+000109,Death rate for COPD patients,9.34,No Different
+000110,Death rate for COPD patients,12.8,No Different
+000110,Death rate for heart attack patients,11.55,Better
+000110,Death rate for pneumonia patients,11.69,Better
+000111,Death rate for COPD patients,10.15,No Different
+000111,Death rate for pneumonia patients,10.29,Worse
+000111,Death rate for heart attack patients,12.71,No Different
+000111,Death rate for coronary artery bypass graft (CABG) patients,12.22,No Different
+000112,Death rate for COPD patients,16.79,No Different
+000112,Death rate for coronary artery bypass graft (CABG) patients,15.1,Worse
+000112,Death rate for heart attack patients,15.02,Better
+000112,Death rate for pneumonia patients,17.42,No Different
+000112,Death rate for heart failure patients,13.78,Better
+000113,Death rate for heart attack patients,17.4,No Different
+000113,Death rate for pneumonia patients,16.47,No Different
+000113,Death rate for stroke patients,17.83,Better
+000113,Death rate for heart failure patients,14.41,Better
+000113,Death rate for coronary artery bypass graft (CABG) patients,14.2,No Different
+000113,Death rate for COPD patients,15.22,No Different
+000114,Death rate for stroke patients,13.38,No Different
+000114,Death rate for heart attack patients,18.29,No Different
+000114,Death rate for heart failure patients,16.19,Better
+000114,Death rate for coronary artery bypass graft (CABG) patients,15.32,Better
+000114,Death rate for COPD patients,15.62,No Different
+000115,Death rate for COPD patients,21.06,Worse
+000115,Death rate for stroke patients,20.77,No Different
+000115,Death rate for coronary artery bypass graft (CABG) patients,21.27,No Different
+000116,Death rate for pneumonia patients,14.3,No Different
+000116,Death rate for COPD patients,16.08,Worse
+000116,Death rate for stroke patients,13.24,No Different
+000116,Death rate for heart attack patients,17.77,No Different
+000116,Death rate for heart failure patients,13.63,No Different
+000116,Death rate for coronary artery bypass graft (CABG) patients,12.39,Better
+000117,Death rate for pneumonia patients,16.95,No Different
+000117,Death rate for COPD patients,16.53,No Different
+000117,Death rate for coronary artery bypass graft (CABG) patients,15.59,No Different
+000117,Death rate for heart attack patients,16.97,No Different
+000117,Death rate for heart failure patients,19.73,No Different
+000118,Death rate for pneumonia patients,14.97,No Different
+000118,Death rate for heart attack patients,16.95,Better
+000118,Death rate for heart failure patients,20.65,Better
+000118,Death rate for COPD patients,15.17,No Different
+000118,Death rate for stroke patients,17,No Different
+000119,Death rate for heart failure patients,17.7,No Different
+000119,Death rate for pneumonia patients,18.24,No Different
+000119,Death rate for heart attack patients,16.08,Worse
+000119,Death rate for coronary artery bypass graft (CABG) patients,19.94,Better
+000119,Death rate for COPD patients,15.84,No Different
+000119,Death rate for stroke patients,17.67,No Different
+000120,Death rate for heart failure patients,15.82,No Different
+000120,Death rate for stroke patients,17.44,No Different
+000120,Death rate for coronary artery bypass graft (CABG) patients,17.06,No Different
+000120,Death rate for pneumonia patients,18.13,No Different
+000120,Death rate for COPD patients,17.4,Worse
+000121,Death rate for heart failure patients,17.23,No Different
+000121,Death rate for COPD patients,20.03,No Different
+000121,Death rate for stroke patients,17.8,No Different
+000121,Death rate for coronary artery bypass graft (CABG) patients,18.2,No Different
+000122,Death rate for heart failure patients,17.03,No Different
+000122,Death rate for COPD patients,14.49,No Different
+000122,Death rate for pneumonia patients,15.62,No Different
+000122,Death rate for coronary artery bypass graft (CABG) patients,14.09,No Different
+000122,Death rate for heart attack patients,13.1,No Different
+000123,Death rate for COPD patients,11.16,Better
+000123,Death rate for stroke patients,13.16,No Different
+000123,Death rate for coronary artery bypass graft (CABG) patients,10.68,No Different
+000123,Death rate for heart failure patients,11.27,No Different
+000123,Death rate for pneumonia patients,15.86,No Different
+000124,Death rate for stroke patients,13.11,No Different
+000124,Death rate for heart failure patients,12.49,No Different
+000124,Death rate for coronary artery bypass graft (CABG) patients,10.49,No Different
+000125,Death rate for COPD patients,20.95,Better
+000125,Death rate for stroke patients,18.82,No Different
+000125,Death rate for heart attack patients,21.26,Worse
+000125,Death rate for heart failure patients,18.32,No Different
+000126,Death rate for pneumonia patients,9.63,No Different
+000126,Death rate for heart failure patients,10.79,No Different
+000126,Death rate for stroke patients,9.44,Better
+000127,Death rate for COPD patients,14.24,No Different
+000127,Death rate for coronary artery bypass graft (CABG) patients,15.88,No Different
+000127,Death rate for pneumonia patients,12.51,Worse
+000127,Death rate for heart failure patients,11.28,No Different
+000127,Death rate for heart attack patients,12.51,Better
+000127,Death rate for stroke patients,12.58,No Different
+000128,Death rate for heart attack patients,17.09,No Different
+000128,Death rate for coronary artery bypass graft (CABG) patients,17.11,No Different
+000128,Death rate for COPD patients,15.03,No Different
+000128,Death rate for stroke patients,21.48,No Different
+000128,Death rate for heart failure patients,20.02,No Different
+000128,Death rate for pneumonia patients,17.91,Better
+000129,Death rate for heart failure patients,13.69,No Different
+000129,Death rate for heart attack patients,7.7,Worse
+000129,Death rate for pneumonia patients,12.2,No Different
+000129,Death rate for stroke patients,10.39,No Different
+000129,Death rate for coronary artery bypass graft (CABG) patients,15.76,Better
+000130,Death rate for heart failure patients,18.81,No Different
+000130,Death rate for pneumonia patients,19.35,No Different
+000130,Death rate for coronary artery bypass graft (CABG) patients,19.87,No Different
+000130,Death rate for heart attack patients,16.34,Better
+000131,Death rate for stroke patients,20.5,No Different
+000131,Death rate for pneumonia patients,16.24,No Different
+000131,Death rate for COPD patients,21.02,No Different
+000131,Death rate for coronary artery bypass graft (CABG) patients,18.87,No Different
+000131,Death rate for heart failure patients,16.05,No Different
+000132,Death rate for pneumonia patients,9.76,No Different
+000132,Death rate for heart failure patients,14.28,Better
+000132,Death rate for stroke patients,13.03,Better
+000133,Death rate for stroke patients,16.8,No Different
+000133,Death rate for heart failure patients,20.38,Better
+000133,Death rate for COPD patients,17.84,No Different
+000133,Death rate for coronary artery bypass graft (CABG) patients,18.25,Worse
+000133,Death rate for heart attack patients,21.26,No Different
+000133,Death rate for pneumonia patients,18.89,No Different
+000134,Death rate for stroke patients,14.96,Worse
+000134,Death rate for coronary artery bypass graft (CABG) patients,15.78,No Different
+000134,Death rate for heart failure patients,10.69,No Different
+000134,Death rate for heart attack patients,14.63,No Different
+000135,Death rate for COPD patients,5.19,No Different
+000135,Death rate for heart attack patients,5.63,Worse
+000135,Death rate for pneumonia patients,4.89,Better
+000135,Death rate for heart failure patients,5.45,Worse
+000135,Death rate for coronary artery bypass graft (CABG) patients,8.75,Better
+000135,Death rate for stroke patients,7.78,No Different
+000136,Death rate for COPD patients,13.15,No Different
+000136,Death rate for coronary artery bypass graft (CABG) patients,16.35,No Different
+000136,Death rate for heart failure patients,14.17,No Different
+000136,Death rate for pneumonia patients,14.75,No Different
+000136,Death rate for heart attack patients,18.26,No Different
+000136,Death rate for stroke patients,16.55,No Different
+000137,Death rate for heart failure patients,16.01,No Different
+000137,Death rate for stroke patients,13.8,No Different
+000137,Death rate for COPD patients,17.36,No Different
+000137,Death rate for coronary artery bypass graft (CABG) patients,18.36,Better
+000138,Death rate for heart attack patients,10.72,No Different
+000138,Death rate for pneumonia patients,15.63,Worse
+000138,Death rate for COPD patients,15.2,No Different
+000138,Death rate for stroke patients,11.89,No Different
+000138,Death rate for heart failure patients,13.94,No Different
+000139,Death rate for pneumonia patients,14,Worse
+000139,Death rate for COPD patients,15.2,No Different
+000139,Death rate for stroke patients,15.09,Worse
+000139,Death rate for coronary artery bypass graft (CABG) patients,14.46,Better
+000139,Death rate for heart failure patients,11.38,Better
+000140,Death rate for pneumonia patients,10.57,No Different
+000140,Death rate for coronary artery bypass graft (CABG) patients,13.84,No Different
+000140,Death rate for stroke patients,6.36,No Different
+000140,Death rate for heart failure patients,10.68,No Different
+000140,Death rate for heart attack patients,7.2,No Different
+000141,Death rate for pneumonia patients,17.89,No Different
+000141,Death rate for heart failure patients,19.61,No Different
+000141,Death rate for stroke patients,20.6,Better
+000142,Death rate for coronary artery bypass graft (CABG) patients,14.72,Worse
+000142,Death rate for heart failure patients,16.5,Better
+000142,Death rate for COPD patients,17.94,No Different
+000142,Death rate for pneumonia patients,14.36,Better
+000142,Death rate for stroke patients,16.46,No Different
+000142,Death rate for heart attack patients,11.47,No Different
+000143,Death rate for pneumonia patients,15.57,No Different
+000143,Death rate for heart failure patients,15.31,No Different
+000143,Death rate for stroke patients,13.22,No Different
+000143,Death rate for COPD patients,15.75,No Different
+000143,Death rate for coronary artery bypass graft (CABG) patients,17.11,No Different
+000144,Death rate for heart failure patients,23.46,No Different
+000144,Death rate for pneumonia patients,18.36,No Different
+000144,Death rate for heart attack patients,17.27,Worse
+000144,Death rate for COPD patients,20.57,Worse
+000144,Death rate for coronary artery bypass graft (CABG) patients,22.34,No Different
+000145,Death rate for COPD patients,21.21,No Different
+000145,Death rate for stroke patients,20.37,Better
+000145,Death rate for heart attack patients,18.76,Better
+000146,Death rate for COPD patients,18.18,Better
+000146,Death rate for heart failure patients,18.38,No Different
+000146,Death rate for stroke patients,21.01,No Different
+000147,Death rate for heart attack patients,17.49,Better
+000147,Death rate for heart failure patients,13.72,No Different
+000147,Death rate for stroke patients,13.47,No Different
+000147,Death rate for COPD patients,15.89,No Different
+000148,Death rate for heart failure patients,16.16,No Different
+000148,Death rate for pneumonia patients,13.61,No Different
+000148,Death rate for COPD patients,12.67,No Different
+000148,Death rate for stroke patients,15.33,No Different
+000148,Death rate for heart attack patients,14.28,No Different
+000149,Death rate for COPD patients,18.93,No Different
+000149,Death rate for coronary artery bypass graft (CABG) patients,19.62,No Different
+000149,Death rate for stroke patients,16.95,No Different
+000149,Death rate for heart attack patients,20.15,No Different
+000149,Death rate for pneumonia patients,17.25,Better
+000149,Death rate for heart failure patients,21.58,No Different
+000150,Death rate for stroke patients,14.11,Worse
+000150,Death rate for COPD patients,18.48,Better
+000150,Death rate for heart failure patients,18.44,No Different
+000150,Death rate for pneumonia patients,16.32,Better
+000151,Death rate for stroke patients,17.11,No Different
+000151,Death rate for pneumonia patients,13.28,Better
+000151,Death rate for coronary artery bypass graft (CABG) patients,11.54,No Different
+000151,Death rate for heart failure patients,15.28,No Different
+000152,Death rate for heart attack patients,15.66,No Different
+000152,Death rate for pneumonia patients,16.61,No Different
+000152,Death rate for stroke patients,14.86,Better
+000152,Death rate for coronary artery bypass graft (CABG) patients,17.7,No Different
+000153,Death rate for COPD patients,18.53,No Different
+000153,Death rate for stroke patients,19.2,No Different
+000153,Death rate for heart failure patients,17.67,Better
+000154,Death rate for heart attack patients,19.47,No Different
+000154,Death rate for stroke patients,17.08,No Different
+000154,Death rate for heart failure patients,14.86,Better
+000154,Death rate for COPD patients,17.07,No Different
+000154,Death rate for pneumonia patients,18.37,Better
+000154,Death rate for coronary artery bypass graft (CABG) patients,19.54,No Different
+000155,Death rate for coronary artery bypass graft (CABG) patients,8.39,Better
+000155,Death rate for pneumonia patients,7.83,No Different
+000155,Death rate for heart failure patients,13.95,No Different
+000155,Death rate for heart attack patients,11.29,No Different
+000155,Death rate for stroke patients,12.32,No Different
+000156,Death rate for stroke patients,18.63,No Different
+000156,Death rate for coronary artery bypass graft (CABG) patients,15.37,Better
+000156,Death rate for heart attack patients,14.49,No Different
+000156,Death rate for heart failure patients,13.86,Worse
+000156,Death rate for pneumonia patients,14.21,Better
+000157,Death rate for heart attack patients,11.01,No Different
+000157,Death rate for pneumonia patients,10.48,Better
+000157,Death rate for COPD patients,11.41,Worse
+000157,Death rate for coronary artery bypass graft (CABG) patients,11.44,No Different
+000157,Death rate for stroke patients,5.99,No Different
+000158,Death rate for pneumonia patients,12.76,No Different
+000158,Death rate for heart failure patients,16.84,Better
+000158,Death rate for heart attack patients,14.47,No Different
+000158,Death rate for coronary artery bypass graft (CABG) patients,9.14,No Different
+000158,Death rate for COPD patients,16.13,No Different
+000158,Death rate for stroke patients,15.86,No Different
+000159,Death rate for COPD patients,18.09,No Different
+000159,Death rate for coronary artery bypass graft (CABG) patients,15.5,Better
+000159,Death rate for heart failure patients,15.42,No Different
+000159,Death rate for pneumonia patients,20.9,No Different
+000160,Death rate for pneumonia patients,10.04,No Different
+000160,Death rate for coronary artery bypass graft (CABG) patients,10.69,No Different
+000160,Death rate for heart attack patients,9.65,No Different
+000160,Death rate for COPD patients,10.83,No Different
+000160,Death rate for stroke patients,14.68,No Different
+000160,Death rate for heart failure patients,10.97,No Different
+000161,Death rate for pneumonia patients,13.5,No Different
+000161,Death rate for coronary artery bypass graft (CABG) patients,11.91,Worse
+000161,Death rate for heart attack patients,12.38,No Different
+000161,Death rate for heart failure patients,14.67,No Different
+000161,Death rate for stroke patients,12.37,No Different
+000161,Death rate for COPD patients,13.44,No Different
+000162,Death rate for coronary artery bypass graft (CABG) patients,10.27,No Different
+000162,Death rate for stroke patients,13.36,No Different
+000162,Death rate for pneumonia patients,10.07,Better
+000162,Death rate for heart failure patients,11.61,No Different
+000163,Death rate for heart attack patients,17.2,Worse
+000163,Death rate for COPD patients,17.53,No Different
+000163,Death rate for coronary artery bypass graft (CABG) patients,13.03,No Different
+000163,Death rate for stroke patients,17.59,No Different
+000164,Death rate for coronary artery bypass graft (CABG) patients,12.12,Worse
+000164,Death rate for stroke patients,15.27,No Different
+000164,Death rate for heart attack patients,10.09,No Different
+000164,Death rate for COPD patients,10.18,Worse
+000164,Death rate for heart failure patients,11.05,Better
+000165,Death rate for stroke patients,14.55,No Different
+000165,Death rate for heart failure patients,16.95,No Different
+000165,Death rate for coronary artery bypass graft (CABG) patients,18.44,No Different
+000165,Death rate for pneumonia patients,14.78,No Different
+000165,Death rate for COPD patients,16.93,No Different
+000165,Death rate for heart attack patients,15.47,No Different
+000166,Death rate for heart failure patients,9.1,No Different
+000166,Death rate for COPD patients,12.59,Worse
+000166,Death rate for stroke patients,11.58,No Different
+000166,Death rate for coronary artery bypass graft (CABG) patients,8.61,No Different
+000166,Death rate for pneumonia patients,11.87,No Different
+000166,Death rate for heart attack patients,11.2,Better
+000167,Death rate for stroke patients,18.36,No Different
+000167,Death rate for heart failure patients,16.67,Better
+000167,Death rate for pneumonia patients,15.78,Better
+000167,Death rate for COPD patients,15.03,No Different
+000168,Death rate for pneumonia patients,13.78,No Different
+000168,Death rate for heart attack patients,9.95,No Different
+000168,Death rate for COPD patients,10.84,No Different
+000168,Death rate for coronary artery bypass graft (CABG) patients,7.83,Better
+000169,Death rate for coronary artery bypass graft (CABG) patients,17.07,No Different
+000169,Death rate for COPD patients,19.72,No Different
+000169,Death rate for heart attack patients,18.26,Better
+000169,Death rate for heart failure patients,16.88,No Different
+000169,Death rate for pneumonia patients,18.35,Better
+000169,Death rate for stroke patients,20.56,No Different
+000170,Death rate for heart failure patients,8.98,No Different
+000170,Death rate for heart attack patients,14.68,No Different
+000170,Death rate for COPD patients,11.3,Better
+000170,Death rate for pneumonia patients,15.67,No Different
+000170,Death rate for coronary artery bypass graft (CABG) patients,11.8,Better
+000171,Death rate for COPD patients,20.93,No Different
+000171,Death rate for heart attack patients,16.83,No Different
+000171,Death rate for stroke patients,20.03,No Different
+000171,Death rate for pneumonia patients,20.47,No Different
+000171,Death rate for heart failure patients,17.54,Better
+000171,Death rate for coronary artery bypass graft (CABG) patients,19.26,No Different
+000172,Death rate for heart attack patients,23.67,Better
+000172,Death rate for pneumonia patients,18.44,No Different
+000172,Death rate for coronary artery bypass graft (CABG) patients,23.06,No Different
+000172,Death rate for heart failure patients,22.25,Better
+000172,Death rate for stroke patients,24.07,Better
+000172,Death rate for COPD patients,23.39,No Different
+000173,Death rate for heart failure patients,15.29,No Different
+000173,Death rate for pneumonia patients,20.27,No Different
+000173,Death rate for coronary artery bypass graft (CABG) patients,20.35,No Different
+000174,Death rate for coronary artery bypass graft (CABG) patients,10.69,Better
+000174,Death rate for pneumonia patients,8.03,No Different
+000174,Death rate for heart failure patients,11.24,No Different
+000175,Death rate for coronary artery bypass graft (CABG) patients,13.93,No Different
+000175,Death rate for heart failure patients,11.98,No Different
+000175,Death rate for pneumonia patients,14.27,No Different
+000175,Death rate for heart attack patients,13.51,No Different
+000176,Death rate for heart failure patients,16.27,Better
+000176,Death rate for stroke patients,15.9,Worse
+000176,Death rate for coronary artery bypass graft (CABG) patients,14.73,No Different
+000176,Death rate for heart attack patients,17.88,No Different
+000176,Death rate for pneumonia patients,15.75,No Different
+000176,Death rate for COPD patients,15.44,No Different
+000177,Death rate for pneumonia patients,19.04,No Different
+000177,Death rate for heart attack patients,20.55,No Different
+000177,Death rate for COPD patients,13.77,No Different
+000177,Death rate for stroke patients,22.32,No Different
+000177,Death rate for coronary artery bypass graft (CABG) patients,19.86,Better
+000178,Death rate for COPD patients,19.05,No Different
+000178,Death rate for coronary artery bypass graft (CABG) patients,19,No Different
+000178,Death rate for stroke patients,21.31,Better
+000179,Death rate for heart failure patients,12.76,No Different
+000179,Death rate for COPD patients,18.35,Worse
+000179,Death rate for stroke patients,19.01,Better
+000179,Death rate for heart attack patients,17.08,No Different
+000180,Death rate for heart failure patients,14.91,No Different
+000180,Death rate for COPD patients,18.33,No Different
+000180,Death rate for pneumonia patients,18.39,Better
+000180,Death rate for heart attack patients,16.47,No Different
+000181,Death rate for heart failure patients,13.99,Worse
+000181,Death rate for coronary artery bypass graft (CABG) patients,15.42,Worse
+000181,Death rate for pneumonia patients,15.69,No Different
+000181,Death rate for COPD patients,16.18,Better
+000181,Death rate for stroke patients,16.1,No Different
+000181,Death rate for heart attack patients,17.32,No Different
+000182,Death rate for stroke patients,3,No Different
+000182,Death rate for pneumonia patients,5.97,No Different
+000182,Death rate for coronary artery bypass graft (CABG) patients,7.14,No Different
+000182,Death rate for heart failure patients,9.11,Better
+000182,Death rate for heart attack patients,5.65,No Different
+000183,Death rate for stroke patients,18.05,No Different
+000183,Death rate for heart failure patients,17.06,No Different
+000183,Death rate for coronary artery bypass graft (CABG) patients,19.69,No Different
+000183,Death rate for pneumonia patients,15.11,Worse
+000183,Death rate for COPD patients,15.62,No Different
+000183,Death rate for heart attack patients,17.24,No Different
+000184,Death rate for COPD patients,8.29,No Different
+000184,Death rate for coronary artery bypass graft (CABG) patients,11.38,No Different
+000184,Death rate for heart failure patients,6.86,Worse
+000184,Death rate for pneumonia patients,11.38,Better
+000184,Death rate for heart attack patients,8.18,No Different
+000184,Death rate for stroke patients,3.98,No Different
+000185,Death rate for COPD patients,7.64,No Different
+000185,Death rate for heart attack patients,9,No Different
+000185,Death rate for stroke patients,10.25,No Different
+000186,Death rate for heart attack patients,16.68,No Different
+000186,Death rate for COPD patients,15.33,Better
+000186,Death rate for coronary artery bypass graft (CABG) patients,18.02,No Different
+000187,Death rate for coronary artery bypass graft (CABG) patients,11.83,Better
+000187,Death rate for heart failure patients,12.08,No Different
+000187,Death rate for pneumonia patients,8.2,No Different
+000188,Death rate for heart failure patients,14.71,Worse
+000188,Death rate for pneumonia patients,16.09,No Different
+000188,Death rate for stroke patients,19.16,No Different
+000188,Death rate for coronary artery bypass graft (CABG) patients,19.29,No Different
+000188,Death rate for heart attack patients,13.81,No Different
+000189,Death rate for pneumonia patients,18.62,Worse
+000189,Death rate for stroke patients,17.22,No Different
+000189,Death rate for heart attack patients,19.39,Better
+000189,Death rate for coronary artery bypass graft (CABG) patients,20.73,Worse
+000190,Death rate for coronary artery bypass graft (CABG) patients,10.44,No Different
+000190,Death rate for COPD patients,15.99,No Different
+000190,Death rate for heart failure patients,14.06,No Different
+000190,Death rate for heart attack patients,10.96,No Different
+000191,Death rate for stroke patients,25.71,No Different
+000191,Death rate for COPD patients,24.6,No Different
+000191,Death rate for heart attack patients,21.73,Better
+000191,Death rate for pneumonia patients,21.57,No Different
+000192,Death rate for heart failure patients,13.7,Better
+000192,Death rate for stroke patients,16.43,Better
+000192,Death rate for coronary artery bypass graft (CABG) patients,11.78,No Different
+000192,Death rate for COPD patients,18.1,No Different
+000192,Death rate for pneumonia patients,17.59,No Different
+000193,Death rate for stroke patients,16.73,Worse
+000193,Death rate for coronary artery bypass graft (CABG) patients,16.61,Better
+000193,Death rate for pneumonia patients,14.99,Better
+000194,Death rate for pneumonia patients,17.07,No Different
+000194,Death rate for coronary artery bypass graft (CABG) patients,11.89,Better
+000194,Death rate for stroke patients,16.91,Better
+000194,Death rate for COPD patients,16.33,No Different
+000194,Death rate for heart attack patients,13.87,Worse
+000194,Death rate for heart failure patients,14.95,Better
+000195,Death rate for COPD patients,17.94,No Different
+000195,Death rate for heart attack patients,14.43,No Different
+000195,Death rate for heart failure patients,14.76,No Different
+000195,Death rate for stroke patients,15.28,Better
+000195,Death rate for pneumonia patients,14.1,No Different
+000195,Death rate for coronary artery bypass graft (CABG) patients,11.74,No Different
+000196,Death rate for heart attack patients,21.03,No Different
+000196,Death rate for heart failure patients,22.39,No Different
+000196,Death rate for stroke patients,21.06,Better
+000196,Death rate for pneumonia patients,21.68,No Different
+000196,Death rate for COPD patients,22.62,Worse
+000196,Death rate for coronary artery bypass graft (CABG) patients,21.05,Better
+000197,Death rate for heart failure patients,14.73,No Different
+000197,Death rate for coronary artery bypass graft (CABG) patients,17.34,Better
+000197,Death rate for stroke patients,17.77,No Different
+000197,Death rate for heart attack patients,14.88,No Different
+000197,Death rate for COPD patients,16.87,No Different
+000198,Death rate for coronary artery bypass graft (CABG) patients,16.29,No Different
+000198,Death rate for pneumonia patients,17.57,No Different
+000198,Death rate for COPD patients,17.23,No Different
+000199,Death rate for pneumonia patients,12.97,No Different
+000199,Death rate for coronary artery bypass graft (CABG) patients,10.77,No Different
+000199,Death rate for COPD patients,15.65,No Different
+000199,Death rate for heart attack patients,8.34,Better
+000199,Death rate for stroke patients,12.27,Better
+000199,Death rate for heart failure patients,10.61,Better
+000200,Death rate for heart attack patients,11.51,No Different
+000200,Death rate for pneumonia patients,15.04,No Different
+000200,Death rate for stroke patients,17.06,No Different
+000201,Death rate for coronary artery bypass graft (CABG) patients,15.88,No Different
+000201,Death rate for pneumonia patients,13.84,No Different
+000201,Death rate for heart attack patients,15.23,No Different
+000201,Death rate for COPD patients,20.56,No Different
+000201,Death rate for stroke patients,16.37,No Different
+000202,Death rate for pneumonia patients,9.05,Better
+000202,Death rate for stroke patients,7.25,No Different
+000202,Death rate for coronary artery bypass graft (CABG) patients,8.6,No Different
+000202,Death rate for heart failure patients,12.28,No Different
+000203,Death rate for COPD patients,20.61,No Different
+000203,Death rate for stroke patients,20.33,No Different
+000203,Death rate for heart failure patients,14.51,No Different
+000203,Death rate for coronary artery bypass graft (CABG) patients,18,No Different
+000203,Death rate for heart attack patients,18.5,No Different
+000203,Death rate for pneumonia patients,14.02,No Different
+000204,Death rate for COPD patients,17.96,No Different
+000204,Death rate for stroke patients,16.93,No Different
+000204,Death rate for heart attack patients,19.66,Better
+000205,Death rate for pneumonia patients,13.5,Better
+000205,Death rate for COPD patients,12.99,No Different
+000205,Death rate for stroke patients,16.5,No Different
+000205,Death rate for heart failure patients,13.07,No Different
+000205,Death rate for heart attack patients,11.73,No Different
+000206,Death rate for coronary artery bypass graft (CABG) patients,6.94,No Different
+000206,Death rate for pneumonia patients,13.61,Better
+000206,Death rate for COPD patients,16.57,Worse
+000206,Death rate for heart attack patients,12.04,Better
+000206,Death rate for heart failure patients,10.09,No Different
+000207,Death rate for coronary artery bypass graft (CABG) patients,7.53,No Different
+000207,Death rate for COPD patients,8.3,Worse
+000207,Death rate for heart attack patients,9.56,No Different
+000208,Death rate for pneumonia patients,13.65,No Different
+000208,Death rate for heart attack patients,14.33,No Different
+000208,Death rate for stroke patients,12.69,No Different
+000209,Death rate for heart failure patients,8.38,No Different
+000209,Death rate for COPD patients,13.98,Better
+000209,Death rate for stroke patients,10.34,No Different
+000210,Death rate for pneumonia patients,19.04,No Different
+000210,Death rate for heart failure patients,15.98,No Different
+000210,Death rate for stroke patients,17.87,No Different
+000210,Death rate for coronary artery bypass graft (CABG) patients,16.24,Better
+000210,Death rate for COPD patients,15.35,No Different
+000210,Death rate for heart attack patients,14.47,No Different
+000211,Death rate for coronary artery bypass graft (CABG) patients,15.26,Better
+000211,Death rate for heart failure patients,18.4,Better
+000211,Death rate for heart attack patients,12.86,No Different
+000211,Death rate for stroke patients,16.55,No Different
+000212,Death rate for heart attack patients,22.83,Worse
+000212,Death rate for COPD patients,17.36,Better
+000212,Death rate for pneumonia patients,18.28,No Different
+000212,Death rate for coronary artery bypass graft (CABG) patients,21.46,No Different
+000213,Death rate for heart attack patients,12.12,Better
+000213,Death rate for heart failure patients,12.35,Better
+000213,Death rate for pneumonia patients,10.95,Better
+000214,Death rate for COPD patients,15.68,No Different
+000214,Death rate for stroke patients,10.72,Worse
+000214,Death rate for coronary artery bypass graft (CABG) patients,12.83,No Different
+000215,Death rate for heart failure patients,17.36,No Different
+000215,Death rate for pneumonia patients,11.57,No Different
+000215,Death rate for heart attack patients,14.16,No Different
+000216,Death rate for coronary artery bypass graft (CABG) patients,20.54,No Different
+000216,Death rate for pneumonia patients,16.77,Worse
+000216,Death rate for heart failure patients,15.9,Worse
+000217,Death rate for COPD patients,16.62,No Different
+000217,Death rate for pneumonia patients,15.37,No Different
+000217,Death rate for heart attack patients,20.4,No Different
+000217,Death rate for coronary artery bypass graft (CABG) patients,14.65,No Different
+000217,Death rate for heart failure patients,18.23,No Different
+000217,Death rate for stroke patients,11.85,No Different
+000218,Death rate for stroke patients,10.92,No Different
+000218,Death rate for coronary artery bypass graft (CABG) patients,12.97,No Different
+000218,Death rate for heart attack patients,11.98,No Different
+000218,Death rate for pneumonia patients,13.08,No Different
+000218,Death rate for COPD patients,8.3,Better
+000219,Death rate for heart failure patients,11.24,No Different
+000219,Death rate for heart attack patients,13.78,No Different
+000219,Death rate for pneumonia patients,13.08,No Different
+000219,Death rate for stroke patients,14.54,No Different
+000220,Death rate for pneumonia patients,12.69,No Different
+000220,Death rate for COPD patients,12.14,No Different
+000220,Death rate for stroke patients,9.63,No Different
+000220,Death rate for heart attack patients,11.76,Better
+000221,Death rate for stroke patients,15.99,No Different
+000221,Death rate for coronary artery bypass graft (CABG) patients,13.75,No Different
+000221,Death rate for heart failure patients,16.19,No Different
+000221,Death rate for COPD patients,19.12,No Different
+000222,Death rate for heart attack patients,12.68,Better
+000222,Death rate for heart failure patients,16.63,No Different
+000222,Death rate for coronary artery bypass graft (CABG) patients,15.78,No Different
+000222,Death rate for stroke patients,15.04,No Different
+000223,Death rate for heart failure patients,12.58,Worse
+000223,Death rate for coronary artery bypass graft (CABG) patients,16.89,No Different
+000223,Death rate for stroke patients,17.45,No Different
+000223,Death rate for heart attack patients,17.24,No Different
+000223,Death rate for pneumonia patients,15.56,No Different
+000223,Death rate for COPD patients,15.55,No Different
+000224,Death rate for heart attack patients,15.19,Better
+000224,Death rate for COPD patients,12.95,Worse
+000224,Death rate for stroke patients,16.13,No Different
+000225,Death rate for stroke patients,19.07,No Different
+000225,Death rate for coronary artery bypass graft (CABG) patients,13.54,Worse
+000225,Death rate for heart attack patients,14.48,Worse
+000225,Death rate for COPD patients,16.45,Better
+000225,Death rate for heart failure patients,14.16,No Different
+000226,Death rate for coronary artery bypass graft (CABG) patients,7.83,No Different
+000226,Death rate for heart failure patients,7.17,No Different
+000226,Death rate for pneumonia patients,9.27,No Different
+000226,Death rate for COPD patients,8.65,Better
+000226,Death rate for stroke patients,13.18,Worse
+000227,Death rate for coronary artery bypass graft (CABG) patients,19.99,Better
+000227,Death rate for heart attack patients,16.53,No Different
+000227,Death rate for stroke patients,11.11,Better
+000227,Death rate for pneumonia patients,18.31,No Different
+000227,Death rate for COPD patients,18.8,Worse
+000228,Death rate for heart failure patients,24.76,Better
+000228,Death rate for pneumonia patients,21.58,No Different
+000228,Death rate for stroke patients,19.9,No Different
+000228,Death rate for heart attack patients,20.47,No Different
+000228,Death rate for coronary artery bypass graft (CABG) patients,24.24,No Different
+000228,Death rate for COPD patients,19.84,No Different
+000229,Death rate for heart failure patients,18.21,Better
+000229,Death rate for pneumonia patients,17.8,No Different
+000229,Death rate for coronary artery bypass graft (CABG) patients,20.51,No Different
+000229,Death rate for COPD patients,17.93,Better
+000229,Death rate for stroke patients,15.64,Better
+000229,Death rate for heart attack patients,21.28,No Different
+000230,Death rate for COPD patients,19.4,Better
+000230,Death rate for pneumonia patients,18.7,Worse
+000230,Death rate for heart failure patients,21.97,No Different
+000230,Death rate for coronary artery bypass graft (CABG) patients,21.11,No Different
+000231,Death rate for stroke patients,7.15,No Different
+000231,Death rate for heart failure patients,13.09,No Different
+000231,Death rate for COPD patients,9.39,No Different
+000231,Death rate for pneumonia patients,16.77,No Different
+000231,Death rate for coronary artery bypass graft (CABG) patients,7.51,No Different
+000232,Death rate for heart attack patients,13.23,Better
+000232,Death rate for heart failure patients,13.13,No Different
+000232,Death rate for COPD patients,12.61,No Different
+000232,Death rate for stroke patients,11.16,No Different
+000233,Death rate for stroke patients,10.38,No Different
+000233,Death rate for pneumonia patients,11.96,No Different
+000233,Death rate for COPD patients,11.86,No Different
+000234,Death rate for pneumonia patients,14.59,No Different
+000234,Death rate for stroke patients,16.36,No Different
+000234,Death rate for COPD patients,14.95,No Different
+000234,Death rate for heart failure patients,14.22,Better
+000234,Death rate for coronary artery bypass graft (CABG) patients,9.3,No Different
+000234,Death rate for heart attack patients,13.42,Better
+000235,Death rate for pneumonia patients,11.67,No Different
+000235,Death rate for coronary artery bypass graft (CABG) patients,13.83,Worse
+000235,Death rate for heart attack patients,13.31,Better
+000235,Death rate for COPD patients,11.58,No Different
+000235,Death rate for stroke patients,13.18,No Different
+000235,Death rate for heart failure patients,14.96,No Different
+000236,Death rate for heart attack patients,10.14,Worse
+000236,Death rate for pneumonia patients,8,Worse
+000236,Death rate for coronary artery bypass graft (CABG) patients,6.9,No Different
+000236,Death rate for stroke patients,8.77,No Different
+000236,Death rate for heart failure patients,8.98,Better
+000236,Death rate for COPD patients,11.84,No Different
+000237,Death rate for COPD patients,19.94,Better
+000237,Death rate for heart failure patients,19.42,No Different
+000237,Death rate for pneumonia patients,20.83,No Different
+000237,Death rate for coronary artery bypass graft (CABG) patients,19.67,Worse
+000238,Death rate for pneumonia patients,11.97,No Different
+000238,Death rate for coronary artery bypass graft (CABG) patients,12.59,No Different
+000238,Death rate for stroke patients,11.95,No Different
+000238,Death rate for heart attack patients,16.93,No Different
+000238,Death rate for COPD patients,14.06,No Different
+000239,Death rate for heart failure patients,18.83,Better
+000239,Death rate for stroke patients,16.09,No Different
+000239,Death rate for pneumonia patients,14.16,No Different
+000239,Death rate for heart attack patients,17.36,Worse
+000239,Death rate for coronary artery bypass graft (CABG) patients,16.66,No Different
+000240,Death rate for coronary artery bypass graft (CABG) patients,19.03,No Different
+000240,Death rate for heart failure patients,18.77,No Different
+000240,Death rate for COPD patients,21.73,No Different
+000240,Death rate for heart attack patients,20.43,No Different
+000240,Death rate for pneumonia patients,15.02,Better
+000241,Death rate for stroke patients,18.74,No Different
+000241,Death rate for COPD patients,16.35,No Different
+000241,Death rate for heart attack patients,16.93,No Different
+000241,Death rate for coronary artery bypass graft (CABG) patients,12.52,No Different
+000242,Death rate for coronary artery bypass graft (CABG) patients,10.4,No Different
+000242,Death rate for COPD patients,6.25,No Different
+000242,Death rate for stroke patients,10.55,Better
+000242,Death rate for heart failure patients,9.74,No Different
+000243,Death rate for COPD patients,17.94,No Different
+000243,Death rate for heart failure patients,16.9,No Different
+000243,Death rate for coronary artery bypass graft (CABG) patients,18.08,No Different
+000243,Death rate for pneumonia patients,17.68,No Different
+000244,Death rate for heart attack patients,9.24,No Different
+000244,Death rate for heart failure patients,13.42,No Different
+000244,Death rate for stroke patients,15.18,No Different
+000244,Death rate for coronary artery bypass graft (CABG) patients,8.37,No Different
+000244,Death rate for pneumonia patients,7.93,No Different
+000244,Death rate for COPD patients,12.91,No Different
+000245,Death rate for stroke patients,12.45,No Different
+000245,Death rate for coronary artery bypass graft (CABG) patients,15.03,Better
+000245,Death rate for COPD patients,12.04,No Different
+000245,Death rate for pneumonia patients,10.64,Better
+000245,Death rate for heart failure patients,14.04,Better
+000245,Death rate for heart attack patients,11.43,No Different
+000246,Death rate for COPD patients,11.86,No Different
+000246,Death rate for coronary artery bypass graft (CABG) patients,13.65,Worse
+000246,Death rate for heart attack patients,13.07,No Different
+000246,Death rate for stroke patients,14.74,Worse
+000247,Death rate for heart failure patients,11.99,Worse
+000247,Death rate for heart attack patients,11.91,No Different
+000247,Death rate for stroke patients,13.26,Worse
+000247,Death rate for coronary artery bypass graft (CABG) patients,14.7,No Different
+000247,Death rate for pneumonia patients,11.32,No Different
+000247,Death rate for COPD patients,7.79,Better
+000248,Death rate for stroke patients,14.15,No Different
+000248,Death rate for heart failure patients,17.75,Better
+000248,Death rate for coronary artery bypass graft (CABG) patients,14.63,Worse
+000248,Death rate for heart attack patients,8.62,Worse
+000249,Death rate for heart failure patients,17.6,Better
+000249,Death rate for stroke patients,17.42,Worse
+000249,Death rate for pneumonia patients,17.02,No Different
+000249,Death rate for heart attack patients,15.14,No Different
+000249,Death rate for COPD patients,17.76,No Different
+000250,Death rate for coronary artery bypass graft (CABG) patients,12.71,Better
+000250,Death rate for heart attack patients,15.73,Better
+000250,Death rate for heart failure patients,13.02,Worse
+000251,Death rate for heart attack patients,21.42,Better
+000251,Death rate for stroke patients,18.35,No Different
+000251,Death rate for COPD patients,18.27,No Different
+000252,Death rate for pneumonia patients,14,Better
+000252,Death rate for heart attack patients,15.12,Better
+000252,Death rate for heart failure patients,17.11,No Different
+000252,Death rate for COPD patients,12.82,Better
+000253,Death rate for COPD patients,16.41,No Different
+000253,Death rate for stroke patients,9.75,No Different
+000253,Death rate for coronary artery bypass graft (CABG) patients,12.55,Worse
+000254,Death rate for pneumonia patients,19.09,No Different
+000254,Death rate for coronary artery bypass graft (CABG) patients,22.75,Better
+000254,Death rate for COPD patients,23.54,No Different
+000255,Death rate for pneumonia patients,14.13,No Different
+000255,Death rate for heart attack patients,13.09,No Different
+000255,Death rate for COPD patients,12.73,No Different
+000255,Death rate for stroke patients,12.73,No Different
+000255,Death rate for coronary artery bypass graft (CABG) patients,12.54,Worse
+000255,Death rate for heart failure patients,11.1,No Different
+000256,Death rate for coronary artery bypass graft (CABG) patients,12.96,Better
+000256,Death rate for pneumonia patients,16.66,No Different
+000256,Death rate for stroke patients,15.95,No Different
+000256,Death rate for heart failure patients,15.34,No Different
+000256,Death rate for COPD patients,11,No Different
+000256,Death rate for heart attack patients,13.66,No Different
+000257,Death rate for heart attack patients,14.63,No Different
+000257,Death rate for stroke patients,18.84,No Different
+000257,Death rate for heart failure patients,19.14,No Different
+000257,Death rate for pneumonia patients,15.67,No Different
+000257,Death rate for COPD patients,12.67,No Different
+000257,Death rate for coronary artery bypass graft (CABG) patients,15.4,Better
+000258,Death rate for stroke patients,16.89,Worse
+000258,Death rate for pneumonia patients,19.82,No Different
+000258,Death rate for COPD patients,19.85,Better
+000259,Death rate for COPD patients,12.2,No Different
+000259,Death rate for pneumonia patients,9.8,Worse
+000259,Death rate for stroke patients,10.97,No Different
+000259,Death rate for coronary artery bypass graft (CABG) patients,14.52,No Different
+000259,Death rate for heart attack patients,11.55,No Different
+000260,Death rate for heart failure patients,17.42,Better
+000260,Death rate for coronary artery bypass graft (CABG) patients,18.07,Better
+000260,Death rate for COPD patients,18.31,No Different
+000261,Death rate for COPD patients,16.44,No Different
+000261,Death rate for heart failure patients,14.35,No Different
+000261,Death rate for heart attack patients,15.98,No Different
+000261,Death rate for pneumonia patients,15.6,Worse
+000262,Death rate for heart attack patients,20.02,No Different
+000262,Death rate for pneumonia patients,14.53,No Different
+000262,Death rate for stroke patients,19.54,No Different
+000262,Death rate for heart failure patients,18.09,No Different
+000262,Death rate for coronary artery bypass graft (CABG) patients,16.69,Worse
+000262,Death rate for COPD patients,20.52,Better
+000263,Death rate for COPD patients,22.63,Better
+000263,Death rate for pneumonia patients,19.92,No Different
+000263,Death rate for heart attack patients,14.71,No Different
+000263,Death rate for heart failure patients,22.45,No Different
+000263,Death rate for coronary artery bypass graft (CABG) patients,14.39,No Different
+000263,Death rate for stroke patients,17.08,No Different
+000264,Death rate for heart attack patients,14.79,No Different
+000264,Death rate for coronary artery bypass graft (CABG) patients,13.97,Better
+000264,Death rate for pneumonia patients,14.26,Worse
+000264,Death rate for heart failure patients,16.14,No Different
+000264,Death rate for COPD patients,11.92,No Different
+000265,Death rate for coronary artery bypass graft (CABG) patients,12.61,No Different
+000265,Death rate for heart failure patients,11.22,No Different
+000265,Death rate for stroke patients,10.45,No Different
+000266,Death rate for stroke patients,11.88,No Different
+000266,Death rate for heart failure patients,12.13,No Different
+000266,Death rate for pneumonia patients,10.31,No Different
+000266,Death rate for COPD patients,13.74,No Different
+000267,Death rate for coronary artery bypass graft (CABG) patients,13.2,No Different
+000267,Death rate for pneumonia patients,10.3,No Different
+000267,Death rate for heart failure patients,12.13,Better
+000267,Death rate for heart attack patients,13.44,No Different
+000268,Death rate for coronary artery bypass graft (CABG) patients,20.14,No Different
+000268,Death rate for heart failure patients,19.18,No Different
+000268,Death rate for pneumonia patients,15.47,No Different
+000268,Death rate for heart attack patients,18,Worse
+000269,Death rate for coronary artery bypass graft (CABG) patients,18.61,Better
+000269,Death rate for pneumonia patients,13.25,No Different
+000269,Death rate for heart failure patients,18.31,No Different
+000269,Death rate for heart attack patients,20.12,No Different
+000269,Death rate for stroke patients,16.95,Better
+000270,Death rate for stroke patients,19.99,No Different
+000270,Death rate for coronary artery bypass graft (CABG) patients,18.36,Worse
+000270,Death rate for heart attack patients,20.6,Better
+000270,Death rate for COPD patients,16.72,No Different
+000271,Death rate for COPD patients,17.07,No Different
+000271,Death rate for heart failure patients,16.6,No Different
+000271,Death rate for heart attack patients,18.19,Better
+000271,Death rate for pneumonia patients,21.4,No Different
+000271,Death rate for coronary artery bypass graft (CABG) patients,20.63,No Different
+000271,Death rate for stroke patients,20.39,No Different
+000272,Death rate for coronary artery bypass graft (CABG) patients,21.73,No Different
+000272,Death rate for pneumonia patients,24.5,No Different
+000272,Death rate for heart failure patients,25.01,No Different
+000272,Death rate for COPD patients,20.28,No Different
+000273,Death rate for COPD patients,13.87,No Different
+000273,Death rate for stroke patients,16.61,Better
+000273,Death rate for coronary artery bypass graft (CABG) patients,12.33,No Different
+000273,Death rate for heart failure patients,17.95,Better
+000274,Death rate for COPD patients,18.75,No Different
+000274,Death rate for heart attack patients,17.37,No Different
+000274,Death rate for pneumonia patients,17.81,No Different
+000274,Death rate for heart failure patients,16.69,No Different
+000274,Death rate for stroke patients,19.36,Better
+000274,Death rate for coronary artery bypass graft (CABG) patients,16.52,Better
+000275,Death rate for heart failure patients,19.91,No Different
+000275,Death rate for COPD patients,20.87,Worse
+000275,Death rate for heart attack patients,23.21,No Different
+000276,Death rate for pneumonia patients,18.61,No Different
+000276,Death rate for coronary artery bypass graft (CABG) patients,15.35,No Different
+000276,Death rate for heart attack patients,17.53,Worse
+000276,Death rate for COPD patients,18.48,Worse
+000277,Death rate for stroke patients,8.54,Better
+000277,Death rate for coronary artery bypass graft (CABG) patients,10.93,No Different
+000277,Death rate for heart failure patients,10.48,No Different
+000277,Death rate for COPD patients,7.57,No Different
+000277,Death rate for heart attack patients,11.58,No Different
+000278,Death rate for stroke patients,13.83,No Different
+000278,Death rate for coronary artery bypass graft (CABG) patients,18.77,Worse
+000278,Death rate for COPD patients,21.71,No Different
+000279,Death rate for pneumonia patients,11.7,No Different
+000279,Death rate for coronary artery bypass graft (CABG) patients,13.05,No Different
+000279,Death rate for heart failure patients,12.2,No Different
+000279,Death rate for COPD patients,13.75,No Different
+000279,Death rate for heart attack patients,10.11,No Different
+000280,Death rate for coronary artery bypass graft (CABG) patients,12.74,No Different
+000280,Death rate for heart failure patients,18.18,No Different
+000280,Death rate for pneumonia patients,14.01,Better
+000280,Death rate for stroke patients,15.59,No Different
+000280,Death rate for heart attack patients,15.73,No Different
+000280,Death rate for COPD patients,16.08,No Different
+000281,Death rate for heart failure patients,16.1,Better
+000281,Death rate for stroke patients,17.17,No Different
+000281,Death rate for heart attack patients,20.55,No Different
+000281,Death rate for pneumonia patients,17.56,No Different
+000282,Death rate for coronary artery bypass graft (CABG) patients,15.31,No Different
+000282,Death rate for pneumonia patients,17.88,Worse
+000282,Death rate for stroke patients,17.56,No Different
+000282,Death rate for heart failure patients,13.44,No Different
+000282,Death rate for COPD patients,16.77,No Different
+000282,Death rate for heart attack patients,12.91,No Different
+000283,Death rate for stroke patients,16.17,No Different
+000283,Death rate for heart attack patients,13.43,Better
+000283,Death rate for heart failure patients,16.24,No Different
+000284,Death rate for coronary artery bypass graft (CABG) patients,13.19,No Different
+000284,Death rate for COPD patients,12.82,No Different
+000284,Death rate for heart attack patients,14.24,No Different
+000284,Death rate for pneumonia patients,17.17,No Different
+000284,Death rate for stroke patients,12.28,No Different
+000284,Death rate for heart failure patients,14.06,No Different
+000285,Death rate for coronary artery bypass graft (CABG) patients,19.65,No Different
+000285,Death rate for stroke patients,16.91,No Different
+000285,Death rate for COPD patients,18.28,Better
+000285,Death rate for heart attack patients,15.47,No Different
+000285,Death rate for pneumonia patients,16.99,No Different
+000285,Death rate for heart failure patients,18.72,No Different
+000286,Death rate for coronary artery bypass graft (CABG) patients,16.58,No Different
+000286,Death rate for stroke patients,14.92,Better
+000286,Death rate for COPD patients,16.12,No Different
+000286,Death rate for heart attack patients,16.35,No Different
+000287,Death rate for coronary artery bypass graft (CABG) patients,9.13,Better
+000287,Death rate for heart failure patients,8.91,Worse
+000287,Death rate for pneumonia patients,12.86,No Different
+000287,Death rate for stroke patients,7.3,No Different
+000287,Death rate for heart attack patients,5.28,No Different
+000288,Death rate for pneumonia patients,14.76,Better
+000288,Death rate for heart failure patients,18.91,No Different
+000288,Death rate for heart attack patients,15.92,No Different
+000289,Death rate for coronary artery bypass graft (CABG) patients,8.47,No Different
+000289,Death rate for COPD patients,12.41,No Different
+000289,Death rate for pneumonia patients,9.87,No Different
+000290,Death rate for coronary artery bypass graft (CABG) patients,14.7,No Different
+000290,Death rate for stroke patients,10.42,Better
+000290,Death rate for COPD patients,16.15,No Different
+000290,Death rate for heart attack patients,17.27,No Different
+000290,Death rate for pneumonia patients,13.78,No Different
+000291,Death rate for stroke patients,16.06,Better
+000291,Death rate for heart failure patients,17,No Different
+000291,Death rate for pneumonia patients,14.89,Worse
+000291,Death rate for heart attack patients,14.62,No Different
+000291,Death rate for COPD patients,13.54,No Different
+000292,Death rate for stroke patients,17.6,No Different
+000292,Death rate for heart attack patients,17.24,No Different
+000292,Death rate for pneumonia patients,17.94,No Different
+000293,Death rate for heart failure patients,17.71,No Different
+000293,Death rate for pneumonia patients,13.93,No Different
+000293,Death rate for coronary artery bypass graft (CABG) patients,14.58,No Different
+000293,Death rate for stroke patients,16.72,Better
+000293,Death rate for COPD patients,16.75,Better
+000293,Death rate for heart attack patients,12.07,Better
+000294,Death rate for stroke patients,11.34,No Different
+000294,Death rate for pneumonia patients,7.62,No Different
+000294,Death rate for heart attack patients,15.77,Worse
+000294,Death rate for coronary artery bypass graft (CABG) patients,10.71,No Different
+000295,Death rate for COPD patients,12.86,No Different
+000295,Death rate for heart failure patients,14.04,No Different
+000295,Death rate for stroke patients,11.82,No Different
+000296,Death rate for heart failure patients,7.27,No Different
+000296,Death rate for heart attack patients,9.03,No Different
+000296,Death rate for stroke patients,8.84,No Different
+000296,Death rate for COPD patients,11.02,No Different
+000297,Death rate for stroke patients,14.4,No Different
+000297,Death rate for heart attack patients,16.44,No Different
+000297,Death rate for heart failure patients,17.51,No Different
+000297,Death rate for pneumonia patients,17.04,Better
+000298,Death rate for heart failure patients,5.23,No Different
+000298,Death rate for stroke patients,6.82,Better
+000298,Death rate for pneumonia patients,8.19,No Different
+000298,Death rate for coronary artery bypass graft (CABG) patients,7.76,No Different
+000299,Death rate for coronary artery bypass graft (CABG) patients,8.83,No Different
+000299,Death rate for pneumonia patients,11.98,Better
+000299,Death rate for stroke patients,12.78,No Different
+000300,Death rate for coronary artery bypass graft (CABG) patients,21.77,No Different
+000300,Death rate for COPD patients,18.39,No Different
+000300,Death rate for stroke patients,18.38,Better
+000301,Death rate for coronary artery bypass graft (CABG) patients,13.47,No Different
+000301,Death rate for COPD patients,14.81,No Different
+000301,Death rate for heart attack patients,16.22,No Different
+000301,Death rate for heart failure patients,14.88,No Different
+000301,Death rate for stroke patients,21.01,Worse
+000301,Death rate for pneumonia patients,16.56,No Different
+000302,Death rate for coronary artery bypass graft (CABG) patients,18.96,No Different
+000302,Death rate for pneumonia patients,21.03,No Different
+000302,Death rate for heart attack patients,17.48,Better
+000303,Death rate for pneumonia patients,15.06,No Different
+000303,Death rate for coronary artery bypass graft (CABG) patients,12.77,No Different
+000303,Death rate for COPD patients,14.94,No Different
+000303,Death rate for heart failure patients,12.71,No Different
+000304,Death rate for stroke patients,17.79,Better
+000304,Death rate for COPD patients,14.1,No Different
+000304,Death rate for heart failure patients,15.91,No Different
+000304,Death rate for coronary artery bypass graft (CABG) patients,13.98,No Different
+000305,Death rate for heart failure patients,13.19,No Different
+000305,Death rate for coronary artery bypass graft (CABG) patients,11.31,Worse
+000305,Death rate for stroke patients,14.91,Better
+000306,Death rate for heart failure patients,7.44,No Different
+000306,Death rate for coronary artery bypass graft (CABG) patients,8.79,No Different
+000306,Death rate for heart attack patients,10.81,Worse
+000306,Death rate for stroke patients,13.6,No Different
+000306,Death rate for COPD patients,9.69,Better
+000307,Death rate for pneumonia patients,12.7,No Different
+000307,Death rate for stroke patients,13.9,No Different
+000307,Death rate for heart attack patients,16.26,No Different
+000307,Death rate for coronary artery bypass graft (CABG) patients,17.5,No Different
+000307,Death rate for heart failure patients,14.79,No Different
+000308,Death rate for COPD patients,11.52,No Different
+000308,Death rate for stroke patients,11.99,No Different
+000308,Death rate for heart attack patients,14.61,No Different
+000308,Death rate for heart failure patients,13.97,Better
+000309,Death rate for heart attack patients,13.84,Worse
+000309,Death rate for coronary artery bypass graft (CABG) patients,16.8,Worse
+000309,Death rate for stroke patients,18.74,No Different
+000310,Death rate for heart failure patients,10.63,No Different
+000310,Death rate for coronary artery bypass graft (CABG) patients,14.6,Worse
+000310,Death rate for pneumonia patients,9.19,No Different
+000310,Death rate for COPD patients,10.62,No Different
+000311,Death rate for stroke patients,11.98,No Different
+000311,Death rate for heart attack patients,14,Better
+000311,Death rate for heart failure patients,12.63,No Different
+000311,Death rate for coronary artery bypass graft (CABG) patients,16.89,No Different
+000311,Death rate for pneumonia patients,13.69,Better
+000312,Death rate for COPD patients,13.5,No Different
+000312,Death rate for pneumonia patients,16.27,Better
+000312,Death rate for coronary artery bypass graft (CABG) patients,13.19,Better
+000312,Death rate for heart failure patients,11.56,No Different
+000312,Death rate for stroke patients,11.67,Better
+000313,Death rate for stroke patients,15.69,No Different
+000313,Death rate for coronary artery bypass graft (CABG) patients,16.52,No Different
+000313,Death rate for heart failure patients,14.37,Worse
+000313,Death rate for pneumonia patients,16.47,No Different
+000314,Death rate for stroke patients,7.08,No Different
+000314,Death rate for heart failure patients,10.89,No Different
+000314,Death rate for coronary artery bypass graft (CABG) patients,8.95,No Different
+000315,Death rate for heart attack patients,20.57,No Different
+000315,Death rate for coronary artery bypass graft (CABG) patients,19.47,No Different
+000315,Death rate for COPD patients,18.51,No Different
+000315,Death rate for stroke patients,19.15,No Different
+000315,Death rate for pneumonia patients,16.49,No Different
+000315,Death rate for heart failure patients,18.28,No Different
+000316,Death rate for stroke patients,13.27,No Different
+000316,Death rate for COPD patients,13.93,No Different
+000316,Death rate for heart failure patients,18.27,No Different
+000316,Death rate for coronary artery bypass graft (CABG) patients,12.17,No Different
+000316,Death rate for heart attack patients,14.26,No Different
+000317,Death rate for heart attack patients,16.99,No Different
+000317,Death rate for heart failure patients,20.32,No Different
+000317,Death rate for pneumonia patients,19.62,Better
+000317,Death rate for COPD patients,22.09,No Different
+000317,Death rate for coronary artery bypass graft (CABG) patients,18.86,No Different
+000317,Death rate for stroke patients,17.95,No Different
+000318,Death rate for coronary artery bypass graft (CABG) patients,15.71,No Different
+000318,Death rate for COPD patients,10.06,No Different
+000318,Death rate for heart attack patients,12.14,Worse
+000318,Death rate for stroke patients,14.77,No Different
+000318,Death rate for heart failure patients,8.88,No Different
+000319,Death rate for heart attack patients,14.76,No Different
+000319,Death rate for coronary artery bypass graft (CABG) patients,14.53,Worse
+000319,Death rate for pneumonia patients,15.92,No Different
+000320,Death rate for heart attack patients,22.49,Worse
+000320,Death rate for COPD patients,18.2,No Different
+000320,Death rate for coronary artery bypass graft (CABG) patients,18.56,No Different
+000320,Death rate for pneumonia patients,19.96,Better
+000321,Death rate for stroke patients,8.67,Better
+000321,Death rate for heart failure patients,10.04,Better
+000321,Death rate for pneumonia patients,10.97,No Different
+000321,Death rate for COPD patients,6.39,No Different
+000321,Death rate for heart attack patients,6.76,No Different
+000321,Death rate for coronary artery bypass graft (CABG) patients,10.56,No Different
+000322,Death rate for COPD patients,11.87,Worse
+000322,Death rate for heart attack patients,9.08,No Different
+000322,Death rate for heart failure patients,10.91,Better
+000322,Death rate for coronary artery bypass graft (CABG) patients,11.26,No Different
+000322,Death rate for pneumonia patients,14.43,Worse
+000322,Death rate for stroke patients,11.72,Better
+000323,Death rate for stroke patients,15.5,Better
+000323,Death rate for heart failure patients,20.82,No Different
+000323,Death rate for heart attack patients,17.73,No Different
+000324,Death rate for COPD patients,16.9,No Different
+000324,Death rate for stroke patients,16.38,No Different
+000324,Death rate for heart attack patients,16.54,No Different
+000325,Death rate for heart failure patients,13.31,No Different
+000325,Death rate for coronary artery bypass graft (CABG) patients,14.93,Better
+000325,Death rate for COPD patients,11.94,No Different
+000325,Death rate for heart attack patients,12.7,No Different
+000325,Death rate for stroke patients,10.47,Better
+000325,Death rate for pneumonia patients,13.17,No Different
+000326,Death rate for COPD patients,14.56,No Different
+000326,Death rate for pneumonia patients,19.3,No Different
+000326,Death rate for stroke patients,14.08,No Different
+000326,Death rate for heart attack patients,16.69,Worse
+000326,Death rate for heart failure patients,16.36,No Different
+000327,Death rate for COPD patients,17.48,No Different
+000327,Death rate for heart failure patients,17.27,Worse
+000327,Death rate for stroke patients,16.45,No Different
+000327,Death rate for pneumonia patients,18.31,No Different
+000327,Death rate for heart attack patients,15.29,No Different
+000327,Death rate for coronary artery bypass graft (CABG) patients,13.22,No Different
+000328,Death rate for heart attack patients,13.92,No Different
+000328,Death rate for coronary artery bypass graft (CABG) patients,14.82,Better
+000328,Death rate for stroke patients,19.38,Better
+000328,Death rate for heart failure patients,13.9,No Different
+000328,Death rate for pneumonia patients,19.62,Worse
+000329,Death rate for heart attack patients,15.62,No Different
+000329,Death rate for coronary artery bypass graft (CABG) patients,15.85,Better
+000329,Death rate for stroke patients,13.16,No Different
+000329,Death rate for pneumonia patients,16.74,No Different
+000330,Death rate for stroke patients,16.19,No Different
+000330,Death rate for heart attack patients,15.91,No Different
+000330,Death rate for COPD patients,14.14,No Different
+000330,Death rate for pneumonia patients,16.5,No Different
+000331,Death rate for pneumonia patients,13.43,No Different
+000331,Death rate for stroke patients,15.54,Better
+000331,Death rate for heart failure patients,13.32,No Different
+000331,Death rate for heart attack patients,12.94,No Different
+000331,Death rate for coronary artery bypass graft (CABG) patients,17.87,No Different
+000332,Death rate for pneumonia patients,15.3,No Different
+000332,Death rate for heart attack patients,17.78,No Different
+000332,Death rate for heart failure patients,19.47,No Different
+000332,Death rate for COPD patients,17.94,No Different
+000333,Death rate for pneumonia patients,16.77,Better
+000333,Death rate for coronary artery bypass graft (CABG) patients,18.14,No Different
+000333,Death rate for COPD patients,17.43,No Different
+000333,Death rate for heart attack patients,21.94,No Different
+000333,Death rate for heart failure patients,16.11,No Different
+000334,Death rate for coronary artery bypass graft (CABG) patients,15.6,No Different
+000334,Death rate for pneumonia patients,17.65,No Different
+000334,Death rate for heart attack patients,13.54,Worse
+000334,Death rate for heart failure patients,16.15,Worse
+000335,Death rate for heart attack patients,24.33,No Different
+000335,Death rate for heart failure patients,19.06,Better
+000335,Death rate for coronary artery bypass graft (CABG) patients,19.23,Better
+000336,Death rate for coronary artery bypass graft (CABG) patients,15.1,Better
+000336,Death rate for COPD patients,12.66,No Different
+000336,Death rate for heart attack patients,12.22,No Different
+000336,Death rate for pneumonia patients,12.75,No Different
+000336,Death rate for stroke patients,14.36,No Different
+000336,Death rate for heart failure patients,12.82,Better
+000337,Death rate for heart failure patients,11.83,Better
+000337,Death rate for coronary artery bypass graft (CABG) patients,11.36,Better
+000337,Death rate for COPD patients,11.76,No Different
+000338,Death rate for heart attack patients,12.4,No Different
+000338,Death rate for pneumonia patients,17.16,No Different
+000338,Death rate for coronary artery bypass graft (CABG) patients,14.64,No Different
+000339,Death rate for heart attack patients,13.3,Better
+000339,Death rate for COPD patients,11.8,No Different
+000339,Death rate for heart failure patients,12.44,No Different
+000339,Death rate for pneumonia patients,9.65,Better
+000339,Death rate for stroke patients,13.56,No Different
+000340,Death rate for pneumonia patients,19.99,No Different
+000340,Death rate for heart failure patients,17.13,No Different
+000340,Death rate for coronary artery bypass graft (CABG) patients,19.29,No Different
+000340,Death rate for stroke patients,18.83,No Different
+000341,Death rate for stroke patients,14.27,Worse
+000341,Death rate for COPD patients,11.34,No Different
+000341,Death rate for pneumonia patients,14.89,Worse
+000341,Death rate for coronary artery bypass graft (CABG) patients,12.64,Worse
+000341,Death rate for heart failure patients,10.65,No Different
+000342,Death rate for heart attack patients,9,No Different
+000342,Death rate for stroke patients,10.3,Better
+000342,Death rate for coronary artery bypass graft (CABG) patients,11.69,No Different
+000343,Death rate for pneumonia patients,16.25,No Different
+000343,Death rate for stroke patients,13.05,No Different
+000343,Death rate for heart failure patients,16.48,No Different
+000343,Death rate for coronary artery bypass graft (CABG) patients,18.26,Better
+000343,Death rate for heart attack patients,22.24,No Different
+000344,Death rate for pneumonia patients,17.75,Worse
+000344,Death rate for coronary artery bypass graft (CABG) patients,17.04,Better
+000344,Death rate for COPD patients,18.42,No Different
+000344,Death rate for heart failure patients,18.24,Better
+000344,Death rate for stroke patients,16.68,No Different
+000344,Death rate for heart attack patients,15.62,No Different
+000345,Death rate for COPD patients,19.1,No Different
+000345,Death rate for pneumonia patients,19.92,No Different
+000345,Death rate for heart attack patients,20.89,No Different
+000345,Death rate for stroke patients,20.09,No Different
+000345,Death rate for heart failure patients,18.34,No Different
+000346,Death rate for heart attack patients,14.97,Better
+000346,Death rate for pneumonia patients,16.64,No Different
+000346,Death rate for COPD patients,14.12,No Different
+000347,Death rate for heart attack patients,11.22,No Different
+000347,Death rate for COPD patients,13.3,No Different
+000347,Death rate for coronary artery bypass graft (CABG) patients,14.88,No Different
+000347,Death rate for stroke patients,15.45,No Different
+000347,Death rate for heart failure patients,14.89,No Different
+000347,Death rate for pneumonia patients,13.15,Worse
+000348,Death rate for heart failure patients,12.93,No Different
+000348,Death rate for COPD patients,13.32,No Different
+000348,Death rate for coronary artery bypass graft (CABG) patients,9.92,No Different
+000348,Death rate for stroke patients,12.94,No Different
+000348,Death rate for pneumonia patients,11.04,Better
+000349,Death rate for coronary artery bypass graft (CABG) patients,18.85,No Different
+000349,Death rate for pneumonia patients,17.41,No Different
+000349,Death rate for COPD patients,17.8,No Different
+000349,Death rate for heart failure patients,16.23,No Different
+000349,Death rate for heart attack patients,18.58,No Different
+000350,Death rate for COPD patients,25.76,No Different
+000350,Death rate for stroke patients,19.24,No Different
+000350,Death rate for pneumonia patients,25.02,No Different
+000351,Death rate for COPD patients,4.94,No Different
+000351,Death rate for heart attack patients,12.12,Better
+000351,Death rate for heart failure patients,11.88,No Different
+000351,Death rate for pneumonia patients,8.68,No Different
+000352,Death rate for heart failure patients,7.75,No Different
+000352,Death rate for heart attack patients,8.36,No Different
+000352,Death rate for stroke patients,12.41,No Different
+000353,Death rate for heart attack patients,12.81,No Different
+000353,Death rate for pneumonia patients,12.97,No Different
+000353,Death rate for heart failure patients,11.99,No Different
+000354,Death rate for pneumonia patients,10.28,No Different
+000354,Death rate for coronary artery bypass graft (CABG) patients,14.01,No Different
+000354,Death rate for stroke patients,12.37,No Different
+000354,Death rate for heart failure patients,15.9,No Different
+000355,Death rate for pneumonia patients,17.67,Better
+000355,Death rate for coronary artery bypass graft (CABG) patients,15.65,No Different
+000355,Death rate for heart attack patients,15.96,No Different
+000355,Death rate for stroke patients,14.79,No Different
+000355,Death rate for heart failure patients,19.5,No Different
+000356,Death rate for coronary artery bypass graft (CABG) patients,14.52,No Different
+000356,Death rate for heart failure patients,15.06,No Different
+000356,Death rate for pneumonia patients,16.36,No Different
+000357,Death rate for heart attack patients,17.92,No Different
+000357,Death rate for stroke patients,16.69,No Different
+000357,Death rate for COPD patients,19.79,No Different
+000357,Death rate for heart failure patients,17.25,Worse
+000358,Death rate for heart failure patients,17.02,No Different
+000358,Death rate for stroke patients,14.62,No Different
+000358,Death rate for COPD patients,14.15,Worse
+000358,Death rate for heart attack patients,18.64,No Different
+000359,Death rate for stroke patients,12.24,No Different
+000359,Death rate for pneumonia patients,14.2,No Different
+000359,Death rate for COPD patients,19.41,No Different
+000359,Death rate for coronary artery bypass graft (CABG) patients,14.22,No Different
+000359,Death rate for heart failure patients,14.38,Worse
+000360,Death rate for coronary artery bypass graft (CABG) patients,15.66,Better
+000360,Death rate for stroke patients,15.22,Better
+000360,Death rate for COPD patients,13.04,Better
+000361,Death rate for stroke patients,19,Worse
+000361,Death rate for COPD patients,23.22,Better
+000361,Death rate for heart failure patients,16.61,No Different
+000361,Death rate for heart attack patients,13.13,Worse
+000362,Death rate for coronary artery bypass graft (CABG) patients,13.37,No Different
+000362,Death rate for COPD patients,11.22,Better
+000362,Death rate for pneumonia patients,13.6,No Different
+000362,Death rate for heart attack patients,13.36,Better
+000362,Death rate for stroke patients,13.46,No Different
+000363,Death rate for COPD patients,9.47,No Different
+000363,Death rate for coronary artery bypass graft (CABG) patients,9.04,No Different
+000363,Death rate for stroke patients,15.76,No Different
+000363,Death rate for pneumonia patients,10.61,No Different
+000364,Death rate for heart attack patients,15.94,Better
+000364,Death rate for stroke patients,17.13,Better
+000364,Death rate for COPD patients,12.21,No Different
+000364,Death rate for heart failure patients,17.58,Worse
+000364,Death rate for pneumonia patients,13.46,No Different
+000364,Death rate for coronary artery bypass graft (CABG) patients,14.79,No Different
+000365,Death rate for COPD patients,16.64,Worse
+000365,Death rate for pneumonia patients,14.29,No Different
+000365,Death rate for heart failure patients,15.52,No Different
+000365,Death rate for stroke patients,12.79,No Different
+000366,Death rate for pneumonia patients,20.92,No Different
+000366,Death rate for COPD patients,23.34,Better
+000366,Death rate for stroke patients,22.56,No Different
+000366,Death rate for heart attack patients,25.13,No Different
+000367,Death rate for pneumonia patients,17.54,No Different
+000367,Death rate for coronary artery bypass graft (CABG) patients,13.79,No Different
+000367,Death rate for heart failure patients,15.5,Better
+000367,Death rate for heart attack patients,15.27,No Different
+000368,Death rate for pneumonia patients,8.32,No Different
+000368,Death rate for COPD patients,11.92,No Different
+000368,Death rate for heart attack patients,10.97,No Different
+000369,Death rate for pneumonia patients,8.49,No Different
+000369,Death rate for coronary artery bypass graft (CABG) patients,8.35,Better
+000369,Death rate for heart failure patients,8.84,Worse
+000369,Death rate for stroke patients,4.07,Better
+000370,Death rate for heart attack patients,11.11,Worse
+000370,Death rate for pneumonia patients,13.96,No Different
+000370,Death rate for COPD patients,13.73,No Different
+000370,Death rate for coronary artery bypass graft (CABG) patients,13.79,Worse
+000370,Death rate for stroke patients,15.85,No Different
+000371,Death rate for heart attack patients,15.05,Better
+000371,Death rate for stroke patients,15.58,No Different
+000371,Death rate for coronary artery bypass graft (CABG) patients,13.89,Worse
+000372,Death rate for COPD patients,11.45,Better
+000372,Death rate for heart failure patients,13.17,Better
+000372,Death rate for coronary artery bypass graft (CABG) patients,9.4,No Different
+000372,Death rate for pneumonia patients,10.67,Better
+000373,Death rate for coronary artery bypass graft (CABG) patients,16.17,No Different
+000373,Death rate for COPD patients,15.72,No Different
+000373,Death rate for stroke patients,16.01,No Different
+000374,Death rate for coronary artery bypass graft (CABG) patients,17.59,No Different
+000374,Death rate for pneumonia patients,15.64,No Different
+000374,Death rate for heart attack patients,18.74,Better
+000374,Death rate for heart failure patients,22.38,No Different
+000374,Death rate for stroke patients,18.99,No Different
+000375,Death rate for COPD patients,18.5,No Different
+000375,Death rate for stroke patients,17.45,No Different
+000375,Death rate for heart attack patients,18.85,No Different
+000375,Death rate for coronary artery bypass graft (CABG) patients,15.37,No Different
+000375,Death rate for heart failure patients,21.73,Worse
+000375,Death rate for pneumonia patients,16.28,No Different
+000376,Death rate for COPD patients,11.48,Worse
+000376,Death rate for heart attack patients,13.23,No Different
+000376,Death rate for pneumonia patients,11.62,No Different
+000376,Death rate for heart failure patients,13.91,No Different
+000377,Death rate for COPD patients,11.42,No Different
+000377,Death rate for coronary artery bypass graft (CABG) patients,13.74,Better
+000377,Death rate for pneumonia patients,8.84,No Different
+000377,Death rate for stroke patients,11.35,No Different
+000378,Death rate for heart failure patients,15.22,No Different
+000378,Death rate for COPD patients,13.93,No Different
+000378,Death rate for pneumonia patients,15.6,Worse
+000379,Death rate for pneumonia patients,18.93,No Different
+000379,Death rate for coronary artery bypass graft (CABG) patients,20.41,No Different
+000379,Death rate for heart attack patients,15.48,No Different
+000379,Death rate for heart failure patients,18.89,Better
+000379,Death rate for stroke patients,15.66,No Different
+000380,Death rate for coronary artery bypass graft (CABG) patients,13.23,Worse
+000380,Death rate for heart failure patients,13.17,No Different
+000380,Death rate for COPD patients,12.78,No Different
+000380,Death rate for heart attack patients,15.03,No Different
+000380,Death rate for stroke patients,14.35,No Different
+000380,Death rate for pneumonia patients,8.19,No Different
+000381,Death rate for stroke patients,21.14,No Different
+000381,Death rate for pneumonia patients,17.77,No Different
+000381,Death rate for coronary artery bypass graft (CABG) patients,14.32,No Different
+000381,Death rate for heart failure patients,17.74,Better
+000381,Death rate for COPD patients,17.82,Better
+000381,Death rate for heart attack patients,16.49,No Different
+000382,Death rate for coronary artery bypass graft (CABG) patients,19.81,Worse
+000382,Death rate for stroke patients,15.63,Better
+000382,Death rate for heart attack patients,19.01,No Different
+000382,Death rate for pneumonia patients,14.4,No Different
+000382,Death rate for heart failure patients,15.43,Better
+000382,Death rate for COPD patients,15.5,No Different
+000383,Death rate for stroke patients,11.63,Better
+000383,Death rate for pneumonia patients,12.32,No Different
+000383,Death rate for heart attack patients,11.68,Better
+000384,Death rate for stroke patients,16.91,No Different
+000384,Death rate for COPD patients,13.57,No Different
+000384,Death rate for pneumonia patients,15.58,Worse
+000385,Death rate for heart attack patients,12.78,No Different
+000385,Death rate for heart failure patients,12.75,No Different
+000385,Death rate for stroke patients,12.03,Better
+000386,Death rate for coronary artery bypass graft (CABG) patients,18.21,No Different
+000386,Death rate for heart failure patients,18.92,No Different
+000386,Death rate for COPD patients,15.89,No Different
+000386,Death rate for heart attack patients,15.88,No Different
+000386,Death rate for stroke patients,16.35,Worse
+000386,Death rate for pneumonia patients,17.95,No Different
+000387,Death rate for coronary artery bypass graft (CABG) patients,21.02,No Different
+000387,Death rate for heart failure patients,18.8,No Different
+000387,Death rate for pneumonia patients,22.86,No Different
+000387,Death rate for stroke patients,17.85,Better
+000387,Death rate for COPD patients,19.88,Worse
+000387,Death rate for heart attack patients,21.18,No Different
+000388,Death rate for coronary artery bypass graft (CABG) patients,23.68,No Different
+000388,Death rate for stroke patients,20.19,No Different
+000388,Death rate for pneumonia patients,23.05,No Different
+000388,Death rate for heart attack patients,17.78,No Different
+000388,Death rate for heart failure patients,19.37,No Different
+000388,Death rate for COPD patients,16.65,Better
+000389,Death rate for COPD patients,13.99,No Different
+000389,Death rate for heart failure patients,17.84,No Different
+000389,Death rate for heart attack patients,15.27,No Different
+000389,Death rate for stroke patients,16.75,No Different
+000389,Death rate for pneumonia patients,14.4,No Different
+000390,Death rate for coronary artery bypass graft (CABG) patients,13.5,No Different
+000390,Death rate for stroke patients,12.1,Better
+000390,Death rate for heart attack patients,13.39,No Different
+000390,Death rate for heart failure patients,16.67,No Different
+000391,Death rate for heart attack patients,17.83,Better
+000391,Death rate for pneumonia patients,18.51,No Different
+000391,Death rate for coronary artery bypass graft (CABG) patients,17.17,No Different
+000391,Death rate for COPD patients,15.24,No Different
+000391,Death rate for heart failure patients,17.49,No Different
+000391,Death rate for stroke patients,19.22,Worse
+000392,Death rate for heart failure patients,12.34,No Different
+000392,Death rate for COPD patients,17.39,No Different
+000392,Death rate for stroke patients,16.72,No Different
+000392,Death rate for coronary artery bypass graft (CABG) patients,13.25,No Different
+000393,Death rate for pneumonia patients,18.85,Worse
+000393,Death rate for COPD patients,18.25,Better
+000393,Death rate for heart attack patients,17.27,No Different
+000393,Death rate for heart failure patients,16.28,No Different
+000393,Death rate for coronary artery bypass graft (CABG) patients,16.85,No Different
+000394,Death rate for coronary artery bypass graft (CABG) patients,20.72,No Different
+000394,Death rate for pneumonia patients,19.55,No Different
+000394,Death rate for stroke patients,15.35,No Different
+000395,Death rate for COPD patients,13.4,No Different
+000395,Death rate for stroke patients,14.31,No Different
+000395,Death rate for coronary artery bypass graft (CABG) patients,18.25,No Different
+000396,Death rate for heart failure patients,16.56,No Different
+000396,Death rate for heart attack patients,22.25,No Different
+000396,Death rate for stroke patients,13.53,No Different
+000397,Death rate for heart attack patients,17.62,No Different
+000397,Death rate for coronary artery bypass graft (CABG) patients,16.8,No Different
+000397,Death rate for heart failure patients,18.08,No Different
+000397,Death rate for pneumonia patients,18.73,No Different
+000397,Death rate for stroke patients,15.94,No Different
+000397,Death rate for COPD patients,16.49,No Different
+000398,Death rate for coronary artery bypass graft (CABG) patients,18.44,No Different
+000398,Death rate for stroke patients,17.27,No Different
+000398,Death rate for COPD patients,13.51,No Different
+000398,Death rate for pneumonia patients,15.76,No Different
+000398,Death rate for heart attack patients,17.52,No Different
+000398,Death rate for heart failure patients,12.9,Better
+000399,Death rate for pneumonia patients,12.67,Worse
+000399,Death rate for heart attack patients,11.35,No Different
+000399,Death rate for COPD patients,13.85,No Different
+000399,Death rate for stroke patients,10.58,No Different
+000400,Death rate for stroke patients,11.39,No Different
+000400,Death rate for pneumonia patients,16.77,No Different
+000400,Death rate for heart attack patients,19.22,Worse
+000401,Death rate for heart failure patients,15.25,Better
+000401,Death rate for COPD patients,12.22,No Different
+000401,Death rate for heart attack patients,13.04,Better
+000402,Death rate for coronary artery bypass graft (CABG) patients,12.75,No Different
+000402,Death rate for heart attack patients,15.18,No Different
+000402,Death rate for heart failure patients,17.73,No Different
+000402,Death rate for COPD patients,14.25,Better
+000403,Death rate for heart failure patients,15.88,Better
+000403,Death rate for pneumonia patients,15.71,Better
+000403,Death rate for coronary artery bypass graft (CABG) patients,13.45,Better
+000403,Death rate for COPD patients,16.83,No Different
+000404,Death rate for stroke patients,17.14,Better
+000404,Death rate for heart attack patients,14.84,Worse
+000404,Death rate for heart failure patients,16.73,No Different
+000404,Death rate for coronary artery bypass graft (CABG) patients,12.02,No Different
+000405,Death rate for heart attack patients,5.82,Better
+000405,Death rate for stroke patients,3.84,Better
+000405,Death rate for pneumonia patients,5.05,No Different
+000405,Death rate for heart failure patients,3.93,No Different
+000405,Death rate for coronary artery bypass graft (CABG) patients,6.12,No Different
+000405,Death rate for COPD patients,5.75,No Different
+000406,Death rate for coronary artery bypass graft (CABG) patients,17.28,No Different
+000406,Death rate for COPD patients,16.66,No Different
+000406,Death rate for pneumonia patients,15.94,No Different
+000406,Death rate for heart attack patients,13.67,No Different
+000406,Death rate for heart failure patients,20.67,No Different
+000406,Death rate for stroke patients,20.58,No Different
+000407,Death rate for heart attack patients,16.6,No Different
+000407,Death rate for COPD patients,14.79,No Different
+000407,Death rate for pneumonia patients,17.13,No Different
+000407,Death rate for stroke patients,14.26,No Different
+000407,Death rate for coronary artery bypass graft (CABG) patients,11.87,No Different
+000408,Death rate for stroke patients,13.83,No Different
+000408,Death rate for pneumonia patients,10.8,No Different
+000408,Death rate for heart attack patients,17.02,No Different
+000408,Death rate for COPD patients,13.49,Better
+000409,Death rate for heart attack patients,18.2,No Different
+000409,Death rate for coronary artery bypass graft (CABG) patients,17.77,No Different
+000409,Death rate for heart failure patients,13.78,No Different
+000410,Death rate for coronary artery bypass graft (CABG) patients,16.52,No Different
+000410,Death rate for heart failure patients,17.31,No Different
+000410,Death rate for pneumonia patients,14.96,No Different
+000411,Death rate for coronary artery bypass graft (CABG) patients,13.15,No Different
+000411,Death rate for pneumonia patients,13.93,No Different
+000411,Death rate for stroke patients,19.8,No Different
+000412,Death rate for stroke patients,19.66,Better
+000412,Death rate for pneumonia patients,20.16,No Different
+000412,Death rate for heart attack patients,22.56,No Different
+000412,Death rate for COPD patients,22.29,No Different
+000413,Death rate for stroke patients,10.34,Better
+000413,Death rate for COPD patients,11.43,No Different
+000413,Death rate for heart failure patients,10.82,No Different
+000413,Death rate for heart attack patients,12.99,No Different
+000414,Death rate for heart failure patients,15.36,Better
+000414,Death rate for pneumonia patients,18.09,Better
+000414,Death rate for COPD patients,22.53,Better
+000414,Death rate for coronary artery bypass graft (CABG) patients,16.74,No Different
+000415,Death rate for stroke patients,12.74,No Different
+000415,Death rate for heart failure patients,14.67,No Different
+000415,Death rate for pneumonia patients,15.52,No Different
+000416,Death rate for pneumonia patients,11.08,No Different
+000416,Death rate for coronary artery bypass graft (CABG) patients,13.06,Better
+000416,Death rate for heart failure patients,14.59,No Different
+000417,Death rate for COPD patients,14.06,No Different
+000417,Death rate for coronary artery bypass graft (CABG) patients,13.15,Worse
+000417,Death rate for pneumonia patients,12.84,Worse
+000417,Death rate for heart failure patients,13.29,Better
+000418,Death rate for coronary artery bypass graft (CABG) patients,22.42,Better
+000418,Death rate for COPD patients,18.79,No Different
+000418,Death rate for heart failure patients,18.92,No Different
+000418,Death rate for stroke patients,16.08,Better
+000418,Death rate for heart attack patients,19.39,Better
+000419,Death rate for coronary artery bypass graft (CABG) patients,12.82,No Different
+000419,Death rate for stroke patients,12.54,Better
+000419,Death rate for COPD patients,11.49,No Different
+000419,Death rate for heart attack patients,13.47,No Different
+000419,Death rate for heart failure patients,11.05,No Different
+000419,Death rate for pneumonia patients,10.7,No Different
+000420,Death rate for COPD patients,14.16,Better
+000420,Death rate for coronary artery bypass graft (CABG) patients,14.35,No Different
+000420,Death rate for heart failure patients,16.93,Worse
+000420,Death rate for stroke patients,17.28,No Different
+000420,Death rate for heart attack patients,11.87,No Different
+000420,Death rate for pneumonia patients,17.73,No Different
+000421,Death rate for stroke patients,20.59,Worse
+000421,Death rate for heart attack patients,19.69,Worse
+000421,Death rate for pneumonia patients,19.8,No Different
+000421,Death rate for coronary artery bypass graft (CABG) patients,19.07,No Different
+000421,Death rate for COPD patients,17.91,No Different
+000421,Death rate for heart failure patients,20.22,Better
+000422,Death rate for heart attack patients,21.83,No Different
+000422,Death rate for stroke patients,21.66,No Different
+000422,Death rate for COPD patients,22.97,No Different
+000422,Death rate for heart failure patients,20.12,No Different
+000423,Death rate for coronary artery bypass graft (CABG) patients,14.95,No Different
+000423,Death rate for COPD patients,14.73,No Different
+000423,Death rate for stroke patients,14.64,No Different
+000423,Death rate for heart attack patients,17.98,No Different
+000424,Death rate for stroke patients,13.43,No Different
+000424,Death rate for pneumonia patients,10.55,No Different
+000424,Death rate for heart attack patients,10.21,No Different
+000424,Death rate for heart failure patients,12.78,Better
+000425,Death rate for stroke patients,15.07,No Different
+000425,Death rate for heart failure patients,14.06,No Different
+000425,Death rate for COPD patients,18.7,No Different
+000425,Death rate for pneumonia patients,17.89,No Different
+000425,Death rate for coronary artery bypass graft (CABG) patients,15.53,Better
+000426,Death rate for coronary artery bypass graft (CABG) patients,16.24,No Different
+000426,Death rate for heart attack patients,19.94,No Different
+000426,Death rate for heart failure patients,14.54,No Different
+000427,Death rate for heart attack patients,18.32,No Different
+000427,Death rate for stroke patients,13.34,Better
+000427,Death rate for heart failure patients,14.1,Worse
+000427,Death rate for pneumonia patients,18.06,No Different
+000427,Death rate for coronary artery bypass graft (CABG) patients,20.28,No Different
+000427,Death rate for COPD patients,13.99,Better
+000428,Death rate for heart attack patients,15.86,No Different
+000428,Death rate for COPD patients,18.91,No Different
+000428,Death rate for heart failure patients,16.66,No Different
+000428,Death rate for stroke patients,17.57,No Different
+000428,Death rate for coronary artery bypass graft (CABG) patients,15.3,No Different
+000429,Death rate for heart failure patients,16.9,Worse
+000429,Death rate for coronary artery bypass graft (CABG) patients,11.84,No Different
+000429,Death rate for pneumonia patients,13.81,No Different
+000429,Death rate for heart attack patients,15.23,No Different
+000430,Death rate for heart failure patients,18.47,No Different
+000430,Death rate for heart attack patients,18.34,No Different
+000430,Death rate for coronary artery bypass graft (CABG) patients,16.82,Worse
+000430,Death rate for pneumonia patients,19.07,No Different
+000430,Death rate for stroke patients,18.7,Better
+000430,Death rate for COPD patients,18.54,No Different
+000431,Death rate for heart attack patients,21.03,No Different
+000431,Death rate for pneumonia patients,18.65,No Different
+000431,Death rate for coronary artery bypass graft (CABG) patients,22.65,No Different
+000432,Death rate for heart attack patients,9.97,No Different
+000432,Death rate for coronary artery bypass graft (CABG) patients,17.57,No Different
+000432,Death rate for heart failure patients,11.9,No Different
+000432,Death rate for COPD patients,11.52,No Different
+000433,Death rate for heart failure patients,13.41,No Different
+000433,Death rate for coronary artery bypass graft (CABG) patients,12.67,No Different
+000433,Death rate for stroke patients,16.03,No Different
+000433,Death rate for pneumonia patients,13.16,No Different
+000434,Death rate for heart failure patients,9.29,No Different
+000434,Death rate for pneumonia patients,12.73,Better
+000434,Death rate for heart attack patients,11.71,Better
+000434,Death rate for stroke patients,13.49,No Different
+000434,Death rate for COPD patients,11.53,No Different
+000435,Death rate for pneumonia patients,7.21,Better
+000435,Death rate for heart failure patients,11.32,No Different
+000435,Death rate for coronary artery bypass graft (CABG) patients,13.25,Better
+000436,Death rate for heart failure patients,16.51,No Different
+000436,Death rate for pneumonia patients,12.75,Worse
+000436,Death rate for heart attack patients,17.31,No Different
+000436,Death rate for coronary artery bypass graft (CABG) patients,12.92,No Different
+000436,Death rate for COPD patients,14.15,Better
+000437,Death rate for pneumonia patients,10.81,No Different
+000437,Death rate for coronary artery bypass graft (CABG) patients,6.62,No Different
+000437,Death rate for heart attack patients,13.57,No Different
+000437,Death rate for stroke patients,13.93,No Different
+000438,Death rate for heart failure patients,18.43,No Different
+000438,Death rate for coronary artery bypass graft (CABG) patients,17.55,Better
+000438,Death rate for heart attack patients,15.42,No Different
+000438,Death rate for pneumonia patients,16.49,Better
+000438,Death rate for stroke patients,13.88,Worse
+000438,Death rate for COPD patients,18.8,No Different
+000439,Death rate for heart attack patients,15.52,No Different
+000439,Death rate for pneumonia patients,14.01,Better
+000439,Death rate for heart failure patients,14.96,No Different
+000439,Death rate for stroke patients,14.33,Worse
+000440,Death rate for stroke patients,12.04,Better
+000440,Death rate for coronary artery bypass graft (CABG) patients,14.42,Worse
+000440,Death rate for heart failure patients,13.55,No Different
+000440,Death rate for pneumonia patients,12.23,No Different
+000440,Death rate for heart attack patients,10.51,No Different
+000440,Death rate for COPD patients,10.11,No Different
+000441,Death rate for heart failure patients,16.57,No Different
+000441,Death rate for coronary artery bypass graft (CABG) patients,17.53,No Different
+000441,Death rate for stroke patients,16.22,No Different
+000441,Death rate for COPD patients,16.12,No Different
+000441,Death rate for heart attack patients,18.79,Worse
+000441,Death rate for pneumonia patients,16.66,Worse
+000442,Death rate for stroke patients,12.92,No Different
+000442,Death rate for COPD patients,12,Worse
+000442,Death rate for pneumonia patients,18.34,No Different
+000442,Death rate for coronary artery bypass graft (CABG) patients,14.61,No Different
+000443,Death rate for heart attack patients,12.07,No Different
+000443,Death rate for COPD patients,14.33,Better
+000443,Death rate for stroke patients,15.28,No Different
+000443,Death rate for heart failure patients,16.92,No Different
+000444,Death rate for COPD patients,11.76,Better
+000444,Death rate for stroke patients,11.16,Worse
+000444,Death rate for coronary artery bypass graft (CABG) patients,11.56,No Different
+000444,Death rate for heart attack patients,8.92,Better
+000444,Death rate for heart failure patients,14.69,No Different
+000445,Death rate for coronary artery bypass graft (CABG) patients,17.62,Better
+000445,Death rate for stroke patients,17.41,No Different
+000445,Death rate for heart failure patients,17.66,No Different
+000445,Death rate for COPD patients,19.4,No Different
+000445,Death rate for pneumonia patients,16.78,No Different
+000446,Death rate for COPD patients,13.54,No Different
+000446,Death rate for coronary artery bypass graft (CABG) patients,12.7,Better
+000446,Death rate for pneumonia patients,10.56,Better
+000446,Death rate for heart attack patients,15.61,No Different
+000446,Death rate for heart failure patients,14.33,Better
+000447,Death rate for stroke patients,14.95,No Different
+000447,Death rate for pneumonia patients,14.22,Worse
+000447,Death rate for heart failure patients,15.06,No Different
+000447,Death rate for coronary artery bypass graft (CABG) patients,15.12,No Different
+000448,Death rate for COPD patients,12.49,Better
+000448,Death rate for heart failure patients,12.51,Better
+000448,Death rate for heart attack patients,14.66,No Different
+000448,Death rate for pneumonia patients,14.34,No Different
+000449,Death rate for COPD patients,15.11,Better
+000449,Death rate for pneumonia patients,17.14,No Different
+000449,Death rate for heart failure patients,17.42,No Different
+000449,Death rate for heart attack patients,17.67,Worse
+000449,Death rate for stroke patients,16.11,No Different
+000449,Death rate for coronary artery bypass graft (CABG) patients,18.7,No Different
+000450,Death rate for coronary artery bypass graft (CABG) patients,15.64,No Different
+000450,Death rate for heart failure patients,17.33,Better
+000450,Death rate for stroke patients,16.61,Worse
+000450,Death rate for heart attack patients,14.97,No Different
+000450,Death rate for pneumonia patients,17.04,Better
+000451,Death rate for heart failure patients,21.27,No Different
+000451,Death rate for pneumonia patients,20.13,No Different
+000451,Death rate for COPD patients,18.34,No Different
+000452,Death rate for coronary artery bypass graft (CABG) patients,19.07,No Different
+000452,Death rate for pneumonia patients,16.65,No Different
+000452,Death rate for COPD patients,19.44,No Different
+000452,Death rate for stroke patients,16.2,Worse
+000452,Death rate for heart failure patients,13.37,Better
+000453,Death rate for heart attack patients,10.36,Better
+000453,Death rate for heart failure patients,11.68,No Different
+000453,Death rate for coronary artery bypass graft (CABG) patients,10.7,No Different
+000453,Death rate for pneumonia patients,12.92,No Different
+000453,Death rate for stroke patients,11.83,Worse
+000453,Death rate for COPD patients,8.08,No Different
+000454,Death rate for heart attack patients,16.89,No Different
+000454,Death rate for pneumonia patients,17.02,No Different
+000454,Death rate for coronary artery bypass graft (CABG) patients,15.73,No Different
+000454,Death rate for heart failure patients,16.23,No Different
+000454,Death rate for COPD patients,15.76,No Different
+000455,Death rate for stroke patients,10.05,Better
+000455,Death rate for coronary artery bypass graft (CABG) patients,17.36,No Different
+000455,Death rate for COPD patients,13.64,Better
+000455,Death rate for heart failure patients,13.99,Better
+000455,Death rate for heart attack patients,11.88,Worse
+000456,Death rate for stroke patients,13.45,No Different
+000456,Death rate for heart attack patients,14.82,No Different
+000456,Death rate for heart failure patients,13.86,No Different
+000456,Death rate for pneumonia patients,14.2,No Different
+000457,Death rate for heart attack patients,10.7,No Different
+000457,Death rate for heart failure patients,13.62,No Different
+000457,Death rate for coronary artery bypass graft (CABG) patients,10.98,Better
+000457,Death rate for COPD patients,14.76,No Different
+000457,Death rate for stroke patients,14.11,No Different
+000457,Death rate for pneumonia patients,16.22,Better
+000458,Death rate for coronary artery bypass graft (CABG) patients,13.49,No Different
+000458,Death rate for heart failure patients,15.27,No Different
+000458,Death rate for heart attack patients,14.29,No Different
+000458,Death rate for pneumonia patients,16.14,Better
+000458,Death rate for stroke patients,16.99,No Different
+000458,Death rate for COPD patients,16.46,No Different
+000459,Death rate for coronary artery bypass graft (CABG) patients,19.77,No Different
+000459,Death rate for heart failure patients,19.01,Better
+000459,Death rate for stroke patients,17.07,No Different
+000460,Death rate for COPD patients,14.95,No Different
+000460,Death rate for heart attack patients,15.86,No Different
+000460,Death rate for coronary artery bypass graft (CABG) patients,13.77,No Different
+000460,Death rate for heart failure patients,16.92,No Different
+000461,Death rate for stroke patients,20.4,Better
+000461,Death rate for heart failure patients,18.79,No Different
+000461,Death rate for heart attack patients,18.2,No Different
+000461,Death rate for pneumonia patients,17.45,No Different
+000461,Death rate for COPD patients,16.48,No Different
+000462,Death rate for coronary artery bypass graft (CABG) patients,15.72,No Different
+000462,Death rate for pneumonia patients,18.11,Better
+000462,Death rate for stroke patients,14.35,No Different
+000462,Death rate for COPD patients,13.18,No Different
+000462,Death rate for heart failure patients,15.42,No Different
+000462,Death rate for heart attack patients,14.25,No Different
+000463,Death rate for coronary artery bypass graft (CABG) patients,14.48,No Different
+000463,Death rate for COPD patients,12.5,No Different
+000463,Death rate for stroke patients,14.14,No Different
+000464,Death rate for COPD patients,10.11,No Different
+000464,Death rate for heart attack patients,8.65,No Different
+000464,Death rate for heart failure patients,6.75,No Different
+000465,Death rate for coronary artery bypass graft (CABG) patients,14.81,Better
+000465,Death rate for COPD patients,11.03,No Different
+000465,Death rate for heart failure patients,12.13,No Different
+000465,Death rate for stroke patients,10.06,Better
+000466,Death rate for heart attack patients,15.91,No Different
+000466,Death rate for COPD patients,17.99,Worse
+000466,Death rate for stroke patients,15.38,No Different
+000467,Death rate for stroke patients,16.86,No Different
+000467,Death rate for coronary artery bypass graft (CABG) patients,10.54,Better
+000467,Death rate for COPD patients,12.81,Better
+000467,Death rate for heart attack patients,14.2,No Different
+000467,Death rate for heart failure patients,12.18,Better
+000468,Death rate for stroke patients,19.14,No Different
+000468,Death rate for heart attack patients,18.67,No Different
+000468,Death rate for COPD patients,19.94,Worse
+000468,Death rate for heart failure patients,14.02,No Different
+000469,Death rate for stroke patients,18.11,No Different
+000469,Death rate for COPD patients,19.65,Worse
+000469,Death rate for heart attack patients,17.95,No Different
+000469,Death rate for coronary artery bypass graft (CABG) patients,13.34,No Different
+000469,Death rate for pneumonia patients,17.15,Worse
+000470,Death rate for heart attack patients,12.54,Better
+000470,Death rate for coronary artery bypass graft (CABG) patients,10.3,No Different
+000470,Death rate for heart failure patients,14.06,No Different
+000470,Death rate for stroke patients,9.13,Worse
+000470,Death rate for COPD patients,9.32,Worse
+000471,Death rate for pneumonia patients,16.15,No Different
+000471,Death rate for heart failure patients,20.33,No Different
+000471,Death rate for stroke patients,17.71,Worse
+000471,Death rate for coronary artery bypass graft (CABG) patients,19.08,Better
+000471,Death rate for heart attack patients,18.72,No Different
+000471,Death rate for COPD patients,15.21,No Different
+000472,Death rate for COPD patients,19.34,Better
+000472,Death rate for heart failure patients,13.48,No Different
+000472,Death rate for coronary artery bypass graft (CABG) patients,17.34,No Different
+000472,Death rate for heart attack patients,16.5,No Different
+000472,Death rate for pneumonia patients,13.37,No Different
+000473,Death rate for pneumonia patients,17.28,Better
+000473,Death rate for coronary artery bypass graft (CABG) patients,19.01,No Different
+000473,Death rate for heart failure patients,13.63,Better
+000473,Death rate for heart attack patients,16.31,No Different
+000474,Death rate for COPD patients,14.07,No Different
+000474,Death rate for heart attack patients,11.47,No Different
+000474,Death rate for heart failure patients,13.57,No Different
+000474,Death rate for pneumonia patients,12.14,No Different
+000474,Death rate for coronary artery bypass graft (CABG) patients,10.81,No Different
+000474,Death rate for stroke patients,11.82,Better
+000475,Death rate for heart failure patients,17.07,No Different
+000475,Death rate for stroke patients,12.79,No Different
+000475,Death rate for coronary artery bypass graft (CABG) patients,14.3,No Different
+000475,Death rate for heart attack patients,14.09,No Different
+000475,Death rate for COPD patients,14.99,No Different
+000476,Death rate for stroke patients,16.25,No Different
+000476,Death rate for heart attack patients,20.69,No Different
+000476,Death rate for heart failure patients,19.24,No Different
+000477,Death rate for COPD patients,14.87,Better
+000477,Death rate for coronary artery bypass graft (CABG) patients,14.34,Worse
+000477,Death rate for stroke patients,14.06,Better
+000478,Death rate for stroke patients,12.74,No Different
+000478,Death rate for coronary artery bypass graft (CABG) patients,7.01,No Different
+000478,Death rate for COPD patients,18.7,No Different
+000478,Death rate for pneumonia patients,7.49,No Different
+000479,Death rate for COPD patients,11.65,No Different
+000479,Death rate for pneumonia patients,10.36,No Different
+000479,Death rate for stroke patients,8.38,Better
+000480,Death rate for COPD patients,13.77,No Different
+000480,Death rate for heart attack patients,11.91,No Different
+000480,Death rate for stroke patients,16.47,Better
+000481,Death rate for heart attack patients,10.09,Better
+000481,Death rate for heart failure patients,9.6,No Different
+000481,Death rate for stroke patients,7.72,No Different
+000481,Death rate for coronary artery bypass graft (CABG) patients,7.61,No Different
+000481,Death rate for pneumonia patients,8.14,No Different
+000481,Death rate for COPD patients,5.18,No Different
+000482,Death rate for heart failure patients,15.42,No Different
+000482,Death rate for COPD patients,12.23,No Different
+000482,Death rate for coronary artery bypass graft (CABG) patients,11.39,No Different
+000482,Death rate for pneumonia patients,12.98,No Different
+000482,Death rate for stroke patients,16.32,Better
+000482,Death rate for heart attack patients,14.7,No Different
+000483,Death rate for COPD patients,20.53,No Different
+000483,Death rate for pneumonia patients,19.25,No Different
+000483,Death rate for coronary artery bypass graft (CABG) patients,14.54,Better
+000483,Death rate for heart failure patients,16.55,Better
+000483,Death rate for stroke patients,16.66,No Different
+000483,Death rate for heart attack patients,15.99,No Different
+000484,Death rate for stroke patients,19.19,No Different
+000484,Death rate for heart failure patients,22.3,No Different
+000484,Death rate for COPD patients,19.83,No Different
+000484,Death rate for heart attack patients,18.66,No Different
+000484,Death rate for pneumonia patients,13.31,Better
+000484,Death rate for coronary artery bypass graft (CABG) patients,20.79,Worse
+000485,Death rate for heart attack patients,18.3,No Different
+000485,Death rate for COPD patients,24.46,No Different
+000485,Death rate for pneumonia patients,22.57,No Different
+000486,Death rate for heart attack patients,12.91,No Different
+000486,Death rate for coronary artery bypass graft (CABG) patients,12,No Different
+000486,Death rate for pneumonia patients,13.3,Better
+000486,Death rate for heart failure patients,13.5,No Different
+000487,Death rate for coronary artery bypass graft (CABG) patients,17.62,No Different
+000487,Death rate for COPD patients,19.07,No Different
+000487,Death rate for pneumonia patients,14.75,No Different
+000487,Death rate for stroke patients,17.1,No Different
+000487,Death rate for heart attack patients,20.42,Better
+000488,Death rate for stroke patients,25.15,No Different
+000488,Death rate for pneumonia patients,15.74,No Different
+000488,Death rate for heart attack patients,16.8,No Different
+000489,Death rate for pneumonia patients,17.23,No Different
+000489,Death rate for heart attack patients,14.92,No Different
+000489,Death rate for coronary artery bypass graft (CABG) patients,13.48,No Different
+000490,Death rate for heart failure patients,11.67,No Different
+000490,Death rate for coronary artery bypass graft (CABG) patients,11.79,No Different
+000490,Death rate for pneumonia patients,10.98,Worse
+000490,Death rate for heart attack patients,8.68,No Different
+000490,Death rate for stroke patients,11.18,Better
+000490,Death rate for COPD patients,9.89,No Different
+000491,Death rate for coronary artery bypass graft (CABG) patients,17.53,No Different
+000491,Death rate for stroke patients,12.43,Better
+000491,Death rate for heart failure patients,13.39,Better
+000491,Death rate for pneumonia patients,15.46,No Different
+000492,Death rate for COPD patients,20.01,Worse
+000492,Death rate for heart failure patients,18.93,No Different
+000492,Death rate for pneumonia patients,15.61,No Different
+000492,Death rate for coronary artery bypass graft (CABG) patients,15.2,No Different
+000492,Death rate for stroke patients,15.57,Worse
+000492,Death rate for heart attack patients,14.79,No Different
+000493,Death rate for stroke patients,12.31,No Different
+000493,Death rate for heart attack patients,15.6,No Different
+000493,Death rate for pneumonia patients,13.85,No Different
+000494,Death rate for COPD patients,21.33,No Different
+000494,Death rate for heart failure patients,19.77,Worse
+000494,Death rate for stroke patients,18.83,No Different
+000495,Death rate for heart attack patients,20.21,No Different
+000495,Death rate for COPD patients,20.95,Better
+000495,Death rate for stroke patients,21.88,Better
+000495,Death rate for coronary artery bypass graft (CABG) patients,23.5,No Different
+000495,Death rate for heart failure patients,21.9,No Different
+000495,Death rate for pneumonia patients,19.88,Better
+000496,Death rate for heart failure patients,21.19,No Different
+000496,Death rate for stroke patients,25.09,Better
+000496,Death rate for coronary artery bypass graft (CABG) patients,22.4,No Different
+000496,Death rate for pneumonia patients,23.35,No Different
+000496,Death rate for heart attack patients,20.74,Better
+000497,Death rate for pneumonia patients,13.87,No Different
+000497,Death rate for coronary artery bypass graft (CABG) patients,12.04,No Different
+000497,Death rate for COPD patients,17.4,No Different
+000498,Death rate for stroke patients,9.58,Worse
+000498,Death rate for heart attack patients,9.43,Better
+000498,Death rate for pneumonia patients,5.52,No Different
+000498,Death rate for coronary artery bypass graft (CABG) patients,10.51,No Different
+000498,Death rate for COPD patients,13.9,No Different
+000499,Death rate for heart attack patients,17.51,Worse
+000499,Death rate for COPD patients,16.66,Worse
+000499,Death rate for pneumonia patients,15.93,No Different
+000499,Death rate for heart failure patients,18.25,Better
+000499,Death rate for coronary artery bypass graft (CABG) patients,17.44,No Different
+000499,Death rate for stroke patients,15.1,No Different
+000500,Death rate for pneumonia patients,7.82,Better
+000500,Death rate for COPD patients,7.85,No Different
+000500,Death rate for coronary artery bypass graft (CABG) patients,10.94,No Different
+000500,Death rate for heart failure patients,9.14,No Different

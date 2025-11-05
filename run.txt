@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-4.5.1\bin\Rscript.exe" -e "shiny::runApp('interactive_dashboard.R', port = 8080, launch.browser = TRUE)"

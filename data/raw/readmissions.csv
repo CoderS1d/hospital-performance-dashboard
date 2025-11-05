@@ -1,0 +1,2230 @@
+Facility ID,Measure Name,Score,Compared to National
+000001,Readmission rate for heart failure patients,19.11,Better
+000001,Readmission rate for COPD patients,20.64,Worse
+000001,Readmission rate for hip/knee replacement patients,19.96,No Different
+000001,Readmission rate for stroke patients,21.2,No Different
+000001,Readmission rate for heart attack patients,22.26,Better
+000002,Readmission rate for hip/knee replacement patients,17.01,Better
+000002,Readmission rate for heart attack patients,15.08,No Different
+000002,Readmission rate for heart failure patients,16.92,No Different
+000002,Readmission rate for COPD patients,11.42,No Different
+000002,Readmission rate for pneumonia patients,15.95,Better
+000003,Readmission rate for stroke patients,18.53,No Different
+000003,Readmission rate for pneumonia patients,16.63,Better
+000003,Readmission rate for COPD patients,19.71,No Different
+000003,Readmission rate for heart failure patients,21.55,No Different
+000003,Readmission rate for hip/knee replacement patients,18.66,No Different
+000003,Readmission rate for heart attack patients,15.29,No Different
+000004,Readmission rate for stroke patients,14.49,No Different
+000004,Readmission rate for hip/knee replacement patients,16.54,Better
+000004,Readmission rate for pneumonia patients,12.83,No Different
+000004,Readmission rate for heart attack patients,16.16,Better
+000004,Readmission rate for COPD patients,17.05,Better
+000004,Readmission rate for heart failure patients,16.24,Worse
+000005,Readmission rate for heart failure patients,11.89,No Different
+000005,Readmission rate for heart attack patients,11.47,No Different
+000005,Readmission rate for pneumonia patients,10.84,Better
+000006,Readmission rate for pneumonia patients,14.51,No Different
+000006,Readmission rate for stroke patients,14.53,Better
+000006,Readmission rate for COPD patients,15.09,No Different
+000006,Readmission rate for heart failure patients,15.2,No Different
+000006,Readmission rate for hip/knee replacement patients,14,No Different
+000007,Readmission rate for COPD patients,26.44,No Different
+000007,Readmission rate for pneumonia patients,23.25,No Different
+000007,Readmission rate for hip/knee replacement patients,19.01,No Different
+000007,Readmission rate for heart failure patients,19.05,Better
+000007,Readmission rate for heart attack patients,21.57,Worse
+000008,Readmission rate for heart attack patients,8.35,No Different
+000008,Readmission rate for heart failure patients,10.15,No Different
+000008,Readmission rate for COPD patients,12.93,No Different
+000009,Readmission rate for stroke patients,14.98,No Different
+000009,Readmission rate for heart attack patients,15.27,No Different
+000009,Readmission rate for hip/knee replacement patients,12.27,No Different
+000009,Readmission rate for pneumonia patients,11.38,No Different
+000009,Readmission rate for heart failure patients,15.07,No Different
+000009,Readmission rate for COPD patients,15.35,No Different
+000010,Readmission rate for hip/knee replacement patients,17.86,Better
+000010,Readmission rate for pneumonia patients,19.08,No Different
+000010,Readmission rate for heart attack patients,24.43,No Different
+000010,Readmission rate for stroke patients,19.66,Worse
+000010,Readmission rate for COPD patients,20.36,No Different
+000011,Readmission rate for stroke patients,19.08,No Different
+000011,Readmission rate for heart failure patients,22.75,No Different
+000011,Readmission rate for heart attack patients,17.82,No Different
+000011,Readmission rate for COPD patients,17.81,Worse
+000012,Readmission rate for COPD patients,18.82,No Different
+000012,Readmission rate for stroke patients,17.9,No Different
+000012,Readmission rate for pneumonia patients,16.29,No Different
+000012,Readmission rate for hip/knee replacement patients,13.55,No Different
+000012,Readmission rate for heart failure patients,21.48,No Different
+000013,Readmission rate for COPD patients,22.02,Worse
+000013,Readmission rate for heart attack patients,22.51,No Different
+000013,Readmission rate for heart failure patients,20.03,No Different
+000014,Readmission rate for heart attack patients,21.54,No Different
+000014,Readmission rate for hip/knee replacement patients,21.88,Worse
+000014,Readmission rate for COPD patients,21.02,No Different
+000014,Readmission rate for heart failure patients,24.92,No Different
+000014,Readmission rate for stroke patients,20.07,No Different
+000014,Readmission rate for pneumonia patients,18.67,Better
+000015,Readmission rate for COPD patients,13.18,No Different
+000015,Readmission rate for heart attack patients,19.81,Better
+000015,Readmission rate for heart failure patients,21.23,No Different
+000015,Readmission rate for pneumonia patients,16.24,No Different
+000016,Readmission rate for hip/knee replacement patients,18.32,No Different
+000016,Readmission rate for COPD patients,16.95,No Different
+000016,Readmission rate for stroke patients,16.89,No Different
+000016,Readmission rate for heart failure patients,16.67,Better
+000016,Readmission rate for heart attack patients,17.6,No Different
+000016,Readmission rate for pneumonia patients,16.66,No Different
+000017,Readmission rate for heart attack patients,17.46,No Different
+000017,Readmission rate for heart failure patients,15.78,Better
+000017,Readmission rate for stroke patients,14.74,No Different
+000018,Readmission rate for hip/knee replacement patients,16.96,Worse
+000018,Readmission rate for heart failure patients,14.58,Better
+000018,Readmission rate for stroke patients,22.34,No Different
+000018,Readmission rate for COPD patients,16.78,No Different
+000018,Readmission rate for heart attack patients,19.13,Better
+000019,Readmission rate for stroke patients,15.55,Better
+000019,Readmission rate for heart attack patients,13.38,No Different
+000019,Readmission rate for heart failure patients,12.59,No Different
+000019,Readmission rate for pneumonia patients,13.43,Better
+000020,Readmission rate for stroke patients,19.65,No Different
+000020,Readmission rate for COPD patients,17.91,Better
+000020,Readmission rate for heart attack patients,17.93,No Different
+000020,Readmission rate for heart failure patients,15.78,No Different
+000020,Readmission rate for pneumonia patients,19.24,No Different
+000021,Readmission rate for COPD patients,13.81,No Different
+000021,Readmission rate for heart failure patients,14.78,No Different
+000021,Readmission rate for stroke patients,10.81,No Different
+000021,Readmission rate for hip/knee replacement patients,17.68,Worse
+000022,Readmission rate for hip/knee replacement patients,21.48,No Different
+000022,Readmission rate for pneumonia patients,20.63,Better
+000022,Readmission rate for stroke patients,17.98,Worse
+000022,Readmission rate for heart attack patients,16.88,No Different
+000022,Readmission rate for COPD patients,19.1,No Different
+000022,Readmission rate for heart failure patients,15.1,Worse
+000023,Readmission rate for hip/knee replacement patients,15.69,Better
+000023,Readmission rate for heart attack patients,12.26,No Different
+000023,Readmission rate for COPD patients,14.18,No Different
+000023,Readmission rate for pneumonia patients,16.02,No Different
+000024,Readmission rate for pneumonia patients,13.44,Better
+000024,Readmission rate for heart attack patients,15.1,No Different
+000024,Readmission rate for stroke patients,10.81,No Different
+000024,Readmission rate for COPD patients,14.52,No Different
+000025,Readmission rate for heart failure patients,17.19,Better
+000025,Readmission rate for hip/knee replacement patients,16.05,No Different
+000025,Readmission rate for pneumonia patients,18.81,No Different
+000025,Readmission rate for COPD patients,8.92,No Different
+000025,Readmission rate for heart attack patients,12.34,No Different
+000025,Readmission rate for stroke patients,9.91,No Different
+000026,Readmission rate for COPD patients,16.4,No Different
+000026,Readmission rate for hip/knee replacement patients,13.51,No Different
+000026,Readmission rate for heart attack patients,12.87,No Different
+000026,Readmission rate for stroke patients,11.46,No Different
+000027,Readmission rate for hip/knee replacement patients,11.31,No Different
+000027,Readmission rate for pneumonia patients,12.86,Better
+000027,Readmission rate for stroke patients,9.65,No Different
+000027,Readmission rate for COPD patients,11.25,No Different
+000027,Readmission rate for heart failure patients,11.55,Worse
+000028,Readmission rate for pneumonia patients,18.03,Better
+000028,Readmission rate for stroke patients,19.36,No Different
+000028,Readmission rate for heart failure patients,17.29,Better
+000029,Readmission rate for heart attack patients,17.58,No Different
+000029,Readmission rate for heart failure patients,15.76,No Different
+000029,Readmission rate for hip/knee replacement patients,15.85,No Different
+000029,Readmission rate for stroke patients,15.3,Worse
+000029,Readmission rate for COPD patients,15.02,No Different
+000029,Readmission rate for pneumonia patients,18.2,Better
+000030,Readmission rate for heart attack patients,14.98,No Different
+000030,Readmission rate for hip/knee replacement patients,16.19,No Different
+000030,Readmission rate for heart failure patients,15.91,Worse
+000030,Readmission rate for pneumonia patients,18.6,No Different
+000030,Readmission rate for stroke patients,18.94,No Different
+000031,Readmission rate for stroke patients,10.74,No Different
+000031,Readmission rate for hip/knee replacement patients,9.43,No Different
+000031,Readmission rate for heart failure patients,8,No Different
+000032,Readmission rate for heart failure patients,14.04,No Different
+000032,Readmission rate for stroke patients,15.82,Worse
+000032,Readmission rate for heart attack patients,16.45,No Different
+000032,Readmission rate for COPD patients,14.74,No Different
+000032,Readmission rate for pneumonia patients,16.16,No Different
+000033,Readmission rate for COPD patients,15.4,No Different
+000033,Readmission rate for pneumonia patients,10.92,Better
+000033,Readmission rate for heart failure patients,16.34,No Different
+000034,Readmission rate for heart failure patients,17.89,No Different
+000034,Readmission rate for heart attack patients,20.24,Better
+000034,Readmission rate for pneumonia patients,17.56,Worse
+000034,Readmission rate for COPD patients,17.3,No Different
+000035,Readmission rate for pneumonia patients,17.55,Better
+000035,Readmission rate for stroke patients,15.86,No Different
+000035,Readmission rate for COPD patients,17.6,No Different
+000035,Readmission rate for heart attack patients,15.02,No Different
+000035,Readmission rate for hip/knee replacement patients,15.52,No Different
+000036,Readmission rate for heart attack patients,21.87,Better
+000036,Readmission rate for COPD patients,23.14,No Different
+000036,Readmission rate for pneumonia patients,22.24,No Different
+000036,Readmission rate for heart failure patients,20.27,No Different
+000037,Readmission rate for heart attack patients,9.9,Better
+000037,Readmission rate for COPD patients,8.68,No Different
+000037,Readmission rate for stroke patients,8.54,No Different
+000038,Readmission rate for stroke patients,15.92,Worse
+000038,Readmission rate for heart failure patients,17.61,No Different
+000038,Readmission rate for heart attack patients,15.29,No Different
+000038,Readmission rate for pneumonia patients,19.38,No Different
+000038,Readmission rate for hip/knee replacement patients,16.7,No Different
+000039,Readmission rate for hip/knee replacement patients,24.8,No Different
+000039,Readmission rate for pneumonia patients,27.96,Worse
+000039,Readmission rate for heart attack patients,26.23,No Different
+000039,Readmission rate for heart failure patients,27.3,No Different
+000039,Readmission rate for stroke patients,24.02,No Different
+000039,Readmission rate for COPD patients,20.82,Worse
+000040,Readmission rate for heart failure patients,17.63,No Different
+000040,Readmission rate for pneumonia patients,18.23,No Different
+000040,Readmission rate for COPD patients,16.99,No Different
+000040,Readmission rate for hip/knee replacement patients,15.84,No Different
+000040,Readmission rate for heart attack patients,17.24,No Different
+000041,Readmission rate for heart attack patients,18.34,No Different
+000041,Readmission rate for hip/knee replacement patients,19.79,Better
+000041,Readmission rate for pneumonia patients,18.91,Better
+000041,Readmission rate for heart failure patients,20.76,Better
+000041,Readmission rate for stroke patients,16.78,No Different
+000041,Readmission rate for COPD patients,17.62,Worse
+000042,Readmission rate for COPD patients,17,No Different
+000042,Readmission rate for pneumonia patients,21.08,Better
+000042,Readmission rate for heart failure patients,16.06,No Different
+000042,Readmission rate for stroke patients,17.71,No Different
+000043,Readmission rate for heart failure patients,20.01,No Different
+000043,Readmission rate for COPD patients,21.14,No Different
+000043,Readmission rate for hip/knee replacement patients,20.49,No Different
+000043,Readmission rate for pneumonia patients,19.08,Better
+000043,Readmission rate for heart attack patients,16.25,Better
+000043,Readmission rate for stroke patients,20.86,No Different
+000044,Readmission rate for heart attack patients,17.53,Better
+000044,Readmission rate for pneumonia patients,16.13,No Different
+000044,Readmission rate for stroke patients,17.27,Worse
+000044,Readmission rate for heart failure patients,15.56,No Different
+000045,Readmission rate for COPD patients,11.78,No Different
+000045,Readmission rate for stroke patients,16.31,No Different
+000045,Readmission rate for pneumonia patients,12.07,Worse
+000045,Readmission rate for heart attack patients,18.38,No Different
+000045,Readmission rate for hip/knee replacement patients,14.54,No Different
+000046,Readmission rate for pneumonia patients,13.07,No Different
+000046,Readmission rate for heart attack patients,8.97,No Different
+000046,Readmission rate for heart failure patients,10.2,Worse
+000046,Readmission rate for COPD patients,11.86,No Different
+000047,Readmission rate for COPD patients,17.6,Worse
+000047,Readmission rate for heart failure patients,17.2,No Different
+000047,Readmission rate for stroke patients,15.88,Better
+000047,Readmission rate for heart attack patients,16,No Different
+000047,Readmission rate for hip/knee replacement patients,12.96,No Different
+000047,Readmission rate for pneumonia patients,13.02,No Different
+000048,Readmission rate for heart failure patients,15.77,No Different
+000048,Readmission rate for pneumonia patients,15.77,No Different
+000048,Readmission rate for heart attack patients,16.42,No Different
+000048,Readmission rate for stroke patients,20.98,Better
+000048,Readmission rate for COPD patients,15.42,No Different
+000048,Readmission rate for hip/knee replacement patients,16.45,No Different
+000049,Readmission rate for heart attack patients,16.31,No Different
+000049,Readmission rate for heart failure patients,18.64,Better
+000049,Readmission rate for COPD patients,15.31,Better
+000049,Readmission rate for pneumonia patients,18.58,No Different
+000049,Readmission rate for hip/knee replacement patients,17.89,No Different
+000050,Readmission rate for COPD patients,10.99,No Different
+000050,Readmission rate for hip/knee replacement patients,12.16,No Different
+000050,Readmission rate for stroke patients,14.41,Worse
+000050,Readmission rate for heart failure patients,14.24,Better
+000050,Readmission rate for pneumonia patients,13.01,No Different
+000050,Readmission rate for heart attack patients,11.9,No Different
+000051,Readmission rate for heart failure patients,17.13,No Different
+000051,Readmission rate for pneumonia patients,21,No Different
+000051,Readmission rate for hip/knee replacement patients,25.12,No Different
+000051,Readmission rate for stroke patients,23.8,No Different
+000051,Readmission rate for COPD patients,19.79,No Different
+000051,Readmission rate for heart attack patients,19.68,No Different
+000052,Readmission rate for stroke patients,10.39,No Different
+000052,Readmission rate for COPD patients,11.77,No Different
+000052,Readmission rate for heart failure patients,13.51,No Different
+000052,Readmission rate for hip/knee replacement patients,10.86,No Different
+000052,Readmission rate for pneumonia patients,11,No Different
+000053,Readmission rate for heart failure patients,14.92,No Different
+000053,Readmission rate for hip/knee replacement patients,9.83,Better
+000053,Readmission rate for stroke patients,12.97,No Different
+000053,Readmission rate for pneumonia patients,10.75,No Different
+000053,Readmission rate for heart attack patients,8,No Different
+000053,Readmission rate for COPD patients,15.04,Better
+000054,Readmission rate for pneumonia patients,18.44,No Different
+000054,Readmission rate for stroke patients,19.91,No Different
+000054,Readmission rate for heart failure patients,16.95,Better
+000055,Readmission rate for heart failure patients,17.58,No Different
+000055,Readmission rate for heart attack patients,19.46,No Different
+000055,Readmission rate for stroke patients,17.17,No Different
+000056,Readmission rate for hip/knee replacement patients,16.52,No Different
+000056,Readmission rate for stroke patients,19.21,No Different
+000056,Readmission rate for heart attack patients,13.17,No Different
+000057,Readmission rate for heart failure patients,18.62,No Different
+000057,Readmission rate for pneumonia patients,15.05,Worse
+000057,Readmission rate for hip/knee replacement patients,19.24,Worse
+000058,Readmission rate for pneumonia patients,11.21,No Different
+000058,Readmission rate for heart failure patients,12.7,No Different
+000058,Readmission rate for stroke patients,13.21,No Different
+000059,Readmission rate for pneumonia patients,13.62,No Different
+000059,Readmission rate for stroke patients,9.67,Better
+000059,Readmission rate for heart attack patients,12.65,No Different
+000059,Readmission rate for hip/knee replacement patients,14.26,No Different
+000059,Readmission rate for heart failure patients,12.5,No Different
+000059,Readmission rate for COPD patients,10.96,Better
+000060,Readmission rate for pneumonia patients,19.22,Better
+000060,Readmission rate for COPD patients,18.05,No Different
+000060,Readmission rate for heart attack patients,16.78,No Different
+000060,Readmission rate for stroke patients,18.24,Better
+000060,Readmission rate for heart failure patients,21.28,No Different
+000060,Readmission rate for hip/knee replacement patients,15.96,No Different
+000061,Readmission rate for hip/knee replacement patients,18.45,Better
+000061,Readmission rate for COPD patients,15.44,No Different
+000061,Readmission rate for heart failure patients,15.43,No Different
+000061,Readmission rate for stroke patients,13.82,No Different
+000061,Readmission rate for pneumonia patients,15.63,Better
+000062,Readmission rate for COPD patients,17.24,No Different
+000062,Readmission rate for stroke patients,17.01,No Different
+000062,Readmission rate for heart attack patients,16.36,No Different
+000062,Readmission rate for pneumonia patients,15.26,No Different
+000063,Readmission rate for pneumonia patients,16.88,Better
+000063,Readmission rate for heart failure patients,18.42,No Different
+000063,Readmission rate for stroke patients,15.74,No Different
+000063,Readmission rate for heart attack patients,16.69,No Different
+000063,Readmission rate for COPD patients,14.18,No Different
+000063,Readmission rate for hip/knee replacement patients,18.32,Better
+000064,Readmission rate for COPD patients,14.95,Better
+000064,Readmission rate for heart failure patients,16.99,No Different
+000064,Readmission rate for hip/knee replacement patients,18.21,No Different
+000064,Readmission rate for pneumonia patients,16.34,No Different
+000065,Readmission rate for COPD patients,23.19,Better
+000065,Readmission rate for heart failure patients,19.26,No Different
+000065,Readmission rate for heart attack patients,19.7,Worse
+000065,Readmission rate for hip/knee replacement patients,17.62,No Different
+000066,Readmission rate for heart failure patients,17.5,No Different
+000066,Readmission rate for pneumonia patients,13.37,No Different
+000066,Readmission rate for COPD patients,14.16,No Different
+000066,Readmission rate for stroke patients,17.36,No Different
+000067,Readmission rate for heart attack patients,13.86,No Different
+000067,Readmission rate for hip/knee replacement patients,15.63,No Different
+000067,Readmission rate for stroke patients,18.15,No Different
+000068,Readmission rate for stroke patients,15.39,No Different
+000068,Readmission rate for COPD patients,17.68,Better
+000068,Readmission rate for hip/knee replacement patients,12.44,No Different
+000068,Readmission rate for heart attack patients,13.77,No Different
+000069,Readmission rate for stroke patients,13.69,No Different
+000069,Readmission rate for COPD patients,10.72,No Different
+000069,Readmission rate for heart failure patients,11.75,No Different
+000069,Readmission rate for hip/knee replacement patients,12.68,No Different
+000069,Readmission rate for pneumonia patients,10.45,Worse
+000070,Readmission rate for stroke patients,15.59,No Different
+000070,Readmission rate for COPD patients,17.33,Better
+000070,Readmission rate for heart attack patients,21.78,No Different
+000070,Readmission rate for heart failure patients,12.98,No Different
+000070,Readmission rate for hip/knee replacement patients,17.1,No Different
+000070,Readmission rate for pneumonia patients,13.87,No Different
+000071,Readmission rate for heart attack patients,23.21,No Different
+000071,Readmission rate for heart failure patients,20.5,No Different
+000071,Readmission rate for hip/knee replacement patients,22.61,Better
+000071,Readmission rate for stroke patients,25.24,No Different
+000071,Readmission rate for pneumonia patients,25.38,Worse
+000071,Readmission rate for COPD patients,23.48,No Different
+000072,Readmission rate for heart attack patients,20.12,No Different
+000072,Readmission rate for COPD patients,19.02,No Different
+000072,Readmission rate for heart failure patients,22.6,No Different
+000073,Readmission rate for stroke patients,24.82,No Different
+000073,Readmission rate for heart attack patients,24.05,No Different
+000073,Readmission rate for hip/knee replacement patients,26.56,Worse
+000074,Readmission rate for heart failure patients,16.51,No Different
+000074,Readmission rate for COPD patients,14.15,No Different
+000074,Readmission rate for heart attack patients,13.93,No Different
+000074,Readmission rate for hip/knee replacement patients,15.42,No Different
+000075,Readmission rate for hip/knee replacement patients,13.95,No Different
+000075,Readmission rate for pneumonia patients,15.51,No Different
+000075,Readmission rate for heart attack patients,14.65,Better
+000075,Readmission rate for stroke patients,12.88,No Different
+000075,Readmission rate for heart failure patients,13.02,No Different
+000075,Readmission rate for COPD patients,14.9,No Different
+000076,Readmission rate for heart attack patients,23.19,No Different
+000076,Readmission rate for pneumonia patients,16.78,No Different
+000076,Readmission rate for COPD patients,16.53,No Different
+000076,Readmission rate for stroke patients,20.27,No Different
+000076,Readmission rate for hip/knee replacement patients,15.89,Better
+000076,Readmission rate for heart failure patients,18.16,Better
+000077,Readmission rate for stroke patients,17.03,Better
+000077,Readmission rate for heart failure patients,17.14,Better
+000077,Readmission rate for pneumonia patients,19.14,No Different
+000077,Readmission rate for hip/knee replacement patients,19.52,No Different
+000078,Readmission rate for hip/knee replacement patients,13.75,No Different
+000078,Readmission rate for pneumonia patients,16.4,No Different
+000078,Readmission rate for heart failure patients,16.75,Worse
+000079,Readmission rate for stroke patients,14.5,No Different
+000079,Readmission rate for pneumonia patients,15.41,Better
+000079,Readmission rate for heart attack patients,12.51,Better
+000079,Readmission rate for heart failure patients,12.7,No Different
+000080,Readmission rate for hip/knee replacement patients,16.94,No Different
+000080,Readmission rate for heart failure patients,18.65,No Different
+000080,Readmission rate for stroke patients,19.12,No Different
+000080,Readmission rate for COPD patients,18.58,Better
+000080,Readmission rate for heart attack patients,16.4,No Different
+000081,Readmission rate for stroke patients,16.96,No Different
+000081,Readmission rate for hip/knee replacement patients,16.06,Better
+000081,Readmission rate for COPD patients,16.24,Better
+000081,Readmission rate for heart failure patients,17.59,No Different
+000081,Readmission rate for pneumonia patients,14.86,Better
+000081,Readmission rate for heart attack patients,14.19,No Different
+000082,Readmission rate for stroke patients,19.9,Better
+000082,Readmission rate for pneumonia patients,19.79,No Different
+000082,Readmission rate for hip/knee replacement patients,19.05,No Different
+000082,Readmission rate for heart attack patients,15.48,No Different
+000083,Readmission rate for stroke patients,19.35,Worse
+000083,Readmission rate for heart failure patients,14.5,No Different
+000083,Readmission rate for COPD patients,18.24,No Different
+000084,Readmission rate for hip/knee replacement patients,15.19,Worse
+000084,Readmission rate for pneumonia patients,16.28,Better
+000084,Readmission rate for stroke patients,14.42,No Different
+000084,Readmission rate for heart attack patients,15.56,No Different
+000085,Readmission rate for pneumonia patients,14.58,No Different
+000085,Readmission rate for stroke patients,17.34,Better
+000085,Readmission rate for heart failure patients,20.26,No Different
+000085,Readmission rate for heart attack patients,13.52,No Different
+000086,Readmission rate for heart failure patients,17.69,Better
+000086,Readmission rate for COPD patients,17.72,Better
+000086,Readmission rate for pneumonia patients,15.95,No Different
+000086,Readmission rate for hip/knee replacement patients,12.6,No Different
+000086,Readmission rate for heart attack patients,15.74,No Different
+000087,Readmission rate for heart attack patients,15.95,No Different
+000087,Readmission rate for hip/knee replacement patients,23.79,No Different
+000087,Readmission rate for COPD patients,17.69,No Different
+000088,Readmission rate for pneumonia patients,14.44,Better
+000088,Readmission rate for hip/knee replacement patients,9.69,No Different
+000088,Readmission rate for COPD patients,11.98,No Different
+000088,Readmission rate for stroke patients,10.38,No Different
+000088,Readmission rate for heart attack patients,13.68,No Different
+000088,Readmission rate for heart failure patients,10.67,No Different
+000089,Readmission rate for pneumonia patients,15.31,No Different
+000089,Readmission rate for heart attack patients,14.34,No Different
+000089,Readmission rate for stroke patients,12.01,No Different
+000090,Readmission rate for COPD patients,15.25,No Different
+000090,Readmission rate for stroke patients,13.55,Better
+000090,Readmission rate for heart failure patients,14.2,No Different
+000090,Readmission rate for hip/knee replacement patients,15.5,Better
+000091,Readmission rate for pneumonia patients,12.41,No Different
+000091,Readmission rate for stroke patients,15.34,No Different
+000091,Readmission rate for heart failure patients,15.44,No Different
+000091,Readmission rate for COPD patients,12.09,No Different
+000091,Readmission rate for heart attack patients,13.33,No Different
+000091,Readmission rate for hip/knee replacement patients,12.07,No Different
+000092,Readmission rate for pneumonia patients,8.33,Better
+000092,Readmission rate for heart failure patients,14.98,No Different
+000092,Readmission rate for COPD patients,11.49,No Different
+000092,Readmission rate for heart attack patients,12.06,No Different
+000092,Readmission rate for stroke patients,14.79,No Different
+000092,Readmission rate for hip/knee replacement patients,8,No Different
+000093,Readmission rate for heart failure patients,15.27,No Different
+000093,Readmission rate for COPD patients,14.72,No Different
+000093,Readmission rate for hip/knee replacement patients,15.31,Worse
+000093,Readmission rate for pneumonia patients,12.49,No Different
+000093,Readmission rate for heart attack patients,14.21,No Different
+000094,Readmission rate for heart attack patients,15.31,No Different
+000094,Readmission rate for hip/knee replacement patients,15.78,No Different
+000094,Readmission rate for COPD patients,18.4,Worse
+000095,Readmission rate for heart attack patients,11.63,Better
+000095,Readmission rate for pneumonia patients,16.4,Better
+000095,Readmission rate for stroke patients,12.19,Better
+000095,Readmission rate for hip/knee replacement patients,17.75,Better
+000096,Readmission rate for heart failure patients,16.25,Better
+000096,Readmission rate for COPD patients,15.26,No Different
+000096,Readmission rate for pneumonia patients,17.09,Better
+000097,Readmission rate for hip/knee replacement patients,10.27,No Different
+000097,Readmission rate for heart failure patients,11.91,No Different
+000097,Readmission rate for heart attack patients,10.47,No Different
+000097,Readmission rate for COPD patients,11.69,No Different
+000098,Readmission rate for hip/knee replacement patients,13.83,No Different
+000098,Readmission rate for pneumonia patients,12.05,No Different
+000098,Readmission rate for COPD patients,10.33,No Different
+000098,Readmission rate for heart attack patients,12.67,Better
+000099,Readmission rate for pneumonia patients,15.16,Worse
+000099,Readmission rate for heart attack patients,16.37,No Different
+000099,Readmission rate for heart failure patients,17.38,Worse
+000099,Readmission rate for hip/knee replacement patients,11.51,Worse
+000099,Readmission rate for stroke patients,13.66,No Different
+000099,Readmission rate for COPD patients,16.99,Worse
+000100,Readmission rate for COPD patients,16.52,Worse
+000100,Readmission rate for heart attack patients,16.02,No Different
+000100,Readmission rate for heart failure patients,16.25,No Different
+000100,Readmission rate for hip/knee replacement patients,13.97,Better
+000100,Readmission rate for stroke patients,14.75,No Different
+000100,Readmission rate for pneumonia patients,15.67,Better
+000101,Readmission rate for pneumonia patients,17.33,No Different
+000101,Readmission rate for stroke patients,14.3,Better
+000101,Readmission rate for heart failure patients,17.44,No Different
+000102,Readmission rate for heart attack patients,14.94,Better
+000102,Readmission rate for hip/knee replacement patients,19.93,No Different
+000102,Readmission rate for COPD patients,16.54,No Different
+000102,Readmission rate for heart failure patients,15.18,No Different
+000102,Readmission rate for stroke patients,17.3,Worse
+000103,Readmission rate for hip/knee replacement patients,23.25,No Different
+000103,Readmission rate for pneumonia patients,20.34,No Different
+000103,Readmission rate for COPD patients,18.03,No Different
+000104,Readmission rate for pneumonia patients,13.78,No Different
+000104,Readmission rate for heart failure patients,12.85,No Different
+000104,Readmission rate for heart attack patients,8,Worse
+000104,Readmission rate for COPD patients,14.16,No Different
+000104,Readmission rate for hip/knee replacement patients,12.44,No Different
+000104,Readmission rate for stroke patients,9.25,No Different
+000105,Readmission rate for COPD patients,20.98,No Different
+000105,Readmission rate for heart attack patients,17.53,No Different
+000105,Readmission rate for hip/knee replacement patients,16.38,No Different
+000105,Readmission rate for stroke patients,20.03,No Different
+000105,Readmission rate for pneumonia patients,17.94,Better
+000105,Readmission rate for heart failure patients,21.67,No Different
+000106,Readmission rate for hip/knee replacement patients,16.22,No Different
+000106,Readmission rate for heart attack patients,16.2,Better
+000106,Readmission rate for pneumonia patients,12.23,Better
+000107,Readmission rate for COPD patients,14.94,No Different
+000107,Readmission rate for pneumonia patients,14.26,No Different
+000107,Readmission rate for heart failure patients,14.34,No Different
+000107,Readmission rate for heart attack patients,12.49,No Different
+000107,Readmission rate for hip/knee replacement patients,13.49,No Different
+000108,Readmission rate for heart attack patients,17.23,No Different
+000108,Readmission rate for pneumonia patients,13.39,No Different
+000108,Readmission rate for stroke patients,14.08,Better
+000108,Readmission rate for heart failure patients,14.28,No Different
+000108,Readmission rate for COPD patients,18.02,Better
+000108,Readmission rate for hip/knee replacement patients,15.62,Worse
+000109,Readmission rate for heart attack patients,13.45,No Different
+000109,Readmission rate for COPD patients,18.72,Better
+000109,Readmission rate for hip/knee replacement patients,14.36,Better
+000109,Readmission rate for heart failure patients,16.62,No Different
+000109,Readmission rate for pneumonia patients,20.99,No Different
+000110,Readmission rate for hip/knee replacement patients,13.03,Better
+000110,Readmission rate for stroke patients,8.7,Better
+000110,Readmission rate for COPD patients,11.7,No Different
+000111,Readmission rate for COPD patients,16.86,Better
+000111,Readmission rate for heart attack patients,16.96,No Different
+000111,Readmission rate for hip/knee replacement patients,19.13,No Different
+000112,Readmission rate for heart attack patients,21.8,No Different
+000112,Readmission rate for COPD patients,20.59,No Different
+000112,Readmission rate for pneumonia patients,19.53,No Different
+000113,Readmission rate for hip/knee replacement patients,17.82,No Different
+000113,Readmission rate for COPD patients,17.85,Better
+000113,Readmission rate for heart failure patients,17.62,No Different
+000113,Readmission rate for pneumonia patients,15.96,No Different
+000113,Readmission rate for heart attack patients,16.48,No Different
+000113,Readmission rate for stroke patients,15.17,Worse
+000114,Readmission rate for heart attack patients,13.9,Better
+000114,Readmission rate for pneumonia patients,11.08,No Different
+000114,Readmission rate for hip/knee replacement patients,12.83,Better
+000114,Readmission rate for stroke patients,13.36,No Different
+000114,Readmission rate for heart failure patients,16.21,Better
+000115,Readmission rate for heart attack patients,14.45,No Different
+000115,Readmission rate for COPD patients,15.03,Better
+000115,Readmission rate for heart failure patients,19.15,No Different
+000115,Readmission rate for stroke patients,20.52,No Different
+000116,Readmission rate for heart failure patients,13.75,No Different
+000116,Readmission rate for stroke patients,18.11,Better
+000116,Readmission rate for COPD patients,16.55,Better
+000116,Readmission rate for heart attack patients,16.56,No Different
+000117,Readmission rate for COPD patients,11.71,No Different
+000117,Readmission rate for pneumonia patients,9.13,No Different
+000117,Readmission rate for hip/knee replacement patients,13.02,No Different
+000117,Readmission rate for heart failure patients,16.13,No Different
+000117,Readmission rate for heart attack patients,13.75,No Different
+000118,Readmission rate for pneumonia patients,12.63,No Different
+000118,Readmission rate for heart failure patients,12.52,No Different
+000118,Readmission rate for COPD patients,13.81,No Different
+000119,Readmission rate for heart failure patients,19.39,Worse
+000119,Readmission rate for heart attack patients,21.35,No Different
+000119,Readmission rate for stroke patients,20.33,No Different
+000119,Readmission rate for hip/knee replacement patients,17.04,Worse
+000119,Readmission rate for pneumonia patients,17.74,No Different
+000120,Readmission rate for heart failure patients,14.07,No Different
+000120,Readmission rate for COPD patients,22.59,No Different
+000120,Readmission rate for pneumonia patients,15.87,No Different
+000120,Readmission rate for heart attack patients,18.44,No Different
+000120,Readmission rate for stroke patients,21.26,Better
+000121,Readmission rate for heart attack patients,15.8,No Different
+000121,Readmission rate for stroke patients,16.78,No Different
+000121,Readmission rate for hip/knee replacement patients,17.12,No Different
+000121,Readmission rate for heart failure patients,18.35,No Different
+000121,Readmission rate for COPD patients,18.96,No Different
+000121,Readmission rate for pneumonia patients,18.87,Better
+000122,Readmission rate for stroke patients,15.37,Worse
+000122,Readmission rate for COPD patients,14.19,Worse
+000122,Readmission rate for pneumonia patients,15.09,No Different
+000123,Readmission rate for heart failure patients,11.91,No Different
+000123,Readmission rate for pneumonia patients,16.36,No Different
+000123,Readmission rate for hip/knee replacement patients,15.99,No Different
+000123,Readmission rate for heart attack patients,18.54,Worse
+000124,Readmission rate for heart attack patients,19.24,No Different
+000124,Readmission rate for COPD patients,19.56,No Different
+000124,Readmission rate for hip/knee replacement patients,17.72,No Different
+000125,Readmission rate for COPD patients,21.84,No Different
+000125,Readmission rate for hip/knee replacement patients,20,No Different
+000125,Readmission rate for heart failure patients,19.83,No Different
+000125,Readmission rate for heart attack patients,21.93,No Different
+000125,Readmission rate for pneumonia patients,23.54,Better
+000125,Readmission rate for stroke patients,19.45,Better
+000126,Readmission rate for COPD patients,21.81,No Different
+000126,Readmission rate for pneumonia patients,16.07,Better
+000126,Readmission rate for hip/knee replacement patients,17,No Different
+000126,Readmission rate for heart failure patients,17.45,No Different
+000126,Readmission rate for heart attack patients,19.53,No Different
+000127,Readmission rate for heart attack patients,12.56,No Different
+000127,Readmission rate for hip/knee replacement patients,13.04,No Different
+000127,Readmission rate for stroke patients,8.95,No Different
+000127,Readmission rate for heart failure patients,8,Worse
+000127,Readmission rate for COPD patients,11.94,Worse
+000127,Readmission rate for pneumonia patients,16.51,No Different
+000128,Readmission rate for stroke patients,17.35,No Different
+000128,Readmission rate for heart attack patients,13.27,No Different
+000128,Readmission rate for hip/knee replacement patients,14.81,No Different
+000128,Readmission rate for pneumonia patients,15.76,No Different
+000128,Readmission rate for heart failure patients,16.33,No Different
+000129,Readmission rate for stroke patients,9.61,No Different
+000129,Readmission rate for hip/knee replacement patients,17.68,Better
+000129,Readmission rate for heart attack patients,14.23,No Different
+000129,Readmission rate for pneumonia patients,14.61,Better
+000130,Readmission rate for stroke patients,23.43,Better
+000130,Readmission rate for heart attack patients,19.23,Better
+000130,Readmission rate for heart failure patients,21.83,No Different
+000130,Readmission rate for hip/knee replacement patients,21.49,No Different
+000130,Readmission rate for pneumonia patients,22.17,No Different
+000131,Readmission rate for COPD patients,18.52,No Different
+000131,Readmission rate for pneumonia patients,22.37,Better
+000131,Readmission rate for heart attack patients,16.58,Better
+000132,Readmission rate for heart failure patients,16.8,Better
+000132,Readmission rate for pneumonia patients,20.26,No Different
+000132,Readmission rate for hip/knee replacement patients,13.79,No Different
+000132,Readmission rate for COPD patients,14.91,No Different
+000133,Readmission rate for hip/knee replacement patients,17.13,No Different
+000133,Readmission rate for pneumonia patients,18.88,Better
+000133,Readmission rate for COPD patients,16.51,No Different
+000133,Readmission rate for stroke patients,18.33,No Different
+000133,Readmission rate for heart failure patients,17.74,No Different
+000133,Readmission rate for heart attack patients,17.27,Better
+000134,Readmission rate for stroke patients,22.54,Better
+000134,Readmission rate for hip/knee replacement patients,21.49,No Different
+000134,Readmission rate for heart failure patients,20.75,Worse
+000134,Readmission rate for heart attack patients,17.48,No Different
+000135,Readmission rate for heart attack patients,13.52,Better
+000135,Readmission rate for hip/knee replacement patients,11.55,No Different
+000135,Readmission rate for pneumonia patients,12.94,No Different
+000136,Readmission rate for heart attack patients,15.25,No Different
+000136,Readmission rate for hip/knee replacement patients,13.42,Better
+000136,Readmission rate for pneumonia patients,17.52,No Different
+000136,Readmission rate for COPD patients,15.02,Better
+000137,Readmission rate for heart attack patients,18.19,No Different
+000137,Readmission rate for stroke patients,16.75,No Different
+000137,Readmission rate for COPD patients,18.27,No Different
+000137,Readmission rate for pneumonia patients,20.77,Worse
+000138,Readmission rate for pneumonia patients,19.46,Better
+000138,Readmission rate for COPD patients,14.79,Worse
+000138,Readmission rate for stroke patients,18.48,Worse
+000139,Readmission rate for heart attack patients,20.64,No Different
+000139,Readmission rate for stroke patients,18.01,No Different
+000139,Readmission rate for COPD patients,14.85,No Different
+000140,Readmission rate for COPD patients,8.12,No Different
+000140,Readmission rate for pneumonia patients,10.64,No Different
+000140,Readmission rate for hip/knee replacement patients,8,No Different
+000140,Readmission rate for heart failure patients,8,No Different
+000141,Readmission rate for COPD patients,16.25,No Different
+000141,Readmission rate for pneumonia patients,16.1,No Different
+000141,Readmission rate for stroke patients,18.4,No Different
+000141,Readmission rate for heart failure patients,15.15,No Different
+000141,Readmission rate for heart attack patients,19.59,Better
+000141,Readmission rate for hip/knee replacement patients,16.57,No Different
+000142,Readmission rate for heart failure patients,17.13,No Different
+000142,Readmission rate for stroke patients,15.86,Better
+000142,Readmission rate for pneumonia patients,17.57,No Different
+000142,Readmission rate for COPD patients,19.61,No Different
+000143,Readmission rate for hip/knee replacement patients,19.43,No Different
+000143,Readmission rate for heart failure patients,15.52,No Different
+000143,Readmission rate for stroke patients,18.81,No Different
+000143,Readmission rate for pneumonia patients,21.98,Better
+000144,Readmission rate for COPD patients,10.59,Better
+000144,Readmission rate for heart attack patients,12.39,No Different
+000144,Readmission rate for stroke patients,11.11,No Different
+000144,Readmission rate for hip/knee replacement patients,12.2,No Different
+000144,Readmission rate for pneumonia patients,10.63,No Different
+000145,Readmission rate for COPD patients,14.05,No Different
+000145,Readmission rate for stroke patients,14.23,No Different
+000145,Readmission rate for hip/knee replacement patients,15.98,Better
+000145,Readmission rate for heart failure patients,13.33,No Different
+000146,Readmission rate for hip/knee replacement patients,16.19,No Different
+000146,Readmission rate for pneumonia patients,20.14,Better
+000146,Readmission rate for COPD patients,21.55,Better
+000147,Readmission rate for hip/knee replacement patients,16.29,No Different
+000147,Readmission rate for COPD patients,18.14,No Different
+000147,Readmission rate for stroke patients,15.17,Better
+000148,Readmission rate for stroke patients,14.53,No Different
+000148,Readmission rate for heart failure patients,15.4,No Different
+000148,Readmission rate for pneumonia patients,14.3,No Different
+000148,Readmission rate for COPD patients,17.1,No Different
+000148,Readmission rate for heart attack patients,15.56,No Different
+000148,Readmission rate for hip/knee replacement patients,18.38,No Different
+000149,Readmission rate for hip/knee replacement patients,18.45,Worse
+000149,Readmission rate for pneumonia patients,13.68,No Different
+000149,Readmission rate for stroke patients,12.76,No Different
+000149,Readmission rate for COPD patients,14.69,No Different
+000149,Readmission rate for heart attack patients,15.25,No Different
+000149,Readmission rate for heart failure patients,16.77,Better
+000150,Readmission rate for COPD patients,17.8,No Different
+000150,Readmission rate for hip/knee replacement patients,11,No Different
+000150,Readmission rate for pneumonia patients,14.99,No Different
+000150,Readmission rate for heart attack patients,14.38,No Different
+000150,Readmission rate for heart failure patients,13.59,No Different
+000150,Readmission rate for stroke patients,14.31,No Different
+000151,Readmission rate for COPD patients,20.51,No Different
+000151,Readmission rate for stroke patients,19.43,Better
+000151,Readmission rate for pneumonia patients,21.15,No Different
+000151,Readmission rate for hip/knee replacement patients,20.19,No Different
+000151,Readmission rate for heart failure patients,22.78,Worse
+000152,Readmission rate for pneumonia patients,18.98,Better
+000152,Readmission rate for stroke patients,17.54,No Different
+000152,Readmission rate for hip/knee replacement patients,18.32,Worse
+000152,Readmission rate for COPD patients,16.39,No Different
+000153,Readmission rate for heart failure patients,19.21,Worse
+000153,Readmission rate for hip/knee replacement patients,15.64,No Different
+000153,Readmission rate for pneumonia patients,18.67,Worse
+000154,Readmission rate for stroke patients,9.87,No Different
+000154,Readmission rate for pneumonia patients,8.44,Better
+000154,Readmission rate for hip/knee replacement patients,10.5,Worse
+000154,Readmission rate for COPD patients,14.66,No Different
+000155,Readmission rate for pneumonia patients,14.21,Better
+000155,Readmission rate for heart failure patients,13.82,No Different
+000155,Readmission rate for stroke patients,15.59,Worse
+000156,Readmission rate for heart attack patients,12.91,No Different
+000156,Readmission rate for hip/knee replacement patients,18.11,No Different
+000156,Readmission rate for heart failure patients,13.56,Worse
+000156,Readmission rate for COPD patients,13.49,Worse
+000156,Readmission rate for pneumonia patients,11.98,Worse
+000156,Readmission rate for stroke patients,11.7,No Different
+000157,Readmission rate for heart failure patients,10.13,No Different
+000157,Readmission rate for pneumonia patients,14.93,Worse
+000157,Readmission rate for heart attack patients,13.31,No Different
+000158,Readmission rate for heart attack patients,15.31,No Different
+000158,Readmission rate for COPD patients,14.09,No Different
+000158,Readmission rate for stroke patients,14.16,Better
+000158,Readmission rate for hip/knee replacement patients,15.17,No Different
+000159,Readmission rate for pneumonia patients,21.9,Better
+000159,Readmission rate for heart attack patients,25.74,No Different
+000159,Readmission rate for COPD patients,25.52,No Different
+000160,Readmission rate for stroke patients,13.26,No Different
+000160,Readmission rate for COPD patients,16.39,No Different
+000160,Readmission rate for pneumonia patients,11.44,No Different
+000160,Readmission rate for heart attack patients,13.58,No Different
+000161,Readmission rate for heart attack patients,9.32,Better
+000161,Readmission rate for COPD patients,10.91,Better
+000161,Readmission rate for hip/knee replacement patients,14.15,No Different
+000161,Readmission rate for pneumonia patients,10.28,No Different
+000161,Readmission rate for stroke patients,9.2,No Different
+000161,Readmission rate for heart failure patients,8,No Different
+000162,Readmission rate for pneumonia patients,16.63,No Different
+000162,Readmission rate for hip/knee replacement patients,12.57,No Different
+000162,Readmission rate for stroke patients,14.06,No Different
+000162,Readmission rate for COPD patients,15.95,Better
+000163,Readmission rate for hip/knee replacement patients,19.74,No Different
+000163,Readmission rate for COPD patients,19.12,Better
+000163,Readmission rate for heart attack patients,19.09,No Different
+000163,Readmission rate for stroke patients,19.17,No Different
+000163,Readmission rate for heart failure patients,15.75,No Different
+000163,Readmission rate for pneumonia patients,20.68,Worse
+000164,Readmission rate for stroke patients,17,Better
+000164,Readmission rate for heart attack patients,12.14,Worse
+000164,Readmission rate for hip/knee replacement patients,11.58,No Different
+000164,Readmission rate for pneumonia patients,17.22,No Different
+000164,Readmission rate for COPD patients,14.91,Better
+000165,Readmission rate for COPD patients,14.56,No Different
+000165,Readmission rate for hip/knee replacement patients,13.92,Better
+000165,Readmission rate for pneumonia patients,9.91,No Different
+000165,Readmission rate for stroke patients,17.04,No Different
+000165,Readmission rate for heart attack patients,19.51,No Different
+000165,Readmission rate for heart failure patients,14.89,No Different
+000166,Readmission rate for heart attack patients,13.6,No Different
+000166,Readmission rate for stroke patients,13.98,No Different
+000166,Readmission rate for pneumonia patients,14.61,No Different
+000166,Readmission rate for heart failure patients,18.02,Better
+000167,Readmission rate for heart failure patients,18.89,No Different
+000167,Readmission rate for heart attack patients,19,Better
+000167,Readmission rate for COPD patients,16.3,No Different
+000167,Readmission rate for hip/knee replacement patients,17.48,No Different
+000167,Readmission rate for pneumonia patients,15.58,Worse
+000168,Readmission rate for heart attack patients,17.56,No Different
+000168,Readmission rate for pneumonia patients,18.74,No Different
+000168,Readmission rate for COPD patients,19.22,No Different
+000168,Readmission rate for heart failure patients,18.04,No Different
+000169,Readmission rate for heart failure patients,17.51,No Different
+000169,Readmission rate for pneumonia patients,14.68,Worse
+000169,Readmission rate for heart attack patients,16.97,No Different
+000170,Readmission rate for stroke patients,11.93,No Different
+000170,Readmission rate for COPD patients,12.58,Better
+000170,Readmission rate for hip/knee replacement patients,15.04,Worse
+000170,Readmission rate for heart failure patients,13.17,No Different
+000170,Readmission rate for heart attack patients,14.87,Better
+000170,Readmission rate for pneumonia patients,14.11,Worse
+000171,Readmission rate for heart failure patients,15.99,No Different
+000171,Readmission rate for pneumonia patients,17,Better
+000171,Readmission rate for hip/knee replacement patients,15.21,Worse
+000171,Readmission rate for heart attack patients,18.46,No Different
+000171,Readmission rate for COPD patients,20.8,Worse
+000171,Readmission rate for stroke patients,19.45,No Different
+000172,Readmission rate for COPD patients,23.87,No Different
+000172,Readmission rate for hip/knee replacement patients,25.35,Worse
+000172,Readmission rate for heart attack patients,23.69,Worse
+000172,Readmission rate for stroke patients,27.3,No Different
+000172,Readmission rate for heart failure patients,26.63,No Different
+000173,Readmission rate for pneumonia patients,17.21,No Different
+000173,Readmission rate for hip/knee replacement patients,14.52,No Different
+000173,Readmission rate for stroke patients,13.43,Better
+000173,Readmission rate for COPD patients,17.37,No Different
+000173,Readmission rate for heart failure patients,16.48,No Different
+000174,Readmission rate for COPD patients,22.01,Better
+000174,Readmission rate for hip/knee replacement patients,22.33,No Different
+000174,Readmission rate for heart failure patients,18.07,No Different
+000174,Readmission rate for stroke patients,24.28,No Different
+000175,Readmission rate for stroke patients,16.24,No Different
+000175,Readmission rate for heart attack patients,17.24,No Different
+000175,Readmission rate for pneumonia patients,15.59,Better
+000175,Readmission rate for hip/knee replacement patients,19.08,No Different
+000176,Readmission rate for heart attack patients,15.02,No Different
+000176,Readmission rate for heart failure patients,14.33,No Different
+000176,Readmission rate for stroke patients,14.92,No Different
+000177,Readmission rate for hip/knee replacement patients,15.23,No Different
+000177,Readmission rate for heart failure patients,14.73,No Different
+000177,Readmission rate for COPD patients,15.99,No Different
+000177,Readmission rate for heart attack patients,14.46,Worse
+000177,Readmission rate for pneumonia patients,12.29,No Different
+000178,Readmission rate for stroke patients,13.8,Worse
+000178,Readmission rate for heart failure patients,18.45,No Different
+000178,Readmission rate for heart attack patients,17.09,No Different
+000178,Readmission rate for pneumonia patients,17.06,No Different
+000178,Readmission rate for hip/knee replacement patients,15.37,No Different
+000178,Readmission rate for COPD patients,15.16,No Different
+000179,Readmission rate for hip/knee replacement patients,15.18,No Different
+000179,Readmission rate for heart attack patients,15.24,Better
+000179,Readmission rate for stroke patients,17.46,Better
+000180,Readmission rate for heart attack patients,15.28,No Different
+000180,Readmission rate for stroke patients,14.87,Better
+000180,Readmission rate for pneumonia patients,17.18,No Different
+000180,Readmission rate for hip/knee replacement patients,13.53,No Different
+000180,Readmission rate for COPD patients,14.97,Better
+000181,Readmission rate for heart attack patients,15.05,Worse
+000181,Readmission rate for COPD patients,15.3,No Different
+000181,Readmission rate for hip/knee replacement patients,16.8,Better
+000181,Readmission rate for stroke patients,14.12,Worse
+000182,Readmission rate for stroke patients,13.42,No Different
+000182,Readmission rate for COPD patients,16.25,No Different
+000182,Readmission rate for pneumonia patients,15.48,Better
+000182,Readmission rate for hip/knee replacement patients,12.95,No Different
+000183,Readmission rate for COPD patients,17.33,No Different
+000183,Readmission rate for heart failure patients,14.45,No Different
+000183,Readmission rate for heart attack patients,16.62,No Different
+000183,Readmission rate for pneumonia patients,12.22,No Different
+000183,Readmission rate for stroke patients,17.71,Better
+000183,Readmission rate for hip/knee replacement patients,18.73,No Different
+000184,Readmission rate for COPD patients,16.98,Better
+000184,Readmission rate for hip/knee replacement patients,16.8,Better
+000184,Readmission rate for pneumonia patients,18.36,Better
+000185,Readmission rate for heart attack patients,9.92,No Different
+000185,Readmission rate for hip/knee replacement patients,8,No Different
+000185,Readmission rate for COPD patients,11.32,Better
+000185,Readmission rate for pneumonia patients,9.18,Worse
+000186,Readmission rate for heart failure patients,15.8,Better
+000186,Readmission rate for hip/knee replacement patients,17.84,Worse
+000186,Readmission rate for pneumonia patients,15.01,Worse
+000186,Readmission rate for COPD patients,14.86,No Different
+000186,Readmission rate for heart attack patients,15.24,No Different
+000187,Readmission rate for pneumonia patients,19.34,No Different
+000187,Readmission rate for heart attack patients,15.15,No Different
+000187,Readmission rate for hip/knee replacement patients,14.12,No Different
+000187,Readmission rate for heart failure patients,15.65,No Different
+000188,Readmission rate for COPD patients,8,No Different
+000188,Readmission rate for hip/knee replacement patients,8.92,No Different
+000188,Readmission rate for heart failure patients,13.63,No Different
+000188,Readmission rate for pneumonia patients,8,No Different
+000188,Readmission rate for stroke patients,12.66,Better
+000188,Readmission rate for heart attack patients,13.49,No Different
+000189,Readmission rate for heart attack patients,12.64,No Different
+000189,Readmission rate for heart failure patients,16.06,No Different
+000189,Readmission rate for COPD patients,14.35,Worse
+000189,Readmission rate for stroke patients,13.31,No Different
+000189,Readmission rate for hip/knee replacement patients,15.85,Worse
+000190,Readmission rate for hip/knee replacement patients,16.33,No Different
+000190,Readmission rate for heart failure patients,16.44,Worse
+000190,Readmission rate for stroke patients,15.26,No Different
+000190,Readmission rate for heart attack patients,15.65,No Different
+000191,Readmission rate for hip/knee replacement patients,12.47,No Different
+000191,Readmission rate for heart failure patients,11.37,Better
+000191,Readmission rate for heart attack patients,15.7,No Different
+000191,Readmission rate for pneumonia patients,12.86,No Different
+000192,Readmission rate for heart failure patients,18.44,Better
+000192,Readmission rate for pneumonia patients,15.94,No Different
+000192,Readmission rate for heart attack patients,17.67,No Different
+000192,Readmission rate for COPD patients,16.24,No Different
+000193,Readmission rate for stroke patients,16.49,No Different
+000193,Readmission rate for pneumonia patients,15.85,No Different
+000193,Readmission rate for heart failure patients,13.63,No Different
+000193,Readmission rate for hip/knee replacement patients,16.02,Worse
+000194,Readmission rate for COPD patients,18.63,No Different
+000194,Readmission rate for hip/knee replacement patients,16.38,Better
+000194,Readmission rate for pneumonia patients,14.19,No Different
+000195,Readmission rate for pneumonia patients,18.95,No Different
+000195,Readmission rate for stroke patients,16.63,No Different
+000195,Readmission rate for hip/knee replacement patients,17.95,No Different
+000195,Readmission rate for heart attack patients,16.86,No Different
+000195,Readmission rate for COPD patients,18.01,No Different
+000196,Readmission rate for heart failure patients,19.27,No Different
+000196,Readmission rate for COPD patients,22.08,Worse
+000196,Readmission rate for hip/knee replacement patients,21.49,No Different
+000196,Readmission rate for stroke patients,23.47,Better
+000196,Readmission rate for pneumonia patients,24.06,Better
+000196,Readmission rate for heart attack patients,20.88,No Different
+000197,Readmission rate for COPD patients,12.25,No Different
+000197,Readmission rate for heart attack patients,8.39,Better
+000197,Readmission rate for pneumonia patients,13.13,No Different
+000197,Readmission rate for heart failure patients,12.66,No Different
+000197,Readmission rate for hip/knee replacement patients,13.04,No Different
+000197,Readmission rate for stroke patients,14.94,Better
+000198,Readmission rate for COPD patients,14.18,No Different
+000198,Readmission rate for heart attack patients,11.14,No Different
+000198,Readmission rate for stroke patients,12.67,No Different
+000198,Readmission rate for hip/knee replacement patients,12.28,No Different
+000199,Readmission rate for stroke patients,23.62,No Different
+000199,Readmission rate for heart failure patients,23.41,No Different
+000199,Readmission rate for pneumonia patients,22.55,Better
+000200,Readmission rate for hip/knee replacement patients,19.18,No Different
+000200,Readmission rate for heart failure patients,19.51,No Different
+000200,Readmission rate for stroke patients,15.85,No Different
+000200,Readmission rate for pneumonia patients,19.45,Better
+000201,Readmission rate for heart attack patients,16.2,No Different
+000201,Readmission rate for hip/knee replacement patients,15.68,Better
+000201,Readmission rate for pneumonia patients,17.22,Better
+000202,Readmission rate for pneumonia patients,18.86,No Different
+000202,Readmission rate for stroke patients,17.35,No Different
+000202,Readmission rate for heart failure patients,16.04,Worse
+000203,Readmission rate for heart attack patients,20.39,No Different
+000203,Readmission rate for pneumonia patients,22.96,Better
+000203,Readmission rate for hip/knee replacement patients,21.1,Better
+000203,Readmission rate for COPD patients,19.99,No Different
+000203,Readmission rate for stroke patients,19.42,Better
+000204,Readmission rate for heart failure patients,15.47,Better
+000204,Readmission rate for stroke patients,16.92,No Different
+000204,Readmission rate for heart attack patients,14.49,No Different
+000204,Readmission rate for pneumonia patients,15.75,No Different
+000205,Readmission rate for COPD patients,17.87,Better
+000205,Readmission rate for stroke patients,20.21,Better
+000205,Readmission rate for pneumonia patients,18.24,No Different
+000205,Readmission rate for hip/knee replacement patients,21.69,Better
+000205,Readmission rate for heart attack patients,19.67,No Different
+000205,Readmission rate for heart failure patients,20.03,No Different
+000206,Readmission rate for heart attack patients,17.43,No Different
+000206,Readmission rate for hip/knee replacement patients,14.25,No Different
+000206,Readmission rate for stroke patients,15.89,No Different
+000206,Readmission rate for COPD patients,18.95,No Different
+000207,Readmission rate for stroke patients,15.47,No Different
+000207,Readmission rate for hip/knee replacement patients,16.46,Better
+000207,Readmission rate for COPD patients,15.72,No Different
+000207,Readmission rate for heart failure patients,15.51,No Different
+000208,Readmission rate for stroke patients,16.17,Better
+000208,Readmission rate for heart attack patients,14.9,Worse
+000208,Readmission rate for heart failure patients,18.29,No Different
+000209,Readmission rate for hip/knee replacement patients,20.89,Better
+000209,Readmission rate for COPD patients,17.21,No Different
+000209,Readmission rate for heart failure patients,13.7,Better
+000209,Readmission rate for stroke patients,21.42,No Different
+000209,Readmission rate for heart attack patients,20.22,No Different
+000209,Readmission rate for pneumonia patients,20.92,No Different
+000210,Readmission rate for heart failure patients,20.27,No Different
+000210,Readmission rate for hip/knee replacement patients,15.59,No Different
+000210,Readmission rate for heart attack patients,17.81,Better
+000210,Readmission rate for COPD patients,17.11,No Different
+000210,Readmission rate for stroke patients,19.07,No Different
+000211,Readmission rate for hip/knee replacement patients,17.19,Better
+000211,Readmission rate for pneumonia patients,14.87,Better
+000211,Readmission rate for COPD patients,13.92,No Different
+000211,Readmission rate for heart failure patients,15.48,No Different
+000211,Readmission rate for heart attack patients,10.97,No Different
+000212,Readmission rate for heart failure patients,19.81,Better
+000212,Readmission rate for hip/knee replacement patients,21.57,Better
+000212,Readmission rate for COPD patients,23.36,Better
+000212,Readmission rate for stroke patients,24.28,No Different
+000212,Readmission rate for pneumonia patients,22.06,No Different
+000212,Readmission rate for heart attack patients,24.16,Better
+000213,Readmission rate for heart attack patients,11.31,No Different
+000213,Readmission rate for COPD patients,12.03,No Different
+000213,Readmission rate for stroke patients,12.7,No Different
+000213,Readmission rate for hip/knee replacement patients,10.16,No Different
+000213,Readmission rate for heart failure patients,13.17,No Different
+000213,Readmission rate for pneumonia patients,11.01,Worse
+000214,Readmission rate for COPD patients,12.95,No Different
+000214,Readmission rate for heart attack patients,16.59,No Different
+000214,Readmission rate for heart failure patients,17.5,Better
+000215,Readmission rate for heart attack patients,16.92,No Different
+000215,Readmission rate for pneumonia patients,17.85,No Different
+000215,Readmission rate for stroke patients,14.82,Better
+000215,Readmission rate for hip/knee replacement patients,16.05,Better
+000215,Readmission rate for COPD patients,15.6,No Different
+000216,Readmission rate for heart attack patients,17.93,Better
+000216,Readmission rate for heart failure patients,18.73,No Different
+000216,Readmission rate for hip/knee replacement patients,19.69,No Different
+000216,Readmission rate for pneumonia patients,16.88,No Different
+000216,Readmission rate for COPD patients,15.24,No Different
+000216,Readmission rate for stroke patients,16.2,No Different
+000217,Readmission rate for heart failure patients,8.62,No Different
+000217,Readmission rate for stroke patients,9.45,Better
+000217,Readmission rate for hip/knee replacement patients,10.47,Worse
+000217,Readmission rate for COPD patients,8.41,No Different
+000218,Readmission rate for stroke patients,8.69,No Different
+000218,Readmission rate for heart failure patients,12,No Different
+000218,Readmission rate for COPD patients,13.47,Worse
+000218,Readmission rate for hip/knee replacement patients,12.1,No Different
+000218,Readmission rate for heart attack patients,12.81,No Different
+000219,Readmission rate for hip/knee replacement patients,15.78,No Different
+000219,Readmission rate for heart attack patients,18.46,Better
+000219,Readmission rate for stroke patients,17.5,No Different
+000219,Readmission rate for heart failure patients,17.48,No Different
+000219,Readmission rate for COPD patients,17.08,Better
+000219,Readmission rate for pneumonia patients,20.07,No Different
+000220,Readmission rate for pneumonia patients,18.25,Worse
+000220,Readmission rate for hip/knee replacement patients,18.63,Better
+000220,Readmission rate for COPD patients,17.84,Better
+000220,Readmission rate for heart failure patients,15.89,No Different
+000220,Readmission rate for stroke patients,19.52,No Different
+000220,Readmission rate for heart attack patients,17.6,No Different
+000221,Readmission rate for stroke patients,16.89,No Different
+000221,Readmission rate for pneumonia patients,18.23,Worse
+000221,Readmission rate for heart attack patients,15.96,No Different
+000221,Readmission rate for COPD patients,17.9,No Different
+000221,Readmission rate for hip/knee replacement patients,16.02,Better
+000221,Readmission rate for heart failure patients,15.6,No Different
+000222,Readmission rate for heart attack patients,14.37,No Different
+000222,Readmission rate for heart failure patients,17.67,Worse
+000222,Readmission rate for hip/knee replacement patients,14.55,No Different
+000223,Readmission rate for COPD patients,17.07,No Different
+000223,Readmission rate for stroke patients,17.2,No Different
+000223,Readmission rate for heart failure patients,18.34,No Different
+000223,Readmission rate for pneumonia patients,16.17,No Different
+000223,Readmission rate for heart attack patients,13.58,No Different
+000223,Readmission rate for hip/knee replacement patients,20.54,No Different
+000224,Readmission rate for stroke patients,16.26,Worse
+000224,Readmission rate for heart attack patients,14.33,No Different
+000224,Readmission rate for heart failure patients,18.67,Better
+000225,Readmission rate for heart attack patients,24.33,Worse
+000225,Readmission rate for heart failure patients,18.69,No Different
+000225,Readmission rate for hip/knee replacement patients,22.81,No Different
+000225,Readmission rate for COPD patients,23.85,No Different
+000226,Readmission rate for hip/knee replacement patients,17.6,No Different
+000226,Readmission rate for pneumonia patients,15.25,No Different
+000226,Readmission rate for stroke patients,13.77,No Different
+000226,Readmission rate for heart attack patients,10.7,No Different
+000227,Readmission rate for heart failure patients,13.95,No Different
+000227,Readmission rate for hip/knee replacement patients,14.46,No Different
+000227,Readmission rate for heart attack patients,12.93,Worse
+000228,Readmission rate for hip/knee replacement patients,14.39,Better
+000228,Readmission rate for stroke patients,19.57,No Different
+000228,Readmission rate for heart attack patients,19.38,No Different
+000229,Readmission rate for stroke patients,14.93,No Different
+000229,Readmission rate for COPD patients,17.2,No Different
+000229,Readmission rate for heart attack patients,15.91,No Different
+000229,Readmission rate for heart failure patients,13.31,No Different
+000229,Readmission rate for pneumonia patients,13.97,No Different
+000229,Readmission rate for hip/knee replacement patients,12.39,No Different
+000230,Readmission rate for pneumonia patients,17.79,No Different
+000230,Readmission rate for stroke patients,10.62,No Different
+000230,Readmission rate for hip/knee replacement patients,12.56,No Different
+000230,Readmission rate for COPD patients,14.75,Better
+000231,Readmission rate for COPD patients,22.28,No Different
+000231,Readmission rate for pneumonia patients,19.3,No Different
+000231,Readmission rate for heart attack patients,17.22,Better
+000232,Readmission rate for heart failure patients,17.28,Better
+000232,Readmission rate for heart attack patients,19.49,No Different
+000232,Readmission rate for COPD patients,17.1,Better
+000232,Readmission rate for stroke patients,20.16,Worse
+000233,Readmission rate for pneumonia patients,11.2,Worse
+000233,Readmission rate for heart failure patients,14.22,No Different
+000233,Readmission rate for stroke patients,13.41,No Different
+000233,Readmission rate for hip/knee replacement patients,15.44,No Different
+000234,Readmission rate for stroke patients,16.68,No Different
+000234,Readmission rate for heart attack patients,20.47,Better
+000234,Readmission rate for COPD patients,22.74,Better
+000234,Readmission rate for hip/knee replacement patients,21.42,No Different
+000234,Readmission rate for pneumonia patients,23.98,Better
+000235,Readmission rate for heart failure patients,15.65,No Different
+000235,Readmission rate for hip/knee replacement patients,16.07,No Different
+000235,Readmission rate for heart attack patients,16.24,Better
+000235,Readmission rate for stroke patients,18.28,No Different
+000235,Readmission rate for COPD patients,20.04,No Different
+000236,Readmission rate for stroke patients,10.55,No Different
+000236,Readmission rate for pneumonia patients,11.14,No Different
+000236,Readmission rate for heart failure patients,12.92,Worse
+000237,Readmission rate for COPD patients,19.43,Worse
+000237,Readmission rate for pneumonia patients,21.03,No Different
+000237,Readmission rate for hip/knee replacement patients,17.4,Better
+000237,Readmission rate for stroke patients,15.2,No Different
+000237,Readmission rate for heart failure patients,20.31,Better
+000237,Readmission rate for heart attack patients,18.26,No Different
+000238,Readmission rate for heart attack patients,20.25,No Different
+000238,Readmission rate for COPD patients,21.14,No Different
+000238,Readmission rate for heart failure patients,19.75,No Different
+000239,Readmission rate for hip/knee replacement patients,23.91,No Different
+000239,Readmission rate for COPD patients,19.07,No Different
+000239,Readmission rate for pneumonia patients,21.2,No Different
+000239,Readmission rate for stroke patients,19.53,No Different
+000239,Readmission rate for heart failure patients,21.46,Worse
+000239,Readmission rate for heart attack patients,20.21,No Different
+000240,Readmission rate for hip/knee replacement patients,13.92,Better
+000240,Readmission rate for stroke patients,14.4,No Different
+000240,Readmission rate for heart attack patients,18.5,Better
+000240,Readmission rate for COPD patients,14.81,Worse
+000240,Readmission rate for pneumonia patients,15.31,No Different
+000240,Readmission rate for heart failure patients,13.93,No Different
+000241,Readmission rate for hip/knee replacement patients,18.37,No Different
+000241,Readmission rate for pneumonia patients,18.36,Worse
+000241,Readmission rate for heart attack patients,15.82,No Different
+000241,Readmission rate for COPD patients,17.78,No Different
+000241,Readmission rate for stroke patients,14.98,No Different
+000242,Readmission rate for heart attack patients,18.14,No Different
+000242,Readmission rate for pneumonia patients,16.03,No Different
+000242,Readmission rate for COPD patients,20.56,No Different
+000242,Readmission rate for stroke patients,16.27,No Different
+000242,Readmission rate for hip/knee replacement patients,13.62,Better
+000243,Readmission rate for pneumonia patients,20.63,Better
+000243,Readmission rate for heart attack patients,24.68,No Different
+000243,Readmission rate for heart failure patients,20.02,No Different
+000243,Readmission rate for stroke patients,24.66,No Different
+000244,Readmission rate for heart failure patients,21.39,No Different
+000244,Readmission rate for heart attack patients,21.82,No Different
+000244,Readmission rate for COPD patients,21.97,Worse
+000244,Readmission rate for stroke patients,20.54,No Different
+000245,Readmission rate for stroke patients,13.9,Worse
+000245,Readmission rate for hip/knee replacement patients,20.19,No Different
+000245,Readmission rate for pneumonia patients,16.55,Better
+000245,Readmission rate for heart attack patients,16.74,No Different
+000245,Readmission rate for COPD patients,17.5,Worse
+000245,Readmission rate for heart failure patients,17.42,No Different
+000246,Readmission rate for heart attack patients,17.53,No Different
+000246,Readmission rate for heart failure patients,12.16,No Different
+000246,Readmission rate for COPD patients,15.78,No Different
+000247,Readmission rate for COPD patients,18.22,No Different
+000247,Readmission rate for hip/knee replacement patients,19,No Different
+000247,Readmission rate for stroke patients,21.11,Worse
+000248,Readmission rate for heart failure patients,14.55,Better
+000248,Readmission rate for heart attack patients,9.17,No Different
+000248,Readmission rate for pneumonia patients,10.45,Better
+000249,Readmission rate for hip/knee replacement patients,11.76,No Different
+000249,Readmission rate for pneumonia patients,15.22,No Different
+000249,Readmission rate for stroke patients,16.27,No Different
+000249,Readmission rate for heart attack patients,16.4,No Different
+000249,Readmission rate for heart failure patients,13.8,No Different
+000249,Readmission rate for COPD patients,10.96,No Different
+000250,Readmission rate for stroke patients,11.7,No Different
+000250,Readmission rate for hip/knee replacement patients,15.57,No Different
+000250,Readmission rate for pneumonia patients,13.57,No Different
+000250,Readmission rate for heart failure patients,16.06,Better
+000250,Readmission rate for heart attack patients,12.98,Better
+000250,Readmission rate for COPD patients,13.95,Better
+000251,Readmission rate for pneumonia patients,13.81,No Different
+000251,Readmission rate for heart failure patients,14.28,No Different
+000251,Readmission rate for stroke patients,13.56,No Different
+000251,Readmission rate for COPD patients,15.05,No Different
+000252,Readmission rate for heart failure patients,13.5,No Different
+000252,Readmission rate for COPD patients,16.07,Better
+000252,Readmission rate for pneumonia patients,17.81,No Different
+000253,Readmission rate for stroke patients,24.33,No Different
+000253,Readmission rate for pneumonia patients,20.08,No Different
+000253,Readmission rate for COPD patients,23.46,Worse
+000253,Readmission rate for heart attack patients,19.77,No Different
+000254,Readmission rate for heart failure patients,20.3,No Different
+000254,Readmission rate for COPD patients,16.99,Better
+000254,Readmission rate for heart attack patients,19.64,Worse
+000254,Readmission rate for pneumonia patients,19.67,No Different
+000254,Readmission rate for hip/knee replacement patients,21.24,No Different
+000255,Readmission rate for pneumonia patients,16.33,No Different
+000255,Readmission rate for COPD patients,17.7,No Different
+000255,Readmission rate for hip/knee replacement patients,15.98,Worse
+000255,Readmission rate for heart attack patients,17.19,No Different
+000255,Readmission rate for heart failure patients,15.67,No Different
+000255,Readmission rate for stroke patients,18.91,No Different
+000256,Readmission rate for heart attack patients,15.46,No Different
+000256,Readmission rate for heart failure patients,17.62,No Different
+000256,Readmission rate for pneumonia patients,11.05,Better
+000256,Readmission rate for COPD patients,14.53,No Different
+000257,Readmission rate for heart attack patients,19.12,No Different
+000257,Readmission rate for hip/knee replacement patients,18.87,Worse
+000257,Readmission rate for heart failure patients,17.91,No Different
+000257,Readmission rate for stroke patients,15.57,Better
+000257,Readmission rate for COPD patients,18.26,No Different
+000258,Readmission rate for heart failure patients,18.63,No Different
+000258,Readmission rate for COPD patients,13.73,No Different
+000258,Readmission rate for heart attack patients,15.9,Better
+000258,Readmission rate for hip/knee replacement patients,14.7,No Different
+000259,Readmission rate for heart attack patients,8.51,No Different
+000259,Readmission rate for stroke patients,10.8,Worse
+000259,Readmission rate for pneumonia patients,12.56,Worse
+000259,Readmission rate for hip/knee replacement patients,11.63,No Different
+000259,Readmission rate for heart failure patients,8.96,Better
+000260,Readmission rate for heart attack patients,20.54,No Different
+000260,Readmission rate for COPD patients,17.32,No Different
+000260,Readmission rate for stroke patients,13.99,No Different
+000260,Readmission rate for heart failure patients,19.78,No Different
+000261,Readmission rate for heart failure patients,15.56,No Different
+000261,Readmission rate for heart attack patients,12.83,No Different
+000261,Readmission rate for hip/knee replacement patients,16.59,Better
+000261,Readmission rate for stroke patients,14.34,Better
+000261,Readmission rate for COPD patients,15.63,No Different
+000262,Readmission rate for COPD patients,22.38,No Different
+000262,Readmission rate for pneumonia patients,23.49,No Different
+000262,Readmission rate for stroke patients,15.97,No Different
+000263,Readmission rate for COPD patients,20.24,Better
+000263,Readmission rate for hip/knee replacement patients,18.05,No Different
+000263,Readmission rate for stroke patients,20.68,Better
+000263,Readmission rate for heart attack patients,18.01,No Different
+000263,Readmission rate for heart failure patients,21.35,No Different
+000264,Readmission rate for COPD patients,16.05,No Different
+000264,Readmission rate for stroke patients,14.19,Better
+000264,Readmission rate for pneumonia patients,18.08,Worse
+000264,Readmission rate for hip/knee replacement patients,15.07,Better
+000264,Readmission rate for heart attack patients,12.18,No Different
+000264,Readmission rate for heart failure patients,15.8,No Different
+000265,Readmission rate for heart failure patients,14.95,No Different
+000265,Readmission rate for heart attack patients,8.23,Better
+000265,Readmission rate for pneumonia patients,15.07,No Different
+000266,Readmission rate for heart attack patients,17.63,No Different
+000266,Readmission rate for pneumonia patients,16.79,No Different
+000266,Readmission rate for stroke patients,18.49,No Different
+000266,Readmission rate for COPD patients,19.46,No Different
+000266,Readmission rate for hip/knee replacement patients,16.36,No Different
+000266,Readmission rate for heart failure patients,21.04,No Different
+000267,Readmission rate for stroke patients,15.27,Worse
+000267,Readmission rate for hip/knee replacement patients,15.09,No Different
+000267,Readmission rate for COPD patients,19.91,Better
+000267,Readmission rate for heart attack patients,14.6,No Different
+000268,Readmission rate for heart failure patients,24.17,No Different
+000268,Readmission rate for stroke patients,21.4,No Different
+000268,Readmission rate for COPD patients,22.89,No Different
+000268,Readmission rate for hip/knee replacement patients,20.81,No Different
+000268,Readmission rate for pneumonia patients,20.89,No Different
+000269,Readmission rate for stroke patients,15.75,Better
+000269,Readmission rate for heart attack patients,17.25,No Different
+000269,Readmission rate for heart failure patients,19.27,No Different
+000270,Readmission rate for stroke patients,19.55,Better
+000270,Readmission rate for COPD patients,15.37,Better
+000270,Readmission rate for heart attack patients,15.16,No Different
+000271,Readmission rate for heart failure patients,18.19,No Different
+000271,Readmission rate for pneumonia patients,18.48,Better
+000271,Readmission rate for stroke patients,23.02,No Different
+000272,Readmission rate for COPD patients,17.93,No Different
+000272,Readmission rate for pneumonia patients,13.25,No Different
+000272,Readmission rate for heart attack patients,13.71,No Different
+000272,Readmission rate for hip/knee replacement patients,16.79,Better
+000272,Readmission rate for heart failure patients,13.97,No Different
+000272,Readmission rate for stroke patients,13.51,No Different
+000273,Readmission rate for hip/knee replacement patients,13.4,No Different
+000273,Readmission rate for heart failure patients,11.96,No Different
+000273,Readmission rate for COPD patients,11.51,No Different
+000273,Readmission rate for stroke patients,12.1,Better
+000274,Readmission rate for heart failure patients,18.58,No Different
+000274,Readmission rate for pneumonia patients,13.86,No Different
+000274,Readmission rate for COPD patients,16.81,No Different
+000274,Readmission rate for stroke patients,15.4,No Different
+000274,Readmission rate for hip/knee replacement patients,19.37,Worse
+000275,Readmission rate for hip/knee replacement patients,17.21,Worse
+000275,Readmission rate for heart attack patients,16.39,Better
+000275,Readmission rate for COPD patients,17.54,No Different
+000275,Readmission rate for heart failure patients,14.16,Worse
+000275,Readmission rate for pneumonia patients,15.18,Better
+000275,Readmission rate for stroke patients,16.95,No Different
+000276,Readmission rate for stroke patients,13.72,No Different
+000276,Readmission rate for pneumonia patients,17.79,Worse
+000276,Readmission rate for heart failure patients,14.55,Better
+000277,Readmission rate for COPD patients,10.31,No Different
+000277,Readmission rate for hip/knee replacement patients,16.17,Better
+000277,Readmission rate for heart failure patients,14.77,No Different
+000277,Readmission rate for stroke patients,9.94,No Different
+000277,Readmission rate for pneumonia patients,12.88,No Different
+000277,Readmission rate for heart attack patients,17.04,Worse
+000278,Readmission rate for COPD patients,21.56,No Different
+000278,Readmission rate for heart attack patients,15.89,Better
+000278,Readmission rate for hip/knee replacement patients,20.67,No Different
+000278,Readmission rate for pneumonia patients,18.35,No Different
+000279,Readmission rate for pneumonia patients,18.67,Worse
+000279,Readmission rate for hip/knee replacement patients,15.57,No Different
+000279,Readmission rate for COPD patients,18.25,No Different
+000279,Readmission rate for heart failure patients,18.1,No Different
+000279,Readmission rate for heart attack patients,17.74,No Different
+000279,Readmission rate for stroke patients,20.8,Worse
+000280,Readmission rate for hip/knee replacement patients,11.05,No Different
+000280,Readmission rate for pneumonia patients,11.54,Worse
+000280,Readmission rate for COPD patients,8.13,Better
+000281,Readmission rate for stroke patients,10.18,No Different
+000281,Readmission rate for pneumonia patients,10.88,No Different
+000281,Readmission rate for heart failure patients,13.45,No Different
+000281,Readmission rate for COPD patients,8.07,No Different
+000281,Readmission rate for heart attack patients,11.83,No Different
+000282,Readmission rate for COPD patients,19.73,No Different
+000282,Readmission rate for heart failure patients,21.22,Better
+000282,Readmission rate for stroke patients,15.4,Better
+000282,Readmission rate for hip/knee replacement patients,12.93,No Different
+000282,Readmission rate for pneumonia patients,19.68,No Different
+000283,Readmission rate for hip/knee replacement patients,20.68,No Different
+000283,Readmission rate for heart failure patients,23.38,No Different
+000283,Readmission rate for COPD patients,23.76,Better
+000283,Readmission rate for heart attack patients,26.06,No Different
+000283,Readmission rate for pneumonia patients,20.53,Better
+000283,Readmission rate for stroke patients,27.62,No Different
+000284,Readmission rate for hip/knee replacement patients,22.92,No Different
+000284,Readmission rate for heart attack patients,21.23,No Different
+000284,Readmission rate for stroke patients,21.44,No Different
+000284,Readmission rate for COPD patients,23.3,No Different
+000284,Readmission rate for pneumonia patients,23.56,No Different
+000285,Readmission rate for heart attack patients,17.21,Better
+000285,Readmission rate for heart failure patients,17.4,Worse
+000285,Readmission rate for COPD patients,15.73,No Different
+000285,Readmission rate for hip/knee replacement patients,14.44,No Different
+000286,Readmission rate for hip/knee replacement patients,14.91,No Different
+000286,Readmission rate for heart failure patients,12.67,Worse
+000286,Readmission rate for COPD patients,14.52,No Different
+000286,Readmission rate for pneumonia patients,10.32,No Different
+000287,Readmission rate for heart failure patients,14.18,No Different
+000287,Readmission rate for stroke patients,16.33,No Different
+000287,Readmission rate for heart attack patients,13.15,Worse
+000287,Readmission rate for hip/knee replacement patients,15.09,No Different
+000287,Readmission rate for pneumonia patients,14.78,No Different
+000288,Readmission rate for stroke patients,22.92,Worse
+000288,Readmission rate for pneumonia patients,20.41,Better
+000288,Readmission rate for heart failure patients,17.04,No Different
+000289,Readmission rate for hip/knee replacement patients,9.39,No Different
+000289,Readmission rate for heart attack patients,10.69,Worse
+000289,Readmission rate for heart failure patients,9.27,No Different
+000289,Readmission rate for pneumonia patients,8.73,No Different
+000290,Readmission rate for hip/knee replacement patients,14.74,No Different
+000290,Readmission rate for stroke patients,9.04,No Different
+000290,Readmission rate for pneumonia patients,16.66,No Different
+000290,Readmission rate for heart failure patients,14,No Different
+000290,Readmission rate for heart attack patients,11.9,Worse
+000291,Readmission rate for stroke patients,15.04,No Different
+000291,Readmission rate for hip/knee replacement patients,12.82,No Different
+000291,Readmission rate for heart attack patients,14.25,No Different
+000292,Readmission rate for COPD patients,15.1,No Different
+000292,Readmission rate for heart failure patients,13.36,No Different
+000292,Readmission rate for heart attack patients,14.76,No Different
+000293,Readmission rate for heart attack patients,14.93,Better
+000293,Readmission rate for pneumonia patients,13.5,No Different
+000293,Readmission rate for heart failure patients,16.18,Worse
+000294,Readmission rate for pneumonia patients,21.19,No Different
+000294,Readmission rate for stroke patients,21.22,No Different
+000294,Readmission rate for hip/knee replacement patients,23.44,No Different
+000294,Readmission rate for COPD patients,19.69,No Different
+000294,Readmission rate for heart failure patients,23.68,No Different
+000295,Readmission rate for stroke patients,15.15,Better
+000295,Readmission rate for COPD patients,19.4,No Different
+000295,Readmission rate for hip/knee replacement patients,15.84,No Different
+000295,Readmission rate for heart failure patients,16.32,No Different
+000295,Readmission rate for pneumonia patients,19.01,No Different
+000295,Readmission rate for heart attack patients,22.04,No Different
+000296,Readmission rate for COPD patients,24.32,No Different
+000296,Readmission rate for stroke patients,22.73,No Different
+000296,Readmission rate for hip/knee replacement patients,19.71,Worse
+000296,Readmission rate for pneumonia patients,20.43,No Different
+000296,Readmission rate for heart failure patients,22.74,No Different
+000296,Readmission rate for heart attack patients,22.83,No Different
+000297,Readmission rate for heart failure patients,18.26,No Different
+000297,Readmission rate for heart attack patients,17.96,No Different
+000297,Readmission rate for stroke patients,24.26,No Different
+000297,Readmission rate for pneumonia patients,19.48,Better
+000298,Readmission rate for hip/knee replacement patients,22.22,No Different
+000298,Readmission rate for heart failure patients,20.5,No Different
+000298,Readmission rate for COPD patients,20.56,Better
+000298,Readmission rate for heart attack patients,21.12,No Different
+000299,Readmission rate for heart attack patients,14.83,No Different
+000299,Readmission rate for heart failure patients,17.09,Worse
+000299,Readmission rate for COPD patients,14.31,No Different
+000300,Readmission rate for COPD patients,14.03,No Different
+000300,Readmission rate for stroke patients,14.73,Better
+000300,Readmission rate for hip/knee replacement patients,17.8,Worse
+000301,Readmission rate for stroke patients,13.3,Better
+000301,Readmission rate for COPD patients,10.63,No Different
+000301,Readmission rate for heart failure patients,16.16,No Different
+000302,Readmission rate for pneumonia patients,16.45,Worse
+000302,Readmission rate for heart attack patients,16.25,No Different
+000302,Readmission rate for stroke patients,14.6,No Different
+000303,Readmission rate for hip/knee replacement patients,15.26,No Different
+000303,Readmission rate for pneumonia patients,12.52,No Different
+000303,Readmission rate for heart failure patients,14.66,No Different
+000303,Readmission rate for heart attack patients,12.31,Worse
+000304,Readmission rate for hip/knee replacement patients,10.32,No Different
+000304,Readmission rate for COPD patients,14.28,No Different
+000304,Readmission rate for stroke patients,11.09,No Different
+000304,Readmission rate for pneumonia patients,10.66,Better
+000304,Readmission rate for heart failure patients,9.1,Better
+000305,Readmission rate for pneumonia patients,17.42,No Different
+000305,Readmission rate for hip/knee replacement patients,20.02,No Different
+000305,Readmission rate for stroke patients,15.52,No Different
+000305,Readmission rate for COPD patients,22.28,No Different
+000306,Readmission rate for pneumonia patients,29.08,No Different
+000306,Readmission rate for heart attack patients,24.36,No Different
+000306,Readmission rate for hip/knee replacement patients,24.47,Better
+000306,Readmission rate for COPD patients,23.74,Better
+000306,Readmission rate for heart failure patients,23.6,No Different
+000307,Readmission rate for heart attack patients,17.84,No Different
+000307,Readmission rate for COPD patients,16.95,No Different
+000307,Readmission rate for hip/knee replacement patients,17.74,No Different
+000308,Readmission rate for hip/knee replacement patients,9.69,Worse
+000308,Readmission rate for stroke patients,16.04,No Different
+000308,Readmission rate for pneumonia patients,16.2,No Different
+000309,Readmission rate for stroke patients,23.08,No Different
+000309,Readmission rate for hip/knee replacement patients,18.75,No Different
+000309,Readmission rate for heart attack patients,19.72,No Different
+000310,Readmission rate for pneumonia patients,16.74,No Different
+000310,Readmission rate for hip/knee replacement patients,22.12,No Different
+000310,Readmission rate for COPD patients,19.28,Better
+000310,Readmission rate for heart failure patients,17,No Different
+000310,Readmission rate for stroke patients,21.95,No Different
+000311,Readmission rate for stroke patients,16.14,No Different
+000311,Readmission rate for COPD patients,19.86,Worse
+000311,Readmission rate for hip/knee replacement patients,15.19,Worse
+000312,Readmission rate for hip/knee replacement patients,19.07,Better
+000312,Readmission rate for COPD patients,17.37,No Different
+000312,Readmission rate for pneumonia patients,20.36,Better
+000312,Readmission rate for heart failure patients,20.69,Better
+000312,Readmission rate for stroke patients,24.66,No Different
+000313,Readmission rate for stroke patients,15.72,No Different
+000313,Readmission rate for heart attack patients,15.76,No Different
+000313,Readmission rate for hip/knee replacement patients,17.05,No Different
+000313,Readmission rate for COPD patients,17.27,No Different
+000313,Readmission rate for heart failure patients,16.81,No Different
+000313,Readmission rate for pneumonia patients,16.16,No Different
+000314,Readmission rate for COPD patients,18.56,Better
+000314,Readmission rate for pneumonia patients,16.3,No Different
+000314,Readmission rate for heart attack patients,16.3,No Different
+000314,Readmission rate for stroke patients,15.75,No Different
+000314,Readmission rate for hip/knee replacement patients,15.07,No Different
+000315,Readmission rate for pneumonia patients,18.66,Better
+000315,Readmission rate for heart failure patients,21.31,No Different
+000315,Readmission rate for COPD patients,19.79,Better
+000315,Readmission rate for stroke patients,17.11,No Different
+000315,Readmission rate for hip/knee replacement patients,21.28,No Different
+000315,Readmission rate for heart attack patients,20.49,Worse
+000316,Readmission rate for hip/knee replacement patients,21.93,No Different
+000316,Readmission rate for pneumonia patients,23.51,Worse
+000316,Readmission rate for COPD patients,22.18,No Different
+000316,Readmission rate for heart attack patients,24.41,No Different
+000316,Readmission rate for stroke patients,24.28,Better
+000316,Readmission rate for heart failure patients,23.66,No Different
+000317,Readmission rate for heart failure patients,11.49,No Different
+000317,Readmission rate for heart attack patients,14.79,No Different
+000317,Readmission rate for stroke patients,13.16,Better
+000317,Readmission rate for pneumonia patients,13.45,No Different
+000317,Readmission rate for COPD patients,11.89,Worse
+000318,Readmission rate for heart failure patients,14.23,Better
+000318,Readmission rate for COPD patients,14.55,No Different
+000318,Readmission rate for stroke patients,19.35,Worse
+000318,Readmission rate for hip/knee replacement patients,17.27,No Different
+000319,Readmission rate for hip/knee replacement patients,18.87,Worse
+000319,Readmission rate for stroke patients,19.89,Better
+000319,Readmission rate for COPD patients,17.96,Worse
+000319,Readmission rate for heart failure patients,17.25,No Different
+000319,Readmission rate for pneumonia patients,19.7,No Different
+000320,Readmission rate for heart attack patients,22.02,No Different
+000320,Readmission rate for heart failure patients,19.65,Worse
+000320,Readmission rate for COPD patients,18.21,Worse
+000321,Readmission rate for COPD patients,16.75,No Different
+000321,Readmission rate for heart attack patients,13.91,No Different
+000321,Readmission rate for heart failure patients,17.28,No Different
+000322,Readmission rate for heart attack patients,16.3,No Different
+000322,Readmission rate for hip/knee replacement patients,18.03,No Different
+000322,Readmission rate for heart failure patients,18.66,Worse
+000322,Readmission rate for COPD patients,14.75,No Different
+000322,Readmission rate for pneumonia patients,12.56,Worse
+000323,Readmission rate for COPD patients,14.71,No Different
+000323,Readmission rate for hip/knee replacement patients,13.76,Better
+000323,Readmission rate for stroke patients,10.33,Better
+000323,Readmission rate for heart attack patients,9.74,Better
+000324,Readmission rate for COPD patients,20.77,No Different
+000324,Readmission rate for hip/knee replacement patients,17.61,No Different
+000324,Readmission rate for stroke patients,20.59,No Different
+000325,Readmission rate for stroke patients,13.33,No Different
+000325,Readmission rate for heart failure patients,11.66,Better
+000325,Readmission rate for hip/knee replacement patients,12.92,No Different
+000325,Readmission rate for COPD patients,9.94,No Different
+000325,Readmission rate for heart attack patients,11.86,Worse
+000325,Readmission rate for pneumonia patients,10.66,No Different
+000326,Readmission rate for pneumonia patients,14.44,No Different
+000326,Readmission rate for stroke patients,11.46,No Different
+000326,Readmission rate for hip/knee replacement patients,11.42,No Different
+000327,Readmission rate for heart failure patients,18.57,No Different
+000327,Readmission rate for hip/knee replacement patients,18.76,Better
+000327,Readmission rate for stroke patients,18.17,Worse
+000327,Readmission rate for pneumonia patients,16.07,No Different
+000327,Readmission rate for heart attack patients,18.54,No Different
+000328,Readmission rate for heart attack patients,14.79,No Different
+000328,Readmission rate for COPD patients,11.84,No Different
+000328,Readmission rate for stroke patients,11.15,No Different
+000328,Readmission rate for pneumonia patients,15.87,Better
+000328,Readmission rate for heart failure patients,16.87,Better
+000328,Readmission rate for hip/knee replacement patients,15.72,No Different
+000329,Readmission rate for hip/knee replacement patients,14.72,No Different
+000329,Readmission rate for COPD patients,22.06,No Different
+000329,Readmission rate for stroke patients,20.93,Worse
+000329,Readmission rate for heart failure patients,19.5,Better
+000329,Readmission rate for pneumonia patients,18.75,Worse
+000330,Readmission rate for heart attack patients,18.97,Better
+000330,Readmission rate for heart failure patients,20.22,Worse
+000330,Readmission rate for COPD patients,20.84,Better
+000331,Readmission rate for heart failure patients,17.04,No Different
+000331,Readmission rate for heart attack patients,10.14,No Different
+000331,Readmission rate for stroke patients,16.1,No Different
+000331,Readmission rate for COPD patients,16.58,No Different
+000331,Readmission rate for hip/knee replacement patients,14.39,Worse
+000332,Readmission rate for pneumonia patients,12.1,Worse
+000332,Readmission rate for hip/knee replacement patients,16.05,No Different
+000332,Readmission rate for heart failure patients,15.33,No Different
+000332,Readmission rate for heart attack patients,14.61,No Different
+000332,Readmission rate for stroke patients,11.69,No Different
+000333,Readmission rate for heart failure patients,17.53,No Different
+000333,Readmission rate for pneumonia patients,19.24,No Different
+000333,Readmission rate for hip/knee replacement patients,16.55,Better
+000333,Readmission rate for heart attack patients,17.91,No Different
+000334,Readmission rate for heart attack patients,14.48,No Different
+000334,Readmission rate for heart failure patients,11.79,No Different
+000334,Readmission rate for stroke patients,16.26,No Different
+000334,Readmission rate for hip/knee replacement patients,12.38,Better
+000334,Readmission rate for pneumonia patients,11.68,No Different
+000335,Readmission rate for hip/knee replacement patients,17.52,No Different
+000335,Readmission rate for stroke patients,19.95,Worse
+000335,Readmission rate for pneumonia patients,16.88,Better
+000335,Readmission rate for heart attack patients,17.23,No Different
+000335,Readmission rate for heart failure patients,18.13,No Different
+000335,Readmission rate for COPD patients,19.8,No Different
+000336,Readmission rate for hip/knee replacement patients,14.23,No Different
+000336,Readmission rate for heart attack patients,13.72,No Different
+000336,Readmission rate for pneumonia patients,15.86,No Different
+000336,Readmission rate for heart failure patients,15.77,No Different
+000336,Readmission rate for stroke patients,12.02,Better
+000336,Readmission rate for COPD patients,12.56,Better
+000337,Readmission rate for COPD patients,14.25,No Different
+000337,Readmission rate for heart attack patients,15.38,No Different
+000337,Readmission rate for heart failure patients,15.73,No Different
+000337,Readmission rate for pneumonia patients,19.78,Better
+000337,Readmission rate for stroke patients,13.01,No Different
+000338,Readmission rate for stroke patients,14.33,Better
+000338,Readmission rate for heart attack patients,14.13,Better
+000338,Readmission rate for heart failure patients,17.09,Worse
+000339,Readmission rate for pneumonia patients,16.67,No Different
+000339,Readmission rate for COPD patients,19.63,No Different
+000339,Readmission rate for hip/knee replacement patients,15.72,No Different
+000339,Readmission rate for stroke patients,16.18,Better
+000339,Readmission rate for heart failure patients,15.48,No Different
+000339,Readmission rate for heart attack patients,15.44,No Different
+000340,Readmission rate for stroke patients,8.79,No Different
+000340,Readmission rate for hip/knee replacement patients,10.59,No Different
+000340,Readmission rate for heart attack patients,10.56,Better
+000340,Readmission rate for pneumonia patients,11.57,Worse
+000340,Readmission rate for COPD patients,8.09,Worse
+000340,Readmission rate for heart failure patients,10.13,No Different
+000341,Readmission rate for pneumonia patients,15.28,No Different
+000341,Readmission rate for heart failure patients,17.63,No Different
+000341,Readmission rate for COPD patients,16.45,No Different
+000341,Readmission rate for heart attack patients,13.78,No Different
+000342,Readmission rate for heart failure patients,16.86,Better
+000342,Readmission rate for stroke patients,14.27,Worse
+000342,Readmission rate for hip/knee replacement patients,17.59,No Different
+000343,Readmission rate for hip/knee replacement patients,13.01,Better
+000343,Readmission rate for pneumonia patients,14.05,Worse
+000343,Readmission rate for COPD patients,13.05,No Different
+000343,Readmission rate for heart attack patients,12.4,No Different
+000344,Readmission rate for stroke patients,17.13,No Different
+000344,Readmission rate for hip/knee replacement patients,17.89,No Different
+000344,Readmission rate for heart failure patients,18.06,No Different
+000344,Readmission rate for pneumonia patients,18.56,No Different
+000345,Readmission rate for stroke patients,15.63,No Different
+000345,Readmission rate for hip/knee replacement patients,12.57,Better
+000345,Readmission rate for heart failure patients,12.82,No Different
+000345,Readmission rate for COPD patients,13.12,No Different
+000345,Readmission rate for pneumonia patients,11.8,Worse
+000345,Readmission rate for heart attack patients,10.48,No Different
+000346,Readmission rate for stroke patients,14.16,No Different
+000346,Readmission rate for heart failure patients,17.22,Worse
+000346,Readmission rate for hip/knee replacement patients,18.15,No Different
+000346,Readmission rate for COPD patients,18.17,No Different
+000346,Readmission rate for heart attack patients,14.81,No Different
+000347,Readmission rate for stroke patients,10.06,No Different
+000347,Readmission rate for hip/knee replacement patients,8.58,Better
+000347,Readmission rate for COPD patients,9.81,No Different
+000347,Readmission rate for heart failure patients,10.61,No Different
+000347,Readmission rate for pneumonia patients,8,No Different
+000348,Readmission rate for heart attack patients,16.91,No Different
+000348,Readmission rate for stroke patients,14.69,Worse
+000348,Readmission rate for hip/knee replacement patients,18.18,No Different
+000348,Readmission rate for COPD patients,16.2,No Different
+000348,Readmission rate for pneumonia patients,13.39,No Different
+000348,Readmission rate for heart failure patients,14.83,Better
+000349,Readmission rate for heart attack patients,12.1,No Different
+000349,Readmission rate for COPD patients,15.3,Worse
+000349,Readmission rate for heart failure patients,9.12,No Different
+000349,Readmission rate for stroke patients,15.76,No Different
+000349,Readmission rate for pneumonia patients,14.72,No Different
+000350,Readmission rate for hip/knee replacement patients,10.44,No Different
+000350,Readmission rate for heart failure patients,12.74,Better
+000350,Readmission rate for COPD patients,13.23,Worse
+000351,Readmission rate for heart failure patients,8,No Different
+000351,Readmission rate for pneumonia patients,8,No Different
+000351,Readmission rate for heart attack patients,8,No Different
+000352,Readmission rate for hip/knee replacement patients,15.4,No Different
+000352,Readmission rate for stroke patients,17.13,No Different
+000352,Readmission rate for heart attack patients,17.16,No Different
+000352,Readmission rate for heart failure patients,14.66,Worse
+000352,Readmission rate for pneumonia patients,14.6,No Different
+000353,Readmission rate for heart attack patients,9.21,No Different
+000353,Readmission rate for pneumonia patients,13.73,Better
+000353,Readmission rate for heart failure patients,15.83,No Different
+000354,Readmission rate for heart attack patients,14.79,No Different
+000354,Readmission rate for hip/knee replacement patients,17.77,Worse
+000354,Readmission rate for stroke patients,19.73,No Different
+000354,Readmission rate for pneumonia patients,20.38,No Different
+000354,Readmission rate for COPD patients,18.82,Better
+000354,Readmission rate for heart failure patients,13.59,Worse
+000355,Readmission rate for COPD patients,21.39,Better
+000355,Readmission rate for heart attack patients,19.18,No Different
+000355,Readmission rate for pneumonia patients,20.05,No Different
+000355,Readmission rate for stroke patients,23.66,Better
+000355,Readmission rate for hip/knee replacement patients,19,No Different
+000355,Readmission rate for heart failure patients,20.22,Better
+000356,Readmission rate for hip/knee replacement patients,15.59,Worse
+000356,Readmission rate for stroke patients,17.45,Worse
+000356,Readmission rate for heart attack patients,14.1,No Different
+000356,Readmission rate for pneumonia patients,14.64,Worse
+000357,Readmission rate for hip/knee replacement patients,19.91,No Different
+000357,Readmission rate for heart failure patients,16.02,No Different
+000357,Readmission rate for COPD patients,17.93,Better
+000357,Readmission rate for heart attack patients,21.72,No Different
+000358,Readmission rate for hip/knee replacement patients,18.72,No Different
+000358,Readmission rate for heart failure patients,18.15,No Different
+000358,Readmission rate for COPD patients,15.38,No Different
+000359,Readmission rate for stroke patients,13.05,Better
+000359,Readmission rate for pneumonia patients,15.86,Worse
+000359,Readmission rate for heart failure patients,15.5,No Different
+000359,Readmission rate for heart attack patients,15.73,Better
+000359,Readmission rate for hip/knee replacement patients,11.88,Better
+000360,Readmission rate for heart failure patients,19.71,No Different
+000360,Readmission rate for heart attack patients,17.89,No Different
+000360,Readmission rate for pneumonia patients,18.02,Worse
+000360,Readmission rate for hip/knee replacement patients,16.71,No Different
+000360,Readmission rate for COPD patients,16.06,Better
+000361,Readmission rate for heart attack patients,24.77,Worse
+000361,Readmission rate for pneumonia patients,20.59,Worse
+000361,Readmission rate for hip/knee replacement patients,24.99,No Different
+000361,Readmission rate for stroke patients,25.35,No Different
+000361,Readmission rate for COPD patients,20.18,Better
+000362,Readmission rate for stroke patients,18.6,No Different
+000362,Readmission rate for heart failure patients,20.12,No Different
+000362,Readmission rate for COPD patients,14.66,No Different
+000362,Readmission rate for hip/knee replacement patients,15.93,No Different
+000362,Readmission rate for pneumonia patients,17.82,Better
+000363,Readmission rate for stroke patients,21.96,No Different
+000363,Readmission rate for pneumonia patients,17.86,No Different
+000363,Readmission rate for heart failure patients,14.14,No Different
+000363,Readmission rate for heart attack patients,18.29,No Different
+000363,Readmission rate for COPD patients,20.35,No Different
+000364,Readmission rate for COPD patients,20.21,No Different
+000364,Readmission rate for heart failure patients,12.01,No Different
+000364,Readmission rate for hip/knee replacement patients,15.78,Worse
+000364,Readmission rate for stroke patients,13.05,Better
+000364,Readmission rate for heart attack patients,13.59,No Different
+000364,Readmission rate for pneumonia patients,13.94,No Different
+000365,Readmission rate for pneumonia patients,22.42,No Different
+000365,Readmission rate for hip/knee replacement patients,19.76,Better
+000365,Readmission rate for heart attack patients,21.18,No Different
+000365,Readmission rate for stroke patients,21.63,No Different
+000365,Readmission rate for heart failure patients,18.87,No Different
+000365,Readmission rate for COPD patients,18.67,Better
+000366,Readmission rate for stroke patients,20.46,No Different
+000366,Readmission rate for COPD patients,19.17,No Different
+000366,Readmission rate for heart attack patients,16.79,No Different
+000366,Readmission rate for heart failure patients,15.95,No Different
+000366,Readmission rate for hip/knee replacement patients,17.63,Better
+000366,Readmission rate for pneumonia patients,17.53,Better
+000367,Readmission rate for hip/knee replacement patients,14.29,No Different
+000367,Readmission rate for stroke patients,14.64,No Different
+000367,Readmission rate for heart attack patients,17.63,No Different
+000368,Readmission rate for COPD patients,11.83,No Different
+000368,Readmission rate for heart attack patients,8.99,Better
+000368,Readmission rate for stroke patients,11.82,No Different
+000368,Readmission rate for hip/knee replacement patients,10.62,No Different
+000369,Readmission rate for pneumonia patients,14.44,No Different
+000369,Readmission rate for heart attack patients,19.47,Worse
+000369,Readmission rate for COPD patients,14.55,No Different
+000370,Readmission rate for heart failure patients,23.76,No Different
+000370,Readmission rate for hip/knee replacement patients,23.18,Better
+000370,Readmission rate for stroke patients,22.76,No Different
+000370,Readmission rate for heart attack patients,22.89,No Different
+000370,Readmission rate for pneumonia patients,21.01,No Different
+000370,Readmission rate for COPD patients,21.91,No Different
+000371,Readmission rate for heart failure patients,18.99,No Different
+000371,Readmission rate for pneumonia patients,14.66,No Different
+000371,Readmission rate for COPD patients,16.68,No Different
+000371,Readmission rate for heart attack patients,16.36,No Different
+000371,Readmission rate for stroke patients,18.14,No Different
+000372,Readmission rate for stroke patients,15.74,No Different
+000372,Readmission rate for heart failure patients,17.48,No Different
+000372,Readmission rate for pneumonia patients,15.02,No Different
+000372,Readmission rate for hip/knee replacement patients,17.47,No Different
+000372,Readmission rate for COPD patients,17.77,No Different
+000373,Readmission rate for heart failure patients,16.5,No Different
+000373,Readmission rate for stroke patients,17.47,No Different
+000373,Readmission rate for hip/knee replacement patients,14.46,No Different
+000373,Readmission rate for COPD patients,17.51,No Different
+000373,Readmission rate for heart attack patients,16.88,No Different
+000374,Readmission rate for stroke patients,18.49,No Different
+000374,Readmission rate for COPD patients,20.48,No Different
+000374,Readmission rate for heart failure patients,17.01,No Different
+000375,Readmission rate for pneumonia patients,20.67,No Different
+000375,Readmission rate for stroke patients,19.47,Worse
+000375,Readmission rate for heart attack patients,16.96,No Different
+000376,Readmission rate for pneumonia patients,18.28,No Different
+000376,Readmission rate for heart attack patients,18.1,No Different
+000376,Readmission rate for stroke patients,14.56,No Different
+000376,Readmission rate for hip/knee replacement patients,14.7,No Different
+000376,Readmission rate for heart failure patients,19.28,Better
+000376,Readmission rate for COPD patients,20.35,No Different
+000377,Readmission rate for COPD patients,17.18,No Different
+000377,Readmission rate for heart attack patients,23.76,No Different
+000377,Readmission rate for hip/knee replacement patients,13.21,No Different
+000378,Readmission rate for heart attack patients,13.37,No Different
+000378,Readmission rate for COPD patients,12,No Different
+000378,Readmission rate for stroke patients,9.12,Better
+000378,Readmission rate for heart failure patients,14.05,No Different
+000378,Readmission rate for hip/knee replacement patients,12.88,No Different
+000379,Readmission rate for heart failure patients,19.89,No Different
+000379,Readmission rate for COPD patients,17.05,No Different
+000379,Readmission rate for hip/knee replacement patients,21.05,Better
+000379,Readmission rate for heart attack patients,21.17,No Different
+000380,Readmission rate for stroke patients,10.83,No Different
+000380,Readmission rate for hip/knee replacement patients,8.49,No Different
+000380,Readmission rate for COPD patients,12.88,Worse
+000381,Readmission rate for pneumonia patients,18.53,No Different
+000381,Readmission rate for hip/knee replacement patients,15.06,No Different
+000381,Readmission rate for stroke patients,16.72,No Different
+000382,Readmission rate for stroke patients,14.48,No Different
+000382,Readmission rate for pneumonia patients,16.11,Worse
+000382,Readmission rate for COPD patients,11.9,Worse
+000382,Readmission rate for hip/knee replacement patients,12.41,No Different
+000382,Readmission rate for heart failure patients,15.1,No Different
+000382,Readmission rate for heart attack patients,12.29,No Different
+000383,Readmission rate for stroke patients,8,No Different
+000383,Readmission rate for pneumonia patients,10.09,No Different
+000383,Readmission rate for hip/knee replacement patients,12.86,No Different
+000383,Readmission rate for heart failure patients,9.92,No Different
+000383,Readmission rate for COPD patients,12.63,No Different
+000384,Readmission rate for heart failure patients,21.55,No Different
+000384,Readmission rate for COPD patients,16.15,No Different
+000384,Readmission rate for heart attack patients,23.39,Better
+000384,Readmission rate for pneumonia patients,21.18,No Different
+000384,Readmission rate for hip/knee replacement patients,21.84,No Different
+000384,Readmission rate for stroke patients,22.02,No Different
+000385,Readmission rate for heart failure patients,22.41,No Different
+000385,Readmission rate for stroke patients,20.52,No Different
+000385,Readmission rate for hip/knee replacement patients,17.82,No Different
+000385,Readmission rate for COPD patients,19.69,No Different
+000386,Readmission rate for hip/knee replacement patients,15.28,No Different
+000386,Readmission rate for COPD patients,13.76,Better
+000386,Readmission rate for heart attack patients,15.06,No Different
+000386,Readmission rate for heart failure patients,18.42,Better
+000386,Readmission rate for stroke patients,17.22,No Different
+000387,Readmission rate for COPD patients,12.76,No Different
+000387,Readmission rate for stroke patients,10.41,No Different
+000387,Readmission rate for pneumonia patients,14.24,No Different
+000387,Readmission rate for heart attack patients,11.22,No Different
+000387,Readmission rate for hip/knee replacement patients,11.96,No Different
+000388,Readmission rate for pneumonia patients,11.76,Better
+000388,Readmission rate for stroke patients,18.28,No Different
+000388,Readmission rate for heart attack patients,16.15,No Different
+000388,Readmission rate for COPD patients,17.5,Better
+000388,Readmission rate for hip/knee replacement patients,17.76,No Different
+000389,Readmission rate for COPD patients,18.34,No Different
+000389,Readmission rate for heart attack patients,21.59,Better
+000389,Readmission rate for stroke patients,15.8,No Different
+000389,Readmission rate for heart failure patients,15.49,Better
+000389,Readmission rate for hip/knee replacement patients,17.89,No Different
+000389,Readmission rate for pneumonia patients,18.13,No Different
+000390,Readmission rate for stroke patients,10.04,Worse
+000390,Readmission rate for hip/knee replacement patients,9.52,Better
+000390,Readmission rate for heart failure patients,8,No Different
+000390,Readmission rate for COPD patients,13.46,Worse
+000390,Readmission rate for heart attack patients,10.21,No Different
+000390,Readmission rate for pneumonia patients,8,No Different
+000391,Readmission rate for heart failure patients,21.26,Worse
+000391,Readmission rate for stroke patients,19.44,No Different
+000391,Readmission rate for COPD patients,22.71,No Different
+000391,Readmission rate for heart attack patients,17.69,No Different
+000392,Readmission rate for heart attack patients,12.61,No Different
+000392,Readmission rate for heart failure patients,10.86,No Different
+000392,Readmission rate for pneumonia patients,11.71,Better
+000392,Readmission rate for COPD patients,12.16,Better
+000392,Readmission rate for stroke patients,8.38,No Different
+000392,Readmission rate for hip/knee replacement patients,12.54,No Different
+000393,Readmission rate for stroke patients,16.25,No Different
+000393,Readmission rate for heart failure patients,14.59,No Different
+000393,Readmission rate for pneumonia patients,16.85,No Different
+000393,Readmission rate for heart attack patients,9.87,No Different
+000393,Readmission rate for hip/knee replacement patients,13.95,No Different
+000393,Readmission rate for COPD patients,14.23,No Different
+000394,Readmission rate for heart failure patients,19.34,No Different
+000394,Readmission rate for pneumonia patients,19.97,Worse
+000394,Readmission rate for COPD patients,16.5,Better
+000394,Readmission rate for heart attack patients,20.9,Better
+000394,Readmission rate for stroke patients,20.82,No Different
+000395,Readmission rate for heart attack patients,21.51,No Different
+000395,Readmission rate for COPD patients,14.64,Better
+000395,Readmission rate for pneumonia patients,16.18,No Different
+000395,Readmission rate for heart failure patients,15.88,No Different
+000396,Readmission rate for COPD patients,15.72,No Different
+000396,Readmission rate for stroke patients,16.34,No Different
+000396,Readmission rate for pneumonia patients,17.31,Better
+000397,Readmission rate for hip/knee replacement patients,19.4,No Different
+000397,Readmission rate for COPD patients,16.93,No Different
+000397,Readmission rate for stroke patients,18.28,No Different
+000398,Readmission rate for heart attack patients,18.76,No Different
+000398,Readmission rate for heart failure patients,18.79,No Different
+000398,Readmission rate for hip/knee replacement patients,22.39,No Different
+000398,Readmission rate for pneumonia patients,15.79,No Different
+000398,Readmission rate for COPD patients,22.21,No Different
+000399,Readmission rate for stroke patients,19.78,Better
+000399,Readmission rate for heart attack patients,17.78,No Different
+000399,Readmission rate for hip/knee replacement patients,16.08,Better
+000399,Readmission rate for heart failure patients,12.32,No Different
+000399,Readmission rate for COPD patients,18.2,Better
+000399,Readmission rate for pneumonia patients,17.15,No Different
+000400,Readmission rate for heart failure patients,19.85,No Different
+000400,Readmission rate for COPD patients,16.02,Worse
+000400,Readmission rate for stroke patients,18.02,No Different
+000400,Readmission rate for pneumonia patients,17.52,Worse
+000400,Readmission rate for hip/knee replacement patients,16.44,No Different
+000401,Readmission rate for COPD patients,16.49,No Different
+000401,Readmission rate for pneumonia patients,21.02,No Different
+000401,Readmission rate for hip/knee replacement patients,19.48,No Different
+000402,Readmission rate for stroke patients,12.98,Worse
+000402,Readmission rate for heart failure patients,11.91,Better
+000402,Readmission rate for COPD patients,16.65,No Different
+000403,Readmission rate for hip/knee replacement patients,15.24,No Different
+000403,Readmission rate for stroke patients,16.3,No Different
+000403,Readmission rate for pneumonia patients,19.6,No Different
+000403,Readmission rate for COPD patients,16.19,No Different
+000403,Readmission rate for heart attack patients,17.62,No Different
+000404,Readmission rate for heart attack patients,13.51,No Different
+000404,Readmission rate for pneumonia patients,10.63,No Different
+000404,Readmission rate for heart failure patients,8.7,No Different
+000405,Readmission rate for COPD patients,12.64,No Different
+000405,Readmission rate for heart attack patients,16.19,No Different
+000405,Readmission rate for heart failure patients,12.84,No Different
+000405,Readmission rate for pneumonia patients,9.2,No Different
+000406,Readmission rate for COPD patients,17.67,Better
+000406,Readmission rate for pneumonia patients,16.45,No Different
+000406,Readmission rate for stroke patients,14.81,Better
+000406,Readmission rate for heart failure patients,17.24,No Different
+000406,Readmission rate for heart attack patients,12.14,No Different
+000407,Readmission rate for COPD patients,19.86,No Different
+000407,Readmission rate for heart failure patients,16.39,No Different
+000407,Readmission rate for hip/knee replacement patients,20.51,No Different
+000407,Readmission rate for stroke patients,17.57,No Different
+000407,Readmission rate for pneumonia patients,20.61,No Different
+000407,Readmission rate for heart attack patients,19.22,No Different
+000408,Readmission rate for heart failure patients,16.88,No Different
+000408,Readmission rate for heart attack patients,18.34,No Different
+000408,Readmission rate for pneumonia patients,16.75,No Different
+000408,Readmission rate for COPD patients,18.5,Better
+000408,Readmission rate for hip/knee replacement patients,15.95,No Different
+000408,Readmission rate for stroke patients,13.41,Better
+000409,Readmission rate for hip/knee replacement patients,18.47,No Different
+000409,Readmission rate for heart failure patients,19.75,Worse
+000409,Readmission rate for stroke patients,16.87,No Different
+000410,Readmission rate for stroke patients,17.4,No Different
+000410,Readmission rate for pneumonia patients,18.25,No Different
+000410,Readmission rate for hip/knee replacement patients,15.34,No Different
+000411,Readmission rate for COPD patients,9.42,No Different
+000411,Readmission rate for hip/knee replacement patients,8,Better
+000411,Readmission rate for stroke patients,8,Better
+000411,Readmission rate for heart failure patients,13.13,No Different
+000411,Readmission rate for heart attack patients,8,Worse
+000411,Readmission rate for pneumonia patients,8,No Different
+000412,Readmission rate for stroke patients,17.48,Better
+000412,Readmission rate for hip/knee replacement patients,10.99,No Different
+000412,Readmission rate for heart attack patients,10.43,No Different
+000413,Readmission rate for stroke patients,16.58,No Different
+000413,Readmission rate for heart attack patients,13.46,No Different
+000413,Readmission rate for pneumonia patients,13.19,Better
+000413,Readmission rate for hip/knee replacement patients,13.09,No Different
+000413,Readmission rate for COPD patients,17.79,No Different
+000413,Readmission rate for heart failure patients,13.33,Worse
+000414,Readmission rate for pneumonia patients,13.41,No Different
+000414,Readmission rate for heart attack patients,16.35,Worse
+000414,Readmission rate for COPD patients,15.23,No Different
+000415,Readmission rate for heart attack patients,19.08,No Different
+000415,Readmission rate for stroke patients,18.89,No Different
+000415,Readmission rate for heart failure patients,18.76,No Different
+000415,Readmission rate for pneumonia patients,18.72,No Different
+000415,Readmission rate for COPD patients,17.57,No Different
+000416,Readmission rate for COPD patients,22.05,No Different
+000416,Readmission rate for hip/knee replacement patients,13.04,No Different
+000416,Readmission rate for pneumonia patients,19.45,Better
+000416,Readmission rate for heart attack patients,17.73,No Different
+000416,Readmission rate for stroke patients,18.26,No Different
+000417,Readmission rate for stroke patients,18.36,Better
+000417,Readmission rate for heart failure patients,16.36,No Different
+000417,Readmission rate for heart attack patients,17.04,No Different
+000417,Readmission rate for pneumonia patients,16.46,No Different
+000417,Readmission rate for COPD patients,14.24,No Different
+000418,Readmission rate for heart failure patients,21.54,No Different
+000418,Readmission rate for stroke patients,20.77,No Different
+000418,Readmission rate for COPD patients,19.33,No Different
+000418,Readmission rate for hip/knee replacement patients,24.17,No Different
+000418,Readmission rate for heart attack patients,17.69,No Different
+000419,Readmission rate for heart failure patients,14.24,No Different
+000419,Readmission rate for stroke patients,12.41,No Different
+000419,Readmission rate for COPD patients,12.92,No Different
+000419,Readmission rate for pneumonia patients,14.41,No Different
+000420,Readmission rate for stroke patients,18.72,No Different
+000420,Readmission rate for heart failure patients,18.51,Better
+000420,Readmission rate for COPD patients,20.66,No Different
+000420,Readmission rate for hip/knee replacement patients,22.63,Better
+000421,Readmission rate for stroke patients,17.99,No Different
+000421,Readmission rate for heart attack patients,13.92,No Different
+000421,Readmission rate for pneumonia patients,13.36,Worse
+000422,Readmission rate for pneumonia patients,16.38,No Different
+000422,Readmission rate for heart failure patients,17.46,Worse
+000422,Readmission rate for heart attack patients,14.3,No Different
+000423,Readmission rate for pneumonia patients,21.53,No Different
+000423,Readmission rate for heart attack patients,18.94,No Different
+000423,Readmission rate for COPD patients,19.93,No Different
+000423,Readmission rate for heart failure patients,18.62,No Different
+000423,Readmission rate for stroke patients,16.03,Better
+000424,Readmission rate for hip/knee replacement patients,11.17,No Different
+000424,Readmission rate for heart failure patients,11.67,Better
+000424,Readmission rate for stroke patients,13.15,No Different
+000424,Readmission rate for COPD patients,11.59,Better
+000424,Readmission rate for pneumonia patients,12.48,No Different
+000425,Readmission rate for pneumonia patients,9.85,Better
+000425,Readmission rate for hip/knee replacement patients,14.08,No Different
+000425,Readmission rate for heart attack patients,10.46,No Different
+000426,Readmission rate for heart attack patients,14.84,Worse
+000426,Readmission rate for COPD patients,17.74,Better
+000426,Readmission rate for hip/knee replacement patients,16.37,No Different
+000426,Readmission rate for heart failure patients,12.18,Better
+000427,Readmission rate for COPD patients,10.25,Better
+000427,Readmission rate for stroke patients,13.15,No Different
+000427,Readmission rate for heart failure patients,11.23,Better
+000427,Readmission rate for pneumonia patients,12.89,No Different
+000427,Readmission rate for hip/knee replacement patients,13.08,Better
+000428,Readmission rate for COPD patients,22.35,No Different
+000428,Readmission rate for stroke patients,19.2,No Different
+000428,Readmission rate for pneumonia patients,16.41,No Different
+000428,Readmission rate for heart attack patients,21.07,No Different
+000428,Readmission rate for heart failure patients,20.22,No Different
+000428,Readmission rate for hip/knee replacement patients,18.61,No Different
+000429,Readmission rate for stroke patients,14.96,Better
+000429,Readmission rate for heart attack patients,18.33,Better
+000429,Readmission rate for hip/knee replacement patients,17.72,No Different
+000430,Readmission rate for hip/knee replacement patients,21.34,Better
+000430,Readmission rate for pneumonia patients,25.41,No Different
+000430,Readmission rate for stroke patients,18.9,No Different
+000430,Readmission rate for COPD patients,24.9,Worse
+000431,Readmission rate for stroke patients,15.66,No Different
+000431,Readmission rate for pneumonia patients,14.21,Better
+000431,Readmission rate for hip/knee replacement patients,13.04,No Different
+000431,Readmission rate for heart attack patients,13.62,Better
+000432,Readmission rate for heart attack patients,16.28,No Different
+000432,Readmission rate for pneumonia patients,12.62,No Different
+000432,Readmission rate for hip/knee replacement patients,17.33,No Different
+000432,Readmission rate for stroke patients,21.34,Better
+000433,Readmission rate for heart failure patients,16.75,No Different
+000433,Readmission rate for heart attack patients,17.49,Better
+000433,Readmission rate for pneumonia patients,18.37,No Different
+000433,Readmission rate for stroke patients,17.68,Better
+000434,Readmission rate for heart attack patients,21.04,No Different
+000434,Readmission rate for stroke patients,18.81,Worse
+000434,Readmission rate for COPD patients,21.8,No Different
+000435,Readmission rate for hip/knee replacement patients,18.58,Better
+000435,Readmission rate for stroke patients,18.35,No Different
+000435,Readmission rate for heart failure patients,19.08,No Different
+000435,Readmission rate for pneumonia patients,19.39,Better
+000436,Readmission rate for heart failure patients,11.17,Worse
+000436,Readmission rate for hip/knee replacement patients,8,No Different
+000436,Readmission rate for COPD patients,11.46,Better
+000437,Readmission rate for heart failure patients,19.07,Worse
+000437,Readmission rate for COPD patients,17.88,Worse
+000437,Readmission rate for heart attack patients,14.97,Worse
+000437,Readmission rate for stroke patients,15.3,Better
+000438,Readmission rate for heart attack patients,19.43,No Different
+000438,Readmission rate for COPD patients,20.81,Better
+000438,Readmission rate for heart failure patients,24.88,No Different
+000438,Readmission rate for pneumonia patients,21.74,No Different
+000438,Readmission rate for stroke patients,19.2,No Different
+000439,Readmission rate for pneumonia patients,12.9,Better
+000439,Readmission rate for hip/knee replacement patients,12.82,No Different
+000439,Readmission rate for COPD patients,13.98,No Different
+000439,Readmission rate for heart attack patients,9.96,No Different
+000439,Readmission rate for heart failure patients,8.22,No Different
+000439,Readmission rate for stroke patients,11.75,No Different
+000440,Readmission rate for COPD patients,21.13,Better
+000440,Readmission rate for heart attack patients,20,Better
+000440,Readmission rate for heart failure patients,23.48,Better
+000440,Readmission rate for stroke patients,19.85,No Different
+000440,Readmission rate for pneumonia patients,21.47,No Different
+000441,Readmission rate for hip/knee replacement patients,11.26,No Different
+000441,Readmission rate for pneumonia patients,10.39,No Different
+000441,Readmission rate for heart failure patients,11.15,Worse
+000441,Readmission rate for heart attack patients,13.73,No Different
+000442,Readmission rate for heart failure patients,15.35,No Different
+000442,Readmission rate for heart attack patients,14.35,No Different
+000442,Readmission rate for COPD patients,18.67,Better
+000443,Readmission rate for stroke patients,20.8,No Different
+000443,Readmission rate for hip/knee replacement patients,17.66,No Different
+000443,Readmission rate for COPD patients,16.75,No Different
+000443,Readmission rate for pneumonia patients,19.14,No Different
+000443,Readmission rate for heart failure patients,21.95,No Different
+000444,Readmission rate for heart attack patients,14.91,No Different
+000444,Readmission rate for hip/knee replacement patients,19.79,Better
+000444,Readmission rate for COPD patients,18.3,Worse
+000444,Readmission rate for heart failure patients,16.8,No Different
+000445,Readmission rate for stroke patients,15.12,Worse
+000445,Readmission rate for heart attack patients,14.33,No Different
+000445,Readmission rate for hip/knee replacement patients,14.91,No Different
+000445,Readmission rate for COPD patients,10.61,Better
+000445,Readmission rate for heart failure patients,12.75,No Different
+000446,Readmission rate for COPD patients,19.47,No Different
+000446,Readmission rate for stroke patients,21.17,Worse
+000446,Readmission rate for heart attack patients,18.77,No Different
+000447,Readmission rate for heart attack patients,11.37,No Different
+000447,Readmission rate for pneumonia patients,13.88,No Different
+000447,Readmission rate for stroke patients,12.53,Better
+000447,Readmission rate for hip/knee replacement patients,9.62,No Different
+000447,Readmission rate for COPD patients,15.16,No Different
+000447,Readmission rate for heart failure patients,12.38,No Different
+000448,Readmission rate for hip/knee replacement patients,15.51,No Different
+000448,Readmission rate for heart failure patients,17.68,No Different
+000448,Readmission rate for COPD patients,19.37,No Different
+000448,Readmission rate for pneumonia patients,18.24,No Different
+000448,Readmission rate for heart attack patients,20.12,No Different
+000449,Readmission rate for pneumonia patients,15.17,Better
+000449,Readmission rate for COPD patients,15.81,No Different
+000449,Readmission rate for heart attack patients,15.25,No Different
+000450,Readmission rate for heart attack patients,11.68,No Different
+000450,Readmission rate for stroke patients,18.41,No Different
+000450,Readmission rate for heart failure patients,13.4,Worse
+000450,Readmission rate for hip/knee replacement patients,18.87,No Different
+000450,Readmission rate for pneumonia patients,13.81,Better
+000451,Readmission rate for COPD patients,14.02,No Different
+000451,Readmission rate for hip/knee replacement patients,18.31,No Different
+000451,Readmission rate for heart failure patients,15.77,No Different
+000452,Readmission rate for stroke patients,14.72,No Different
+000452,Readmission rate for heart attack patients,14.87,No Different
+000452,Readmission rate for COPD patients,16.1,No Different
+000453,Readmission rate for hip/knee replacement patients,21.44,No Different
+000453,Readmission rate for pneumonia patients,17.45,No Different
+000453,Readmission rate for heart failure patients,23.11,Worse
+000454,Readmission rate for heart attack patients,13.54,No Different
+000454,Readmission rate for stroke patients,13.42,Better
+000454,Readmission rate for pneumonia patients,16.43,No Different
+000455,Readmission rate for stroke patients,14.97,No Different
+000455,Readmission rate for hip/knee replacement patients,14.18,Better
+000455,Readmission rate for pneumonia patients,17.67,Better
+000455,Readmission rate for heart failure patients,16.66,No Different
+000455,Readmission rate for COPD patients,14.42,No Different
+000456,Readmission rate for heart attack patients,21.34,No Different
+000456,Readmission rate for pneumonia patients,17.99,Worse
+000456,Readmission rate for stroke patients,19.9,Better
+000456,Readmission rate for COPD patients,16.4,Worse
+000457,Readmission rate for stroke patients,23.52,No Different
+000457,Readmission rate for pneumonia patients,20.52,No Different
+000457,Readmission rate for COPD patients,21.46,No Different
+000458,Readmission rate for COPD patients,13.6,No Different
+000458,Readmission rate for heart failure patients,10.6,Better
+000458,Readmission rate for hip/knee replacement patients,10.5,No Different
+000459,Readmission rate for heart failure patients,20.02,Better
+000459,Readmission rate for stroke patients,13.74,No Different
+000459,Readmission rate for hip/knee replacement patients,14.86,No Different
+000459,Readmission rate for pneumonia patients,14.72,No Different
+000460,Readmission rate for COPD patients,19.3,No Different
+000460,Readmission rate for heart failure patients,21.53,No Different
+000460,Readmission rate for heart attack patients,19.21,No Different
+000461,Readmission rate for heart failure patients,14.37,No Different
+000461,Readmission rate for COPD patients,12.59,Better
+000461,Readmission rate for heart attack patients,15.84,No Different
+000461,Readmission rate for hip/knee replacement patients,16.23,No Different
+000462,Readmission rate for heart attack patients,8,No Different
+000462,Readmission rate for stroke patients,13.47,No Different
+000462,Readmission rate for heart failure patients,12.13,No Different
+000462,Readmission rate for pneumonia patients,10.42,No Different
+000463,Readmission rate for COPD patients,17.08,No Different
+000463,Readmission rate for pneumonia patients,15.46,Worse
+000463,Readmission rate for heart attack patients,17.88,No Different
+000463,Readmission rate for hip/knee replacement patients,21.3,No Different
+000464,Readmission rate for pneumonia patients,10.89,Worse
+000464,Readmission rate for stroke patients,13.31,No Different
+000464,Readmission rate for hip/knee replacement patients,9.35,No Different
+000464,Readmission rate for heart attack patients,8,Better
+000464,Readmission rate for heart failure patients,9.5,Better
+000465,Readmission rate for COPD patients,21.16,Worse
+000465,Readmission rate for hip/knee replacement patients,17.19,Worse
+000465,Readmission rate for stroke patients,16.88,No Different
+000465,Readmission rate for heart attack patients,20.03,Better
+000466,Readmission rate for pneumonia patients,20.24,No Different
+000466,Readmission rate for heart failure patients,15,No Different
+000466,Readmission rate for stroke patients,18.89,Better
+000466,Readmission rate for hip/knee replacement patients,15.81,No Different
+000466,Readmission rate for heart attack patients,18.7,No Different
+000467,Readmission rate for COPD patients,14.34,No Different
+000467,Readmission rate for stroke patients,11.04,No Different
+000467,Readmission rate for heart attack patients,11.77,Worse
+000467,Readmission rate for hip/knee replacement patients,14.37,No Different
+000467,Readmission rate for heart failure patients,14,No Different
+000468,Readmission rate for stroke patients,21.59,No Different
+000468,Readmission rate for heart failure patients,15.74,No Different
+000468,Readmission rate for pneumonia patients,15.35,No Different
+000468,Readmission rate for COPD patients,20.38,No Different
+000468,Readmission rate for hip/knee replacement patients,16.18,No Different
+000468,Readmission rate for heart attack patients,24.12,No Different
+000469,Readmission rate for heart attack patients,16.71,No Different
+000469,Readmission rate for COPD patients,14.91,No Different
+000469,Readmission rate for stroke patients,13.97,Worse
+000469,Readmission rate for heart failure patients,20.15,No Different
+000469,Readmission rate for pneumonia patients,17.02,No Different
+000469,Readmission rate for hip/knee replacement patients,17.04,Worse
+000470,Readmission rate for heart failure patients,18.03,No Different
+000470,Readmission rate for pneumonia patients,18.23,No Different
+000470,Readmission rate for hip/knee replacement patients,16.97,No Different
+000470,Readmission rate for stroke patients,17.22,Worse
+000470,Readmission rate for heart attack patients,17.19,Better
+000471,Readmission rate for heart failure patients,10.37,Better
+000471,Readmission rate for pneumonia patients,8,Worse
+000471,Readmission rate for hip/knee replacement patients,12.78,No Different
+000471,Readmission rate for COPD patients,8,No Different
+000471,Readmission rate for stroke patients,8.75,Worse
+000472,Readmission rate for hip/knee replacement patients,22.62,Better
+000472,Readmission rate for heart failure patients,18.36,No Different
+000472,Readmission rate for stroke patients,20.46,Better
+000472,Readmission rate for COPD patients,21.26,No Different
+000473,Readmission rate for pneumonia patients,16.35,No Different
+000473,Readmission rate for COPD patients,13.49,No Different
+000473,Readmission rate for heart failure patients,10.55,No Different
+000473,Readmission rate for stroke patients,12.78,No Different
+000473,Readmission rate for heart attack patients,11.37,Better
+000474,Readmission rate for stroke patients,13.9,No Different
+000474,Readmission rate for heart failure patients,11.39,Better
+000474,Readmission rate for COPD patients,11.31,No Different
+000474,Readmission rate for heart attack patients,15.98,No Different
+000474,Readmission rate for pneumonia patients,14.53,No Different
+000474,Readmission rate for hip/knee replacement patients,11.53,No Different
+000475,Readmission rate for pneumonia patients,18.29,No Different
+000475,Readmission rate for heart attack patients,17.32,No Different
+000475,Readmission rate for stroke patients,18.07,No Different
+000475,Readmission rate for COPD patients,15.3,No Different
+000475,Readmission rate for heart failure patients,14.86,No Different
+000476,Readmission rate for pneumonia patients,13.66,No Different
+000476,Readmission rate for heart failure patients,14,No Different
+000476,Readmission rate for stroke patients,15.54,No Different
+000477,Readmission rate for pneumonia patients,14.23,Worse
+000477,Readmission rate for stroke patients,15.87,No Different
+000477,Readmission rate for heart attack patients,11.89,Better
+000477,Readmission rate for COPD patients,17.6,No Different
+000478,Readmission rate for heart attack patients,8,Better
+000478,Readmission rate for stroke patients,14.28,Worse
+000478,Readmission rate for pneumonia patients,11.09,Better
+000479,Readmission rate for heart failure patients,19.36,No Different
+000479,Readmission rate for pneumonia patients,15.63,Better
+000479,Readmission rate for heart attack patients,16.44,No Different
+000479,Readmission rate for hip/knee replacement patients,16.29,Better
+000479,Readmission rate for stroke patients,17.26,No Different
+000479,Readmission rate for COPD patients,17.82,No Different
+000480,Readmission rate for hip/knee replacement patients,14.42,No Different
+000480,Readmission rate for pneumonia patients,14.82,Better
+000480,Readmission rate for COPD patients,15.83,No Different
+000481,Readmission rate for COPD patients,16.48,No Different
+000481,Readmission rate for hip/knee replacement patients,18.49,No Different
+000481,Readmission rate for heart attack patients,19.26,Better
+000481,Readmission rate for pneumonia patients,15.73,Better
+000482,Readmission rate for COPD patients,12.06,No Different
+000482,Readmission rate for heart attack patients,13.57,Better
+000482,Readmission rate for hip/knee replacement patients,8.44,No Different
+000483,Readmission rate for heart failure patients,17.44,No Different
+000483,Readmission rate for pneumonia patients,16.69,No Different
+000483,Readmission rate for stroke patients,17.32,No Different
+000484,Readmission rate for stroke patients,13.7,Better
+000484,Readmission rate for hip/knee replacement patients,16.47,No Different
+000484,Readmission rate for heart attack patients,15.27,No Different
+000484,Readmission rate for pneumonia patients,18.76,No Different
+000485,Readmission rate for heart failure patients,17.72,No Different
+000485,Readmission rate for stroke patients,15.35,No Different
+000485,Readmission rate for hip/knee replacement patients,14,No Different
+000485,Readmission rate for COPD patients,12.89,No Different
+000485,Readmission rate for heart attack patients,14.47,No Different
+000486,Readmission rate for pneumonia patients,10.77,No Different
+000486,Readmission rate for heart failure patients,12.89,No Different
+000486,Readmission rate for hip/knee replacement patients,10.25,No Different
+000486,Readmission rate for stroke patients,13.09,No Different
+000486,Readmission rate for heart attack patients,10.22,No Different
+000487,Readmission rate for heart attack patients,12.71,No Different
+000487,Readmission rate for COPD patients,18.54,No Different
+000487,Readmission rate for hip/knee replacement patients,14.48,No Different
+000487,Readmission rate for stroke patients,14.69,No Different
+000487,Readmission rate for pneumonia patients,12.29,No Different
+000487,Readmission rate for heart failure patients,17.39,No Different
+000488,Readmission rate for heart failure patients,21.04,No Different
+000488,Readmission rate for pneumonia patients,19.23,No Different
+000488,Readmission rate for stroke patients,20.08,No Different
+000488,Readmission rate for heart attack patients,22.12,No Different
+000488,Readmission rate for COPD patients,18.27,No Different
+000488,Readmission rate for hip/knee replacement patients,20.4,Better
+000489,Readmission rate for heart failure patients,16.61,No Different
+000489,Readmission rate for pneumonia patients,19.12,Better
+000489,Readmission rate for heart attack patients,17.48,Worse
+000489,Readmission rate for hip/knee replacement patients,18.29,No Different
+000490,Readmission rate for hip/knee replacement patients,11.77,No Different
+000490,Readmission rate for pneumonia patients,15.14,No Different
+000490,Readmission rate for heart failure patients,15.38,Better
+000491,Readmission rate for pneumonia patients,18.71,No Different
+000491,Readmission rate for heart failure patients,23.25,No Different
+000491,Readmission rate for hip/knee replacement patients,20.2,Better
+000491,Readmission rate for stroke patients,19.83,No Different
+000492,Readmission rate for stroke patients,12.35,No Different
+000492,Readmission rate for heart attack patients,12.33,No Different
+000492,Readmission rate for heart failure patients,16.73,No Different
+000492,Readmission rate for hip/knee replacement patients,12.02,Better
+000493,Readmission rate for hip/knee replacement patients,22,No Different
+000493,Readmission rate for COPD patients,20.31,Better
+000493,Readmission rate for pneumonia patients,19.07,No Different
+000493,Readmission rate for heart attack patients,23.1,No Different
+000494,Readmission rate for pneumonia patients,13.26,No Different
+000494,Readmission rate for COPD patients,12.53,No Different
+000494,Readmission rate for stroke patients,13.82,No Different
+000494,Readmission rate for heart attack patients,16.87,No Different
+000494,Readmission rate for heart failure patients,16.05,Better
+000494,Readmission rate for hip/knee replacement patients,10.56,No Different
+000495,Readmission rate for pneumonia patients,22.53,No Different
+000495,Readmission rate for heart failure patients,16.86,No Different
+000495,Readmission rate for hip/knee replacement patients,19.83,No Different
+000496,Readmission rate for hip/knee replacement patients,13.4,Better
+000496,Readmission rate for pneumonia patients,14.83,No Different
+000496,Readmission rate for COPD patients,13.02,No Different
+000496,Readmission rate for stroke patients,11.9,Better
+000497,Readmission rate for stroke patients,18.12,No Different
+000497,Readmission rate for pneumonia patients,18.72,No Different
+000497,Readmission rate for heart attack patients,17.04,Worse
+000497,Readmission rate for heart failure patients,18.79,Worse
+000497,Readmission rate for hip/knee replacement patients,22.36,No Different
+000498,Readmission rate for pneumonia patients,14.13,Better
+000498,Readmission rate for COPD patients,14.05,No Different
+000498,Readmission rate for stroke patients,13.63,No Different
+000498,Readmission rate for heart failure patients,14.75,No Different
+000498,Readmission rate for hip/knee replacement patients,14.4,No Different
+000499,Readmission rate for heart attack patients,15.52,No Different
+000499,Readmission rate for pneumonia patients,14.23,No Different
+000499,Readmission rate for stroke patients,16.81,Better
+000499,Readmission rate for heart failure patients,9.76,Better
+000500,Readmission rate for heart attack patients,18.19,No Different
+000500,Readmission rate for stroke patients,16.37,Better
+000500,Readmission rate for hip/knee replacement patients,15.37,No Different
+000500,Readmission rate for pneumonia patients,12.21,No Different

@@ -1,0 +1,501 @@
+Facility ID,Facility Name,Address,City,State,ZIP Code,Hospital Type,Hospital Ownership
+000001,St. Hospital,1426 Main St,City 5,NY,55628,Children's Hospitals,Government - Local
+000002,General Medical Hospital,5508 Washington Ave,City 53,MD,59029,Acute Care Hospitals,Voluntary non-profit - Private
+000003,St. Healthcare System,5627 Oak Ave,City 183,WI,28873,Critical Access Hospitals,Voluntary non-profit - Church
+000004,Sacred Heart Medical Hospital,3755 Park Blvd,City 50,IN,23466,Acute Care Hospitals,Proprietary
+000005,Good Samaritan Medical Center,9321 Washington Ave,City 52,OH,92926,Acute Care Hospitals,Voluntary non-profit - Church
+000006,Memorial Medical Hospital,1477 Washington Ave,City 114,CT,86307,Critical Access Hospitals,Proprietary
+000007,Mount Healthcare System,1028 Main St,City 193,MA,43539,Acute Care Hospitals,Government - Local
+000008,Good Samaritan Healthcare System,1857 Maple Dr,City 67,VA,96304,Acute Care - Department of Defense,Voluntary non-profit - Private
+000009,St. Regional Hospital,8983 Washington Ave,City 200,PA,53330,Acute Care Hospitals,Voluntary non-profit - Church
+000010,Community Healthcare System,200 Maple Dr,City 172,FL,32811,Acute Care Hospitals,Proprietary
+000011,University Hospital,4450 Main St,City 10,TN,69381,Critical Access Hospitals,Government - Local
+000012,Memorial Regional Hospital,7694 Maple Dr,City 140,CO,29150,Children's Hospitals,Government - Local
+000013,Sacred Heart Hospital,3390 Main St,City 63,CO,51228,Acute Care Hospitals,Voluntary non-profit - Private
+000014,General Healthcare System,4884 Park Blvd,City 86,OR,25022,Acute Care Hospitals,Government - Local
+000015,Memorial Regional Hospital,8116 Maple Dr,City 116,KY,84108,Acute Care Hospitals,Voluntary non-profit - Other
+000016,Good Samaritan Regional Hospital,924 Washington Ave,City 47,LA,82097,Acute Care Hospitals,Government - Local
+000017,Mount Hospital,6627 Washington Ave,City 82,CT,88253,Critical Access Hospitals,Voluntary non-profit - Private
+000018,County Regional Hospital,7516 Park Blvd,City 167,WI,54141,Critical Access Hospitals,Voluntary non-profit - Church
+000019,Sacred Heart Healthcare System,2942 Main St,City 162,WI,41084,Acute Care Hospitals,Government - Federal
+000020,Sacred Heart Regional Hospital,8758 Oak Ave,City 63,LA,89812,Critical Access Hospitals,Voluntary non-profit - Other
+000021,Mercy Healthcare System,3629 Oak Ave,City 51,AZ,62948,Acute Care Hospitals,Proprietary
+000022,Memorial Hospital,9446 Main St,City 83,AL,48595,Acute Care Hospitals,Government - Local
+000023,General Healthcare System,6100 Park Blvd,City 22,OR,87839,Acute Care Hospitals,Voluntary non-profit - Church
+000024,Methodist Hospital,9791 Elm St,City 174,KY,34996,Children's Hospitals,Proprietary
+000025,General Medical Hospital,1796 Oak Ave,City 94,MA,90829,Acute Care Hospitals,Proprietary
+000026,Memorial Regional Hospital,3089 Washington Ave,City 76,NJ,53722,Acute Care Hospitals,Government - State
+000027,Mount Regional Hospital,1578 Park Blvd,City 9,CT,53983,Acute Care - Department of Defense,Voluntary non-profit - Private
+000028,Presbyterian Healthcare System,8011 Oak Ave,City 98,OR,49736,Acute Care Hospitals,Proprietary
+000029,Community Hospital,4231 Park Blvd,City 149,CO,55876,Acute Care Hospitals,Voluntary non-profit - Private
+000030,County Healthcare System,3868 Oak Ave,City 54,OR,28453,Acute Care Hospitals,Voluntary non-profit - Church
+000031,Good Samaritan Hospital,6839 Elm St,City 25,LA,57589,Acute Care - Department of Defense,Government - State
+000032,St. Medical Center,1338 Oak Ave,City 26,NJ,20820,Acute Care Hospitals,Proprietary
+000033,Good Samaritan Regional Hospital,8054 Maple Dr,City 119,PA,34508,Critical Access Hospitals,Government - Federal
+000034,Community Hospital,4882 Park Blvd,City 1,NJ,37352,Acute Care Hospitals,Voluntary non-profit - Private
+000035,Mercy Hospital,8540 Oak Ave,City 153,MO,53351,Acute Care Hospitals,Voluntary non-profit - Private
+000036,Regional Medical Center,6181 Maple Dr,City 134,MD,68753,Acute Care Hospitals,Voluntary non-profit - Church
+000037,Good Samaritan Medical Hospital,7369 Park Blvd,City 5,AZ,74366,Acute Care Hospitals,Voluntary non-profit - Church
+000038,Community Medical Hospital,7201 Oak Ave,City 37,OH,59593,Acute Care Hospitals,Voluntary non-profit - Private
+000039,Memorial Medical Hospital,6858 Elm St,City 133,WA,26278,Acute Care Hospitals,Voluntary non-profit - Private
+000040,Memorial Regional Hospital,8685 Maple Dr,City 46,LA,91617,Acute Care Hospitals,Voluntary non-profit - Other
+000041,Regional Hospital,8656 Maple Dr,City 96,NY,59586,Acute Care - Department of Defense,Proprietary
+000042,Mount Regional Hospital,7693 Park Blvd,City 60,IL,84487,Acute Care Hospitals,Voluntary non-profit - Church
+000043,Methodist Medical Center,4607 Elm St,City 127,TN,70019,Acute Care - Department of Defense,Voluntary non-profit - Church
+000044,Presbyterian Healthcare System,9403 Main St,City 90,PA,68605,Acute Care Hospitals,Voluntary non-profit - Church
+000045,General Regional Hospital,9372 Elm St,City 143,AL,54504,Critical Access Hospitals,Voluntary non-profit - Private
+000046,Memorial Hospital,1557 Maple Dr,City 154,NC,92828,Acute Care Hospitals,Proprietary
+000047,Mount Regional Hospital,3789 Elm St,City 58,IL,33626,Acute Care Hospitals,Voluntary non-profit - Church
+000048,Community Healthcare System,7674 Elm St,City 197,VA,32522,Critical Access Hospitals,Voluntary non-profit - Private
+000049,Mount Medical Hospital,9507 Main St,City 29,IN,17309,Acute Care Hospitals,Government - Federal
+000050,County Regional Hospital,8432 Main St,City 105,MI,80871,Acute Care Hospitals,Voluntary non-profit - Other
+000051,Community Healthcare System,459 Elm St,City 126,FL,93242,Acute Care Hospitals,Voluntary non-profit - Private
+000052,University Regional Hospital,6871 Oak Ave,City 179,IL,79340,Acute Care Hospitals,Proprietary
+000053,St. Regional Hospital,3848 Elm St,City 148,OK,33056,Acute Care Hospitals,Voluntary non-profit - Private
+000054,General Medical Center,1460 Oak Ave,City 39,TX,72680,Children's Hospitals,Government - Federal
+000055,Good Samaritan Regional Hospital,5868 Oak Ave,City 139,MN,12343,Acute Care Hospitals,Voluntary non-profit - Church
+000056,Mount Regional Hospital,523 Oak Ave,City 24,FL,79815,Acute Care Hospitals,Voluntary non-profit - Church
+000057,Regional Hospital,5622 Maple Dr,City 115,TN,92717,Children's Hospitals,Voluntary non-profit - Church
+000058,Regional Regional Hospital,5360 Park Blvd,City 76,KY,84641,Acute Care Hospitals,Government - Federal
+000059,Mount Medical Center,452 Park Blvd,City 33,MA,69478,Acute Care Hospitals,Proprietary
+000060,Memorial Hospital,1519 Elm St,City 189,MA,92758,Critical Access Hospitals,Voluntary non-profit - Church
+000061,County Healthcare System,1232 Elm St,City 105,VA,38623,Acute Care Hospitals,Voluntary non-profit - Church
+000062,Regional Medical Hospital,9967 Park Blvd,City 117,IN,71926,Acute Care Hospitals,Voluntary non-profit - Private
+000063,General Hospital,4232 Park Blvd,City 63,KY,68627,Children's Hospitals,Proprietary
+000064,Mount Healthcare System,2554 Oak Ave,City 113,TX,64467,Acute Care Hospitals,Government - State
+000065,University Healthcare System,894 Maple Dr,City 83,OH,27539,Acute Care Hospitals,Voluntary non-profit - Church
+000066,Regional Medical Center,5122 Washington Ave,City 36,GA,54368,Acute Care Hospitals,Government - State
+000067,Good Samaritan Medical Hospital,3185 Oak Ave,City 24,TN,56130,Critical Access Hospitals,Proprietary
+000068,Good Samaritan Medical Hospital,9369 Maple Dr,City 183,OR,80387,Acute Care Hospitals,Voluntary non-profit - Private
+000069,Community Healthcare System,7567 Oak Ave,City 44,MI,73745,Acute Care Hospitals,Voluntary non-profit - Other
+000070,General Hospital,4715 Washington Ave,City 179,KY,37065,Acute Care Hospitals,Proprietary
+000071,St. Medical Hospital,9550 Elm St,City 105,FL,77336,Acute Care Hospitals,Government - Local
+000072,St. Healthcare System,3633 Oak Ave,City 108,VA,52182,Acute Care Hospitals,Voluntary non-profit - Private
+000073,University Regional Hospital,1777 Park Blvd,City 27,CT,40788,Acute Care Hospitals,Proprietary
+000074,Memorial Medical Hospital,7745 Oak Ave,City 10,LA,45797,Acute Care Hospitals,Proprietary
+000075,Methodist Healthcare System,4645 Main St,City 155,NJ,25923,Acute Care Hospitals,Government - State
+000076,Good Samaritan Medical Center,2328 Maple Dr,City 32,PA,57162,Acute Care Hospitals,Voluntary non-profit - Private
+000077,Sacred Heart Healthcare System,845 Main St,City 29,CT,75085,Acute Care Hospitals,Voluntary non-profit - Church
+000078,Methodist Regional Hospital,7590 Oak Ave,City 53,WI,34714,Children's Hospitals,Voluntary non-profit - Other
+000079,Presbyterian Hospital,411 Main St,City 91,FL,90176,Acute Care Hospitals,Government - Local
+000080,Memorial Regional Hospital,7679 Elm St,City 7,NC,16506,Critical Access Hospitals,Voluntary non-profit - Other
+000081,Sacred Heart Regional Hospital,6719 Main St,City 198,MO,93925,Acute Care Hospitals,Voluntary non-profit - Church
+000082,Mercy Medical Hospital,4387 Elm St,City 123,VA,43107,Acute Care Hospitals,Voluntary non-profit - Private
+000083,County Hospital,193 Elm St,City 67,PA,74453,Acute Care Hospitals,Voluntary non-profit - Private
+000084,Methodist Medical Center,5421 Oak Ave,City 46,AZ,29151,Acute Care Hospitals,Proprietary
+000085,General Hospital,3097 Elm St,City 73,NJ,37197,Acute Care Hospitals,Government - Local
+000086,Presbyterian Healthcare System,3125 Washington Ave,City 177,FL,78305,Acute Care Hospitals,Proprietary
+000087,Community Healthcare System,1516 Main St,City 12,MN,80817,Acute Care Hospitals,Voluntary non-profit - Private
+000088,General Hospital,4320 Maple Dr,City 8,AZ,19899,Acute Care Hospitals,Voluntary non-profit - Private
+000089,Presbyterian Hospital,5547 Park Blvd,City 62,TN,99924,Acute Care Hospitals,Voluntary non-profit - Private
+000090,Regional Regional Hospital,9356 Maple Dr,City 9,CT,81825,Acute Care Hospitals,Proprietary
+000091,Mount Medical Hospital,3947 Main St,City 7,MD,44962,Acute Care Hospitals,Government - Local
+000092,Mount Healthcare System,8494 Oak Ave,City 192,LA,47951,Acute Care Hospitals,Proprietary
+000093,Community Medical Hospital,1299 Maple Dr,City 160,CA,61237,Acute Care Hospitals,Voluntary non-profit - Other
+000094,St. Regional Hospital,2085 Elm St,City 197,OK,41733,Acute Care Hospitals,Voluntary non-profit - Church
+000095,Mount Hospital,5820 Maple Dr,City 135,OH,82419,Acute Care Hospitals,Voluntary non-profit - Private
+000096,General Hospital,4561 Park Blvd,City 13,OR,72351,Acute Care Hospitals,Voluntary non-profit - Private
+000097,Community Medical Center,8323 Washington Ave,City 126,SC,43564,Acute Care Hospitals,Voluntary non-profit - Other
+000098,University Regional Hospital,8903 Elm St,City 82,WI,99803,Acute Care Hospitals,Proprietary
+000099,Community Healthcare System,4755 Park Blvd,City 139,TX,26974,Acute Care Hospitals,Voluntary non-profit - Private
+000100,General Healthcare System,9018 Maple Dr,City 25,UT,83625,Acute Care Hospitals,Voluntary non-profit - Private
+000101,Memorial Regional Hospital,9660 Oak Ave,City 80,CO,61258,Acute Care Hospitals,Voluntary non-profit - Private
+000102,Sacred Heart Regional Hospital,3917 Elm St,City 129,IL,38039,Acute Care Hospitals,Proprietary
+000103,Memorial Hospital,118 Park Blvd,City 189,PA,91109,Acute Care Hospitals,Voluntary non-profit - Private
+000104,University Regional Hospital,7226 Park Blvd,City 15,MN,20941,Acute Care Hospitals,Voluntary non-profit - Private
+000105,Good Samaritan Regional Hospital,7641 Washington Ave,City 125,MO,54649,Children's Hospitals,Proprietary
+000106,Mount Hospital,1943 Elm St,City 89,KY,20101,Acute Care Hospitals,Voluntary non-profit - Church
+000107,Mercy Medical Center,1950 Main St,City 105,OH,55317,Acute Care Hospitals,Proprietary
+000108,Methodist Medical Hospital,397 Elm St,City 164,MN,46692,Acute Care Hospitals,Voluntary non-profit - Private
+000109,General Hospital,7971 Park Blvd,City 89,AZ,73605,Acute Care Hospitals,Voluntary non-profit - Church
+000110,Regional Healthcare System,3048 Park Blvd,City 126,KY,77608,Acute Care Hospitals,Voluntary non-profit - Church
+000111,County Medical Center,8248 Oak Ave,City 30,MN,67439,Critical Access Hospitals,Voluntary non-profit - Private
+000112,Regional Hospital,9741 Oak Ave,City 95,NY,89523,Acute Care Hospitals,Government - Local
+000113,Presbyterian Regional Hospital,4637 Park Blvd,City 199,LA,78836,Acute Care Hospitals,Proprietary
+000114,Methodist Hospital,6810 Maple Dr,City 131,WA,48082,Children's Hospitals,Voluntary non-profit - Private
+000115,St. Medical Hospital,4305 Washington Ave,City 175,CO,93785,Acute Care Hospitals,Voluntary non-profit - Church
+000116,Presbyterian Healthcare System,9773 Elm St,City 199,CA,60134,Acute Care Hospitals,Government - State
+000117,Sacred Heart Medical Hospital,4955 Park Blvd,City 123,WI,51332,Acute Care Hospitals,Voluntary non-profit - Private
+000118,Sacred Heart Hospital,5311 Washington Ave,City 100,GA,85398,Critical Access Hospitals,Voluntary non-profit - Other
+000119,General Medical Center,1373 Elm St,City 9,MD,15673,Children's Hospitals,Voluntary non-profit - Private
+000120,Mercy Medical Hospital,9384 Maple Dr,City 59,UT,14950,Acute Care Hospitals,Government - State
+000121,Sacred Heart Medical Hospital,315 Maple Dr,City 190,LA,47868,Acute Care Hospitals,Government - State
+000122,Good Samaritan Medical Center,815 Elm St,City 68,KY,49965,Acute Care Hospitals,Voluntary non-profit - Church
+000123,Community Regional Hospital,7549 Main St,City 95,WI,31131,Children's Hospitals,Voluntary non-profit - Private
+000124,Methodist Hospital,2505 Elm St,City 64,CT,10285,Acute Care Hospitals,Government - Federal
+000125,University Hospital,3076 Washington Ave,City 36,OH,71183,Acute Care Hospitals,Voluntary non-profit - Other
+000126,Regional Regional Hospital,1471 Oak Ave,City 92,MI,64856,Critical Access Hospitals,Government - Local
+000127,St. Hospital,3792 Oak Ave,City 39,NC,98716,Acute Care - Department of Defense,Voluntary non-profit - Other
+000128,Methodist Medical Hospital,396 Park Blvd,City 186,OH,67294,Acute Care Hospitals,Voluntary non-profit - Church
+000129,General Healthcare System,1135 Elm St,City 72,UT,65922,Acute Care Hospitals,Government - State
+000130,Sacred Heart Hospital,9461 Oak Ave,City 5,PA,85276,Acute Care Hospitals,Proprietary
+000131,University Hospital,5738 Maple Dr,City 21,MA,81603,Acute Care Hospitals,Voluntary non-profit - Private
+000132,Good Samaritan Hospital,5737 Park Blvd,City 156,NC,54238,Acute Care Hospitals,Voluntary non-profit - Private
+000133,Mercy Hospital,3318 Elm St,City 162,FL,84907,Acute Care Hospitals,Government - Local
+000134,Good Samaritan Medical Center,8533 Main St,City 31,TX,46665,Acute Care Hospitals,Government - Local
+000135,Good Samaritan Healthcare System,9125 Main St,City 122,IN,64897,Children's Hospitals,Voluntary non-profit - Church
+000136,Community Medical Hospital,5035 Oak Ave,City 126,CO,29429,Critical Access Hospitals,Proprietary
+000137,St. Healthcare System,2052 Maple Dr,City 181,IL,14864,Acute Care Hospitals,Voluntary non-profit - Private
+000138,Mercy Hospital,8593 Oak Ave,City 167,MD,36289,Children's Hospitals,Government - State
+000139,Sacred Heart Regional Hospital,5857 Main St,City 180,WA,11636,Acute Care Hospitals,Government - Local
+000140,Methodist Medical Hospital,6249 Oak Ave,City 77,MD,19700,Acute Care Hospitals,Government - Local
+000141,Sacred Heart Healthcare System,566 Elm St,City 9,TN,19822,Acute Care Hospitals,Voluntary non-profit - Church
+000142,County Regional Hospital,5895 Park Blvd,City 173,NJ,41413,Acute Care Hospitals,Voluntary non-profit - Private
+000143,St. Hospital,3704 Maple Dr,City 120,WA,20922,Acute Care Hospitals,Voluntary non-profit - Private
+000144,Regional Healthcare System,996 Main St,City 117,KY,98680,Acute Care - Department of Defense,Voluntary non-profit - Private
+000145,Community Hospital,4896 Washington Ave,City 143,NC,39694,Acute Care Hospitals,Voluntary non-profit - Private
+000146,Mercy Hospital,626 Oak Ave,City 38,LA,20238,Acute Care Hospitals,Voluntary non-profit - Other
+000147,General Regional Hospital,1853 Main St,City 194,PA,75808,Acute Care Hospitals,Proprietary
+000148,St. Hospital,2814 Washington Ave,City 78,FL,77087,Acute Care Hospitals,Voluntary non-profit - Church
+000149,Regional Medical Hospital,7900 Washington Ave,City 145,AZ,79600,Acute Care Hospitals,Voluntary non-profit - Church
+000150,St. Medical Center,449 Maple Dr,City 155,AL,90350,Children's Hospitals,Voluntary non-profit - Private
+000151,Mount Medical Hospital,1601 Park Blvd,City 20,SC,67128,Acute Care - Department of Defense,Proprietary
+000152,Mount Medical Hospital,9884 Park Blvd,City 11,NJ,27752,Acute Care Hospitals,Voluntary non-profit - Private
+000153,Regional Healthcare System,332 Maple Dr,City 186,OH,11924,Acute Care Hospitals,Voluntary non-profit - Private
+000154,Regional Medical Center,8283 Maple Dr,City 158,IN,86941,Children's Hospitals,Voluntary non-profit - Private
+000155,Regional Healthcare System,3361 Main St,City 107,FL,52030,Critical Access Hospitals,Voluntary non-profit - Church
+000156,Regional Regional Hospital,1481 Main St,City 175,MO,50442,Critical Access Hospitals,Voluntary non-profit - Church
+000157,Memorial Healthcare System,1038 Washington Ave,City 6,MI,86853,Acute Care Hospitals,Proprietary
+000158,Presbyterian Healthcare System,1321 Washington Ave,City 28,AZ,94316,Acute Care Hospitals,Voluntary non-profit - Church
+000159,Mount Medical Hospital,2547 Elm St,City 163,AZ,94219,Acute Care Hospitals,Government - Local
+000160,Good Samaritan Medical Center,9371 Maple Dr,City 174,AZ,44487,Acute Care Hospitals,Government - State
+000161,University Hospital,3672 Park Blvd,City 192,LA,54128,Acute Care Hospitals,Voluntary non-profit - Private
+000162,Presbyterian Medical Hospital,2140 Elm St,City 49,CT,20671,Acute Care Hospitals,Government - Federal
+000163,Presbyterian Medical Center,6410 Main St,City 75,NC,31286,Acute Care - Department of Defense,Voluntary non-profit - Private
+000164,Good Samaritan Medical Hospital,1553 Washington Ave,City 84,PA,50728,Acute Care - Department of Defense,Voluntary non-profit - Private
+000165,Sacred Heart Regional Hospital,8146 Park Blvd,City 117,IN,12891,Critical Access Hospitals,Voluntary non-profit - Private
+000166,St. Healthcare System,8594 Park Blvd,City 173,CA,19111,Critical Access Hospitals,Proprietary
+000167,Mount Medical Center,9037 Washington Ave,City 126,MA,38481,Acute Care Hospitals,Voluntary non-profit - Private
+000168,Community Medical Hospital,7445 Washington Ave,City 78,TN,85945,Acute Care Hospitals,Voluntary non-profit - Private
+000169,Community Medical Center,5186 Oak Ave,City 95,CT,95253,Acute Care Hospitals,Government - Local
+000170,Mount Medical Hospital,338 Park Blvd,City 133,MO,53390,Acute Care Hospitals,Voluntary non-profit - Church
+000171,Sacred Heart Medical Center,1111 Main St,City 189,TN,86622,Acute Care Hospitals,Voluntary non-profit - Private
+000172,Presbyterian Hospital,4794 Maple Dr,City 102,OH,31039,Acute Care Hospitals,Government - State
+000173,Mercy Healthcare System,218 Park Blvd,City 160,CO,31945,Acute Care Hospitals,Voluntary non-profit - Private
+000174,Methodist Regional Hospital,7804 Washington Ave,City 53,TN,61139,Critical Access Hospitals,Proprietary
+000175,Mount Hospital,8806 Washington Ave,City 72,TN,48553,Critical Access Hospitals,Proprietary
+000176,Presbyterian Medical Center,9958 Main St,City 90,GA,22400,Acute Care - Department of Defense,Voluntary non-profit - Church
+000177,Mount Regional Hospital,9587 Park Blvd,City 21,UT,46186,Acute Care - Department of Defense,Voluntary non-profit - Private
+000178,Mercy Healthcare System,1400 Washington Ave,City 122,AL,63118,Acute Care Hospitals,Government - Federal
+000179,Good Samaritan Hospital,7294 Maple Dr,City 8,NC,95491,Acute Care Hospitals,Proprietary
+000180,Sacred Heart Regional Hospital,7938 Maple Dr,City 1,NY,19790,Acute Care Hospitals,Voluntary non-profit - Private
+000181,Presbyterian Hospital,9732 Park Blvd,City 124,SC,15833,Critical Access Hospitals,Voluntary non-profit - Private
+000182,Regional Medical Hospital,7069 Elm St,City 2,KY,60299,Acute Care Hospitals,Proprietary
+000183,General Medical Center,5932 Main St,City 58,UT,62949,Acute Care Hospitals,Voluntary non-profit - Private
+000184,Good Samaritan Healthcare System,6350 Main St,City 189,IN,51183,Acute Care - Department of Defense,Voluntary non-profit - Private
+000185,St. Medical Hospital,1864 Maple Dr,City 77,MI,64310,Children's Hospitals,Voluntary non-profit - Private
+000186,St. Hospital,1105 Park Blvd,City 169,CT,61646,Acute Care Hospitals,Voluntary non-profit - Private
+000187,General Healthcare System,1726 Main St,City 23,NY,89826,Acute Care Hospitals,Voluntary non-profit - Private
+000188,County Medical Center,6568 Park Blvd,City 8,NJ,23592,Acute Care Hospitals,Voluntary non-profit - Private
+000189,Presbyterian Medical Center,7699 Washington Ave,City 63,FL,44199,Acute Care Hospitals,Voluntary non-profit - Church
+000190,Good Samaritan Medical Hospital,8801 Oak Ave,City 119,IN,18752,Critical Access Hospitals,Government - State
+000191,St. Hospital,5384 Maple Dr,City 74,IL,39061,Critical Access Hospitals,Voluntary non-profit - Private
+000192,General Regional Hospital,2953 Elm St,City 188,KY,95019,Acute Care Hospitals,Voluntary non-profit - Private
+000193,County Medical Hospital,8184 Washington Ave,City 65,NJ,11938,Acute Care - Department of Defense,Voluntary non-profit - Private
+000194,Regional Healthcare System,3303 Maple Dr,City 147,NJ,44742,Acute Care Hospitals,Voluntary non-profit - Other
+000195,Good Samaritan Medical Center,4072 Main St,City 10,UT,10488,Children's Hospitals,Voluntary non-profit - Other
+000196,Methodist Healthcare System,7611 Oak Ave,City 104,UT,23408,Acute Care - Department of Defense,Government - Local
+000197,Mercy Regional Hospital,6383 Park Blvd,City 16,WA,32958,Acute Care Hospitals,Government - Local
+000198,Memorial Regional Hospital,8789 Main St,City 63,PA,44081,Acute Care Hospitals,Voluntary non-profit - Church
+000199,Good Samaritan Hospital,2634 Oak Ave,City 24,GA,90415,Critical Access Hospitals,Voluntary non-profit - Private
+000200,St. Medical Center,3711 Park Blvd,City 92,LA,92766,Acute Care Hospitals,Proprietary
+000201,Mercy Healthcare System,4432 Elm St,City 58,TX,52786,Acute Care Hospitals,Voluntary non-profit - Other
+000202,Mercy Medical Hospital,5794 Park Blvd,City 196,PA,76225,Acute Care Hospitals,Proprietary
+000203,Memorial Hospital,9564 Oak Ave,City 74,WI,46132,Acute Care Hospitals,Proprietary
+000204,Memorial Healthcare System,7303 Park Blvd,City 9,TX,71938,Acute Care Hospitals,Government - Local
+000205,Memorial Regional Hospital,5344 Park Blvd,City 115,IN,95478,Critical Access Hospitals,Voluntary non-profit - Private
+000206,Mercy Medical Hospital,4207 Park Blvd,City 72,OK,59312,Acute Care Hospitals,Voluntary non-profit - Church
+000207,St. Hospital,5476 Elm St,City 8,TN,95803,Acute Care Hospitals,Voluntary non-profit - Church
+000208,Sacred Heart Hospital,6546 Park Blvd,City 178,UT,92685,Critical Access Hospitals,Voluntary non-profit - Private
+000209,St. Medical Center,3247 Main St,City 80,NY,25242,Acute Care Hospitals,Voluntary non-profit - Church
+000210,Methodist Medical Hospital,4562 Main St,City 185,SC,42827,Acute Care - Department of Defense,Proprietary
+000211,Presbyterian Healthcare System,5843 Elm St,City 144,IN,55765,Acute Care Hospitals,Proprietary
+000212,St. Medical Center,1474 Oak Ave,City 109,CO,37639,Acute Care - Department of Defense,Voluntary non-profit - Other
+000213,Methodist Hospital,6484 Washington Ave,City 115,AL,91126,Acute Care Hospitals,Proprietary
+000214,Memorial Healthcare System,9793 Oak Ave,City 36,OR,18221,Acute Care Hospitals,Proprietary
+000215,St. Medical Center,3872 Main St,City 158,AL,76463,Acute Care Hospitals,Voluntary non-profit - Church
+000216,St. Medical Hospital,2900 Park Blvd,City 85,WI,49318,Acute Care Hospitals,Voluntary non-profit - Church
+000217,St. Medical Hospital,813 Maple Dr,City 159,MI,70017,Acute Care Hospitals,Voluntary non-profit - Other
+000218,Presbyterian Medical Center,4518 Park Blvd,City 132,UT,95978,Children's Hospitals,Proprietary
+000219,Mount Medical Center,4404 Main St,City 10,CA,63319,Acute Care Hospitals,Voluntary non-profit - Private
+000220,Community Healthcare System,3580 Elm St,City 133,IN,34618,Critical Access Hospitals,Government - State
+000221,County Medical Hospital,2734 Main St,City 140,AL,58091,Acute Care Hospitals,Government - State
+000222,General Medical Center,394 Park Blvd,City 100,NJ,24888,Acute Care Hospitals,Voluntary non-profit - Private
+000223,Methodist Medical Hospital,5766 Maple Dr,City 28,TN,22289,Children's Hospitals,Voluntary non-profit - Private
+000224,Presbyterian Medical Hospital,5461 Park Blvd,City 59,OK,40510,Acute Care Hospitals,Voluntary non-profit - Private
+000225,St. Medical Center,3960 Washington Ave,City 107,SC,12340,Acute Care Hospitals,Government - Federal
+000226,County Healthcare System,1341 Maple Dr,City 28,AZ,49119,Acute Care Hospitals,Government - State
+000227,Presbyterian Healthcare System,7259 Main St,City 13,TN,83053,Acute Care Hospitals,Government - Local
+000228,General Medical Center,6418 Main St,City 53,OK,83449,Acute Care Hospitals,Voluntary non-profit - Private
+000229,Community Hospital,7787 Park Blvd,City 118,MI,75116,Acute Care Hospitals,Proprietary
+000230,Regional Healthcare System,4826 Oak Ave,City 130,FL,19723,Acute Care Hospitals,Voluntary non-profit - Other
+000231,University Healthcare System,6051 Elm St,City 46,MA,24191,Acute Care Hospitals,Voluntary non-profit - Private
+000232,Good Samaritan Medical Center,4954 Elm St,City 38,OH,62817,Acute Care Hospitals,Government - Federal
+000233,University Healthcare System,2088 Park Blvd,City 127,CT,77043,Acute Care Hospitals,Voluntary non-profit - Private
+000234,Sacred Heart Medical Center,5149 Main St,City 75,AL,40879,Acute Care Hospitals,Voluntary non-profit - Private
+000235,Sacred Heart Medical Center,4234 Park Blvd,City 65,IL,20091,Acute Care - Department of Defense,Proprietary
+000236,Sacred Heart Healthcare System,9588 Main St,City 183,LA,56264,Acute Care Hospitals,Voluntary non-profit - Church
+000237,County Hospital,6141 Park Blvd,City 94,OK,30305,Acute Care Hospitals,Government - State
+000238,Mount Medical Center,6157 Park Blvd,City 63,KY,55419,Acute Care Hospitals,Government - State
+000239,General Hospital,4535 Maple Dr,City 74,VA,84822,Acute Care Hospitals,Voluntary non-profit - Church
+000240,Presbyterian Regional Hospital,751 Washington Ave,City 29,CO,55259,Acute Care Hospitals,Voluntary non-profit - Church
+000241,Presbyterian Medical Center,8951 Elm St,City 152,WI,41147,Acute Care Hospitals,Voluntary non-profit - Private
+000242,Methodist Medical Center,1441 Maple Dr,City 149,MI,90173,Acute Care Hospitals,Government - Local
+000243,Sacred Heart Hospital,8294 Washington Ave,City 140,OK,96909,Critical Access Hospitals,Voluntary non-profit - Church
+000244,Memorial Medical Hospital,4335 Main St,City 189,MD,79179,Children's Hospitals,Voluntary non-profit - Private
+000245,Sacred Heart Medical Hospital,5138 Park Blvd,City 45,FL,28911,Acute Care Hospitals,Voluntary non-profit - Private
+000246,Regional Hospital,7046 Park Blvd,City 23,MI,65523,Acute Care Hospitals,Government - Federal
+000247,Community Healthcare System,2618 Maple Dr,City 49,SC,74151,Acute Care Hospitals,Voluntary non-profit - Private
+000248,St. Regional Hospital,8649 Oak Ave,City 55,SC,18131,Acute Care Hospitals,Voluntary non-profit - Private
+000249,Methodist Regional Hospital,5485 Washington Ave,City 104,CT,34680,Critical Access Hospitals,Voluntary non-profit - Other
+000250,Regional Regional Hospital,6845 Main St,City 53,AL,37492,Acute Care Hospitals,Proprietary
+000251,Mercy Hospital,201 Maple Dr,City 49,NC,70233,Acute Care Hospitals,Government - Local
+000252,Sacred Heart Medical Center,9988 Park Blvd,City 94,CA,59092,Acute Care - Department of Defense,Voluntary non-profit - Private
+000253,Regional Healthcare System,2212 Oak Ave,City 20,AZ,36084,Acute Care Hospitals,Voluntary non-profit - Private
+000254,Good Samaritan Healthcare System,3725 Elm St,City 130,WA,52354,Critical Access Hospitals,Government - Local
+000255,Regional Medical Center,2973 Elm St,City 181,WA,27455,Acute Care Hospitals,Government - State
+000256,Regional Regional Hospital,9845 Oak Ave,City 151,UT,43055,Acute Care Hospitals,Voluntary non-profit - Other
+000257,Memorial Healthcare System,5638 Elm St,City 199,OR,12918,Children's Hospitals,Proprietary
+000258,University Regional Hospital,4208 Oak Ave,City 173,MD,57339,Acute Care Hospitals,Government - Federal
+000259,Regional Healthcare System,4008 Park Blvd,City 153,MD,19529,Acute Care Hospitals,Voluntary non-profit - Private
+000260,Good Samaritan Hospital,5709 Elm St,City 171,TN,40675,Acute Care Hospitals,Voluntary non-profit - Private
+000261,Methodist Medical Center,5011 Maple Dr,City 48,CO,88077,Acute Care Hospitals,Voluntary non-profit - Other
+000262,General Hospital,4977 Oak Ave,City 131,MN,20700,Acute Care Hospitals,Government - Federal
+000263,Mercy Medical Hospital,5694 Elm St,City 39,FL,48033,Critical Access Hospitals,Voluntary non-profit - Private
+000264,General Medical Center,9662 Maple Dr,City 57,TN,18911,Children's Hospitals,Voluntary non-profit - Church
+000265,Mount Hospital,4612 Washington Ave,City 80,OH,45691,Acute Care Hospitals,Voluntary non-profit - Church
+000266,Sacred Heart Medical Hospital,3684 Oak Ave,City 75,TX,63925,Acute Care Hospitals,Voluntary non-profit - Private
+000267,Regional Healthcare System,7811 Maple Dr,City 143,KY,67529,Acute Care Hospitals,Voluntary non-profit - Private
+000268,St. Hospital,4878 Oak Ave,City 93,AL,37613,Acute Care Hospitals,Voluntary non-profit - Other
+000269,St. Medical Center,4420 Elm St,City 52,OH,35803,Acute Care Hospitals,Voluntary non-profit - Private
+000270,Mercy Hospital,230 Maple Dr,City 1,OH,50858,Acute Care Hospitals,Voluntary non-profit - Other
+000271,Presbyterian Medical Center,5082 Maple Dr,City 18,MN,47832,Acute Care Hospitals,Voluntary non-profit - Church
+000272,Mount Hospital,7130 Washington Ave,City 96,KY,14025,Critical Access Hospitals,Voluntary non-profit - Private
+000273,University Medical Hospital,1433 Washington Ave,City 108,OH,28955,Acute Care Hospitals,Voluntary non-profit - Private
+000274,Mount Medical Hospital,3588 Main St,City 197,WI,43089,Acute Care Hospitals,Voluntary non-profit - Private
+000275,Good Samaritan Medical Center,6569 Washington Ave,City 8,MI,82758,Acute Care Hospitals,Voluntary non-profit - Private
+000276,Good Samaritan Hospital,1585 Elm St,City 128,MO,68614,Acute Care Hospitals,Voluntary non-profit - Church
+000277,Memorial Regional Hospital,6103 Oak Ave,City 84,NY,33137,Acute Care Hospitals,Government - Local
+000278,Memorial Medical Center,5175 Maple Dr,City 10,NJ,18667,Acute Care Hospitals,Voluntary non-profit - Church
+000279,Methodist Medical Center,1159 Main St,City 18,AZ,45335,Acute Care - Department of Defense,Voluntary non-profit - Private
+000280,University Hospital,6130 Oak Ave,City 145,AL,64107,Acute Care Hospitals,Proprietary
+000281,St. Medical Hospital,9629 Park Blvd,City 81,MN,38784,Acute Care Hospitals,Voluntary non-profit - Private
+000282,Mercy Medical Center,3434 Oak Ave,City 157,CT,74340,Acute Care Hospitals,Voluntary non-profit - Private
+000283,General Healthcare System,8576 Maple Dr,City 129,MO,18641,Acute Care - Department of Defense,Government - State
+000284,Regional Medical Center,9010 Oak Ave,City 14,OR,59177,Critical Access Hospitals,Voluntary non-profit - Other
+000285,Memorial Medical Hospital,4659 Main St,City 169,AL,17424,Acute Care Hospitals,Proprietary
+000286,Mount Medical Center,2128 Elm St,City 83,MA,10082,Acute Care Hospitals,Government - State
+000287,Good Samaritan Healthcare System,1524 Park Blvd,City 90,MI,56154,Acute Care Hospitals,Voluntary non-profit - Private
+000288,Sacred Heart Medical Hospital,4772 Maple Dr,City 113,AL,88844,Acute Care Hospitals,Proprietary
+000289,Mercy Healthcare System,9373 Maple Dr,City 130,TX,80715,Critical Access Hospitals,Proprietary
+000290,Presbyterian Medical Center,1946 Oak Ave,City 12,SC,75120,Critical Access Hospitals,Voluntary non-profit - Other
+000291,Regional Medical Hospital,9901 Elm St,City 3,CA,47015,Acute Care Hospitals,Proprietary
+000292,Good Samaritan Regional Hospital,5585 Elm St,City 144,UT,88605,Acute Care Hospitals,Voluntary non-profit - Private
+000293,Sacred Heart Medical Hospital,3036 Washington Ave,City 180,NJ,74455,Acute Care Hospitals,Voluntary non-profit - Private
+000294,University Regional Hospital,1170 Washington Ave,City 84,UT,66651,Acute Care Hospitals,Voluntary non-profit - Private
+000295,Good Samaritan Healthcare System,7614 Elm St,City 179,NY,46774,Acute Care Hospitals,Voluntary non-profit - Private
+000296,County Medical Hospital,4287 Oak Ave,City 169,OK,32025,Acute Care Hospitals,Government - Local
+000297,Sacred Heart Medical Hospital,3733 Elm St,City 130,CT,33121,Acute Care Hospitals,Proprietary
+000298,Mercy Medical Hospital,8805 Park Blvd,City 95,TX,38704,Acute Care Hospitals,Voluntary non-profit - Church
+000299,County Medical Center,6013 Park Blvd,City 70,TX,86804,Acute Care Hospitals,Government - Local
+000300,Presbyterian Healthcare System,9451 Park Blvd,City 178,SC,42058,Acute Care - Department of Defense,Proprietary
+000301,General Healthcare System,191 Washington Ave,City 191,CT,74940,Acute Care Hospitals,Voluntary non-profit - Private
+000302,Memorial Hospital,1843 Maple Dr,City 70,AZ,13525,Acute Care Hospitals,Voluntary non-profit - Private
+000303,Good Samaritan Medical Center,7171 Main St,City 156,CT,88571,Acute Care Hospitals,Government - Local
+000304,Regional Healthcare System,6458 Oak Ave,City 77,WI,74703,Acute Care Hospitals,Proprietary
+000305,Sacred Heart Medical Hospital,3720 Park Blvd,City 48,NC,77143,Acute Care Hospitals,Voluntary non-profit - Private
+000306,Regional Regional Hospital,1051 Park Blvd,City 51,MA,19970,Acute Care Hospitals,Voluntary non-profit - Private
+000307,Mercy Medical Center,337 Park Blvd,City 62,UT,77327,Acute Care Hospitals,Government - Federal
+000308,St. Medical Hospital,5448 Main St,City 40,GA,77088,Acute Care Hospitals,Voluntary non-profit - Private
+000309,Mercy Healthcare System,7775 Elm St,City 126,LA,24395,Acute Care Hospitals,Government - Local
+000310,General Healthcare System,7721 Oak Ave,City 55,CA,79456,Acute Care Hospitals,Government - State
+000311,Presbyterian Regional Hospital,1921 Park Blvd,City 148,MD,20495,Critical Access Hospitals,Voluntary non-profit - Private
+000312,General Healthcare System,6068 Oak Ave,City 147,NC,36368,Critical Access Hospitals,Voluntary non-profit - Private
+000313,Regional Hospital,9811 Maple Dr,City 67,MI,12434,Acute Care Hospitals,Proprietary
+000314,Sacred Heart Regional Hospital,8058 Oak Ave,City 119,OH,33017,Acute Care Hospitals,Voluntary non-profit - Private
+000315,Good Samaritan Medical Center,8265 Main St,City 76,MD,93599,Acute Care Hospitals,Voluntary non-profit - Private
+000316,Community Regional Hospital,3775 Park Blvd,City 59,MN,96919,Acute Care Hospitals,Voluntary non-profit - Private
+000317,Mount Hospital,407 Park Blvd,City 53,MO,61158,Acute Care Hospitals,Voluntary non-profit - Private
+000318,University Medical Center,3256 Elm St,City 50,FL,48907,Acute Care Hospitals,Voluntary non-profit - Private
+000319,University Medical Hospital,8245 Elm St,City 53,CT,28493,Acute Care Hospitals,Voluntary non-profit - Church
+000320,Presbyterian Hospital,9058 Maple Dr,City 104,MA,62398,Acute Care Hospitals,Voluntary non-profit - Private
+000321,General Regional Hospital,9048 Maple Dr,City 66,OR,89380,Acute Care Hospitals,Voluntary non-profit - Private
+000322,County Healthcare System,7241 Maple Dr,City 148,NY,87764,Acute Care Hospitals,Voluntary non-profit - Other
+000323,Good Samaritan Hospital,2190 Elm St,City 143,TN,33164,Acute Care Hospitals,Government - Local
+000324,Sacred Heart Medical Center,5103 Washington Ave,City 112,WA,83151,Acute Care Hospitals,Voluntary non-profit - Private
+000325,Sacred Heart Regional Hospital,4352 Washington Ave,City 111,AZ,97631,Acute Care Hospitals,Government - Local
+000326,General Healthcare System,9570 Washington Ave,City 74,WI,80698,Children's Hospitals,Voluntary non-profit - Other
+000327,Mount Hospital,8849 Oak Ave,City 164,IN,18578,Children's Hospitals,Proprietary
+000328,County Hospital,1872 Washington Ave,City 101,MO,30107,Critical Access Hospitals,Government - Federal
+000329,Mount Regional Hospital,7967 Elm St,City 86,NJ,60044,Critical Access Hospitals,Voluntary non-profit - Private
+000330,Mercy Medical Center,5134 Main St,City 79,VA,39858,Acute Care Hospitals,Proprietary
+000331,Mercy Medical Hospital,9513 Washington Ave,City 139,TX,23825,Acute Care Hospitals,Government - Local
+000332,Memorial Medical Hospital,7642 Maple Dr,City 190,NY,77537,Acute Care Hospitals,Proprietary
+000333,Community Hospital,3593 Park Blvd,City 118,MD,51799,Acute Care Hospitals,Proprietary
+000334,General Regional Hospital,7673 Park Blvd,City 110,LA,35403,Acute Care Hospitals,Voluntary non-profit - Private
+000335,Community Hospital,4062 Main St,City 40,LA,73504,Acute Care Hospitals,Government - Federal
+000336,Regional Healthcare System,1026 Maple Dr,City 90,IN,65408,Critical Access Hospitals,Voluntary non-profit - Other
+000337,Memorial Medical Hospital,8582 Maple Dr,City 152,NY,27156,Critical Access Hospitals,Voluntary non-profit - Church
+000338,General Healthcare System,601 Park Blvd,City 113,NY,36359,Acute Care Hospitals,Proprietary
+000339,Memorial Healthcare System,124 Main St,City 199,KY,93161,Acute Care Hospitals,Government - Federal
+000340,Mercy Medical Center,5594 Park Blvd,City 82,MI,49577,Acute Care Hospitals,Voluntary non-profit - Private
+000341,Good Samaritan Hospital,1842 Maple Dr,City 127,MN,58225,Acute Care Hospitals,Voluntary non-profit - Private
+000342,St. Medical Hospital,2952 Park Blvd,City 84,AZ,15572,Acute Care Hospitals,Proprietary
+000343,Mercy Medical Hospital,6510 Elm St,City 192,NC,27818,Children's Hospitals,Voluntary non-profit - Other
+000344,Presbyterian Medical Hospital,6242 Washington Ave,City 103,SC,33549,Children's Hospitals,Voluntary non-profit - Church
+000345,St. Healthcare System,4626 Elm St,City 35,MI,57414,Acute Care Hospitals,Voluntary non-profit - Other
+000346,Methodist Regional Hospital,9814 Elm St,City 140,NJ,93026,Children's Hospitals,Voluntary non-profit - Private
+000347,Memorial Regional Hospital,3446 Oak Ave,City 102,PA,45516,Acute Care Hospitals,Government - Local
+000348,Methodist Medical Center,5702 Washington Ave,City 27,CT,49165,Acute Care Hospitals,Government - Local
+000349,Regional Hospital,9503 Elm St,City 187,MN,27429,Acute Care Hospitals,Government - Federal
+000350,Regional Regional Hospital,4816 Main St,City 174,NC,69896,Children's Hospitals,Voluntary non-profit - Other
+000351,Presbyterian Healthcare System,221 Oak Ave,City 182,CA,94679,Acute Care Hospitals,Voluntary non-profit - Other
+000352,Methodist Medical Center,4691 Oak Ave,City 111,GA,65732,Acute Care - Department of Defense,Voluntary non-profit - Private
+000353,University Healthcare System,9084 Park Blvd,City 173,NY,38272,Acute Care - Department of Defense,Voluntary non-profit - Other
+000354,Presbyterian Medical Center,6836 Maple Dr,City 167,CT,68935,Acute Care Hospitals,Proprietary
+000355,General Medical Center,1903 Park Blvd,City 20,CO,96203,Acute Care Hospitals,Government - State
+000356,Mount Hospital,1615 Main St,City 156,NJ,36390,Acute Care Hospitals,Voluntary non-profit - Private
+000357,University Healthcare System,782 Washington Ave,City 135,PA,35965,Acute Care Hospitals,Voluntary non-profit - Private
+000358,Methodist Regional Hospital,7016 Washington Ave,City 82,KY,37850,Acute Care Hospitals,Voluntary non-profit - Private
+000359,Good Samaritan Regional Hospital,816 Oak Ave,City 158,KY,68126,Children's Hospitals,Government - Local
+000360,Regional Medical Center,7006 Maple Dr,City 43,FL,20144,Children's Hospitals,Voluntary non-profit - Other
+000361,Mount Healthcare System,6936 Elm St,City 32,WI,97201,Acute Care Hospitals,Voluntary non-profit - Other
+000362,Presbyterian Hospital,1160 Main St,City 180,OK,36664,Acute Care Hospitals,Proprietary
+000363,County Hospital,1142 Elm St,City 191,PA,68881,Acute Care Hospitals,Voluntary non-profit - Private
+000364,St. Hospital,5725 Maple Dr,City 10,GA,60853,Acute Care Hospitals,Proprietary
+000365,Methodist Hospital,5502 Oak Ave,City 16,MA,76293,Acute Care Hospitals,Voluntary non-profit - Other
+000366,Memorial Medical Hospital,9214 Elm St,City 175,AZ,90309,Acute Care Hospitals,Voluntary non-profit - Private
+000367,Mercy Medical Center,5615 Maple Dr,City 119,MO,39298,Children's Hospitals,Voluntary non-profit - Private
+000368,Sacred Heart Medical Center,6186 Elm St,City 132,WA,91832,Children's Hospitals,Government - Local
+000369,Regional Hospital,7551 Park Blvd,City 172,KY,39996,Critical Access Hospitals,Voluntary non-profit - Private
+000370,Good Samaritan Healthcare System,1744 Main St,City 165,OK,10596,Critical Access Hospitals,Proprietary
+000371,University Healthcare System,8278 Washington Ave,City 173,LA,82951,Acute Care Hospitals,Proprietary
+000372,County Hospital,4400 Park Blvd,City 160,FL,70082,Acute Care Hospitals,Proprietary
+000373,Presbyterian Medical Center,211 Park Blvd,City 101,TN,87284,Acute Care Hospitals,Voluntary non-profit - Private
+000374,Mount Healthcare System,3437 Washington Ave,City 148,FL,81493,Acute Care Hospitals,Voluntary non-profit - Private
+000375,Sacred Heart Healthcare System,2572 Maple Dr,City 185,WI,30432,Acute Care Hospitals,Voluntary non-profit - Private
+000376,Presbyterian Hospital,8795 Main St,City 20,NC,26046,Children's Hospitals,Voluntary non-profit - Private
+000377,Good Samaritan Regional Hospital,1828 Maple Dr,City 110,NJ,69195,Critical Access Hospitals,Voluntary non-profit - Other
+000378,Sacred Heart Medical Center,9167 Main St,City 1,MI,92315,Acute Care Hospitals,Voluntary non-profit - Private
+000379,County Healthcare System,8732 Maple Dr,City 106,GA,82451,Children's Hospitals,Proprietary
+000380,University Hospital,3882 Main St,City 195,WI,89701,Acute Care Hospitals,Proprietary
+000381,County Healthcare System,2924 Washington Ave,City 11,CO,66219,Critical Access Hospitals,Government - State
+000382,Regional Medical Center,6641 Park Blvd,City 58,AZ,77132,Acute Care - Department of Defense,Voluntary non-profit - Private
+000383,Methodist Healthcare System,5176 Main St,City 29,GA,38025,Acute Care Hospitals,Voluntary non-profit - Church
+000384,Memorial Hospital,2319 Washington Ave,City 57,FL,12190,Acute Care Hospitals,Proprietary
+000385,Good Samaritan Hospital,7296 Washington Ave,City 63,CT,97932,Acute Care Hospitals,Voluntary non-profit - Private
+000386,Mount Medical Center,3183 Main St,City 90,TN,20702,Acute Care Hospitals,Proprietary
+000387,University Medical Center,4089 Washington Ave,City 165,NC,35893,Acute Care Hospitals,Voluntary non-profit - Private
+000388,St. Regional Hospital,2303 Elm St,City 158,NC,14139,Acute Care Hospitals,Government - Local
+000389,Mount Medical Center,6542 Maple Dr,City 47,TN,23914,Acute Care Hospitals,Voluntary non-profit - Church
+000390,County Medical Hospital,8012 Maple Dr,City 80,CA,44016,Acute Care Hospitals,Proprietary
+000391,St. Medical Hospital,731 Elm St,City 73,AZ,50166,Acute Care Hospitals,Voluntary non-profit - Private
+000392,Good Samaritan Medical Hospital,573 Maple Dr,City 100,LA,80683,Children's Hospitals,Voluntary non-profit - Church
+000393,General Hospital,1900 Elm St,City 35,FL,71509,Acute Care - Department of Defense,Voluntary non-profit - Other
+000394,Methodist Healthcare System,4145 Elm St,City 88,OH,80692,Acute Care Hospitals,Voluntary non-profit - Private
+000395,Mount Hospital,3353 Elm St,City 161,GA,81850,Acute Care Hospitals,Voluntary non-profit - Church
+000396,County Medical Center,1393 Maple Dr,City 68,PA,72504,Acute Care Hospitals,Voluntary non-profit - Church
+000397,County Hospital,9283 Washington Ave,City 149,MN,23456,Acute Care - Department of Defense,Voluntary non-profit - Private
+000398,Good Samaritan Regional Hospital,5203 Park Blvd,City 107,NY,36636,Acute Care Hospitals,Voluntary non-profit - Church
+000399,Mount Healthcare System,7546 Washington Ave,City 51,NC,84174,Acute Care Hospitals,Voluntary non-profit - Private
+000400,Good Samaritan Regional Hospital,2471 Washington Ave,City 164,CT,72727,Acute Care Hospitals,Voluntary non-profit - Church
+000401,Memorial Medical Hospital,4784 Oak Ave,City 18,IN,73399,Acute Care Hospitals,Voluntary non-profit - Other
+000402,Sacred Heart Medical Hospital,6888 Main St,City 55,IN,20506,Children's Hospitals,Proprietary
+000403,Good Samaritan Regional Hospital,6087 Maple Dr,City 121,PA,58027,Critical Access Hospitals,Voluntary non-profit - Private
+000404,Methodist Medical Center,1911 Elm St,City 173,NJ,86650,Acute Care Hospitals,Voluntary non-profit - Private
+000405,University Medical Hospital,3280 Oak Ave,City 126,TN,61362,Acute Care Hospitals,Voluntary non-profit - Private
+000406,St. Healthcare System,6401 Oak Ave,City 36,NJ,81912,Children's Hospitals,Proprietary
+000407,Memorial Medical Hospital,4889 Maple Dr,City 82,KY,51342,Acute Care - Department of Defense,Government - Local
+000408,Regional Hospital,6238 Main St,City 81,IN,66045,Critical Access Hospitals,Voluntary non-profit - Private
+000409,County Regional Hospital,2252 Washington Ave,City 87,WA,33457,Acute Care Hospitals,Voluntary non-profit - Church
+000410,Presbyterian Hospital,8965 Park Blvd,City 53,GA,93328,Acute Care Hospitals,Voluntary non-profit - Private
+000411,County Hospital,6892 Elm St,City 44,WA,84410,Acute Care Hospitals,Voluntary non-profit - Private
+000412,Regional Healthcare System,2082 Oak Ave,City 175,MI,69217,Acute Care Hospitals,Voluntary non-profit - Church
+000413,Presbyterian Regional Hospital,383 Washington Ave,City 82,AZ,35349,Acute Care Hospitals,Proprietary
+000414,Sacred Heart Medical Hospital,1967 Park Blvd,City 67,PA,71348,Acute Care Hospitals,Government - Local
+000415,Good Samaritan Regional Hospital,8033 Park Blvd,City 169,AL,33771,Acute Care Hospitals,Voluntary non-profit - Church
+000416,University Medical Hospital,6173 Oak Ave,City 84,MN,47449,Acute Care Hospitals,Voluntary non-profit - Church
+000417,County Regional Hospital,1011 Maple Dr,City 187,CO,35064,Acute Care Hospitals,Voluntary non-profit - Private
+000418,Sacred Heart Medical Center,5973 Washington Ave,City 52,UT,56974,Acute Care Hospitals,Voluntary non-profit - Private
+000419,Mount Healthcare System,8240 Main St,City 191,OR,58643,Acute Care Hospitals,Voluntary non-profit - Church
+000420,Regional Healthcare System,226 Park Blvd,City 58,CO,89195,Acute Care Hospitals,Voluntary non-profit - Church
+000421,Sacred Heart Hospital,3250 Oak Ave,City 77,TN,68920,Acute Care Hospitals,Voluntary non-profit - Private
+000422,Community Hospital,6247 Washington Ave,City 1,AZ,86430,Acute Care Hospitals,Voluntary non-profit - Other
+000423,Mercy Hospital,408 Oak Ave,City 160,VA,12605,Acute Care Hospitals,Proprietary
+000424,Regional Regional Hospital,853 Main St,City 193,NC,62234,Acute Care Hospitals,Voluntary non-profit - Private
+000425,General Medical Hospital,7906 Washington Ave,City 90,TN,92353,Acute Care Hospitals,Government - Local
+000426,Good Samaritan Regional Hospital,5041 Maple Dr,City 39,TX,67435,Acute Care Hospitals,Proprietary
+000427,St. Medical Hospital,2217 Elm St,City 164,WA,59211,Acute Care Hospitals,Proprietary
+000428,Sacred Heart Regional Hospital,5146 Oak Ave,City 19,WI,82039,Critical Access Hospitals,Voluntary non-profit - Church
+000429,Good Samaritan Medical Center,3649 Park Blvd,City 186,WA,78302,Children's Hospitals,Voluntary non-profit - Private
+000430,St. Medical Center,9850 Elm St,City 155,OR,43173,Acute Care Hospitals,Voluntary non-profit - Private
+000431,Presbyterian Healthcare System,8433 Washington Ave,City 150,MD,93453,Acute Care Hospitals,Proprietary
+000432,Regional Healthcare System,9119 Oak Ave,City 188,WI,55434,Acute Care Hospitals,Proprietary
+000433,St. Medical Hospital,1181 Washington Ave,City 108,OR,17270,Children's Hospitals,Voluntary non-profit - Private
+000434,Mercy Hospital,3592 Main St,City 95,OK,65921,Children's Hospitals,Voluntary non-profit - Other
+000435,Sacred Heart Medical Center,2795 Washington Ave,City 169,MN,75360,Acute Care Hospitals,Voluntary non-profit - Private
+000436,Memorial Medical Hospital,1749 Oak Ave,City 109,PA,98949,Acute Care Hospitals,Voluntary non-profit - Other
+000437,County Healthcare System,8934 Oak Ave,City 184,OK,10183,Critical Access Hospitals,Voluntary non-profit - Private
+000438,Mercy Regional Hospital,9475 Park Blvd,City 174,VA,92245,Acute Care Hospitals,Voluntary non-profit - Private
+000439,General Healthcare System,6944 Park Blvd,City 156,OR,69366,Acute Care Hospitals,Government - Federal
+000440,Regional Regional Hospital,3567 Washington Ave,City 173,NY,81339,Acute Care Hospitals,Voluntary non-profit - Other
+000441,Methodist Healthcare System,4668 Main St,City 78,CT,34314,Acute Care Hospitals,Voluntary non-profit - Church
+000442,Mercy Regional Hospital,4464 Elm St,City 103,CA,63526,Critical Access Hospitals,Voluntary non-profit - Private
+000443,General Regional Hospital,6760 Main St,City 159,CT,23785,Critical Access Hospitals,Voluntary non-profit - Church
+000444,Good Samaritan Medical Center,4630 Maple Dr,City 103,CO,10750,Acute Care Hospitals,Voluntary non-profit - Private
+000445,Memorial Hospital,9865 Oak Ave,City 7,KY,35694,Acute Care Hospitals,Voluntary non-profit - Church
+000446,Mount Medical Hospital,1476 Elm St,City 185,IN,73252,Acute Care Hospitals,Proprietary
+000447,University Hospital,6447 Maple Dr,City 76,KY,57904,Acute Care Hospitals,Voluntary non-profit - Private
+000448,Memorial Medical Center,5618 Maple Dr,City 22,FL,40346,Acute Care Hospitals,Proprietary
+000449,Sacred Heart Medical Hospital,9136 Elm St,City 66,AL,50395,Acute Care Hospitals,Voluntary non-profit - Private
+000450,Sacred Heart Medical Hospital,4289 Main St,City 165,MO,29927,Acute Care Hospitals,Voluntary non-profit - Church
+000451,Memorial Healthcare System,1377 Elm St,City 11,NY,59025,Acute Care Hospitals,Government - Federal
+000452,Sacred Heart Hospital,4102 Washington Ave,City 45,PA,64054,Critical Access Hospitals,Proprietary
+000453,Mercy Medical Center,3881 Maple Dr,City 4,TN,18027,Critical Access Hospitals,Voluntary non-profit - Private
+000454,County Medical Center,6348 Elm St,City 29,LA,19594,Acute Care Hospitals,Voluntary non-profit - Private
+000455,Mount Hospital,8098 Elm St,City 108,NC,31429,Acute Care Hospitals,Voluntary non-profit - Private
+000456,Good Samaritan Healthcare System,486 Maple Dr,City 86,MD,30486,Acute Care Hospitals,Voluntary non-profit - Church
+000457,St. Healthcare System,9998 Oak Ave,City 81,NC,67517,Children's Hospitals,Voluntary non-profit - Private
+000458,Community Hospital,5359 Oak Ave,City 106,TX,42657,Acute Care Hospitals,Proprietary
+000459,Memorial Regional Hospital,9860 Main St,City 183,TX,24322,Children's Hospitals,Voluntary non-profit - Other
+000460,General Medical Center,9265 Maple Dr,City 16,WI,89056,Acute Care Hospitals,Voluntary non-profit - Other
+000461,General Healthcare System,2007 Park Blvd,City 40,GA,45556,Acute Care Hospitals,Government - Local
+000462,Regional Healthcare System,5072 Washington Ave,City 12,VA,73763,Children's Hospitals,Government - State
+000463,Methodist Hospital,2390 Oak Ave,City 6,MI,32724,Acute Care Hospitals,Government - State
+000464,Memorial Regional Hospital,9710 Maple Dr,City 6,NY,21758,Acute Care Hospitals,Proprietary
+000465,Mercy Medical Hospital,6804 Washington Ave,City 146,FL,76840,Acute Care Hospitals,Voluntary non-profit - Church
+000466,Sacred Heart Regional Hospital,9426 Oak Ave,City 33,MN,78560,Acute Care Hospitals,Government - State
+000467,Community Regional Hospital,8455 Oak Ave,City 13,GA,71297,Acute Care Hospitals,Proprietary
+000468,University Healthcare System,5540 Maple Dr,City 72,AZ,39488,Acute Care Hospitals,Government - State
+000469,Good Samaritan Medical Center,7413 Washington Ave,City 97,WI,45129,Acute Care Hospitals,Proprietary
+000470,Presbyterian Healthcare System,608 Oak Ave,City 26,TN,56279,Acute Care Hospitals,Voluntary non-profit - Private
+000471,Good Samaritan Hospital,4389 Elm St,City 81,OK,65343,Acute Care Hospitals,Voluntary non-profit - Private
+000472,University Medical Hospital,3133 Main St,City 129,LA,85012,Acute Care - Department of Defense,Government - Local
+000473,Mercy Hospital,1370 Washington Ave,City 160,TX,98848,Acute Care Hospitals,Voluntary non-profit - Church
+000474,University Regional Hospital,5150 Park Blvd,City 97,OR,15248,Acute Care Hospitals,Voluntary non-profit - Private
+000475,Regional Regional Hospital,6985 Main St,City 180,SC,62634,Acute Care - Department of Defense,Proprietary
+000476,Sacred Heart Hospital,5669 Maple Dr,City 198,MA,12137,Acute Care Hospitals,Voluntary non-profit - Church
+000477,Mercy Hospital,686 Washington Ave,City 44,NY,60642,Acute Care Hospitals,Proprietary
+000478,Mount Hospital,7977 Main St,City 67,MA,51668,Acute Care Hospitals,Voluntary non-profit - Private
+000479,Sacred Heart Medical Center,7916 Park Blvd,City 142,MO,89001,Acute Care Hospitals,Voluntary non-profit - Other
+000480,Presbyterian Medical Hospital,4703 Washington Ave,City 133,MA,63633,Acute Care Hospitals,Proprietary
+000481,St. Medical Hospital,4830 Washington Ave,City 34,LA,98523,Acute Care Hospitals,Voluntary non-profit - Other
+000482,Regional Hospital,4951 Elm St,City 146,AL,96310,Critical Access Hospitals,Voluntary non-profit - Other
+000483,University Regional Hospital,354 Oak Ave,City 109,GA,43398,Acute Care Hospitals,Government - Federal
+000484,Methodist Medical Center,6842 Elm St,City 11,PA,92395,Acute Care Hospitals,Proprietary
+000485,County Medical Center,7517 Oak Ave,City 11,IN,96468,Acute Care Hospitals,Voluntary non-profit - Church
+000486,Good Samaritan Medical Center,6787 Main St,City 193,VA,74020,Acute Care Hospitals,Voluntary non-profit - Private
+000487,Methodist Regional Hospital,3997 Main St,City 73,CA,34368,Critical Access Hospitals,Proprietary
+000488,Regional Medical Hospital,8417 Maple Dr,City 68,KY,82499,Acute Care Hospitals,Voluntary non-profit - Other
+000489,St. Healthcare System,5903 Oak Ave,City 57,OH,76315,Acute Care Hospitals,Voluntary non-profit - Private
+000490,Mercy Medical Center,2647 Washington Ave,City 90,OK,91966,Acute Care Hospitals,Voluntary non-profit - Private
+000491,Methodist Healthcare System,5671 Park Blvd,City 34,IL,26265,Acute Care Hospitals,Proprietary
+000492,Good Samaritan Medical Hospital,5210 Main St,City 88,WI,98398,Acute Care Hospitals,Government - State
+000493,Good Samaritan Regional Hospital,4527 Main St,City 11,AL,83600,Acute Care Hospitals,Government - Federal
+000494,Good Samaritan Healthcare System,3279 Washington Ave,City 32,UT,76096,Critical Access Hospitals,Government - Local
+000495,Mercy Medical Hospital,2624 Main St,City 61,SC,46139,Acute Care Hospitals,Proprietary
+000496,Methodist Healthcare System,7493 Main St,City 145,OR,72143,Acute Care Hospitals,Voluntary non-profit - Church
+000497,St. Regional Hospital,1609 Oak Ave,City 85,AZ,80670,Acute Care - Department of Defense,Government - Federal
+000498,Community Regional Hospital,2342 Elm St,City 72,OK,14221,Critical Access Hospitals,Voluntary non-profit - Private
+000499,Memorial Regional Hospital,4221 Elm St,City 192,TN,66193,Critical Access Hospitals,Proprietary
+000500,Regional Healthcare System,2038 Park Blvd,City 111,CO,76400,Acute Care Hospitals,Voluntary non-profit - Private
