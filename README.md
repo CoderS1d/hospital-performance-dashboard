@@ -10,6 +10,8 @@
 
 Explore 500 US hospitals with interactive visualizations, clustering analysis, and performance comparisons.
 
+![Hospital Performance Dashboard](image.png)
+
 ## Project Overview
 This project evaluates hospital quality metrics and patient outcomes using CMS Hospital Compare data. The analysis includes data cleaning, clustering, performance scoring, and interactive visualizations.
 
@@ -97,9 +99,3 @@ source("main_analysis.R")
 Results are saved to:
 - `outputs/hospital_ratings.csv` - Complete hospital ratings
 - `outputs/plots/` - All visualization files
-
-## Author
-Healthcare Analytics Project
-
-## Date
-November 2025
